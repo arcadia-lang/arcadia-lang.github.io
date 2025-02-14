@@ -1,0 +1,25 @@
+---
+languages:
+  default: en
+  others:
+    - el
+utils:
+  formatters:
+    .md:
+      - prettier
+      - "--write"
+      - "--list-different"
+    .yml:
+      - prettier
+      - "--write"
+      - "--list-different"
+    .yaml:
+      - prettier
+      - "--write"
+      - "--list-different"
+tags:
+  translation: x-trans
+paths:
+  templates: ./templates/
+  translations: ./translations/{language}/
+  translated: ./{language}/
