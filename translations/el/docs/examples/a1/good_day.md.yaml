@@ -1,0 +1,35 @@
+%YAML 1.2
+---
+be99bbd52660bc375b827bbd3ba46289bb9f52a50ba486e289210835:
+  original: A good day
+  translated: Μία καλή μέρα
+f52d1e0bdba7fa6e991f012315b8687781a709a519b935341d17a31b:
+  original: Passage
+  translated: Κείμενο
+a0b6ef2338099672b89c6f7b40756f2f63be8b9546544d6bd9cc3e05:
+  original: Translation
+  translated: Μετάφραση
+928f8a63e53ac7c5a76afb1df77a09a5613ba5ede5cf535a631f5a48:
+  original: I saw you at the market.
+  translated: Σε είδα στην αγορά.
+9cb661af36855b04498fb548e499c178af1b9b3d7ecd26d47ddae569:
+  original: You bought apples.
+  translated: Αγόρασες μήλα.
+fcb7376d2c7e130cf46abad36d5dc92ee9fa9912f3ecc828dfd9ae83:
+  original: I said "hello", but you did not hear me.
+  translated: Είπα «γειά», αλλά δεν με άκουσες.
+d29b83645981a334a77e9be46a4fee46e29bf4b1427e329d9d5df28c:
+  original: Later, we met at the park.
+  translated: Αργότερα, συναντηθήκαμε στο πάρκο.
+44249a4fb93c76e8e9cc14333009f136bd7383271af5f8b809af6300:
+  original: You smiled, and we talked.
+  translated: Χαμογέλασες και μιλήσαμε.
+d8b205d0a310aa58e6d5d91af4392930a666aa82d55f4bdc69256fbb:
+  original: It was a good day.
+  translated: Ήταν μία καλή μέρα.
+3a300acc8579a5d8f15b7801089e968b8a14316a594b4caf9277a83b:
+  original: Breakdown
+  translated: Ανάλυση
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση

@@ -1,0 +1,77 @@
+%YAML 1.2
+---
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: Κτητικά
+83dfdb4dd96373f490d5477fbc1c1660de392c1ca21966996476629a:
+  original: Arcadia uses the prepositions **"de"** and **"du"** to indicate possession.
+  translated:
+    Η Αρκάδια χρησιμοποιεί τις προθέσεις **"de"** και **"du"** για να δηλώσει
+    την κατοχή.
+7215b7b0a5d9fcbeef569d53ec5776a14fe76851440fa85bcd8a0eaa:
+  original: "**Possessives function as determiners**, appearing **before the noun**."
+  translated:
+    "**Τα κτητικά λειτουργούν ως προσδιοριστές** και εμφανίζονται **πριν
+    από το ουσιαστικό**."
+e831f1f25b44bcbfe4b72ffbb8dd602d25d9652f91c28cae73096d85:
+  original: Possessor-first order
+  translated: Ο κατοχός πρώτα
+f5f19b77fd7767c6a210a58a633574a55f1989e0368a3ecb88f7745b:
+  original: The **possessor always precedes the possessed** in phrase construction.
+  translated: "**Ο κάτοχος προηγείται πάντα του κατεχόμενου** στη σύνταξη φράσεων."
+139471403c5d4962723c345b3240b62b67c9ffe4f8ed58b76ccb2ad9:
+  original: Alienable vs. Inalienable Possession
+  translated: Αλλοτριωτή και Μη Αλλοτριωτή Κατοχή
+a29469876cb7b0db40714f54085f4bbebb393e748da929db4910fc49:
+  original:
+    Marks **inalienable possession**, where the possessor is **an integral
+    part** of the possessed.
+  translated:
+    Δηλώνει **μη αλλοτριωτή κατοχή**, όπου ο κάτοχος είναι **αναπόσπαστο
+    μέρος** του κατεχόμενου.
+e555457bbef3c657df49a49a431ee9b13b3292fc5c62e3f380d864c3:
+  original:
+    Marks **alienable possession**, where the possessor is **not inherently
+    connected** to the possessed.
+  translated:
+    Δηλώνει **αλλοτριωτή κατοχή**, όπου ο κάτοχος **δεν είναι εγγενώς συνδεδεμένος**
+    με το κατεχόμενο.
+93694d686cbd974b59191648c024c5344ae1f460a941877f906976b3:
+  original: No possessive pronouns
+  translated: Δεν υπάρχουν κτητικές αντωνυμίες
+2a4e4c70614c933705a2f4fe42b5c65d5cfb2b0864079d2df13c851b:
+  original: Instead, possession is **expressed with "de" or "du" + pronoun**.
+  translated: Αντίθετα, η κατοχή **εκφράζεται με "de" ή "du" + αντωνυμία**.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+dd34d6d43640d0b3bf19ca4704cb4f63d77b26e4cf45a488ec09a9a2:
+  original: Alienable Possession
+  translated: Αλλοτριωτή Κατοχή
+30c701d4158c3a8252cd6e79352f101dfbad77a6d1b62566974f9882:
+  original: My book is big.
+  translated: Το βιβλίο μου είναι μεγάλο.
+3fee2f9ec6898de05df9626dbc37f4d3ea2c520dad90621491e97b70:
+  original: Explanation
+  translated: Εξήγηση
+abf805e2d24f37b7e943e9e7158e089e8e0dc6c1f352f12fc4a81b69:
+  original: The book **is not inherently a part** of the speaker.
+  translated: Το βιβλίο **δεν είναι εγγενώς μέρος** του ομιλητή.
+b23b8e75139efba1ab5c2e7fe1eeef3856145fdefdc5828e28cf5bd7:
+  original: Inalienable Possession
+  translated: Μη Αλλοτριωτή Κατοχή
+05acbada83a90a65de3e1ef5675ca5b780a62a873c051190528d475e:
+  original: The father of my child is Adam.
+  translated: Ο πατέρας του παιδιού μου είναι ο Αδάμ.
+ec40f4cd8eb69a5782a033c15e8b505a4ebc8c4392ca834075a07e32:
+  original: The child's relationship to the father **is inherent**.
+  translated: Η σχέση του παιδιού με τον πατέρα **είναι εγγενής**.
+f794c6aba0c9199db580ff62baa094d587ed88754a38749da2f9042b:
+  original: Possessive Chaining
+  translated: Αλυσίδα Κτητικών
+c56c7285c31d4b201a6ccabf6d42e264582cc14a4d241ace87fad7b8:
+  original: The book is mine.
+  translated: Το βιβλίο είναι δικό μου.
+788ec1544e296ec45cf2e9e25716b3cc4d47dc0338326f6e30c15a6d:
+  original: Ownership chain follows **possessor-first ordering**.
+  translated: Η αλυσίδα κατοχής ακολουθεί **τον κάτοχο πρώτα**.

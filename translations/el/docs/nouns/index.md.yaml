@@ -1,0 +1,52 @@
+%YAML 1.2
+---
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+42bffb7356003f1af38bbb0b549f0087cc6edfb06ad8bd57d68773d0:
+  original: Nouns form the foundation of any language.
+  translated: ""
+c077bf10f98361d7a550aaa0f7d3d8e0615b7ce8934f403295350217:
+  original: In Arcadia, they are classified based on their characteristics and usage.
+  translated: ""
+22297593f46ee1e61a3f1ee62de677150e31a4ad85ccc369fdbfff3f:
+  original: "One way to categorize nouns is by specificity:"
+  translated: ""
+468c9f03c93d9707fd63af3724abc671ad83bd8fa4ff6374220fe1eb:
+  original: "**Proper nouns** refer to a unique entity"
+  translated: ""
+5857c9777e7ab9507e780b189fa2c8e4612416dd2b58e7191718e236:
+  original: Arcadia, Maria
+  translated: ""
+860b8f0cb7a951df612e075ad8b674b7233d82e36a36d350b2f01365:
+  original: "**Common nouns** describe a general concept"
+  translated: ""
+518519bebdf980b032af9fa1a74a82c99b077916c9b45df733cb5645:
+  original: tree, apple
+  translated: ""
+5bee67ced1fe30f70da5fa20012a091c0cb8fb6b614a9245d57df27a:
+  original:
+    Another categorization is by [gender][gender], though Arcadia does **not**
+    distinguish between masculine, feminine, or neuter nouns.
+  translated: ""
+97a82c207415dbf310808e5d9ef7b8d7ec734500f9f856d282f50d7d:
+  original:
+    Instead, it uses **five grammatical genders**, which serve only as structural
+    classifications without semantic meaning.
+  translated: ""
+29b52809cd331e1e26ace79ad7ac73d17779bd6d921177da473e40da:
+  original: A **gender prefix** may be used for clarity, but is generally optional.
+  translated: ""
+29b3286fb702307c03686ae45739e1feec14dec503fa33401bbc4fea:
+  original: Arcadia also distinguishes nouns by [grammatical number][number].
+  translated: ""
+90d7745942f3ec5a60768336aae78a3d3fdb7c58dceca146e377c217:
+  original:
+    The meaning of each number depends on whether the noun is **countable**
+    or **uncountable**.
+  translated: ""
+2c1b200cf655f4870f8977b9384eab8f236aab43ed8eb41060ac9278:
+  original:
+    Finally, nouns follow seven [cases][case], which define their role within
+    a sentence.
+  translated: ""

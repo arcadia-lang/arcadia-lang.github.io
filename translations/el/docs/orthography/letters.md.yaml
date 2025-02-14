@@ -1,0 +1,98 @@
+%YAML 1.2
+---
+262d982b115ce8987a5d3ab7c86d84b70d8d35d6c9efac9bcdc4cdde:
+  original: Letters
+  translated: Γράμματα
+9614f288b820179fe5c3a7f44b8aac2afc771a948edc1d8437d6c4a5:
+  original: Letter
+  translated: Γράμμα
+a95a8a050f423d7148c9a3f6ae639266cb4e313ecc0d1039c79e3b8e:
+  original: IPA
+  translated: ΔΦΑ
+38eafa6904e40ea1ad7716bd23f362007ae53236613063e6b33c5e72:
+  original: English Approximation
+  translated: Ελληνικό Παρόμοιο
+11435cc1878b1fd242d01ec9e35ae581b39396af81d309ca456dfb18:
+  original: h**a**t
+  translated: "**ά**λογο"
+b765ba47b80420fe50c7b9ec9d63f2fe62ad4db92a81bdd45e7c5b09:
+  original: a**b**ack
+  translated: "**μπ**ότα"
+c6c501d9a327e46389282fe5127c349a4eda2fceb50b82e415d291b8:
+  original: "**k**ite"
+  translated: "**κ**ύκλος"
+7dd988b6a7b3d067528e0a44f214b1451d9571436eb8b716fb1bcf3d:
+  original: "**d**og"
+  translated: "**ντ**ιβάνι"
+9948acb5082b0cd1a06b2736a24be87d82eb6bac71fe21cd959ef6aa:
+  original: s**e**t
+  translated: "**έ**λατο"
+a581933bc533176da15af3ee3dab889d22b9ffdaf08b788dbf7e4bed:
+  original: "**f**ish"
+  translated: "**φ**ως"
+58961897c8402cede4a05a1d2cc9bdbd9d51dcecae8922556524b42e:
+  original: "**g**et"
+  translated: "**γκ**ρι"
+00cda39220f4eadc1a9b68089b865be1c240be5a9e6b16402d841e2f:
+  original: "**h**oney"
+  translated: "**χ**ωριό"
+3bc53951d1b5881bc306b5aaf303a0c42f7e67ade2bc18a238b9fa0d:
+  original: sh**i**p
+  translated: "**ί**διος"
+26ae187cf83b2b350931f196fc8af13c886cd77b944e61bdd9ea7f94:
+  original: "**j**am"
+  translated: "**τζ**άμι"
+dc928992a2b47d032be0ed1026f166afdc2279258ee673f47a4491a5:
+  original: "**l**amp"
+  translated: "**λ**εμόνι"
+593c72af186f220c802604069e5c83d51605c385c2954a68ef594ac8:
+  original: "**m**an"
+  translated: "**μ**ήλο"
+46a5ca0530117789cba9122b3e4b9b4707905a0a82b52d0b194f37bd:
+  original: "**n**ot"
+  translated: "**ν**ήμα"
+a5e004cf2e1ff98da571950e73bf6e667f619c1c245834cc7c2bb5d1:
+  original: cr**o**ss
+  translated: "**ό**νομα"
+4836030bec50f24cd678e5a6a91ca0f7fbd9ca919ce61e03fad6d5e9:
+  original: "**p**an"
+  translated: "**π**όρτα"
+4c4c57db6adeffa32eb5e6c45e66cbc245deae9bf53c23d46108fd3e:
+  original: "**r**un"
+  translated: "**ρ**όδι"
+0d24cc7f9a92bda8f4cb3ed201e94b608caf921583d3b3be02c74f69:
+  original: "**s**un"
+  translated: "**σ**πίτι"
+06db3e88b0d0c1f44f8b110443603e7d9797d040de52fa6b0f33ba0c:
+  original: "**t**ap"
+  translated: "**τ**ραπέζι"
+762ed8a1a4c5c5ed9c40ac0162318a87fe8da3aaa5fbad76741eaeb0:
+  original: bl**u**e
+  translated: "**ού**τε"
+37d964e44ec73e611c9ee5f53c06f1eaf9286ea9c9970967c67577be:
+  original: "**v**an"
+  translated: "**β**άζο"
+962d64b14a14a45ce7c7d4ad73fdd869e88c05f87577724ccb4f131e:
+  original: ta**x**
+  translated: "**ξ**ερό"
+755db5c14a477857d7a97572591f1ae5503fd5cff9e44558d1386535:
+  original: "**y**es"
+  translated: "**γ**ερό"
+f389d0d46539a1e04797223ed11bc02821f3f2350b55027bc1a94588:
+  original: "**z**oo"
+  translated: "**ζ**άρι"
+58c4e5c0a6360c1c55e89d30f3e1f1c413208a207adb31dcfb11a5c1:
+  original: Digraphs
+  translated: Δίψηφα
+5dfe47aeecddbe2e2fc25c4407c0861d7b754fac56408d69055c261e:
+  original: Digraph
+  translated: Δίψηφο
+8979e88d2c7918e7178177861cd4e5f8c094a257703c45da3ed94def:
+  original: "**ch**air"
+  translated: "**τσ**άι"
+1c30913639ae7aea05238c931953ffa50b7b144f8eda18621dade99e:
+  original: "**th**ere"
+  translated: "**δ**έντρο"
+88fc8b7db4e96654038b05c5d7620b7c6500157175ce2861a7d2d49c:
+  original: "**th**anks"
+  translated: "**θ**άλασσα"

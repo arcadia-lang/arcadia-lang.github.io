@@ -1,0 +1,40 @@
+%YAML 1.2
+---
+f71a6b4aeb5530b69c93777602d07deafe97ff76e8a1d7b1ce98ab91:
+  original: Pronouns
+  translated: Αντωνυμίες
+ae8e9506d38c1e9a3b2eaeedeba41ed4375e9b5070a6df959d54fc7b:
+  original: "Arcadia categorizes pronouns into four distinct types:"
+  translated: "Η Αρκάδια έχει τέσσερις τύπους αντωνυμιών:"
+7c8489dfd11d0c6f3eb00cc49dcc7d9ba4da8bfc0459219b0314404b:
+  original: Personal pronouns
+  translated: Προσωπικές αντωνυμίες
+9ebe5d4072cb63cb41cd4fb7a815fbb86241a042cadcde4a0ed157cd:
+  original: Used for referring to individuals in speech and writing.
+  translated:
+    Χρησιμοποιούνται για να αναφερθούν σε άτομα στην προφορικό ή τον γραπτό
+    λόγο.
+2e667332bff45281041a496cd6137ab5d24be775216386b529842218:
+  original: Impersonal pronouns
+  translated: Απρόσωπες αντωνυμίες
+089641f291e1f8809c9fed70c2ec5768f2b27af3b29dde374ac4acca:
+  original: Express general or indefinite subjects.
+  translated: Μιλάνε για γενικά ή αόριστα πρόσωπα.
+0f934761d1ae01e9b9b1bce41f25cdda764b327157aefb39948b03e8:
+  original: Demonstrative pronouns
+  translated: Δεικτικές αντωνυμίες
+883909c2b5bdef28180b50faa58673469dbf1cca4031bb07f31b7805:
+  original: Indicate specific objects or concepts in relation to space or discourse.
+  translated:
+    Δείχνουν συγκεκριμένα αντικείμενα ή ιδέες σε σχέση με τον χώρο ή το
+    θέμα.
+6956e2c79d6e15cbd904d1b3624cf0335e80d9bfda75ad6d8d6d24da:
+  original: Interrogative pronouns
+  translated: Ερωτηματικές αντωνυμίες
+708cb3e4a9a97a278a8ea567f5fa5d3403402a2dd2c6aacc286a504d:
+  original:
+    Used to ask questions about **identity, quantity, selection, or characteristics**
+    of a noun.
+  translated:
+    Χρησιμοποιούνται για να κάνουν ερωτήσεις σχετικά με **την ταυτότητα,
+    την ποσότητα, την επιλογή ή τα χαρακτηριστικά** ενός ουσιαστικού.
