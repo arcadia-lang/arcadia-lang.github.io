@@ -1,0 +1,12 @@
+[project]
+name = "zerita"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "mike~=2.1",
+    "mkdocs~=1.6",
+    "mkdocs-material~=9.5",
+    "mkdocs-material-extensions~=1.3",
+    "pygments~=2.19",
+    "pymdown-extensions~=10.14",
+]
