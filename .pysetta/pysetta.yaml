@@ -1,0 +1,20 @@
+languages:
+  original: en
+  translations:
+    el: 🚧 Η σελίδα βρίσκεται υπό κατασκευή
+paths:
+  translations: translations
+utils:
+  formatters:
+    .md:
+      - prettier
+      - "--write"
+      - "--list-different"
+    .yml:
+      - prettier
+      - "--write"
+      - "--list-different"
+    .yaml:
+      - prettier
+      - "--write"
+      - "--list-different"

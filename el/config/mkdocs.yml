@@ -1,0 +1,75 @@
+site_name: Αρκάδια
+docs_dir: ../docs
+site_dir: ../site
+
+repo_name: arcadia-lang
+repo_url: https://github.com/arcadia-lang/arcadia-lang.github.io
+
+nav:
+  - Αρχική: index.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.snippets
+
+theme:
+  name: material
+  custom_dir: "../../overrides/"
+  language: el
+  logo: assets/images/logo.jpg
+  favicon: assets/images/favicon.ico
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Αλλαγή σε σκοτεινή λειτουργία
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Αλλαγή σε φωτεινή λειτουργία
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - search
+    - search.suggest
+    - search.share
+
+plugins:
+  - search:
+      lang: el
+
+extra:
+  alternate:
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇬🇷 Ελληνικά
+      link: /el/
+      lang: el
