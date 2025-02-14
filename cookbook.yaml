@@ -1,0 +1,47 @@
+$globals:
+  version: "8.1"
+
+format:
+  phony: true
+  commands:
+    - prettier --write --list-different .
+
+build-(?P<language>.+):
+  regex: true
+  phony: true
+  requires:
+    - ${language}/config/mkdocs.yml
+  commands:
+    - mike deploy --ignore-remote-status --config-file=${language}/config/mkdocs.yml ${language}
+
+build:
+  phony: true
+  requires:
+    - install
+    - build-en
+    - build-el
+  commands:
+    - mike set-default --ignore-remote-status --config-file=en/config/mkdocs.yml en
+
+serve-(?P<language>.+):
+  regex: true
+  phony: true
+  requires:
+    - install
+  commands:
+    - mkdocs serve --config-file=${language}/config/mkdocs.yml
+
+install:
+  phony: true
+  keep_ts: true
+  requires:
+    - uv.lock
+  commands:
+    - uv sync --frozen
+
+uv.lock:
+  update: true
+  requires:
+    - pyproject.toml
+  commands:
+    - uv lock

@@ -1,0 +1,146 @@
+site_name: Arcadia
+docs_dir: ../docs
+site_dir: ../site
+
+repo_name: arcadia-lang
+repo_url: https://github.com/arcadia-lang/arcadia-lang.github.io
+
+nav:
+  - Home: index.md
+  - Orthography & Phonology:
+      - orthography/index.md
+      - Letters: orthography/letters.md
+      - Punctuation: orthography/punctuation.md
+  - Vocabulary:
+      - vocabulary/index.md
+      - Adjectives: vocabulary/adjectives.md
+      - Nouns: vocabulary/nouns.md
+      - Verbs: vocabulary/verbs.md
+      - Colours: vocabulary/colours.md
+      - Questions: vocabulary/questions.md
+      - Connections: vocabulary/connections.md
+  - Generation:
+      - generation/index.md
+      - Verbs: generation/verbs.md
+      - Nouns: generation/nouns.md
+  - Verbs:
+      - verbs/index.md
+      - Person: verbs/person.md
+      - Tense: verbs/tense.md
+      - Aspect: verbs/aspect.md
+      - Mood: verbs/mood.md
+      - Declension tables: verbs/declension.md
+  - Determiners:
+      - determiners/index.md
+      - Articles: determiners/articles.md
+      - Demonstratives: determiners/demonstratives.md
+      - Interrogatives: determiners/interrogatives.md
+      - Possessives: determiners/possessives.md
+      - Quantifiers: determiners/quantifiers.md
+      - Numerals: determiners/numerals.md
+  - Nouns:
+      - nouns/index.md
+      - Gender: nouns/gender.md
+      - Case: nouns/case.md
+      - Number: nouns/number.md
+      - Class: nouns/class.md
+      - Declension tables: nouns/declension.md
+  - Pronouns:
+      - pronouns/index.md
+      - Personal pronouns: pronouns/personal.md
+      - Impersonal pronouns: pronouns/impersonal.md
+  - Adjectives:
+      - adjectives/index.md
+      - Degrees: adjectives/degrees.md
+      - Intensification: adjectives/intensification.md
+  - Adverbs:
+      - adverbs/index.md
+      - Derived adverbs: adverbs/derived.md
+  - Connections:
+      - connections/index.md
+      - Prepositions: connections/prepositions.md
+      - Replies: connections/replies.md
+      - Negation: connections/negation.md
+  - Conditionals:
+      - conditionals/index.md
+      - Antecedent: conditionals/antecedent.md
+      - Consequent: conditionals/consequent.md
+  - Examples:
+      - examples/index.md
+      - A1 level examples:
+          - examples/a1/index.md
+          - A walk by the river: examples/a1/river.md
+          - A good day: examples/a1/good_day.md
+          - My friend Maria: examples/a1/maria.md
+      - A2 level examples:
+          - examples/a2/index.md
+          - A typical day: examples/a2/typical_day.md
+      - B1 level examples:
+          - examples/b1/index.md
+          - Mika and the Moon: examples/b1/moon_travel.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.snippets
+
+theme:
+  name: material
+  custom_dir: "../../overrides/"
+  language: en
+  logo: assets/images/logo.jpg
+  favicon: assets/images/favicon.ico
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - search
+    - search.suggest
+    - search.share
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  alternate:
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇬🇷 Ελληνικά
+      link: /el/
+      lang: el

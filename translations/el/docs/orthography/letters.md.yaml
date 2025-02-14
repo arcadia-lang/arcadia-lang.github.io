@@ -1,0 +1,243 @@
+%YAML 1.2
+---
+d4f74a7695830d206b2465294a31e30ae24052ddb42d523c19901fb9:
+  original: "# Letters"
+  translated: "# Γράμματα"
+04103800377c90bd0521b545cc678839e87dbce06b705e55ec1fd4f5:
+  original: "## Vowels"
+  translated: "## Φωνήεντα"
+ff6c0dc0a7e74bde14c9cc7cec76db609812a94fb0189754b97a52ef:
+  original: "Arcadia has **five vowel phonemes**: /i/, /e/, /a/, /o/, and /u/."
+  translated: "Η Αρκάδια έχει **πέντε φωνήεντα**: /i/, /e/, /a/, /o/, και /u/."
+795bd6ac9efaa7ab03ac0a65232313b3bfc29168f50428896a637f1a:
+  original: Each vowel occurs in **both stressed and unstressed syllables**.
+  translated: Κάθε φωνήεν εμφανίζεται σε **τόνισμες και άτονιστες συλλαβές**.
+071615694bd6f2d86428d656933fd6a843ccd63e65cc751a58a93b63:
+  original: "|       | Front | Central | Back |"
+  translated: "|       | Μπροστινά | Κεντρικά | Οπίσθια |"
+d544256b84573d832870f34d2f86c871cdde4e5b0dc875b74751a05e:
+  original: "| ----- | ----- | ------- | ---- |"
+  translated: "| ----- | ----- | ------- | ---- |"
+c2e9e3f413ed12519bde7786881f2df234aa367742aecfbd8cf0715c:
+  original: "| Close | i     |         | u    |"
+  translated: "| Κλειστά | i     |         | u    |"
+afec98117226a320c0ebe3c8a37918b5b78f21c3f9c58800993dfa1e:
+  original: "| Mid   | e     |         | o    |"
+  translated: "| Μέσα | e     |         | o    |"
+1ab26c014d395c16f197e07bb2ae1698c19e8bd01fce6d173d97c0b5:
+  original: "| Open  |       | a       |      |"
+  translated: "| Ανοιχτά |       | a       |      |"
+f29a31a4f0c516f8266d16f9fa774d8836115d885e726654ffd4a1f4:
+  original: "The **vowel phonemes** and **graphemes** correspond as follows:"
+  translated: "Τα **φωνήεντα** και **γραφήματα** αντιστοιχούν ως εξής:"
+fbdc2cf42f0f1ca991b553594686d355ce4e200b286f461c3280bb87:
+  original: "| Letter | IPA | English Approximation |"
+  translated: "| Γράμμα | ΔΦΑ | Ελληνική Προσέγγιση |"
+33132954b1ef12968ae9e3acf00ffa9ef64a57a590ecb44957331f84:
+  original: "| ------ | --- | --------------------- |"
+  translated: "| ------ | --- | --------------------- |"
+b4376bc1696cf2c5ed2a36a5f75307e004ca433b71a51b3910e7d1a7:
+  original: "| i      | /i/ | sh**i**p              |"
+  translated: "| i      | /i/ | **ι**δέα              |"
+023f3f7a69bf69ce45ea9b94be181033752ffe4f0c941a4f8f9e5103:
+  original: "| e      | /e/ | s**e**t               |"
+  translated: "| e      | /e/ | **ε**πιλογή           |"
+7f94f1353cdb3f9e7f9396e394929dbd3f23fd1ae84a562fc4c3c3de:
+  original: "| a      | /a/ | h**a**t               |"
+  translated: "| a      | /a/ | **α**νοιχτό            |"
+6783772e12427ada9d53d1d066e030dbcdfe4e0238e4f71ee405fbaf:
+  original: "| o      | /o/ | cr**o**ss             |"
+  translated: "| o      | /o/ | **ο**ριζόντιο         |"
+9ad9e01d657c46cc6d667218b4d08f3bfc7dd43e7c8f103d89b496ee:
+  original: "| u      | /u/ | bl**u**e              |"
+  translated: "| u      | /u/ | **ου**ρά              |"
+5565c53568ab00864ddc38ac6ef591f9429dd35fbf5334f04861d459:
+  original: "## Consonants"
+  translated: "## Σύμφωνα"
+179f5e67c8159e31231e39096adeb563bf58097a0e015b9d6665f85f:
+  original: Arcadia has a **more complex consonant inventory** than its vowel
+    inventory.
+  translated: Η Αρκάδια έχει **πιο σύνθετο απόθεμα συμφώνων** από ότι απόθεμα
+    φωνήεντων.
+805d4a4b03acc17df7fc4ec8904add2fd9135f8e9b5a4e47dc9a0c6a:
+  original: "**All Arcadian consonants are pulmonic.**"
+  translated: Όλα τα σύμφωνα της Αρκάδια είναι **πνευμονικά**.
+54be2f16ee85e20ec4a700f3d1be80a43fdd69ef2572d62ffa74976c:
+  original:
+    "|                        | Bilabial | Labiodental | Dental | Alveolar
+    | Post-Alveolar | Palatal | Velar |"
+  translated:
+    "|                        | Διχειλικά | Χειλοδοντικά | Οδοντικά | Φατνιακά
+    | Μεταφατνιακά | Ουρανικά | Υπερωικά |"
+484446f60f81c08fd6f786f06f7190ac6b470524926f2240b3d4afc7:
+  original:
+    "| ---------------------- | -------- | ----------- | ------ | --------
+    | ------------- | ------- | ----- |"
+  translated:
+    "| ---------------------- | -------- | ----------- | ------ | --------
+    | ------------- | ------- | ----- |"
+39d6c62076386d643e42c69b352f212b5d47b970e023ecd7bff426b0:
+  original:
+    "| Nasal                  | m        |             |        | n        |               |
+    ɲ       |       |"
+  translated:
+    "| Ρινικά                  | m        |             |        | n        |               |
+    ɲ       |       |"
+92e399c0cef73a128527118f0da07014ee3055323fd8426b93041b6d:
+  original:
+    "| Plosive                | p b      |             | t d    |          |               |         |
+    k g   |"
+  translated:
+    "| Έκκροτα               | p b      |             | t d    |          |               |         |
+    k g   |"
+7d1e971940c02aceec8c30329de8dc15f50980d7d08921adf195d810:
+  original:
+    "| Sibilant Fricative     |          |             |        | s z      |
+    ʃ ʒ           |         |       |"
+  translated:
+    "| Τριβόμενα (συριστικά)             |          |             |        | s z      |
+    ʃ ʒ           |         |       |"
+e9afbe8a0d22bf99b0c95dd64fdc200f65892883b6a6e7ed400e0f48:
+  original:
+    "| Non-sibilant Fricative |          | f v         | θ ð    |          |               |         |
+    x ɣ   |"
+  translated:
+    "| Τριβόμενα              |          | f v         | θ ð    |          |               |         |
+    x ɣ   |"
+a0a6dc534f6d4dc37048b4f24e9f18d00faf212f9e7f0a3c7eb1b62d:
+  original:
+    "| Affricate              |          |             |        |          |
+    t͡ʃ d͡ʒ         |         |       |"
+  translated:
+    "| Προστριβόμενα                |          |             |        |          |
+    t͡ʃ d͡ʒ         |         |       |"
+807aa93b3796158925493bd93dd64636e2bd2ba37e4d61ff8fc65c29:
+  original: "| Tap/Flap               |          |             |        | ɾ        |               |         |       |"
+  translated: "| Παλλόμενα               |          |             |        | ɾ        |               |         |       |"
+b96740e2c8a6c0935ae8ef5bea4fd4ccf50c199b5e24cfe7e3c869db:
+  original:
+    "| Approximant            |          |             |        |          |               |
+    j       |       |"
+  translated:
+    "| Προσεγγιστικά         |          |             |        |          |               |
+    j       |       |"
+b9a451bec414070efec38fa1ead7ba0c389bc891b25a44e025658e90:
+  original:
+    "| Lateral Approximant    |          |             |        | l        |               |
+    ʎ       |       |"
+  translated:
+    "| Πλάγια Προσεγγιστικά  |          |             |        | l        |               |
+    ʎ       |       |"
+6d9e9c766a5471e629c839ec0fc08cdeec36c6e521398ebf53a8c76c:
+  original:
+    "The **letters** of the Arcadian alphabet and their **corresponding IPA
+    symbols** are as follows:"
+  translated:
+    "| Τα **γράμματα** στην Αρκάδια και τα **αντίστοιχα IPA σύμβολα** είναι
+    τα εξής:"
+503291456f1fee0fcf483daeee97df5751bb485e6ddc655d2f5845af:
+  original: "| Letter | IPA  | English Approximation |"
+  translated: "| Γράμμα | IPA  | Ελληνική Προσέγγιση    |"
+866d9759c8c394ef8d309b9a1e2bfa5cc89a173430995020898bfe1a:
+  original: "| ------ | ---- | --------------------- |"
+  translated: "| ------ | ---- | --------------------- |"
+c9d265111050b3197b924d3f4db78d547abb2a6ff5d285e96e3d424f:
+  original: "| b      | /b/  | a**b**ack             |"
+  translated: "| b      | /b/  | **μπ**αούλο             |"
+b25499abbb0bbd8b62d2a3ce747900ea615efef65af7154aeadfa609:
+  original: "| c      | /k/  | **k**ite              |"
+  translated: "| c      | /k/  | **κ**ήπος             |"
+8c7dcff2335dcbbc8abf2b729307577689cbd62f051bb880ad9096a7:
+  original: "| d      | /d/  | **d**og               |"
+  translated: "| d      | /d/  | **ντ**άμα              |"
+ca7a6b70d79c8334ebec91b59af49b675cc09ff041e1733f24de3113:
+  original: "| f      | /f/  | **f**ish              |"
+  translated: "| f      | /f/  | **φ**ίδι              |"
+bb8cc9cfdcd04c02ed08f613fc7e773b691096e9c59261025b2f6719:
+  original: "| g      | /g/  | **g**et               |"
+  translated: "| g      | /g/  | **γκ**ρεμός              |"
+47236a04468b21ded3582d7eb4e4a76a31a138347ecc84beb7ab3899:
+  original: "| j      | /j/  | **y**es               |"
+  translated: "| j      | /j/  | **γι**ατρός               |"
+fdc83197c8113089830c0c0c51ee3002c6f020796957f7ecb639f3b8:
+  original: "| l      | /l/  | **l**amp              |"
+  translated: "| l      | /l/  | **λ**άμπα              |"
+69739b8f020da31a5db233c403ffbec2785ff22e191691540c31bfa7:
+  original: "| m      | /m/  | **m**an               |"
+  translated: "| m      | /m/  | **μ**άτι              |"
+8c6db2d5e3b21192fee3bbad50a2f376154376d4e1e61ef90a79dc7a:
+  original: "| n      | /n/  | **n**ot               |"
+  translated: "| n      | /n/  | **ν**ερό               |"
+1b1c28faf4ba3db18d0797f56a9a50e0e0b6fdee36e9f5f774767140:
+  original: "| p      | /p/  | **p**un               |"
+  translated: "| p      | /p/  | **π**αιχνίδι          |"
+275c4fa4d0f7f65a17ddd774b5bf45e3bd299cdafdad436fa996de9f:
+  original: "| r      | /ɾ/  | Scottish ve**r**y     |"
+  translated: "| r      | /ɾ/  | **ρ**όδα              |"
+c3f30aac5a7a0e865741d18699bfb0915ff2caddbd519d9a9ce6a4aa:
+  original: "| s      | /s/  | **s**un               |"
+  translated: "| s      | /s/  | **σ**υκώτι              |"
+6d4410436b70cae68270f2f51d91a3cf4f4b7c9a4add914f7f8639c0:
+  original: "| t      | /t/  | **t**ap               |"
+  translated: "| t      | /t/  | **τ**άπα              |"
+3d1d75bce3de41752de4e9df9b1df66c4752e1082b22f515425e70f5:
+  original: "| v      | /v/  | **v**an               |"
+  translated: "| v      | /v/  | **β**άρος               |"
+b1bce1063a84fd4846845c2a589608891b2db63c8e7b8fd6231c62f4:
+  original: "| z      | /z/  | **z**oo               |"
+  translated: "| z      | /z/  | **ζ**ωή               |"
+081e8a596e2cdf65a126c703368553eb4650e5de9f9493b99ffacaf2:
+  original: "| ch     | /x/  | Scottish lo**ch**     |"
+  translated: "| ch     | /x/  | **χ**αλί     |"
+f13a28e8e1a6c586604d09d64359fafa7d6ce5f4b13b644cbe3534ef:
+  original: "| dh     | /ð/  | **th**is              |"
+  translated: "| dh     | /ð/  | **δ**έντρο              |"
+4013b2645929ab24dd25db00b374d029308b5e1581b701dafc30fb21:
+  original: "| gh     | /ɣ/  | Spanish a**g**ua      |"
+  translated: "| gh     | /ɣ/  | **γ**άτα      |"
+cda44c9440bd3cc5e3dc227d3215102fd866130c9134567a1a797110:
+  original: "| sh     | /ʃ/  | **sh**ip              |"
+  translated: "| sh     | /ʃ/  | α**σσ**ιήμια (κυπριακή διάλεκτος)              |"
+d003a927a511b80fb77c26f4627cc150fc87fe90b9855db07107ce07:
+  original: "| th     | /θ/  | **th**ink             |"
+  translated: "| th     | /θ/  | **θ**άλασσα              |"
+48d75a2493a8be042d208fb1dc6e1a453fafe1caa20de28e0cae358b:
+  original: "| zh     | /ʒ/  | mea**s**ure           |"
+  translated: "| zh     | /ʒ/  | γαλά**ζ**ο (κυπριακή διάλεκτος)              |"
+04de3500bbd9cb5d8259fd64926d19fdc5ffb7d139fd2aa4ff04241a:
+  original: "| dx     | /d͡ʒ/ | **j**am               |"
+  translated: "| dx     | /d͡ʒ/ | **τζ**άμι           |"
+4aea5d9263a403e094c05aee690cd9e6d771572a8d1ae2109e0356ac:
+  original: "| tx     | /t͡ʃ/ | **ch**ip              |"
+  translated: "| tx     | /t͡ʃ/ | **τσ**άντα              |"
+75c038eb34da3997f3496eec7274c5377fb555989cbfa243fcc61753:
+  original: "| ly     | /ʎ/  | Italian **gl**i       |"
+  translated: "| ly     | /ʎ/  | **λι**ώνω       |"
+f4fadf42d9ef9243f102e5339d5ee4b93af471b07fd36d59fdacf0e2:
+  original: "| ny     | /ɲ/  | o**ni**on             |"
+  translated: "| ny     | /ɲ/  | **νι**άτα             |"
+ab8ef7002a7148a2bbb56135aed1b6754e281e54c743ea4b3ec20b66:
+  original: "## Gemination"
+  translated: "## Διπλασιασμός"
+9d1a90538a3ac3ac77f2067a43c8188f647d5d98daf13e31e322d8eb:
+  original: "**All consonants and digraphs can be geminated.**"
+  translated: "Όλα τα σύμφωνα **μπορούν να διπλασιαστούν.**"
+57705227aac0149652c5b75ce0e45ac404fa790ea256cb2fdf2379d7:
+  original: Gemination is **represented by doubling** the letter in the
+    orthography.
+  translated: "Ο διπλασιασμός **αναπαρίσταται με την επανάληψη** του γράμματος στην ορθογραφία."
+5369c22768343e113053dca1ed074b384578255d8952856da0243e0c:
+  original: In case of digraphs, only the **final** letter is doubled.
+  translated: "Στην περίπτωση των διπλών, μόνο το **τελευταίο** γράμμα διπλασιάζεται."
+4c19f3f7eefe7a73cbd96bc3b38bbd5db8edac22848a0cf753814897:
+  original: "### Example"
+  translated: "### Παραδείγματα"
+90aa482dde8cf5bc961a21b6b90669df03f2611a1e0956f34b4c8086:
+  original: "- **mm** is pronounced /mː/"
+  translated: "- **mm** προφέρεται /mː/"
+8ee2264af81abfe3002fbfa53ddde13d35b86340d1f417c457f04e6d:
+  original: "- **pp** is pronounced /pː/"
+  translated: "- **pp** προφέρεται /pː/"
+af0a517ca1356e6de474e7927a85f74ff6e4dea13e2c540f27b5ce7f:
+  original: "- **ghh** is pronounced /ɣː/"
+  translated: "- **ghh** προφέρεται /ɣː/"
