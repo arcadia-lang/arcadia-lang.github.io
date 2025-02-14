@@ -1,0 +1,92 @@
+%YAML 1.2
+---
+b6d48f0d27f762c2e9ac6bf59569ee223c10490eaffa56d466412852:
+  original: Numerals
+  translated: Αριθμητικά
+31a55822d102ed97927a920d8d0480af25b705fcacd8d1d5ea7e3e91:
+  original: "Arcadia uses **two parallel number systems**:"
+  translated: "Η Αρκαδία χρησιμοποιεί **δύο παράλληλα αριθμητικά συστήματα**:"
+41116de336a3a924299b3e43b521eef7bd10fcb477329597cf8594bb:
+  original: Decimal system
+  translated: Δεκαδικό σύστημα
+cf65c0bbb8ec5491ccc5f3d525d5da7f2e0d5460344d284d3e19ac25:
+  original: Commonly used for general counting and calculations.
+  translated: Χρησιμοποιείται συνήθως για γενική μέτρηση και υπολογισμούς.
+7af82d597e5fb283c35d07eeab5d6c5e4f20a462fcb837960ef04fe7:
+  original: Hexadecimal system
+  translated: Δεκαεξαδικό σύστημα
+ca7eb08e2a3f124cbf2e30639876db2f2435a295478397496bcb407e:
+  original: Included for **future-proofing**, allowing expanded numerical representation.
+  translated:
+    Συμπεριλαμβάνεται για **μελλοντική προετοιμασία**, επιτρέποντας την
+    επεκταμένη αριθμητική αναπαράσταση.
+8345659eaef53eee9389de5edeea1095262b7dbe6d4375ca1cc435d1:
+  original: Numbers and Writing
+  translated: Αριθμοί και Γραφή
+3888418c1da531b7aac1ced77ffdba4ef966bd9c8f04c01216d8521e:
+  original:
+    "**Hexadecimal notation uses `0-9` and `A-F`**, ensuring **no overlap
+    with written words**, since Arcadia uses only **lowercase letters** for textual
+    representation."
+  translated:
+    Η **δεκαεξαδική σημειογραφία χρησιμοποιεί `0-9` και `A-F`**, διασφαλίζοντας
+    ότι **δεν υπάρχει επικάλυψη με τις γραπτές λέξεις**, καθώς η Αρκαδία χρησιμοποιεί
+    μόνο **μικρά γράμματα**.
+48ee47936fb6fc374fbf47caade9bd4f5625698b82db92420d7ac096:
+  original:
+    "**Numbers are grouped using underscores (`_`)** for clarity and **unambiguous
+    readability**."
+  translated:
+    Οι **αριθμοί ομαδοποιούνται χρησιμοποιώντας κάτω παύλες (`_`)** για
+    σαφήνεια και **μη αμφίβολη αναγνωσιμότητα**.
+b839c9fa8c5bda06eb8f83c5b89f50d2edc29669b21af2048c9fcf24:
+  original: Basic Numerals
+  translated: Βασικοί Αριθμοί
+f2cfbb1dfeba0eb99f0a6d507fd7c4447d8d40a306ae4d9691b5e597:
+  original:
+    Arcadia defines **core numbers** with distinct names in both decimal and
+    hexadecimal systems.
+  translated:
+    Η Αρκαδία ορίζει **βασικούς αριθμούς** με διακριτά ονόματα και στα δύο
+    δεκαδικά και δεκαεξαδικά συστήματα.
+13265a7d9d57783155522ce7c1cd0a84bb8f017599dcd2b46dcec3b1:
+  original: Decimal
+  translated: Δεκαδικό
+d734355ad0c26b1c56678b7e623f6dd77a73b8f24a0778e23cdec9c5:
+  original: Hexadecimal
+  translated: Δεκαεξαδικό
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: Όνομα
+ad01c5ef69817c4147b962129057be926201cdacf2099db0d28d8796:
+  original: Larger Numbers
+  translated: Μεγαλύτεροι Αριθμοί
+acb528ce8c3aab88ac163b9a4c11d0a3b3c27690765fe25f69586872:
+  original:
+    After **999_999**, both systems use **powers of 1_000_000** to create
+    **names for arbitrarily large numbers**.
+  translated:
+    Μετά το **999_999**, και τα δύο συστήματα χρησιμοποιούν **δυνάμεις του
+    1_000_000** για να δημιουργήσουν **ονόματα για αυθαίρετα μεγάλα νούμερα**.
+b040e67fb849a0bd8b0101720328572f9685fd76d8b3d725cd463f29:
+  original:
+    For **one-word power formations**, Arcadia **replaces "ad X potente"**
+    with the **suffix "-ente"**.
+  translated:
+    Για **μορφές δυνάμεων με μία λέξη**, η Αρκαδία **αντικαθιστά το "ad
+    X potente"** με το **επίθημα "-ente"**.
+47adee13e0a07a0bfd5ff4217f017aa13bc0b9d50664d94147b5bb2b:
+  original: Decimal Power Names
+  translated: Δεκαδικά Ονόματα Δυνάμεων
+aff6f7231c66c15c3f514385f11e8f977b9b28839ff8a9a1e7420b62:
+  original: Hexadecimal Power Names
+  translated: Δεκαεξαδικά Ονόματα Δυνάμεων
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+6c7dd98296ca8b6c9f8e83987bf02a37c22760207acf3c51e824f431:
+  original: Decimal System
+  translated: Δεκαδικό Σύστημα
+ed1633e2be6261946f6c123a52a0d88bcafb21c46ba7c3baa629ce03:
+  original: Hexadecimal System
+  translated: Δεκαεξαδικό Σύστημα

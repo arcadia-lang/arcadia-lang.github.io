@@ -1,0 +1,107 @@
+%YAML 1.2
+---
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: Επίθετα
+ddb1318438f14bb3005cee5474a1da642791d9c767abbda0d05b0325:
+  original: In Arcadia, adjectives match the **class of the noun they modify**,
+    and thus exist in all five classes.
+  translated: Στην Αρκάδια, τα επίθετα έχουν την **τάξη του ουσιαστικού που
+    τροποποιούν**, και έτσι υπάρχουν και στις πέντε τάξεις.
+1d9ffa70b87af9119a1a0bfc65e42bb3cce4786e8922945595e5316a:
+  original: However, in dictionaries, adjectives are always listed in their
+    **solid class** form.
+  translated: Ωστόσο, στα λεξικά, τα επίθετα αναφέρονται πάντα στην **στερεή
+    τάξη**.
+1162dfdae3643d9dc3cb0c83379a95ef41f158ec6eb5339e58ff306b:
+  original: Opinion
+  translated: Γνώμη
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+0873b90e1ebba52adf70dd3f49c0e2d361ea9844d457b9cd60ae6c84:
+  original: Antonym Prefix
+  translated: Πρόθεμα Αντώνυμου
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+2050f88c7f59c5467cb45f43d6751276e9dcd6d47df375cc96bdc5a8:
+  original: beautiful
+  translated: όμορφος
+f2e96e011247935e6495dd25157b931a37b01b83bf298e7087b732e9:
+  original: good
+  translated: καλός
+bc980059cfc876a2704bff0415e97243dbb1a778f91cf9053d02b67e:
+  original: Size
+  translated: Μέγεθος
+ab465e3e1660e610de9417eee6fe08b3dcb9c379f48f3337eba9e596:
+  original: big
+  translated: μεγάλος
+9fd62a8ad42058e5a7066a65c89f43d4d2660a641e4c7369d16a6ece:
+  original: long
+  translated: μακρύς
+0aded8796e86fd6520171870b4dcfaf8e0779f528690154e5e8b5dd6:
+  original: Age
+  translated: Ηλικία
+666ba0a374db38ed08254c128184034bf5a73a57c44296a44d4a1370:
+  original: new
+  translated: νέος
+5a70fa587a886e13938f8a22df46b228cef2ecca5183c057059e84ce:
+  original: Light Intensity
+  translated: Φωτεινότητα
+f800cbc48fd0eb84e2ea25455a5cc15ab21b48e89d943393e4bbc40a:
+  original: bright
+  translated: φωτεινός
+7133c2a5d99a4170202595002f4aa7e3b6f3e9a9829e2eae62cce148:
+  original: Temperature
+  translated: Θερμοκρασία
+5c67d72559dae666b8a0e9c2b06fdad712b21ce075ebc1dbff6fba16:
+  original: hot
+  translated: ζεστός
+d00fad86c833d965f7606102a145be75de5569e523cf940298e69436:
+  original: Emotion
+  translated: Συναίσθημα
+772a8b2edeefb88313c3ab7662a00ddea51efd7f6c67e85b88d40048:
+  original: happy
+  translated: χαρούμενος
+deb663812e643984787746aa2e295bdc2a6c1d8f2df24c3dc9b170d6:
+  original: Wealth
+  translated: Πλούτος
+7c773b51bcc39bbfed99d30de98b5830970545e6c258cf1d713995d1:
+  original: rich
+  translated: πλούσιος
+4889890f6badb97cb1dcd30dc8b8041ea555514d6bb6dd43b17a60c0:
+  original: Taste
+  translated: Γεύση
+a1b0227fc8e4eb7cefbfa7cb04e952eab8d1577510e0a076e7d4e9f1:
+  original: sweet
+  translated: γλυκός
+fe3837bca553565aaed0c3e60329dea26907c584897031913c8ceb3b:
+  original: salty
+  translated: αλμυρός
+c02a048cbc4e6df71198a1c7e02a8f67a25a439da61ca4df785d8537:
+  original: sour
+  translated: ξινός
+f71f71264f63293a4e9e2b6be477fc1cc41e26b168fbac06be6df3df:
+  original: bitter
+  translated: πικρός
+d15774e8d1beb53a14faf08f68d3a47873f5acc3c37b66c542b726f1:
+  original: umami
+  translated: ουμάμι
+666f7a1de972b882eef0b1c0e0ce24f227586ada80f27193d1acd80c:
+  original: Taste antonyms
+  translated: Αντώνυμα γεύσεων
+52f9fa41ab6dc22350cb1fbfef52c8599247e9b5e8f504811a152035:
+  original: Many natural languages treat certain tastes as opposites—for
+    example, pairing "sweet" with "bitter."
+  translated: Πολλές φυσικές γλώσσες θεωρούν ορισμένες γεύσεις ως αντίθετες—για
+    παράδειγμα, συνδυάζοντας το «γλυκό» με το «πικρό».
+276b887d406b81fa3cefdf7c802d27eb5daeb3cb0bcb9e4af76563a0:
+  original: In Arcadia, however, taste words do not form binary oppositions.
+  translated: Στην Αρκάδια, ωστόσο, οι λέξεις γεύσεων δεν σχηματίζουν τέτοια
+    ζεύγη.
+a00dcfde8a6bf260fb41eb6c9bdb773ed97a83fe17bc3819b73e02f1:
+  original: Instead, the "opposite" of a taste reflects its absence or
+    attenuation, not the presence of a contrasting flavour.
+  translated: Αντίθετα, το «αντίθετο» μιας γεύσης αντικατοπτρίζει την απουσία ή
+    την εξασθένηση της, όχι την παρουσία μιας αντίθετης γεύσης.

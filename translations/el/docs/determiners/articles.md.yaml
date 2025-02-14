@@ -1,0 +1,292 @@
+%YAML 1.2
+---
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+c980ebb8cbbffa0e6517d1e05bb6f383ee793691c765a81e9c3aaebc:
+  original:
+    Articles are crucial for specifying a noun's reference—whether it's known,
+    unknown, abstract, or collective.
+  translated:
+    Τα άρθρα είναι κρίσιμα για τον προσδιορισμό της αναφοράς ενός ουσιαστικού—αν
+    είναι γνωστό, άγνωστο, αφηρημένο ή συλλογικό.
+5ef5767c15caeabdb79a81e34f60e06b2dc50d50d5e88bf903069cea:
+  original:
+    "Arcadia features **six distinct articles**, each serving a unique grammatical
+    and semantic function:"
+  translated:
+    "Η Αρκάδια διαθέτει **έξι διακριτά άρθρα**, το καθένα από τα οποία εξυπηρετεί
+    μια μοναδική γραμματική και σημασιολογική λειτουργία:"
+b0523581ae2d58a47bf92b62f31e24a530ee4c18e7a4c4c69b1fe014:
+  original: Definite
+  translated: Οριστικό
+5e4b5fcc59a9baca44363cb18c050f4e4d9ce8778f0040b7ca3185a5:
+  original:
+    Identifies a specific entity or concept that both speaker and listener
+    recognize.
+  translated:
+    Προσδιορίζει μια συγκεκριμένη οντότητα ή έννοια που αναγνωρίζουν τόσο
+    ο ομιλητής όσο και ο ακροατής.
+1e448c2abb0f4550122debcc234766e1ea2cc5cb663a45e39f0d5ee1:
+  original: '"The lion"'
+  translated: «Το λιοντάρι»
+8b77b52aff8e062642a3df3be90dc7a280a7e82b315d934995f4f4e1:
+  original: Anaphoric
+  translated: Αναφορικό
+2e255f63b28a0546cdbc1aeec7344f9167a2ca81ed5e8a3405f81f0c:
+  original: Refers to a previously mentioned or contextually salient entity.
+  translated: Αναφέρεται σε μια οντότητα που έχει αναφερθεί προηγουμένως.
+80ae1d97e9c11894f7e08916b3a0cd3c39f292f1d00cd6b2ae6b510c:
+  original: '"The lion we talked about earlier"'
+  translated: «Το λιοντάρι για το οποίο μιλήσαμε νωρίτερα»
+bb2120e838ae2193b30d02ba9de454fd9582b007595088c7258e29e0:
+  original: Weak Indefinite
+  translated: Ασθενές Αόριστο
+c9dbe12a371a92be9b55a3c7ab2c2c613720126735ec175391ea4662:
+  original: Indicates a non-specific or generic noun, akin to "any."
+  translated: Υποδηλώνει ένα μη συγκεκριμένο ή γενικό ουσιαστικό, παρόμοιο με το "οποιοδήποτε".
+9c4f44a9e85990028fdaecd0a050454cffd4b709b0bacd2f6f31d0ae:
+  original: '"Any lion"'
+  translated: «Ένα οποιοδήποτε λιοντάρι»
+79fff7e82df680624536837e5ff95c18aa285c73f17a5859eb874937:
+  original: Strong Indefinite
+  translated: Ισχυρό Αόριστο
+466c8d2a125b924ab947b3f56116a2944ab331f7243522c55f2cdf9f:
+  original: Points to a specific entity known to the speaker but unknown to the listener.
+  translated:
+    Υποδεικνύει μια συγκεκριμένη οντότητα γνωστή στον ομιλητή αλλά άγνωστη
+    στον ακροατή.
+e02c3fb2bfadb789da3e7f9991fe0d4994c9bc3e7ff985720f074e1a:
+  original: '"A lion"'
+  translated: «Ένα λιοντάρι»
+0c20bb0637c7ad4b6786e9e90e3e897c266843a2dcde4ebb0a7e087e:
+  original: Abstract
+  translated: Αφηρημένο
+12534d9bf1604c66dadac7429cb7e25127383ed7fae49d4100dd69ab:
+  original:
+    Treats the noun as a **concept or category**, rather than a particular
+    instance.
+  translated:
+    Αντιμετωπίζει το ουσιαστικό ως μια **έννοια ή κατηγορία**, παρά ως μια
+    συγκεκριμένη περίπτωση.
+e0baf03a618076c8467c2e075b5669857bb6b94d366ce2afe0416113:
+  original: '"Lion as a species/concept"'
+  translated: «Λιοντάρι ως είδος/έννοια»
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικό
+417e1e827772d35014fffec68019e6ac6ae33a95da46b7caf5ef52c2:
+  original: Groups multiple instances of a noun into a singular collective unit.
+  translated: Ομαδοποιεί πολλαπλά αντικείμενα σε μια ενιαία συλλογική μονάδα.
+d3f2de31d5395a3896d60d8d75511448afdf34ef722cea36af8fb041:
+  original: '"A pride of lions" or "A group of lions"'
+  translated: «Μια αγέλη λιονταριών» ή «Μια ομάδα λιονταριών»
+6288dde1f077b24a58014ce1f75ee9fd4497d4cbc5f0ebed261c7303:
+  original:
+    Articles do **not inflect for case** or **grammatical class**, but they
+    do adjust based on the **number** of the noun they modify.
+  translated:
+    Τα άρθρα **δεν κλίνονται κατά πτώση** ή **γραμματική κατηγορία**, αλλά
+    προσαρμόζονται με βάση τον **αριθμό** του ουσιαστικού που τροποποιούν.
+792562825adbd3a72dcaec74ef03cab1abdb5dfc069b4c73d78f8de6:
+  original: Number Variation
+  translated: Προσαρμογή Αριθμού
+2e4e5bd1b51269a89bd28054159a0018cdf34b7e7796584dc341f813:
+  original: "The collective article `ta` shifts meaning depending on the noun's number:"
+  translated: "Το συλλογικό άρθρο `ta` αλλάζει νόημα ανάλογα με τον αριθμό του ουσιαστικού:"
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+b2e236084f2eb4b23ad7ffc45a8de1c0446b975dd4d094cbf98554c7:
+  original: Refers to a single collective unit (_a pride of lions_).
+  translated: Αναφέρεται σε μια ενιαία συλλογική μονάδα (_μια αγέλη λιονταριών_).
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+3c8f2617cc4e06ec628df57c3a930705a500d8b2619550171737e13a:
+  original: Refers to multiple collective units (_prides of lions_).
+  translated: Αναφέρεται σε πολλαπλές συλλογικές μονάδες (_αγέλες λιονταριών_).
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+40599e93b33639cc3761c6f79b818a7019a3dacf49fe7ca98e1642d6:
+  original: Denotes **absence** of collectives (_no groups of lions_).
+  translated: Δηλώνει την **απουσία** συλλογικών μονάδων (καμία αγέλη λιονταριών_).
+0358541812b0cfb3f64c77b4a38004273f2581ef472e6abd4cde908a:
+  original: Total
+  translated: Ολικός
+e1e2cfc2de3a502b8172087b3261b27a43a0ca11cf64788b7ed0723a:
+  original: Covers **all possible collectives** (_all groups of lions_).
+  translated: Καλύπτει **όλες τις δυνατές συλλογικές μονάδες** (όλες οι αγέλες λιονταριών_).
+c53fd0a0403f6004357137a3afc743d2d20b20a444219712ad8f7445:
+  original:
+    Most articles **do not have** nullar or total forms, as they typically
+    specify **individual or generic instances** rather than collective concepts.
+  translated:
+    Τα περισσότερα άρθρα **δεν έχουν** μηδενική ή ολική μορφή, καθώς συνήθως
+    προσδιορίζουν **μεμονωμένες ή γενικές περιπτώσεις** παρά συλλογικές έννοιες.
+5b51359415a883fb3aa35ed252d59264d6e9d77c71377c4b7eba34e4:
+  original:
+    The **abstract article** `to` also lacks **fractional and plural forms**,
+    reinforcing its conceptual function.
+  translated:
+    Το **αφηρημένο άρθρο** `to` δεν έχει επίσης **κλασματικές και πληθυντικές
+    μορφές**, καθώς αναφέρεται σε αφηρημένες έννοιες.
+023b842ec9c7775a5ecfa0843863c1dae48613128e41524ab284dbff:
+  original: Note on Articles
+  translated: Σημείωση για τα Άρθρα
+2ebfb31a486fb0628960ccb430a1756041264b65433ec418cb76fd22:
+  original:
+    While Arcadia's **collective article** does not typically take a **fractional
+    form**, speakers may **deliberately** bend this rule in **rhetorical or expressive
+    contexts**.
+  translated:
+    Ενώ το **συλλογικό άρθρο** της Αρκάδια δεν παίρνει συνήθως **κλασματική
+    μορφή**, οι ομιλητές μπορεί να **παραβιάσουν σκόπιμα** αυτόν τον κανόνα σε **ρητορικά
+    ή εκφραστικά συμφραζόμενα**.
+b3a010b5691868ca38cb48e050735d7f8beb7d0031068d92e33006f7:
+  original:
+    For instance, a teacher might say "_I have only half a class today_,"
+    even though a class **remains a singular unit regardless of absences**.
+  translated:
+    Για παράδειγμα, ένας δάσκαλος μπορεί να πει «Έχω μόνο μισή τάξη σήμερα»,
+    αν και μια τάξη **παραμένει μια ενιαία μονάδα ανεξάρτητα από τις απουσίες**.
+baebe6380128ef2d6846f0f79cbcdf106a3aa2aa188719b2c88ca2cc:
+  original:
+    In these cases, the fractional collective serves as a **marked statement**,
+    emphasizing disruption or incompleteness rather than strictly following grammatical
+    logic.
+  translated:
+    Σε αυτές τις περιπτώσεις, το κλασματικό συλλογικό λειτουργεί ως μια
+    **δήλωση**, τονίζοντας την αναστάτωση ή την ατελή κατάσταση παρά μια αυστηρή τήρηση
+    της γραμματικής.
+07b2f710e989688905ef0b8a3da6c5e346828eea02270847c9c33910:
+  original:
+    This usage reflects the human tendency to reshape language for effect,
+    making the grammatical "error" a deliberate stylistic tool rather than an oversight.
+  translated:
+    Αυτή η χρήση αντικατοπτρίζει την ανθρώπινη τάση να αναδιαμορφώνει τη
+    γλώσσα για επίδραση, καθιστώντας το γραμματικό «λάθος» ένα σκόπιμο στυλιστικό
+    εργαλείο παρά μια παράλειψη.
+7b32bccca0158bde0ed3854742ffe0ab609abc018ea5f642c512040f:
+  original: Articles with Other Determiners
+  translated: Άρθρα με Άλλα Προσδιοριστικά
+4d9e9e415ec28315bece0c9f3e2335a731d490aedb430e5fc9417ac4:
+  original: "Articles interact with determiners to refine specificity:"
+  translated:
+    "Τα άρθρα αλληλεπιδρούν με τα προσδιοριστικά για να διευκρινίσουν την
+    ειδικότητα:"
+64cb74e235d3124c9be983be17bbdb2ff359c45e66925373c100b3e9:
+  original: '"three people"'
+  translated: τρεις άνθρωποι
+e85ee015a46000da1c59617c194f5ae54e95e08ba7f9783c2bed7cd0:
+  original: '"the three specific people"'
+  translated: οι τρεις συγκεκριμένοι άνθρωποι
+f028131c06fc2d31b64cced76fcb1d05f9a11e2b64f785b4a815eedb:
+  original:
+    "They can also convert **proper nouns into common references**, indicating
+    a person named something:"
+  translated:
+    "Μπορούν επίσης να μετατρέψουν **τα κύρια ουσιαστικά σε κοινές αναφορές**,
+    υποδεικνύοντας ένα άτομο με συγκεκριμένο όνομα:"
+351324969f086b1de31fec214a027cbd9f59b4fa9e22af9c40665aa7:
+  original: '"a person named Adam"'
+  translated: ένας άνθρωπος με το όνομα Αδάμ
+78e7efd79aba006e626034d96dddb589a567dc04ead913153c2f9d99:
+  original: Examples in Context
+  translated: Παραδείγματα
+1404dc8d0b6279a5d842c4fdda747abbcec8ae0a0eadd0c23b35f7e3:
+  original: Basic Proper Noun Usage
+  translated: Βασική Χρήση Κύριου Ονόματος
+a0b6ef2338099672b89c6f7b40756f2f63be8b9546544d6bd9cc3e05:
+  original: Translation
+  translated: Μετάφραση
+129d61fb09c5dd985af063f553ff8196562f3c10915f6cc4a1899bc2:
+  original: '"I met Adam."'
+  translated: «Συνάντησα τον Αδάμ.»
+3fee2f9ec6898de05df9626dbc37f4d3ea2c520dad90621491e97b70:
+  original: Explanation
+  translated: Εξήγηση
+745bbb5d4e3d1ecd8e106b9835ccc618b62599a4453bdd8598af571a:
+  original: The speaker refers to a known **proper noun**, so **no article is needed**.
+  translated:
+    Ο ομιλητής αναφέρεται σε ένα **κύριο όνομα**, οπότε **δεν χρειάζεται
+    άρθρο**.
+bbe02c73203154d3bd67eff313003e8eb153cf049a40e9578d9c9512:
+  original: Anaphoric Reference
+  translated: Αναφορά
+1cbd449b19eea6c56c0f052e470bef5d08425be4c9b3b006dc265b98:
+  original: '"I met the Adam (we discussed earlier)."'
+  translated: «Συνάντησα τον Αδάμ (για τον οποίο μιλήσαμε νωρίτερα).»
+1a7f72deb66ddabda9db5fdd6f8671b57c81abbf4929fdac83778ce7:
+  original: Uses **Anaphoric `le`** to specify which Adam is meant.
+  translated:
+    Χρησιμοποιεί το **αναφορικό `le`** για να προσδιορίσει σε ποιον Αδάμ
+    αναφέρεται.
+0910f927c9355c8beda3921b901abed9c1e45dfc5a9d4cfcee23c3ba:
+  original: Indefinite Proper Noun
+  translated: Αόριστο Κύριο Όνομα
+ac7c0c0dca284128e987026b6db2bdbc89e14c678e63f0c12a4c1058:
+  original: '"I met a guy named Adam."'
+  translated: «Συνάντησα έναν τύπο με το όνομα Αδάμ.»
+2ba4c5441ffb347be4249c1359b16d064731f2fc6ec56a80bf5e6c1c:
+  original:
+    Uses **Strong Indefinite `ye`**, implying the listener **does not know
+    Adam yet**.
+  translated:
+    Χρησιμοποιεί το **ισχυρό αόριστο `ye`**, υποδηλώνοντας ότι ο ακροατής
+    **δεν γνωρίζει τον Αδάμ ακόμα**.
+33fe53cfde8b484d14810f90a0393599dc906316606fe584c3ec63fb:
+  original: Pronunciation Adjustments
+  translated: Προσαρμογές Προφοράς
+226448effd62b44b0e8ef905d57147461a608df3b1aaaa70898fd057:
+  original:
+    To **smooth pronunciation**, articles ending in vowels **undergo elision**
+    when placed before nouns starting with the **same vowel**.
+  translated:
+    Για να **διευκολυνθεί η προφορά**, τα άρθρα που τελειώνουν σε φωνήεντα
+    **παθαίνουν έκθλιψη** όταν βρεθούν πριν από ουσιαστικά που ξεκινούν με το **ίδιο
+    φωνήεν**.
+105bf9fbd8858b5c04029802c8e35c5961840c10af06af14619355be:
+  original:
+    This elision is marked **with an apostrophe**, and no space is left between
+    the article and noun.
+  translated:
+    Αυτή η έκθλιψη σημειώνεται **με απόστροφο**, και δεν αφήνεται κενό μεταξύ
+    του άρθρου και του ουσιαστικού.
+27d709f94761c0e7b087fe06631aab61d8fb6cdafc5ac5a614bbc626:
+  original: '"the friend"'
+  translated: «ο φίλος»
+e053f3be390ccf19e5637daa76442e81060b3ce0c6abff826e851744:
+  original: '"a machine"'
+  translated: «μια μηχανή»
+8b6676952f73abef5688cbb3a747289a1848ecb692929b7efddd2d6c:
+  original: Declension Tables
+  translated: Πίνακες Κλίσης
+8b19af875e9e0c524acf1680f02f1709ab89f6d3785c10faf33b4e36:
+  original: Definite Article
+  translated: Οριστικό Άρθρο
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+5044ef3384523bfd73aeb4aa26843581b957cab24e05ce98cf1f1fc1:
+  original: Article
+  translated: Άρθρο
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+b071c4dc47d942bf2d9d9f26548948a28afa1fdaa6efb6f58ddc6250:
+  original: Anaphoric Article
+  translated: Αναφορικό Άρθρο
+cf2538404fbb575483e3568fe899160287ff525264d51c8779608eb6:
+  original: Weak Indefinite Article
+  translated: Ασθενές Αόριστο Άρθρο
+8d1840a79cde4188b63d4be5913667e5ec7ab0ba5a44b8babdd33d27:
+  original: Strong Indefinite Article
+  translated: Ισχυρό Αόριστο Άρθρο
+a404862bbfc04927faa39d8955ff0e64c77b8e90d9839bb385d81225:
+  original: Collective Article
+  translated: Συλλογικό Άρθρο
+37ca84907e67ec14b089d29127bfba3b5281e2c154e9a80dc142f017:
+  original: Abstract Article
+  translated: Αφηρημένο Άρθρο

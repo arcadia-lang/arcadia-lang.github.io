@@ -1,0 +1,106 @@
+%YAML 1.2
+---
+f46c2038751934da63576e37e61efc849713edde72f49afa1de2aebf:
+  original: If clause variation
+  translated: Διαφορετικές μορφές του αν
+65e357e94a1ba1cdb01ef1089c774d3877267b722cc1f90d5d87427e:
+  original: Factuality and necessity are included in the "if" particle in zerita.
+  translated:
+    Η πραγματικότητα και η αναγκαιότητα περιλαμβάνονται στο μόριο «αν» στη
+    ζερίτα.
+47f302746d35d428b3244d78ea48e388f6d89f151e3f1838d080e00b:
+  original: "For possible if clauses, the if particle is:"
+  translated: "Για τις πιθανές προτάσεις αν, το μόριο αν είναι:"
+c3c7e95334222d44a6dcfa9c5bd88cbbc57c2c123f5b5fe215921515:
+  original: to express an implication that the if clause isn't a necessary condition
+  translated: για να εκφράσει την περίπτωση όπου η υπόθεση αν δεν είναι αναγκαία προϋπόθεση
+6ae6a129c89e9121fb7e0ceb519b75abeed325b54ed9ee5505636123:
+  original: to express anankastics
+  translated: για να εκφράσει αναγκαστικά γεγονότα
+86e641dd302fd209b22f7950bb99a71e3426a12836e9f34984f24cf8:
+  original: to express both.
+  translated: για να εκφράσει και τα δύο.
+d3c422db11339fbf9faf0f74431667e82e1c91427f1e5de19edddb27:
+  original: For counterfactuals, a "&{u}" precedes the if particle.
+  translated: Για τις αναληθείς προτάσεις αν, το μόριο «&{u}» προηγείται του αν.
+  literals:
+    - u
+ccdeb7bdcc1a8567725b391d5b81e6c8577904598ac3dd371126c39b:
+  original: "Some examples will clarify the uses of each case:"
+  translated: "Ορισμένα παραδείγματα θα διευκρινίσουν τις χρήσεις κάθε περίπτωσης:"
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+3cbf2576cbd99b08f9f024f951ceb9fac44da802ac9a13fcc293e801:
+  original: If I were rich, I would buy a car.
+  translated: Αν ήμουν πλούσιος, θα αγόραζα ένα αυτοκίνητο.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+958e6d0f2c560d9c3fc0a28d38b451436ca7b0311c7b89c6be5da933:
+  original: I may still buy it even though I'm not rich.
+  translated: Μπορεί να το αγοράσω ακόμα και αν δεν είμαι πλούσιος.
+873cf438dd7c4dbdee45a9c998d57d96169d96dd3453e186bd186801:
+  original: I'm not rich, so I won't.
+  translated: Δεν είμαι πλούσιος, οπότε δεν θα το κάνω.
+96be22829a4009a922901a38c5ba4a030d809628a96efbdaf115a433:
+  original: Only if I were rich, I would buy a car.
+  translated: Μόνο αν ήμουν πλούσιος, θα αγόραζα ένα αυτοκίνητο.
+4593403170e84114df17c8b77605de35ab7e305bfdee7a02734016e0:
+  original: I'm not rich, so I won't, but even if I was I may not have bought one.
+  translated:
+    Δεν είμαι πλούσιος, οπότε δεν θα το κάνω, αλλά ακόμα και αν ήμουν μπορεί
+    να μην το αγόραζα.
+50c207882208305e9574b889171a4db1a6e8d0a8d05558a5fe572cb8:
+  original:
+    Zerita is a language that favours dropping information that isn't necessary
+    for the discussion.
+  translated:
+    Η ζερίτα είναι μια γλώσσα που προτιμά να παραλείπει πληροφορίες που
+    δεν είναι απαραίτητες για τη συζήτηση.
+8c0d876a8b70c7ec281f4c88abbd5c2a1f8ee8fc0a66d01265dbe5a7:
+  original:
+    In this sense, "&{celo}" and "&{ucelo}" are only to be used when the necessity
+    of the conditional must be conveyed, otherwise "&{ce}" and "&{uce}" are to be
+    used.
+  translated:
+    Με αυτή την έννοια, το "&{celo}" και το "&{ucelo}" χρησιμοποιούνται
+    μόνο όταν πρέπει να μεταδοθεί η αναγκαιότητα της υπόθεσης, διαφορετικά χρησιμοποιούνται
+    το "&{ce}" και το "&{uce}".
+  literals:
+    - ce
+    - celo
+    - uce
+    - ucelo
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+5943e5b5305b6850c4deb431cec966a8c3c833b874bb2db6b203a8b3:
+  original: When I laugh, everybody is laughing
+  translated: Όταν γελάω, όλοι γελάνε
+6cd18177bc42cb5dce81244a021c4fe5b7e703aafabddab0d6da2cce:
+  original:
+    When I laugh, can be viewed as "if I'm laughing, regardless of past, present,
+    or future"
+  translated:
+    Όταν γελάω, μπορεί να θεωρηθεί ως «αν γελάω, ανεξάρτητα από το παρελθόν,
+    το παρόν ή το μέλλον»
+e27930bb95a0bba33d8927c4767fb82dcc693acf77f042470fb26591:
+  original: If you come home, you'll eat dinner.
+  translated: Αν έρθεις σπίτι, θα φας δείπνο.
+4ec4f2adb458ce4874a15a40d1d89acb70e3be98abb1bd80960e7fe2:
+  original:
+    The speaker puts "&{venovi}" in the future to specify that it's about
+    a future event.
+  translated:
+    Ο ομιλητής βάζει το «&{venovi}» στο μέλλον για να προσδιορίσει ότι πρόκειται
+    για ένα μελλοντικό γεγονός.
+  literals:
+    - venovi
+38cf0a701361141f259adfb4c65bf63bbe251138b7442a49a7a98948:
+  original:
+    The eat is in the present prospective, as to describe that upon arrival
+    the dinner will start afterwards.
+  translated:
+    Το ρήμα φαγητό είναι στο μέλλον, καθώς περιγράφει ότι κατά την άφιξη
+    το δείπνο θα ξεκινήσει αργότερα.
