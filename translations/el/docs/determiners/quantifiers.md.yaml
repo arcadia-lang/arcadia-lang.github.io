@@ -1,0 +1,119 @@
+%YAML 1.2
+---
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+3f1065173559be807e8d9417cf2a1c84d50eee106882adf18a77c810:
+  original: Quantifiers are **determiners** that indicate the **quantity of a noun**.
+  translated:
+    Οι ποσοδείκτες είναι **προσδιοριστές** που υποδεικνύουν την **ποσότητα
+    ενός ουσιαστικού**.
+8ddce34c4ab6170d024a012c1267f88d51cdb625726357a26b0d635e:
+  original: Nullar and collective numbers
+  translated: Μηδενικός και συλλογικός αριθμός
+3b004b5f8409b7a6cfe9013578728910b413b82bf985b5acfe0e4f0a:
+  original: Naturally make **"all" and "none" redundant**, simplifying expressions.
+  translated:
+    Φυσικά καθιστούν **"όλους" και "κανέναν" περιττούς**, απλοποιώντας τις
+    εκφράσεις.
+053df87e6e46d11a287d40d2be14091869a5b57fc68509bef3d0996b:
+  original: Usage Restrictions
+  translated: Περιορισμοί Χρήσης
+1bc324173048a6f4ef56951fea176568c1c1a51c2f487b67f78b8882:
+  original:
+    "**Quantifiers cannot be used with uncountable nouns**, since the **number
+    already conveys quantity**."
+  translated:
+    "**Οι ποσοδείκτες δεν μπορούν να χρησιμοποιηθούν με αμετρήσιμα ουσιαστικά**,
+    καθώς **ο αριθμός ήδη μεταφέρει ποσότητα**."
+2fb671512f49282eff6dc32bfa2910d08eb1d1811272a3d452942bce:
+  original: Core Quantifiers
+  translated: Βασικοί Ποσοδείκτες
+1769c1f6372f2fc8ece05374641c791156f82340982b17c4b5e4ccf8:
+  original: "Arcadia defines the following **quantifiers**:"
+  translated: "Η Αρκάδια ορίζει τους παρακάτω **ποσοδείκτες**:"
+2a29485db6415df2ba81e918cfc2c6f38b4532798e155d882e9b62d6:
+  original: A few
+  translated: Λίγοι
+7257d9bd39109b5c5e43e04c7becfd01cb570eee63a611ee62e111d1:
+  original: small but distinct amount
+  translated: μικρή αλλά διακριτή ποσότητα
+0cdbf2f9ba7448a97f9c0546ae6af3abec55d2a12a5d044f09ceb04d:
+  original: Some
+  translated: Μερικοί
+ac3de873c83d93b900b5ec8fb4f9c94218fc67b11be5c6133317e621:
+  original: can refer to one or multiple
+  translated: μπορεί να αναφέρεται σε ένα ή περισσότερα
+7ec7cd43913fddb7f79cbdeba01258a444e8b6ef6f736d51f3e78ba3:
+  original: cannot refer to one, only plural
+  translated: δεν μπορεί να αναφέρεται σε ένα, μόνο σε πληθυντικό
+cde6aeee3922b8e2e7b9b46b2d1a7a2aa495a4666c360d3975b83232:
+  original: Many
+  translated: Πολλοί
+f84a9240bd59f7db01fafc2b8795a53a70b781974cea6b4d9fc252f4:
+  original: large quantity
+  translated: μεγάλη ποσότητα
+a4b93c5c914c591501ed3b1b6bfe969ab08e2126d47601097a765873:
+  original: Each
+  translated: Κάθε
+0b50eed590541cb89fc38a37bfb66d26de91a11b6f63b2e4d6f9a634:
+  original: individual emphasis
+  translated: ατομική έμφαση
+b8efd536ebe05f2b31a3f1344e26385c79d211052aa6ed6a5a1920cd:
+  original: Usage Notes
+  translated: Σημειώσεις Χρήσης
+1cd95d64e26a66f64d29d1dd46e37fc1bd9bb1b0da6816becb1ff35e:
+  original: Even though it **can refer to one**, it always **takes a plural noun form**.
+  translated:
+    Αν και **μπορεί να αναφέρεται σε ένα**, πάντα **παίρνει μια πληθυντική
+    μορφή ουσιαστικού**.
+12c0e634d0e3dc763b37b1ef09cd7295fee166268fa673defc05b916:
+  original: Used with **singular nouns** to highlight **individual entities**.
+  translated: Χρησιμοποιείται με **ενιαία ουσιαστικά** για να τονίσει **ατομικές οντότητες**.
+493128f0c7cf0b46076e77a10c8e52f8bebc8de263304a8ae0a05b56:
+  original:
+    Used with **collective nouns** to emphasize **both individuals and the
+    group**.
+  translated:
+    Χρησιμοποιείται με **συλλογικά ουσιαστικά** για να τονίσει **τόσο τα
+    άτομα όσο και την ομάδα**.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+de9244c423d5160a0475b489166e1b3317feb7607d7797b35a742531:
+  original: Collective Focus (`&{puereris}` in collective form)
+  translated: Συλλογική Εστίαση (`&{puereris}` σε συλλογική μορφή)
+  literals:
+    - puereris
+f08ab1ff44b3c4a65e585b2c0452db80f27087590625cb97d143e38c:
+  original: Every child is eating an apple.
+  translated: Κάθε παιδί τρώει ένα μήλο.
+3fee2f9ec6898de05df9626dbc37f4d3ea2c520dad90621491e97b70:
+  original: Explanation
+  translated: Εξήγηση
+fd5db94a489cb017dac862c3fa76e4d2124352c2a6be12342075cba4:
+  original: The **collective noun** and verb highlight **the group as a whole**.
+  translated:
+    Το **συλλογικό ουσιαστικό** και το ρήμα τονίζουν **την ομάδα στο σύνολό
+    της**.
+bd6095c7813b5ef317e966aeff7ecd5d3ed63d0e443d573300f52532:
+  original: Singular Emphasis (`cisca` with singular noun)
+  translated: Ατομική Έμφαση (`cisca` με ενιαίο ουσιαστικό)
+981649fc6e2534a1aa6bc385cc008a5c962d8f60c1583293523e5742:
+  original: Each child is eating an apple.
+  translated: Κάθε παιδί τρώει ένα μήλο.
+8bcd1f680c1eff6c7acf43039dec8a54e34193adfaa26d6b66691783:
+  original: The verb and noun remain **singular**, focusing on **individual children**.
+  translated:
+    Το ρήμα και το ουσιαστικό παραμένουν **ενιαία**, εστιάζοντας σε **ατομικά
+    παιδιά**.
+f5c7856d933586f88cbb9f82758e6a28bdc2b3751e1e8e448f0a5a5b:
+  original: Each and every child is eating an apple.
+  translated: Κάθε παιδί τρώει ένα μήλο.
+50b0a9ab23cbb91fd8b58467518023111f950a0a12f0e114ad6b08cf:
+  original:
+    The **collective noun + cisca** highlights **both individuals and the
+    group**.
+  translated:
+    Το **συλλογικό ουσιαστικό + cisca** τονίζει **τόσο τα άτομα όσο και
+    την ομάδα**.

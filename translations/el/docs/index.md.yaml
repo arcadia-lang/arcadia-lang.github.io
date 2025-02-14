@@ -1,0 +1,193 @@
+%YAML 1.2
+---
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+8e3794c15093d152bc38d323b7d36be627506696ef83f7e3adb6470d:
+  original: Arcadia is a highly expressive conlang built on **consistency and
+    clarity**, eliminating exceptions entirely.
+  translated: Η Αρκάδια είναι μια εξαιρετικά εκφραστική κατασκευασμένη γλώσσα,
+    βασισμένη στην **συνέπεια και την σαφήνεια**, εξαλείφοντας εντελώς τις
+    εξαιρέσεις.
+ae88688255f3b9150aaae860f05e61785edf1fb5e86c3cd3fc94098f:
+  original: Its **innovative grammar and syntax**, coupled with extreme
+    expressiveness and precision, make the learning curve steep.
+  translated: Η **καινοτόμος γραμματική και σύνταξή της**, σε συνδυασμό με την
+    εξαιρετική εκφραστικότητα και ακρίβεια, καθιστούν την καμπύλη μάθησης
+    απότομη.
+433350421e60b3eef1fd48f9cc5c4148c2f1b162c17a85916b4c427a:
+  original: However, because Arcadia is **logical and predictable**, with a
+    **simple orthography and phonology**, a **small vocabulary** that expands
+    through prefixes, mastery becomes easier once the fundamentals are learned.
+  translated: Ωστόσο, επειδή η Αρκάδια είναι **λογική και προβλέψιμη**, με μια
+    **απλή ορθογραφία και φωνολογία**, ένα **μικρό λεξιλόγιο** που επεκτείνεται
+    μέσω προθεμάτων, η γλώσσα γίνεται πιο εύκολη μόλις μάθετε τα θεμέλια.
+8a94a033b0f7f18ff8cc76c717a320aeaeb14dd56bd3512619f3ceef:
+  original: How to Use This Guide
+  translated: Πώς να χρησιμοποιήσετε αυτόν τον οδηγό
+55836dd3e9acb1eb96d0bf8be8afd0f3fbd0695d16f7e0c401b1a2ab:
+  original:
+    "To gain a foundational understanding of Arcadia's syntax, **follow this
+    sequence**:"
+  translated:
+    "Για να αποκτήσετε μια βασική κατανόηση της σύνταξης στην Αρκάδια, **ακολουθήστε
+    αυτή τη σειρά**:"
+87c50627776651fb828fc68b1f77fee158d07b34841a1f43d25b4e90:
+  original: Read the **[Verbs Guide][verbs]**.
+  translated: Διαβάστε τους **[Γενικούς κανόνες για τα Ρήματα][verbs]**.
+a50a63369a6d4343b8fcf456fccfe0db3beec8104d5fe386fef61523:
+  original: Review the **[Nouns Guide][nouns]**.
+  translated: Έπειτα, διαβάστε τον **[Γενικούς κανόνες για τα
+    Ουσιαστικά][nouns]**.
+706aa05b92ac1d13f102ac88c00084b92c886d31ae6d1176f5b6ffa7:
+  original: Explore the **[Articles Guide][articles]**.
+  translated: Μετά, ακολουθήστε τους **[Κανόνες για τα άρθρα][articles]**.
+a7a1f0b059904ceac88156ad9d1e08e7e9d4d9238089c7ea87aaf5bd:
+  original: The **[Vocabulary Guide][vocabulary]** serves as a reference, but
+    all other sections should be read **in order as they appear in the
+    navigation**.
+  translated: Το **[Λεξιλόγιο][vocabulary]** μπορεί να παραληφθεί, και είναι
+    απλά ένα σημείο αναφοράς, αλλά όλα τα άλλα τμήματα είναι δομημένα για να
+    διαβαστούν **με τη σειρά που εμφανίζονται στο ευρετήριο**.
+71827f896cde545fcce893146f1ead8eca3a78f5e963b5281cab7bc7:
+  original: Syntax
+  translated: Σύνταξη
+f303fd882edde3e5843afe4fccfe01c35151b6b7ff20f7c67f0ddf0a:
+  original: Arcadia's syntax is designed to be **intuitive and flexible**.
+  translated: Η σύνταξη της Αρκάδια έχει σχεδιαστεί για να είναι **διαισθητική
+    και ευέλικτη**.
+aad4315f352b88dba08d261990e733aa8762d3a51d6591dfd631c204:
+  original: Its standard word order is **Verb-Subject-Object (VSO)**,
+    emphasizing **action over actor**.
+  translated: Η τυπική σειρά λέξεων είναι **Ρήμα-Υποκείμενο-Αντικείμενο (VSO)**,
+    δίνοντας έμφαση στην **ενέργεια παρά στον δράστη**.
+18c7a32323e830189106d4d3c9dd852599feeca30d4f213a92ba7e5c:
+  original: However, as a **pro-drop language with case markings**, word order
+    may shift **for emphasis**.
+  translated: Ωστόσο, ως **γλώσσα που επιτρέπει την παράλειψη αντωνυμιών, με
+    γραμματικές πτώσεις**, η σειρά των λέξεων μπορεί να αλλάξει **για έμφαση**.
+d1811272099f59954c115d3fede39457cc0e9fd29e91002c26495f1d:
+  original: Arcadia follows the **Austronesian alignment**, but **not purely**;
+    it incorporates elements from other **alignment systems** as well.
+  translated: Η Αρκάδια ακολουθεί την **Αυστρονησιακή συμφωνία**, αλλά **όχι
+    αποκλειστικά**. Ενσωματώνει στοιχεία και από άλλα **συστήματα συμφωνίας**.
+68f697b38a87b9b5ac87813defbff511fa861353cf327773f18ee9db:
+  original: "**Understanding Syntax through Diagrams**"
+  translated: "**Κατανόηση της Σύνταξης μέσω Διαγραμμάτων**"
+1da7821d7b47decd8093240bf625d16bf871c5b4c7a61d67d79204d2:
+  original: Traditional **nominative-accusative languages** follow an asymmetric
+    structure.
+  translated: Οι παραδοσιακές **ονομαστικές-αιτιατικές γλώσσες** ακολουθούν μια
+    ασύμμετρη δομή.
+a0d1856ef13e4d451413db0c1fdb233e72fc8d189b5dc4f0c9da3df7:
+  original: In **active voice**, the **subject** is the main actor, the **verb**
+    conveys action, the **direct object** receives the action, and the
+    **indirect object** is the recipient.
+  translated: Στην **ενεργητική φωνή**, το **υποκείμενο** είναι ο κύριος
+    δράστης, το **ρήμα** μεταφέρει την ενέργεια, το **άμεσο αντικείμενο**
+    δέχεται την ενέργεια και το **έμμεσο αντικείμενο** είναι ο παραλήπτης.
+b8a07b54d2227b670651d8f3c958a10ac58895f1284b24a35b73f154:
+  original: Subject
+  translated: Υποκείμενο
+86c555d4fcd0506f7e1c4f6fc65c8cb79d2045d4018574e70a788bdc:
+  original: John
+  translated: Ο Γιάννης
+041b94a5f8c4a200173f57081fdd4641e24ebee1105a2a8b15bf0a07:
+  original: Action
+  translated: Ενέργεια
+577248b5af6b21652852ae5c91387b65279374b67a53d2b0c0ef2509:
+  original: gives
+  translated: δίνει
+0a796990e74f4f32ae45f0aee4d1f2fa5a2a314938482999255a20f6:
+  original: objects
+  translated: αντικείμενα
+52e619aeb9ce8a7df63feed5be09766d12e0222ecb0ff9e0ba33c208:
+  original: Direct Object
+  translated: Άμεσο Αντικείμενο
+50867a78bfd84c5783de3e6ef6a20090a35551c9460730257007e256:
+  original: the ball
+  translated: την μπάλα
+8e867aed550a49abcc75946bafdd0539639bf0378b42fe1f5c5ba1c0:
+  original: Indirect Object
+  translated: Έμμεσο Αντικείμενο
+dc94422b55be1c2addf99e04805a6ed64a8bd2445abf77999284c62d:
+  original: to Mary
+  translated: στη Μαρία
+49002d80b01e85ca7c20844c7ed2271e9174c1978515651bd6192197:
+  original:
+    "In **passive voice**, the **direct object** can be promoted, but the
+    syntax undergoes major changes:"
+  translated:
+    "Στην **παθητική φωνή**, το **άμεσο αντικείμενο** μπορεί να προαχθεί,
+    αλλά η σύνταξη υφίσταται σημαντικές αλλαγές:"
+f17a292d2dc47c92a577dcd7fcad16dba2cd3d9c98246dcf7924cea2:
+  original: The ball
+  translated: Η μπάλα
+b688dd8154f7e685b08157a70063effe91b23083b47b868cfa8ef05b:
+  original: is given
+  translated: δίνεται
+2529b92e4c3a5f74dd73872d02d94c24471add562b7192bd4e92873f:
+  original: recipients
+  translated: παραλήπτες
+f170c69c5d7cba5cd5f7c1aa097c6299164466ed9a52ed1a0ed00176:
+  original: by John
+  translated: από τον Γιάννη
+5663955a0ca1da3a222e1c11a2ae1abae2b143e358a24a926939cd95:
+  original: Arcadia's Symmetric Syntax
+  translated: Η Συμμετρική Σύνταξη της Αρκάδια
+3dc03bb90d0f7671f09a4104b3a6d4799355c216bd03304bf91ab8d4:
+  original: Arcadia's syntax is **symmetric**, following the **Austronesian
+    alignment**.
+  translated: Η σύνταξη της Αρκάδια είναι **συμμετρική**, ακολουθώντας την
+    **Αυστρονησιακή συμφωνία**.
+38872750f087eb480a03bb0fe5883bac0c45f3e2af0d94c7f75bc5ff:
+  original: participants
+  translated: συμμετέχοντες
+d452e9bee36ed3d6499d42da19ce37960206b7fd94290d456af9e8c9:
+  original: Actor
+  translated: Δράστης
+3759db5464f2762d7952e3997b505c253dd3ad8cafd91627ecbbd7c9:
+  original: Patient
+  translated: Πάσχων
+93eecb5d25545215488b2fdb052df26bee6e03350026755a977d743b:
+  original: Recipient
+  translated: Παραλήπτης
+439df76155bffd58142929c1cf78f9d725d8a8269468c480d594e023:
+  original: The **actor, patient, and recipient** can **all** act as the focus.
+  translated: Ο **δράστης, ο πάσχων και ο παραλήπτης** μπορούν να λειτουργήσουν
+    **όλοι** ως η εστίαση της πρότασης.
+c966e8335d5962474316cc98d635161418f2151b805bd0f570a22ef0:
+  original: The recipient here refers to the **receiver of the patient**, **not
+    the action** itself.
+  translated: Ο παραλήπτης εδώ αναφέρεται στον **παραλήπτη του πάσχοντος**,
+    **όχι στην ενέργεια** αυτή καθεαυτή.
+8f0f5e2d513dc424ed1181ea98f8c5c42782972593072ff60b0aa383:
+  original: To fully understand Arcadia's **case system**, refer to the **[Noun
+    Cases Guide][cases]**.
+  translated: Για να κατανοήσετε πλήρως το **σύστημα πτώσεων** της Αρκάδια,
+    ανατρέξτε στον **[Οδηγό Πτώσεων Ονομάτων][cases]**.
+eef23bb1c53af47c34172923046ddb8dcce5ed33aa5adcf468e08b0a:
+  original: For verb transformations, see the **[Verb Generation
+    Guide][generation]**.
+  translated: Για μετασχηματισμούς ρημάτων, δείτε τον **[Κανόνες Δημιουργίας
+    Ρημάτων][generation]**.
+0450f93de11e76e51710fbb54b8b0165f3b532b403382dc7e3a859fe:
+  original: Subclauses
+  translated: Δευτερεύουσες προτάσεις
+7fb0cb7558a30f75356a7777e72a73e6bc4d1300cbb3e20740c607f0:
+  original: Arcadia allows an **infinite number of nested subclauses**, enabling
+    highly expressive ideas.
+  translated: Η Αρκάδια επιτρέπει έναν **άπειρο αριθμό εσωτερικών δευτερευουσών
+    προτάσεων**, επιτρέποντας πολύ εκφραστικές ιδέες.
+0854df735d1c99328bcdec207981aa57d8f944acc2dac9df730843cb:
+  original: Subclauses use the **indicative mood**, meaning they **retain their
+    own subjects**.
+  translated: Οι δευτερεύουσες προτάσεις χρησιμοποιούν την **ενδεικτική
+    διάθεση**, πράγμα που σημαίνει ότι **διατηρούν τα δικά τους υποκείμενα**.
+dd8f8f1143440255d8cfdadc9cd9ba9a763190839b30c327a435251a:
+  original:
+    "**Tense is always relative** to the **preceding clause**, ensuring seamless
+    narrative progression."
+  translated:
+    "**Ο χρόνος είναι πάντα σχετικός** με την **προηγούμενη πρόταση**, εξασφαλίζοντας
+    ομαλή πρόοδο της αφήγησης."

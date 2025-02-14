@@ -1,0 +1,103 @@
+%YAML 1.2
+---
+99e9f5f28aa1f6af6acee388e3415ba2cd2c01d14283c4596a027e88:
+  original: Arcadian Verb Tense System
+  translated: Χρόνοι στην Αρκάδια
+bb0fb92f27fdfd5851426de47aeb2c415a57e589dd696b14873ef1ae:
+  original: "Arcadia distinguishes between **four verb tenses**:"
+  translated: "Η Αρκάδια έχει **τέσσερις χρόνους**:"
+8a35948f7e86538d32015c419f4491036933316ca021c58f697f6bab:
+  original: "**One timeless tense** (not bound by chronological time)"
+  translated: "**Ένας άχρονος χρόνος**"
+afa526673a3dba721148ae1a0cdac66fbc6166af819cc7c1626bc914:
+  original: "**Three timed tenses** (anchored in past, present, or future)"
+  translated: "**Τρεις χρονικοί χρόνοι**"
+4633d4a1e879769370db5dc25406cdb231c0ba38453091838af7d01a:
+  original: Tense indicates the **temporal framework** of a verb's action or
+    state.
+  translated: Ο χρόνος δείχνει το **χρονολογικό πλαίσιο** της ενέργειας ή της
+    κατάστασης ενός ρήματος.
+38894eedc1d5420957f04daf8f56dea36cae84989352b58cb336ab90:
+  original:
+    "[Aspect][aspect], however, is handled separately via aspectual modifiers
+    and is **not embedded** in the tense suffix."
+  translated:
+    "[Το όψη][aspect], ωστόσο, διαχειρίζεται ξεχωριστά μέσω των λέξεων όψης
+    και **δεν ενσωματώνεται** στο επίθημα χρόνου."
+a16a5ae6a4098c409bdc986ccd2172c54099e66eb51db6c409d06a74:
+  original: Tense is marked by **vowel-based suffixes**, which are appended to
+    the verb stem **after** the `-ir` infinitive ending is dropped, and
+    **before** the person-number suffix.
+  translated: Ο χρόνος δηλώνεται με **επίθημα φωνηέντων**, τα οποία προστίθενται
+    στο ριζικό του ρήματος **μετά** την κατάργηση του επιθήματος `-ir` και
+    **πριν** το επίθημα προσώπου-αριθμού.
+52fd5ad34ad8b057196a2c0e5aba3b596de61f49753309ab0262b585:
+  original: Timeless Tense
+  translated: Άχρονος Χρόνος
+ffa9902aa18a30273fb7cbb1095c29b995f9b635ea1c6891d3720d42:
+  original: Arcadia has a timeless tense, veritas, that captures states that
+    aren't bound by time.
+  translated: Η Αρκάδια έχει έναν άχρονο χρόνο, τον αληθινό, που αποτυπώνει
+    καταστάσεις που δεν περιορίζονται από το χρόνο.
+c1320d513b4cdef144599b9c6799c3ed1397051c0f8d2d401f5e2356:
+  original: This tense is used for universal truths, scientific facts, or
+    constants.
+  translated: Αυτός ο χρόνος χρησιμοποιείται για καθολικές αλήθειες,
+    επιστημονικά γεγονότα ή σταθερές.
+7eacc7330369aec400cfa2b4035f2dc4a86b5903ca7854f6dea49b99:
+  original: In indicative mood, it is expressed with the suffix `-uv`.
+  translated: Στη οριστική, εκφράζεται με το επίθημα `-uv`.
+e6093435b7c7836c71a62738829cad66e931f8b944a984a4075068a3:
+  original: Timed Tenses
+  translated: Χρονικοί Χρόνοι
+b6c0df89d69c02f4dc4432d9a412949ca292e56a1166ef482d3d82e4:
+  original: Timed tenses are tied to a specific temporal frame.
+  translated: Οι χρονικοί χρόνοι συνδέονται με ένα συγκεκριμένο χρονολογικό
+    πλαίσιο.
+f2cdd838db150cc9244f851773fa2157f656b656b65336c6e1919ef4:
+  original: Tense
+  translated: Χρόνος
+45400e26ac5abbc99953d2c647926462769620060f3d78ed1fee6c88:
+  original: Suffix
+  translated: Επίθημα
+018cbc7bbdd9d354ac959483a1a9667aed2c6aeb5f75599274d3cec3:
+  original: Meaning
+  translated: Σημασία
+2cd7305cf8c3a97fa41bff9e9ebb84a1b9fa746db845f9720e714ad6:
+  original: Present
+  translated: Ενεστώτας
+18e77b95360c62075285752caf8edeb9a85203e177b3f1a852ec8def:
+  original: current action/state
+  translated: τρέχουσα ενέργεια/κατάσταση
+1083ef829412514da703fcdef27e0528093878409b77e8a1e264a088:
+  original: Past
+  translated: Αόριστος
+d1ed8c4f7278c43a692c207bd0855fafb20a4e14d672a34ff5dba791:
+  original: completed or prior action
+  translated: ολοκληρωμένη ή προηγούμενη ενέργεια
+29c13a0ba2a4871fc490222380fad4d27abc5c89f48504bc007be181:
+  original: Future
+  translated: Μέλλοντας
+d33e1efd73ac5fc45c42f44a173135e14b2e0f821fec80016f25da37:
+  original: anticipated or projected action
+  translated: αναμενόμενη ενέργεια
+91248762f9ff0519dbd8881b50f072fa87b6827b04241dcc5bcf2344:
+  original: These suffixes are placed **after the stem** and **before** the
+    person-number suffix.
+  translated: Αυτά τα επιθήματα τοποθετούνται **μετά τη ρίζα** και **πριν** το
+    επίθημα προσώπου-αριθμού.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+31eada6927a27b5af9694469a5c9226198fba1c3669c287281da383a:
+  original: it is
+  translated: είναι
+ecdbb2e666bd80a10e02c01c79a3891cf512b6a69551ddf31639caaf:
+  original: it was
+  translated: ήταν
+7193a35bd8a1bc5f72d7530469b54bd5dc80cef58d157b3fb28fc854:
+  original: it will be
+  translated: θα είναι
+9b89f77fa1da0bc00974c86d375356478ee89095e25cafe015addb97:
+  original: it was, it is, and it will be
+  translated: ήταν, είναι και θα είναι

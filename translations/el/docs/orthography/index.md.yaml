@@ -1,0 +1,135 @@
+%YAML 1.2
+---
+8b0820184130e0ba505523b9a95de9c93944cb5283e2eb3376ab5c79:
+  original: Orthography & Phonology of Arcadia
+  translated: Ορθογραφία και Φωνολογία της Αρκάδια
+5426353361d643449054b1c9ee04663d270d76eccb7a01316060292b:
+  original: Arcadia maintains a **one-to-one correspondence** between its
+    written and spoken forms, ensuring clarity while allowing flexibility in
+    accent variations.
+  translated: Η Αρκάδια διατηρεί μια **ένα προς ένα αντιστοιχία** μεταξύ του
+    γραπτού και του προφορικού λόγου, εξασφαλίζοντας σαφήνεια ενώ επιτρέπει
+    ευελιξία στις παραλλαγές τονισμού.
+f82795fcbaab1ddda46329b0be48fd3cfa74d60b0c456e9169f44678:
+  original: The language uses **23 Latin letters**, excluding ⟨k⟩, ⟨q⟩, and ⟨w⟩,
+    along with digraphs and well-defined stress rules to maintain uniformity.
+  translated: Η γλώσσα χρησιμοποιεί **23 λατινικά γράμματα**, εξαιρουμένων των
+    ⟨k⟩, ⟨q⟩, και ⟨w⟩, καθώς και δίψηφα σύμφωνα και καλά καθορισμένους κανόνες
+    τονισμού για τη διατήρηση της ομοιομορφίας.
+16fb1bcf30c1489419071ce35ca348676b2c675e5eb7259351754e73:
+  original: There are **no silent letters or capitalization** in Arcadia.
+  translated: Δεν υπάρχουν **σιωπηλά γράμματα ή κεφαλαία** στην Αρκάδια.
+949b348c3c16f31b23024865fcd470df24b6ca5611ab2caf29140ff6:
+  original: A complete table of pronunciation for each letter and digraph can be
+    found [here][letters].
+  translated: Ένας πλήρης πίνακας προφοράς για κάθε γράμμα και δίψηφο σύμφωνο
+    βρίσκεται [εδώ][letters].
+5a628d4d0d941e339dc966db71a2c02e839f50a2c8c1d3728a7a7bf8:
+  original: The /ks/ sound is **always** written always as ⟨x⟩ and never as
+    ⟨cs⟩.
+  translated: Ο ήχος /ks/ γράφεται **πάντα** ως ⟨x⟩ και ποτέ ως ⟨cs⟩.
+be9d6b8bae37d65e29c353598ec96160a0181d0911470d9f943dac9f:
+  original: Pronunciation Flexibility
+  translated: Ευελιξία Προφοράς
+32fb6a22d35658df2405f37279c7e6ed272479d672f316551cc4a0e3:
+  original: Arcadia allows a **broad range of phonetic variations** while
+    maintaining core sounds.
+  translated: Η Αρκάδια επιτρέπει ένα **ευρύ φάσμα φωνητικών παραλλαγών**
+    διατηρώντας τους βασικούς ήχους.
+6cfa1efb135a23b56762245f118cef09fdea73e944b2bf3b7bb876d4:
+  original: For example, ⟨r⟩ is pronounced as /r/, but distinctions like trilled
+    vs. tapped carry **no functional load**.
+  translated: Για παράδειγμα, το ⟨r⟩ προφέρεται ως /r/, αλλά οι διακρίσεις
+    μεταξύ τους δεν έχουν **λειτουργικό φορτίο**.
+150b5501207c60211d31ffb03648347a1f5a5d608e7c57a20088cade:
+  original: The phonological system is designed for **cross-cultural
+    accessibility**, ensuring natural variation.
+  translated: Το φωνολογικό σύστημα έχει σχεδιαστεί για να είναι
+    **διαπολιτισμικά προσβάσιμο**, επιτρέποντας πολλές διαφορές στην προφορά.
+d9cd901d13b4236729355fc2bcfaa4d06c6d2890d887d2ac7a002d44:
+  original: Arcadia's punctuation system, along with the meanings of each mark,
+    is detailed in the [Punctuation][punctuation] section.
+  translated: Το σύστημα σημείων στίξης της Αρκάδιας, μαζί με τις σημασίες κάθε
+    σημείου, αναλύεται στην ενότητα [Σημεία στίξης][punctuation].
+020da10611bd891694858c5909b82b9109977c369ef459422d64e177:
+  original: Accentuation
+  translated: Τονισμός
+ea707e90a219543d24c5afdb09a73554e6f6d482ff9b653db8eab701:
+  original: Monosyllabic words are **always stressed** on their sole syllable,
+    eliminating the need for accent marks.
+  translated: Οι μονοσύλλαβες λέξεις είναι **πάντα τονισμένες** στη μοναδική
+    τους συλλαβή, εξαλείφοντας την ανάγκη για σημάδια τόνου σε αυτές.
+15dca5d2a345398a058aae6fe597bd39d07b0dff97a8d3405fbb9673:
+  original: For multisyllabic words, stress can fall on the **ultimate,
+    penultimate, or antepenultimate** syllable.
+  translated: Για τις πολυσύλλαβες λέξεις, ο τονισμός μπορεί να πέσει στην
+    **τελευταία, προτελευταία ή προπροτελευταία** συλλαβή.
+35a6ab080176f6d7029d9e9c48c0eebe66809f23d68878be624231b5:
+  original: To minimize accents, only words **not stressed on the penultimate
+    syllable** require marking.
+  translated: Για να ελαχιστοποιηθούν οι τόνοι, μόνο οι λέξεις που **δεν
+    τονίζονται στην προτελευταία συλλαβή** απαιτούν τόνο.
+4eecdb7fd5e8795837478cdbf7bf896c34b2e33635e0bc37e1f61d17:
+  original: No accent mark
+  translated: Χωρίς τόνο
+5bd9a812560fda6188c8892eea34819980b1267958a5d1dc879cf6b1:
+  original: Stress defaults to the penultimate syllable (_ho.mis_ → /'homis/).
+  translated: Ο τονισμός είναι στην προτελευταία συλλαβή (_ho.mis_ → /'homis/).
+2fee2377433991e675b8d3050433d80251bb5a3681f8ed1455e841f2:
+  original: Acute accent
+  translated: Οξεία
+8a565a8caf2e6ed50c960103f661f1821381effdc1c55ccd3c70d2dc:
+  original: Marks a **non-penultimate stress** (_a.sé_ → /a'se/).
+  translated: Δηλώνει **τονισμό στην τονισμένη συλλαβή** (_a.sé_ → /a'se/).
+a943ddb4792ff3408b0fc3e524ca23f48fd86cf8d0b88fb73f64895f:
+  original: Vowel Merging
+  translated: Συγχώνευση φωνηέντων
+9e7079d636f64b9eba07418a8e0755556325cdc5a375d8bbd41ecaba:
+  original: Adjacent identical vowels **merge** (_mee_ → _mē_), but in casual
+    text, merged vowels are typically written in their simplified form (_me_).
+  translated: Τα διαδοχικά όμοια φωνήεντα **συγχωνεύονται** (_mee_ → _mē_), αλλά
+    τα συγχωνευμένα φωνήεντα γράφονται στην απλοποιημένη μορφή τους (_me_).
+82b424d2f74cb3069e95f98b7dfc25e84aa73dc7348ffd39a2d0cbcc:
+  original: A **macron (¯)** is used only in **dictionaries or grammatical
+    references** to indicate vowel merging.
+  translated: Ένα **μακρό (¯)** χρησιμοποιείται μόνο σε **λεξικά ή γραμματικές
+    αναφορές** για να δηλώσει τη συγχώνευση φωνηέντων.
+b4e2406005100de6af748392ee795802f99189447498c0fe5e3f4093:
+  original: Punctuation
+  translated: Σημεία στίξης
+b48fab77123b325ebc7b325fa5880de1bce72c09d5a9c8cc18bc8991:
+  original:
+    "If a quoted sentence **ends with the same punctuation mark** as the main
+    sentence, the punctuation is placed **outside** the quotation:"
+  translated:
+    "Εάν μια πρόταση μέσα σε εισαγωγικά **τελειώνει με το ίδιο σημείο στίξης**
+    όπως η κύρια πρόταση, το σημείο στίξης τοποθετείται **μόνο έξω από την παράθεση**:"
+063fcc2530caa3dc0bd6016d39cba88390e3e1d57166ebda1abe7511:
+  original: He said, "This is correct".
+  translated: Είπε, «Αυτό είναι σωστό».
+07ebe72d120c5465125880cf9f1a88b0dfe11cb92119bcc0b5f31f77:
+  original: He said, "This is correct.".
+  translated: Είπε, «Αυτό είναι σωστό.».
+099b08f43dd82af8c00fcca8b6e85d45a07f99c43ca24e636cef4aef:
+  original: He said, "This is correct."
+  translated: Είπε, «Αυτό είναι σωστό.»
+64443e260b63e571905e6f54e4117bb40520c743e903856fb6ad7525:
+  original: Loanwords & Names
+  translated: Δάνεια και Ονόματα
+1bf7b15dba70ebaf6edb307907b37013dd806a6fcbd4c5bf4f39385b:
+  original: Proper names that retain **standard Latin spelling** remain
+    unchanged (_tokyo_), even if they contain ⟨k⟩, ⟨q⟩, or ⟨w⟩.
+  translated: Τα κύρια ονόματα που διατηρούν την **τυπική λατινική ορθογραφία**
+    παραμένουν αμετάβλητα (_tokyo_), ακόμη και αν περιέχουν ⟨k⟩, ⟨q⟩ ή ⟨w⟩.
+68310d4a64ef78ff3dee47fdf53686b1de98a4a4f80684bf2810bacc:
+  original: Also, standard units of measurement and symbols are used without
+    modification, even if they contain capital letters, eg _kWh_.
+  translated: Επίσης, οι τυπικές μονάδες μέτρησης και τα σύμβολα
+    χρησιμοποιούνται χωρίς τροποποίηση, ακόμη και αν περιέχουν κεφαλαία
+    γράμματα, π.χ. _kWh_.
+a3d0508b71644e4ac83c3f78b56f956eea7e60d97b1553d7617dfa9b:
+  original: To aid pronunciation, **double colons** (_::_) may be used upon the
+    first occurrence of such a name (_mike ::maic::_).
+  translated: Για να την διευκόλυνση του αναγνώστη, μπορεί να χρησιμοποιηθεί η
+    **διπλή άνω τελεία** (_::_) στην πρώτη εμφάνιση ενός τέτοιου ονόματος (_mike
+    ::maic::_).

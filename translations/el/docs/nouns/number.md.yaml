@@ -1,0 +1,87 @@
+%YAML 1.2
+---
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+6c57c8626b6cfc502b58476b24c106eab4911aa1c82e2abe1497d37a:
+  original: Numbers are formed by adding a **suffix** to the root word.
+  translated: Οι αριθμοί σχηματίζονται προσθέτοντας ένα **επίθημα** στη ρίζα της
+    λέξης.
+6e56a51642ba3564079c329acb4d6a00ffc828442b479c7f27614b91:
+  original: The semantic meaning of the suffix **varies** depending on whether
+    the noun is **countable or uncountable**.
+  translated: Η σημασιολογική έννοια του επιθήματος **διαφέρει** ανάλογα με το
+    αν το ουσιαστικό είναι **μετρήσιμο ή μη μετρήσιμο**.
+920ba0153c651eaac637ad52dc214515dec366297283f37ce7837a5d:
+  original: Countable Nouns
+  translated: Μετρήσιμα ουσιαστικά
+270ee2f422ddbf32082e58be357611a8d7fdcbbb848b11453137e26c:
+  original: Countable nouns are those that can be **quantified as discrete
+    units**, such as apples, kilograms, and humans.
+  translated: Τα μετρήσιμα ουσιαστικά είναι αυτά που μπορούν να
+    **ποσοτικοποιηθούν ως διακριτές μονάδες**, όπως μήλα, κιλά και άνθρωποι.
+e75183e5e01c9bd963f22b95c8bc30e65eb49b0abbb8a010aa1adfa6:
+  original: 'Using **"libri"** (_book_), here are the suffixes:'
+  translated: 'Χρησιμοποιώντας το **"libri"** (_βιβλίο_), τα επιθήματα είναι:'
+45400e26ac5abbc99953d2c647926462769620060f3d78ed1fee6c88:
+  original: Suffix
+  translated: Επίθημα
+45be9eeb144a4067b74f04e5b8f73c26379ff8325fdd2858bb749dfe:
+  original: Example
+  translated: Παράδειγμα
+018cbc7bbdd9d354ac959483a1a9667aed2c6aeb5f75599274d3cec3:
+  original: Meaning
+  translated: Σημασία
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+e9c923901ac37313ddab93cee56bfd47531f7e0513055de1461d264c:
+  original: '"exactly one book"'
+  translated: «ακριβώς ένα βιβλίο»
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+650901215c8e68daca850dd18f1bc896798b4837759521a8a054b369:
+  original: '"part of a book" (<1 unit)'
+  translated: «μέρος ενός βιβλίου» (<1 μονάδα)
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+5818c4da67d81ae6866c37baaeb7f8bf304933afd1641db92c7599a1:
+  original: '"books" (>1, including fractions)'
+  translated: «βιβλία» (>1, συμπεριλαμβανομένων των κλασμάτων)
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+dbe7f1a0840f6b3c677c38a178d10e6ae464be2c4dff8f743697987a:
+  original: '"no books"'
+  translated: «κανένα βιβλίο»
+0358541812b0cfb3f64c77b4a38004273f2581ef472e6abd4cde908a:
+  original: Total
+  translated: Ολικός
+baf953dda2be66a79802d2010107391e964a81c9be4905234d6e4bda:
+  original: '"all books"'
+  translated: «όλα τα βιβλία»
+b7fdac3ff250ced8a6e0b94abd624b26f4d519621beef9c5b3e17152:
+  original: "**Negative quantities** take the **same suffix** as their positive counterpart."
+  translated:
+    "**Αρνητικές ποσότητες** παίρνουν το **ίδιο επίθημα** με την θετική
+    τους αντίστοιχη."
+04a65d6fd54a45af17846c50a1a7f171747093dfe23c47f9313b749c:
+  original: Uncountable Nouns
+  translated: Μη μετρήσιμα ουσιαστικά
+4d29ffd4925e0aecd53a451824a5b0696543cec5702cdb74c7ee3cab:
+  original: '"love" (unspecified amount)'
+  translated: «αγάπη» (μη καθορισμένη ποσότητα)
+3ba2cfc7e245a46c480405c9ede747d3cbd47940bfc21c227fa175fd:
+  original: '"a little love"'
+  translated: «λίγη αγάπη»
+cce06020312f1bfa0c096fa0cd1512b7b7cdda9a22d8b2021564e222:
+  original: '"abundant love"'
+  translated: «άφθονη αγάπη»
+1f8d196fa60fc118ec06a36e7d5c696703ab3063a0e57da42d0aad04:
+  original: '"no love"'
+  translated: «καθόλου αγάπη»
+f69b3be33a0a31acb3dde34452edeaae2d595d393f0b6645f313c51e:
+  original: '"all love"'
+  translated: «όλη η αγάπη»

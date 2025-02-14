@@ -1,0 +1,120 @@
+%YAML 1.2
+---
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: Επίθετα
+ddb1318438f14bb3005cee5474a1da642791d9c767abbda0d05b0325:
+  original: In Arcadia, adjectives match the **class of the noun they modify**,
+    and thus exist in all five classes.
+  translated: Στην Αρκάδια, τα επίθετα έχουν την **τάξη του ουσιαστικού που
+    τροποποιούν**, και έτσι υπάρχουν και στις πέντε τάξεις.
+1d9ffa70b87af9119a1a0bfc65e42bb3cce4786e8922945595e5316a:
+  original: However, in dictionaries, adjectives are always listed in their
+    **solid class** form.
+  translated: Ωστόσο, στα λεξικά, τα επίθετα αναφέρονται πάντα στην **στερεή
+    τάξη**.
+1162dfdae3643d9dc3cb0c83379a95ef41f158ec6eb5339e58ff306b:
+  original: Opinion
+  translated: Γνώμη
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+2050f88c7f59c5467cb45f43d6751276e9dcd6d47df375cc96bdc5a8:
+  original: beautiful
+  translated: όμορφος
+2a86879bccb4e61e869af608862b72b41756b48a8c943facc16c3c75:
+  original: ugly
+  translated: άσχημος
+f2e96e011247935e6495dd25157b931a37b01b83bf298e7087b732e9:
+  original: good
+  translated: καλός
+5c5878f00e6557b858c10582b3d7ad2926809a36a790187d578a2a91:
+  original: bad
+  translated: κακός
+bc980059cfc876a2704bff0415e97243dbb1a778f91cf9053d02b67e:
+  original: Size
+  translated: Μέγεθος
+ab465e3e1660e610de9417eee6fe08b3dcb9c379f48f3337eba9e596:
+  original: big
+  translated: μεγάλος
+a2a4a4e25f9b6f0caf9ecd9208947d88813757df379f7ddaa1d6aa12:
+  original: small
+  translated: μικρός
+9fd62a8ad42058e5a7066a65c89f43d4d2660a641e4c7369d16a6ece:
+  original: long
+  translated: μακρύς
+350666dd5ad8695a1ef209e6dee74762be8de99e8ea3d1a252b11f13:
+  original: short
+  translated: κοντός
+e2a769b68d98b77a47083fa04abbbf426c603462620cb7fcd4e079f3:
+  original: fat
+  translated: παχύς
+9f3187843ba2759b6f976fcf2ab6f1b7abf8e1174172418ef05dbe01:
+  original: thin
+  translated: λεπτός
+0aded8796e86fd6520171870b4dcfaf8e0779f528690154e5e8b5dd6:
+  original: Age
+  translated: Ηλικία
+666ba0a374db38ed08254c128184034bf5a73a57c44296a44d4a1370:
+  original: new
+  translated: νέος
+92282643820d00705a35eaea5903257169f1001b32f35fae8ba15421:
+  original: old
+  translated: παλιός
+5a70fa587a886e13938f8a22df46b228cef2ecca5183c057059e84ce:
+  original: Light Intensity
+  translated: Φωτεινότητα
+f800cbc48fd0eb84e2ea25455a5cc15ab21b48e89d943393e4bbc40a:
+  original: bright
+  translated: φωτεινός
+3860c0c711c8d6c292e2131b6df411dbf43653d88494f4053841f3b2:
+  original: dim
+  translated: σκοτεινός
+7133c2a5d99a4170202595002f4aa7e3b6f3e9a9829e2eae62cce148:
+  original: Temperature
+  translated: Θερμοκρασία
+5c67d72559dae666b8a0e9c2b06fdad712b21ce075ebc1dbff6fba16:
+  original: hot
+  translated: ζεστός
+1708552bdf81487e72aae9cf757298742d9af119c3c8ad4a246f61b1:
+  original: cold
+  translated: κρύος
+d00fad86c833d965f7606102a145be75de5569e523cf940298e69436:
+  original: Emotion
+  translated: Συναίσθημα
+772a8b2edeefb88313c3ab7662a00ddea51efd7f6c67e85b88d40048:
+  original: happy
+  translated: χαρούμενος
+65fe03878552b6a47e9644e381df40249708d60fe580f7d52fa4fb76:
+  original: sad
+  translated: λυπημένος
+deb663812e643984787746aa2e295bdc2a6c1d8f2df24c3dc9b170d6:
+  original: Wealth
+  translated: Πλούτος
+7c773b51bcc39bbfed99d30de98b5830970545e6c258cf1d713995d1:
+  original: rich
+  translated: πλούσιος
+8c0df5744887f8814d51142cff591bd5c1c504faf565bace6c161b00:
+  original: poor
+  translated: φτωχός
+4889890f6badb97cb1dcd30dc8b8041ea555514d6bb6dd43b17a60c0:
+  original: Taste
+  translated: Γεύση
+a1b0227fc8e4eb7cefbfa7cb04e952eab8d1577510e0a076e7d4e9f1:
+  original: sweet
+  translated: γλυκός
+fe3837bca553565aaed0c3e60329dea26907c584897031913c8ceb3b:
+  original: salty
+  translated: αλμυρός
+d15774e8d1beb53a14faf08f68d3a47873f5acc3c37b66c542b726f1:
+  original: umami
+  translated: ουμάμι
+c02a048cbc4e6df71198a1c7e02a8f67a25a439da61ca4df785d8537:
+  original: sour
+  translated: ξινός
+f71f71264f63293a4e9e2b6be477fc1cc41e26b168fbac06be6df3df:
+  original: bitter
+  translated: πικρός

@@ -1,0 +1,79 @@
+%YAML 1.2
+---
+a7bea49906f40d89717f0ae7e972f2bfa311d80dcb9fa91f20f192d7:
+  original: Full declension table
+  translated: Πλήρης κλίση
+ac00df133330995c11155755fff06bfa03fa2d02d7dc856b252b247d:
+  original: Declension of nouns in Arcadia is highly regular, therefore the
+    declension tables are not very useful.
+  translated: Η κλίση των ουσιαστικών στην Αρκάδια είναι πολύ κανονική, επομένως
+    οι πίνακες κλίσης δεν είναι πολύ χρήσιμοι.
+5ee4d4244467c2c1b08fbbabe7bf06b360f232edb1f17eee225f4e1a:
+  original: They are provided here for completeness.
+  translated: Παρέχονται εδώ για πληρότητα.
+7c4ad9a8fd441f27f0d11372fdd4dd28aaa102b2b9b201095e721884:
+  original: -i class
+  translated: τάξη -i
+8f240a8fcf5b3f37db470bb7a946d891931566d1973f5d15ad47f951:
+  original: Case
+  translated: Πτώση
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+0358541812b0cfb3f64c77b4a38004273f2581ef472e6abd4cde908a:
+  original: Total
+  translated: Ολικός
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+8f7339edadf8faceef26214998652f4117a425ffb6614031663d4ac4:
+  original: Ergative
+  translated: Εργατική
+ca4eebdc47e74d6f04472692e189d123c29476aa2becc08c21ca1c2e:
+  original: Absolutive
+  translated: Απόλυτη
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+dec3f3f429384ba43f03b150c315968990684f5049aa935c9a3a19dc:
+  original: Thematic
+  translated: Θεματική
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+7de08ce905c925183368cfae0f20bb7627004f2cdbbbaaa42331620d:
+  original: Prepositional
+  translated: Προθετική
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
+eccaefcb213834ac46ce3099b73e170a59767e4e239a16c257057ab9:
+  original: Instrumental
+  translated: Οργανική
+d3fdae2e1249989a10ff6b841a55bfc23806e1f4449d08ab1b8427bc:
+  original: Benefactive
+  translated: Ωφελητική
+86669dc2b3b366234350dd8584038e1869c29c145294cc017e4f0ec3:
+  original: -e class
+  translated: τάξη -e
+5584a487a0049b740c6cdb46c6b76784732b370d7bcefcd918d264f3:
+  original: -a class
+  translated: τάξη -a
+b9f6ef9fcabe2e171e9a36c98882ecaa1ae1eb377729e23f75e7a794:
+  original: -u class
+  translated: τάξη -u

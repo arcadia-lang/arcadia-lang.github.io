@@ -1,0 +1,51 @@
+%YAML 1.2
+---
+50ff40ca3b6578fc15bcb74bde0b6b51c1557a473025e7b8d1cb830e:
+  original: Gender
+  translated: Γένος
+0440f4395b6844626391807dce485b87c769c79267e0358b322b3ec4:
+  original: Arcadia is not an **inherently gendered language** and does not
+    require nouns to be marked for **male** or **female** identity.
+  translated: Η Αρκαδία δεν είναι μια **έμφυλη γλώσσα** και δεν απαιτεί τα
+    ουσιαστικά να δηλώνουν αν αναφέρονται σε **αρσενικό** ή **θηλυκό**.
+84a999fb06ac78c076ed3eed9c682486ba164d838b77c804f584d7ea:
+  original: Gender-specific prefixes are **optional** and used **only** when
+    gender is contextually relevant.
+  translated: Τα έμφυλα προθέματα είναι **προαιρετικά** και χρησιμοποιούνται
+    **μόνο** όταν το φύλο είναι σχετικό με το περιεχόμενο.
+cd8b4e448aa600987fe0e9bf8b88878968093dd37b580798130ea065:
+  original: Gender Prefixes
+  translated: Έμφυλα Προθέματα
+1dfaf9fadd0a55b6b93a9f836846e70531057ca2b59fd6d69d53e825:
+  original:
+    "The following **optional** prefixes may be applied to nouns to **indicate
+    gender**:"
+  translated:
+    "Τα παρακάτω **προαιρετικά** προθέματα μπορούν να προστεθούν στα ουσιαστικά
+    για να **δηλώσουν το φύλο**:"
+95911e6bda777d00fa6ba8a0496979fd1b3e1a3a10759ba4e364830d:
+  original: Indicates male gender (e.g., _pafili_ = "son").
+  translated: Δηλώνει αρσενικό φύλο (π.χ., _pafili_ = "γιός").
+14f14f88e879f8e2eba24d2d4d49507cb1a7a07d9f54f438ec89897c:
+  original: Indicates female gender (e.g., _mafili_ = "daughter").
+  translated: Δηλώνει θηλυκό φύλο (π.χ., _mafili_ = "κόρη").
+e0ef839af1d26928c627fa1d4a202ec76b85856d0afa6147383d0f00:
+  original: When gender is **not relevant**, nouns remain **unmarked** (e.g.,
+    _fili_ = "child").
+  translated: Όταν το φύλο δεν είναι **σχετικό**, τα ουσιαστικά παραμένουν **μη
+    επισημασμένα** (π.χ., _fili_ = "παιδί").
+043e09b68c26454726a0715ddc55e3be6c978af31150ac0a7de29598:
+  original: Using Non-Grammatical Gender
+  translated: Χρήση Μη-Γραμματικού Φύλου
+559764e3e42a3817cae96ed25f158026e7897b961248e0fe9ce9bb06:
+  original: Gender prefixes should not be used unless **explicitly** necessary
+    for **clarity** or **emphasis**.
+  translated: Τα έμφυλα προθέματα δεν θα πρέπει να χρησιμοποιούνται εκτός αν
+    είναι **ρητά** απαραίτητα για **σαφήνεια** ή **έμφαση**.
+c2dff30e340fbf8096f81d12b61c4ff87119a4ecf2f5b91486a09c44:
+  original: For example, the **unmarked** noun _fili_ is **preferred in most
+    contexts**, while _pafili_ or _mafili_ are used only when specifying gender
+    is pertinent.
+  translated: Για παράδειγμα, το **μη-έμφυλο** ουσιαστικό _fili_ είναι
+    **προτιμότερο στις περισσότερες περιπτώσεις**, ενώ τα _pafili_ ή _mafili_
+    χρησιμοποιούνται μόνο όταν η προσδιορισμός του φύλου είναι σχετικός.

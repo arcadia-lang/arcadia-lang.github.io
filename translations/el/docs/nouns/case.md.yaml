@@ -1,0 +1,139 @@
+%YAML 1.2
+---
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: Πτώσεις
+70625d2577657545ce743b8a1ebd2a2e313ff96a3d7d5f027cc8218e:
+  original: Arcadia employs **eleven grammatical cases**, each marked by a
+    distinct suffix.
+  translated: Η Αρκάδια χρησιμοποιεί **έντεκα γραμματικές πτώσεις**, η καθεμία
+    με ένα ξεχωριστό επίθημα.
+fe2af2998fa52d59b84fa70ce4562a0a2c0dcecfc529e18645d4f7bd:
+  original: These cases define the **syntactic role** of a noun within a
+    sentence, facilitating a focus-based, Austronesian-inspired alignment
+    system.
+  translated: Αυτές οι πτώσεις καθορίζουν τον **συντακτικό ρόλο** ενός
+    ουσιαστικού μέσα σε μια πρόταση, διευκολύνοντας ένα σύστημα ευθυγράμμισης
+    εμπνευσμένο από τις αυστρωνησιακές γλώσσες.
+56eaed68a64a474c89079c564bcc9492c893fb962d5d139f0028c0aa:
+  original: Case Suffixes
+  translated: Επίθημα Πτώσεων
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+45163a0b7665a6a0d34b92244255c5f3b4da5c739c4ca8f3c4e16bb8:
+  original: Marks the focused argument of the sentence.
+  translated: Δηλώνει το επίκεντρο της πρότασης.
+8f7339edadf8faceef26214998652f4117a425ffb6614031663d4ac4:
+  original: Ergative
+  translated: Εργατική
+619666c804acf4275ae983b7c3744e895049489725577af778b3f1b7:
+  original: Marks the unfocused actor of action verbs.
+  translated: Δηλώνει τον μη εστιασμένο υποκείμενο των ρημάτων δράσης.
+ca4eebdc47e74d6f04472692e189d123c29476aa2becc08c21ca1c2e:
+  original: Absolutive
+  translated: Απόλυτη
+a06de7b3d3a142507e47a52a649b37c7872f799d7909a5acda377b67:
+  original: Marks the unfocused experiencer of experiential verbs.
+  translated: Δηλώνει τον μη εστιασμένο βιωματικό αποδέκτη των ρημάτων
+    εμπειρίας.
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+89f8306e2f6a41c299d49d3f4ec670067b75825b595b0c7c2ad3f07d:
+  original: Marks the unfocused patient of action verbs.
+  translated: Δηλώνει τον μη εστιασμένο πάσχοντα των ρημάτων δράσης.
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+f6ec7288b6f2646543ec30e0371b706d03fe458047b057c4a4f4a1c9:
+  original: Marks the unfocused receiver of action verbs.
+  translated: Δηλώνει τον μη εστιασμένο αποδέκτη των ρημάτων δράσης.
+dec3f3f429384ba43f03b150c315968990684f5049aa935c9a3a19dc:
+  original: Thematic
+  translated: Θεματική
+843bc73d1ba66f8b124f59c8b9120c81723a8f7816a7eb68941e1ce0:
+  original: Marks the unfocused stimulus of experiential verbs.
+  translated: Δηλώνει το μη εστιασμένο ερέθισμα των ρημάτων εμπειρίας.
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+23016fcf436bb07f8772fa448368127ba44075d3cc48cf45b56b7ed8:
+  original: Marks the predicate of a linking verb.
+  translated: Δηλώνει το κατηγόρημα ενός συνδετικού ρήματος.
+7de08ce905c925183368cfae0f20bb7627004f2cdbbbaaa42331620d:
+  original: Prepositional
+  translated: Προθετική
+047d13c8e656af4f74eab0e65d50124cf5a765c936483acccd4913fa:
+  original: Used after prepositions to indicate location or relation.
+  translated: Χρησιμοποιείται μετά από προθέσεις.
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
+bd0cf676d4350bad12fe2db5952f2fdd98b6e84740bc682792877725:
+  original: Used for direct address.
+  translated: Χρησιμοποιείται για προσφώνηση.
+eccaefcb213834ac46ce3099b73e170a59767e4e239a16c257057ab9:
+  original: Instrumental
+  translated: Οργανική
+c2f32a5b60be65524feb543e3ccb2bf31918366168ff64b483b4f8dc:
+  original: Marks the instrument of an action.
+  translated: Δηλώνει το όργανο μιας ενέργειας.
+d3fdae2e1249989a10ff6b841a55bfc23806e1f4449d08ab1b8427bc:
+  original: Benefactive
+  translated: Ωφελητική
+56026c216d970c180723a9d665233210f65ff9a51a7c687a0d12687b:
+  original: Marks the beneficiary of an action.
+  translated: Δηλώνει τον ωφελούμενο μιας ενέργειας.
+05910ffc9391f8905e47e29262f46baf5e20cb706475e97da24e0167:
+  original: Vowel Merging Rules
+  translated: Κανόνες συγχώνευσης φωνηέντων
+d6ca824cf462d5f73b425fa6c9af060b34667d6b066ab810d43dd81f:
+  original: In Arcadia, all noun stems **end in a vowel**, determined by the
+    noun's grammatical class.
+  translated: Στην Αρκάδια, όλα τα ουσιαστικά καταλήγουν σε φωνήεν, το οποίο
+    καθορίζεται από την γραμματική κατηγορία του ουσιαστικού.
+e367c7d41216604be60d0e24543a245f4c381aee434cfe787cb91ccf:
+  original:
+    "Case suffixes **begin with a vowel**, and specific merging rules apply
+    when a noun stem's final vowel interacts with a case suffix's initial vowel to
+    ensure phonological consistency:"
+  translated:
+    "Τα επιθήματα πτώσεων **ξεκινούν με φωνήεν**, και συγκεκριμένοι κανόνες
+    συγχώνευσης ισχύουν όταν το τελικό φωνήεν του ουσιαστικού αλληλεπιδρά με το αρχικό
+    φωνήεν του επιθέματος πτώσης για να διασφαλίσουν τη φωνολογική συνέπεια:"
+f5cf3a145e61be503c7be043cd49dc2d84111b20692193122206374e:
+  original: Front Vowels (-i, -e)
+  translated: Μπροστινά Φωνήεντα (-i, -e)
+dc27629928c85487163a331114e0fcd7f8b4e10fab93a9876b2129fd:
+  original: No merging occurs when the noun stem ends in a front vowel.
+  translated: Δεν συμβαίνει συγχώνευση όταν το ουσιαστικό καταλήγει σε μπροστινό
+    φωνήεν.
+941487af8a2e47e1967ec339b9c1820ace43c14bd863b5ec6a743a1b:
+  original: Back Vowels (-a, -o, -u)
+  translated: Πίσω Φωνήεντα (-a, -o, -u)
+82ba12542aaf87ab697537f4cfa3a337b36e1a139d08a68d5e66fa59:
+  original: Consonant Cases (nominative, ergative, absolutive, accusative,
+    dative, thematic)
+  translated: Πτώσεις με σύμφωνο (ονομαστική, εργατική, απόλυτη, αιτιατική,
+    δοτική, θεματική)
+c62f8c822e5b24b3b3fd8fd89ce1135161178aa8f73b0cc72fd9191c:
+  original: The case suffix's vowel is dropped, retaining the stem's vowel
+    (e.g., _luna-il_ → _lunal_).
+  translated: Το φωνήεν του επιθέματος πτώσης αφαιρείται, διατηρώντας το φωνήεν
+    του στελέχους (π.χ., _luna-il_ → _lunal_).
+63c91aac7ca14a3286280ee3557e8287c7c691f42afab47bf5730eab:
+  original: Vowel Cases (predicative, prepositional, vocative, instrumental,
+    benefactive)
+  translated: Πτώσεις με φωνήεν (κατηγορηματική, προθετική, κλητική, οργανική,
+    ωφελητική)
+764840d318aa482ccb48bc07a10df9d13294733a8193ff7e1a4c7b34:
+  original: The stem's final vowel is dropped, retaining the case suffix's vowel
+    (e.g., _luna-is_ → _lunas_).
+  translated: Το τελικό φωνήεν του στελέχους αφαιρείται, διατηρώντας το φωνήεν
+    του επιθέματος πτώσης (π.χ., _luna-is_ → _lunas_).
+311b535280332a509434ec771d622a186557df6073c71f941d751d47:
+  original: In non-singular numbers, there is no merging, as the number suffix
+    ends in a consonant.
+  translated: Στους μη ενικού αριθμούς, δεν συμβαίνει συγχώνευση, καθώς το
+    επίθημα αριθμού λήγει σε σύμφωνο.

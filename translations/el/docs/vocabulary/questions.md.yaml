@@ -1,0 +1,164 @@
+%YAML 1.2
+---
+9c8b9f6c8ea3417abc3de0b18bb32aaa8cd1a1fec3a1a54ef860bfae:
+  original: Questions
+  translated: Ερωτήσεις
+34dc228009b92440ce49eca689f02373b03d66230430e01993db6045:
+  original: Yes/No question
+  translated: Ερώτηση ναι/όχι
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+252809b3df686846891dff101c7abff0fb8326bbc9efe6e781886703:
+  original: yes/no question
+  translated: ερώτηση ναι/όχι
+32dc4538fdbd62c40ef9969b82b400612aeba7d6e39ae4ec1c67eabe:
+  original: yes
+  translated: ναι
+03a6760618adc28219022da90c7720f600de6507e99ba524573e6dcd:
+  original: no
+  translated: όχι
+9ba186289c85ac17366065f94f7e40c71002b14e1f7f771a89154cb2:
+  original: acknowledgment
+  translated: αναγνώριση
+c68acc9b8060e3b2fbd7200520d1b7a114856bc2e28a0b301db59127:
+  original: Who/what
+  translated: Ποιος/τι
+71bf6f4edd356500b23a0717ca9c6e96749e9bdc3e449d7703bf6140:
+  original: who/what
+  translated: ποιος/τι
+cd646b0f5600c7fe24346290eda0effe0436a49b10f9a32536e60773:
+  original: no one/nothing
+  translated: κανένας/τίποτα
+058777abd0b779ad1259c0d8fd9292ba1961077cfd64fb078356ff38:
+  original: anyone/anything
+  translated: οποιοσδήποτε/οτιδήποτε
+a12abd5dc1686d9035c6d41a3b7167a4b002c534371038f703781e03:
+  original: someone/something
+  translated: κάποιος/κάτι
+7e2d5f4f87f08d2c7e8cdefbf46ce1d03acc41f04964dce7668b1a72:
+  original: everyone/everything
+  translated: όλοι/τα πάντα
+8744f5e65e771ae2120020e4fe3cf2d5d138f5c99bac21b7ecb67f90:
+  original: this one
+  translated: αυτό
+2f53a2c18dbca336588b52477bbd3e5839947ecf57b4675b297d33db:
+  original: that one
+  translated: εκείνο
+6df7d08c1e312af85d85231f20327222f70095ab4c39d85578ee336a:
+  original: the one that's out of my sight
+  translated: αυτό που είναι εκτός οπτικού πεδίου
+78019d9bb968bb003877af8c354f4882c5d155f432683eb19f282977:
+  original: Which
+  translated: Ποιο από αυτά
+b52b2bc8cdd7b86cb80efe46ccfb51c246280082f1d7946beed1ddb9:
+  original: which
+  translated: ποιο απ' αυτά
+8b1788f57b101ba3c21eace0a97a99ee497419ce9d6f3e8408929495:
+  original: none
+  translated: κανένα
+1b80ba673a959ff153aa35c0bcf7bbc66aee780c7680fbb15a445c3a:
+  original: any
+  translated: οποιοδήποτε
+f6f1a49fa8596236aed2f0a8f76eeb2dc35374279c372c130b0974c4:
+  original: some
+  translated: κάποιο
+199d7f9196afa4415f4292de7af43947854136d77b8a87970a17011d:
+  original: all
+  translated: όλα
+f8ffcf866a6b941d41522778a9d02478696e8dca937ed36281f0c3dc:
+  original: Where
+  translated: Πού
+ab766becd196b89a423011414ca33a5411f7e3523ff8b984289da7ed:
+  original: where
+  translated: πού
+cfd6404715660f7605a2566cdf4496b0ed7f622a0cd655c72d149b59:
+  original: nowhere
+  translated: πουθενά
+86df9eecc4c9b82dee26d21c673b9d8131c0c75321d189c87bdd8f55:
+  original: anywhere
+  translated: οπουδήποτε
+3fd4dd6c9eaea2db9f23fd382b35aca0f28a499b3ea0f4dd000e2b8c:
+  original: somewhere
+  translated: κάπου
+9d513d4ab153df0b8f72e45d247dd8d555da6aa1b32e6d01d3abb1f9:
+  original: everywhere
+  translated: παντού
+a6466479685510dcd6c5a440cd1944cf3bbc9befe3d8ceda7c03e805:
+  original: here
+  translated: εδώ
+15b775f0184e29eaf292cc27b98e4160c7afe02b296b503b93cc84bc:
+  original: there
+  translated: εκεί
+df3cbd7a326eaf6e9ad8db17a5e8be6fdb81578a39acd2a3789896fa:
+  original: the place that's out of sight
+  translated: το μέρος που είναι εκτός οπτικού πεδίου
+a7fe7d99b746641f03e94081b62ecfcfa340f6171443e75487ea890c:
+  original: When
+  translated: Πότε
+e29edc56da00502ad978a9a83552f40448502d5efd612a548f8befa5:
+  original: when
+  translated: πότε
+f26e67c643128ac5b2ca37e2ff9e75240dfb03f8ae806fc78d719062:
+  original: never
+  translated: ποτέ
+d1ba7f168bd6a0a2b8c4d0b455e0affe47549d89fc9c2fcf5405c90b:
+  original: anytime
+  translated: οποιαδήποτε στιγμή
+8cbe8b72e80e29ff094e7b9a5b1f2fe88069f399e406f16eda35e277:
+  original: sometime
+  translated: κάποτε
+15c1d80a423e37e404c433c233ee77887fa0518a61ee33c01a267b6d:
+  original: always
+  translated: πάντα
+1ecac8a6e0ea3e4a0f38afa7e87ce8a7460e5fbc0a14211bd972fa23:
+  original: now
+  translated: τώρα
+d83b6eb74f90f449534b3c833281a5111ced33256fca696114f90c2b:
+  original: the other time
+  translated: την άλλη φορά
+7c3dbcb0c05b228426f042aa0e153c8163c5f559179421bfe05e4903:
+  original: in a distant time
+  translated: σε μια μακρινή εποχή
+511177a08417e242c677a7a7b2e4b85b0a9349419b62773c841f2ec1:
+  original: how much/how many
+  translated: πόσα
+cf824b8d24561318476b36159cf94fb921f72be69e24bec470359d17:
+  original: any amount
+  translated: οποιοδήποτε ποσό
+ae23f14a3b64a02c98cb3a11f852014ee8c41503fd550303e8751ea7:
+  original: some amount
+  translated: κάμποσο
+161f6b46b89aa808fdb0ecbbea9ff090ba30e20f96a68b412c974eb5:
+  original: this much
+  translated: τόσο
+dc04e39ed736426ab32624373776e7294f83875c93bb2cded5f18875:
+  original: that much
+  translated: τόσο
+2d7550a60f504d8e4ec8ae96935123c9d4fcc516e223617f9f2f4ad0:
+  original: How
+  translated: Πώς
+bf776c35602398ac65267e67c6114777f8b4a220793663d277a2b258:
+  original: how
+  translated: πώς
+8cfb2ed6cb797dbc80e9112cacc2467b1bfcb954d0a90d6ab99cf36c:
+  original: no way
+  translated: κανένας τρόπος
+7d341081a997772dacd184eaca8612d3ef237f9a8f391c011afff825:
+  original: any way
+  translated: οποιοσδήποτε τρόπος
+00d67010991b6f1bdb5f2afd33b72dd666fdac1197a478320d5cbbe2:
+  original: some way
+  translated: κάποιος τρόπος
+c45fe5ae74d5507d554b7ceffc8838e06f66d4285596e280467f2d28:
+  original: every way
+  translated: κάθε τρόπος
+57353605fba7d66d7a32192df33d5807188a1f5088cd228691c5fc37:
+  original: this way
+  translated: έτσι
+8b0b853b5d0bcb9d39e457ad71f57cc9fd05eb563a9b27b26c9b6f52:
+  original: that way
+  translated: αλλιώς
