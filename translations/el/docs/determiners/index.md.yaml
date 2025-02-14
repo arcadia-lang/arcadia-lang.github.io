@@ -1,0 +1,80 @@
+%YAML 1.2
+---
+358ae51edcefdd53bf89e95e47a6308de387fc45d39fbc842d7d584d:
+  original: Determiners
+  translated: Προσδιοριστές
+19037ac0c081aeb7d3cc837f2fc1258851127ced9de22c67b33f0160:
+  original:
+    Determiners are words that precede a noun, providing additional information
+    about which object we are talking about.
+  translated: ""
+7d15bb3d96ef355f779646da71a553153a42ab114c51a6d6424b0f5d:
+  original: "Arcadia has six types of determiners:"
+  translated: ""
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+b227fca5ee213a9cd5f762e7deb4d8fb0f79fe2a71658f0d2e9a3fca:
+  original: "Define specificity:"
+  translated: ""
+a3f82567d2605c848dd3743881292dcd6267e22e17502ff0920586e0:
+  original: _the_ tree, _an_ apple.
+  translated: _το_ δέντρο, _ένα_ μήλο.
+42f78f9d76a2278ba0ba10fc03c8dc25032880ed8a8ad930147b5e82:
+  original: Demonstrative determiners
+  translated: Δεικτικοί προσδιοριστές
+7f664145e43464dfcbcc2337f0ad2665fcfa068ba88b054c87d6f217:
+  original: "Indicate proximity:"
+  translated: ""
+72fefaddf6aa8f0e9301fb5b8e92cda266528003b01e9d7802b5e46d:
+  original: _this_ machine, _that_ person.
+  translated: _αυτή_ η μηχανή, _εκείνος_ ο άνθρωπος.
+00bd11be336d2baa8491a6cb386348a66bfddb1d717310e2cc3f0393:
+  original: Interrogative determiners
+  translated: Ερωτηματικοί προσδιοριστές
+4eec5e0f4012bb7f6e9b41ef039dcd0aee697e38edc2299497d8f381:
+  original: "Used in questions:"
+  translated: ""
+17721af623c89a941edb71bfdd960bce2b550e9fb13a06c479ecf043:
+  original: _which_ book, _what_ blanket.
+  translated: _ποιο_ βιβλίο, _ποιο_ πάπλωμα.
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: Κτητικά
+a194573c68d5e9d31e4279b9efcfed25e01f60e71582d3803e5099c1:
+  original: "Express ownership:"
+  translated: ""
+3751b95d461eb3af820d96eb960214da10dd824423f8df80cfa62fe4:
+  original: _Maria's_ bag, _my_ bed.
+  translated: _Η_ τσάντα _της Μαρίας_, _το_ κρεβάτι _μου_.
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+f67f17db92e7636eebdb1665257e57f25592a7c1cf126ce7dbc0ec44:
+  original: "Define rough quantities:"
+  translated: ""
+73c1b87e3453a3acab6a9eeb4bbfd63cfcaccba3b15c1b01aafbf4fa:
+  original: _a few_ dogs, _each_ child.
+  translated: _μερικοί_ σκύλοι, _κάθε_ παιδί.
+b6d48f0d27f762c2e9ac6bf59569ee223c10490eaffa56d466412852:
+  original: Numerals
+  translated: Αριθμητικά
+e83fb77f57df085930c054db4e979d361bd4febeabe602d770489496:
+  original: "Define exact numbers:"
+  translated: ""
+b901d156a9d29c8a6f624bd8af40dd6c56fbad70fd1c9e0ed69b68c6:
+  original: _two_ dolphins, _a million_ dollars.
+  translated: _δύο_ δελφίνια, _ένα εκατομμύριο_ δολάρια.
+6dc1976f1fef41fe03f53f33e1522ae0022001b68f0874e926a4aebd:
+  original: Further Details
+  translated: Περισσότερες λεπτομέρειες
+40bd3bfe2c49ed77fb8b278cc82bd6a5f5f1452b5b5c64196fd1c248:
+  original:
+    Determiners can be combined when it enhances clarity or adds emphasis,
+    as in "my three best friends" or "the three musketeers."
+  translated: ""
+2a0a422f22917f126d257f14b7e75c9a60f45c3e61a54d903829d1f6:
+  original:
+    In general, nouns in Arcadia require a determiner, unless the noun is
+    inherently specific, such as a proper noun or one in the zero or collective number.
+  translated: ""

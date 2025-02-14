@@ -1,0 +1,144 @@
+%YAML 1.2
+---
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+309877b63d5b0c61f914f9602f6def2a09e69df371a7a57686a7579d:
+  original: Passive verbs
+  translated: Παθητικά ρήματα
+1c086dbfb688170fe6511c128e6fdaf13ff4071c1a33f64bf1c83f12:
+  original:
+    In zerita the base transitive verbs are always active, and describe an
+    action from the subject.
+  translated:
+    Στη ζερίτα τα βασικά μεταβατικά ρήματα είναι πάντα ενεργητικά και περιγράφουν
+    μια ενέργεια από το υποκείμενο.
+27627ba390419b2b10d84ac5c5e445c60a5daa508b682359510ceebe:
+  original: There is neither a "take" nor a "buy" verb.
+  translated: Δεν υπάρχει ρήμα «παίρνω» ή «αγοράζω».
+06d5fbca7907a3fd40f2c894971ff04078829e117932cf4e26221204:
+  original: The object promotion allows creating such verbs.
+  translated: Η προώθηση του αντικειμένου επιτρέπει τη δημιουργία τέτοιων ρημάτων.
+a205e2430b71325b4b5cb9e817b03ad93b8967476ed0706650446529:
+  original: IO promotion
+  translated: Προώθηση άμεσου αντικειμένου
+cd2083e4a40b340600fef2dd31bdf2a512efc7d64f5465bfa4a91199:
+  original: '"&{re-}" prefix'
+  translated: πρόθεμα «&{re-}»
+  literals:
+    - re-
+a45ab330ffec2a94609a41a2a4ef4a1f833325a41f4fe4bcff2e81e5:
+  original: DO promotion
+  translated: Προώθηση έμμεσου αντικειμένου
+81ef740f434f4d9d9cede52e3bdd4299712517a752d75eedc29b2364:
+  original: '"&{ob-}" prefix'
+  translated: πρόθεμα «&{ob-}»
+  literals:
+    - ob-
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+e3b467bef0856ffa967a6ff5f39086080db1a76459623da24b292891:
+  original: I'm drinking water.
+  translated: Πίνω νερό.
+150243fb7f4411cfd5b5c7ef5e9b0e5d757b162e053984fb85f71471:
+  original: Water is being drunk by me.
+  translated: Το νερό πίνεται από μένα.
+a87328c49327f3b05d7d8057451cac57ff708e6bec593695af875339:
+  original: I am giving the book to you.
+  translated: Δίνω το βιβλίο σε σένα.
+dac076f59d21decd1a176fd3f6418bacd62bf0eaceb4d291ad385607:
+  original: The book is being given from me to you.
+  translated: Το βιβλίο δίνεται από μένα σε σένα.
+5e09805e417d5ec6e433e4224fabe10b4ccc8bbe1ee6192f8b70a87b:
+  original: You are receiving a book from me.
+  translated: Λαμβάνεις ένα βιβλίο από μένα.
+7b0712e08ddd3ba7c390e709b877458b5dbbb0461517b3e173f4f883:
+  original: Reflexivity
+  translated: Αυτοπαθή και αντανακλαστικά ρήματα
+a4f25c1433f363f712b50bc6313bdf3ae66195904b9d87ed9f92461a:
+  original: Base verbs are also never reflexive or reciprocal.
+  translated: Τα βασικά ρήματα δεν είναι ποτέ αυτοπαθή ή αμοιβαία.
+2e1e7e7b4496d9fc2130b62543f0f12fc5b9abeb59c930dc6bd73889:
+  original: A prefix changes the verb in a reflexive or a reciprocal form.
+  translated: Ένα πρόθεμα αλλάζει το ρήμα σε αυτοπαθή ή αμοιβαία μορφή.
+99632ef9ebb06d48dbce7ca98108662101e908d80fa1879808b3809f:
+  original: reflexive
+  translated: αυτοπαθής
+72fe4b01452347afcf16d9e15512f3321915ac9fb58a8007e9c63272:
+  original: '"&{aut-}" prefix'
+  translated: πρόθεμα «&{aut-}»
+  literals:
+    - aut-
+dfaa75127662b4d1d562ae2d736931d45fe794e7651fd42dd0beb031:
+  original: reciprocal
+  translated: αμοιβαία
+a864b2933940c10362f0635458f018f80d3d8f9e5b4ac1fd1a977460:
+  original: '"&{kon-}" prefix'
+  translated: πρόθεμα «&{kon-}»
+  literals:
+    - kon-
+954d7f520537ddc2dce87658b7eac6c3f9e9a8cb472829ae633f137b:
+  original: Adam and Maria love themselves.
+  translated: Ο Αδάμ και η Μαρία αγαπούν τους εαυτούς τους.
+28ab58987ac537025da0377cdd28d93c988694081955a76e98aaf5b6:
+  original: Adam and Maria love each other.
+  translated: Ο Αδάμ και η Μαρία αγαπούν ο ένας τον άλλον.
+7d010e1db4cc1532b8121102470435eafadbb5e6fd42e95387459379:
+  original:
+    An important case is the generation of verbs like "to trade", from "to
+    sell".
+  translated:
+    Μια σημαντική περίπτωση είναι η παραγωγή ρημάτων όπως το «ανταλλάσσω»,
+    από το «πουλάω».
+b20beb86ea409ba882a3dd29e1c1cdb2f7d8d51aa22bc1aa066dc14c:
+  original: Senses
+  translated: Αισθήσεις
+be9a4b3d8a3b2ba7f42fb3fc492355d8ee08420d985375624f8e3a63:
+  original:
+    Base sense verbs are used when the subject has the ability to perform
+    the action.
+  translated:
+    Τα βασικά ρήματα αίσθησης χρησιμοποιούνται όταν το υποκείμενο έχει την
+    ικανότητα να εκτελεί την ενέργεια.
+01c1a5c8558002e8da930f04ba365da44819ba6d5fce534d98245171:
+  original:
+    Zerita can generate verbs via prefix that are used when the subject active
+    uses their sense.
+  translated:
+    Η Ζερίτα μπορεί να παράγει ρήματα μέσω προθέματος που χρησιμοποιούνται
+    όταν το υποκείμενο χρησιμοποιεί ενεργά την αίσθησή του.
+ea95e1b28e8681c58eb70eda658c0d61b9b965ef081e45bb09e1097a:
+  original: This is analogous to "to see" -> "to watch".
+  translated: Αυτό είναι ανάλογο με το «βλέπω» -> «παρακολουθώ».
+a8549d18f030982ffbe644ce25891a0d7aa8c8685965b490cdb746ee:
+  original: Zerita also allows creating intrasitive verbs for senses.
+  translated: Η ζερίτα επιτρέπει επίσης τη δημιουργία αμετάβατων ρημάτων για τις αισθήσεις.
+fed5b357267b51fd09d19f5bb8624ef756fe2fd85eb55fe72bf4e605:
+  original: This is analogous to "to hear" -> "to sound".
+  translated: Αυτό είναι ανάλογο με το «ακούω» -> «ηχώ».
+feb3c341d7b915446c83c06133bd77d00dd23b45ca57214dd48670c2:
+  original: voluntary action
+  translated: εθελοντική ενέργεια
+91fcc2618f69dd0b6a701f065858f08772fa112705aa14a5006c6c92:
+  original: '"&{vol-}" prefix'
+  translated: πρόθεμα «&{vol-}»
+  literals:
+    - vol-
+bf49b8fdc7d35a0c1af7bdc9f18e9a8f0abe57a79fbc9f8e28b8ce61:
+  original: intrasitive
+  translated: αμετάβατο
+ad87447f0be4ed71a100ab7034a905fb469df22c88d648e74bdc41ae:
+  original: '"&{per-}" prefix'
+  translated: πρόθεμα «&{per-}»
+  literals:
+    - per-
+9d9ed65411295b919a59f8b31d64dbef79490ab1e179822b45c4f6a2:
+  original: I see a fish.
+  translated: Βλέπω ένα ψάρι.
+be6cea4943b43a1e18dea51a968fe645f2743eb85bc3dffbba84ec3a:
+  original: I am listening to a song.
+  translated: Ακούω ένα τραγούδι.
+3534ed730d0c9d1d005276e38ec5a5ba2837291dba3e001c16ac6801:
+  original: The egg smells bad.
+  translated: Το αυγό μυρίζει άσχημα.

@@ -1,0 +1,18 @@
+%YAML 1.2
+---
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+665e225c3ce253544a1d12d0055c4b3796cabeb30845041a1fd25c1b:
+  original: In this section, you will find examples grouped by language level.
+  translated:
+    Σε αυτή την ενότητα, θα βρείτε παραδείγματα ομαδοποιημένα κατά επίπεδο
+    γλώσσας.
+06fe53d050a1f413ac4aaab126e45b26c08197ff4e7654bf8ea75d45:
+  original: The language levels covered are [A1][&{a1}] and [A2][&{a2}] at the moment.
+  translated:
+    Τα επίπεδα γλώσσας που καλύπτονται είναι [Α1][&{a1}] και [Α2][&{a2}]
+    αυτή τη στιγμή.
+  literals:
+    - a1
+    - a2
