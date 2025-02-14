@@ -1,0 +1,149 @@
+%YAML 1.2
+---
+a2ff0578b3b965e3b72ea3c0530ccf07551dba952b4e6bb0a4be87bd:
+  original: Prepositions
+  translated: Προθέσεις
+2b9b336867b78efb3d8f4db6fb1b96cd53483712f9952843b942e6d2:
+  original: All prepositions are always used with the absolutive case.
+  translated: Όλες οι προθέσεις χρησιμοποιούνται πάντα με την απόλυτη πτώση.
+550ff4efb7deff634dbe03b9335b620f9c7d63891969934c86a22f3b:
+  original: Spatial prepositions
+  translated: Χωρικές προθέσεις
+ad0ae67253616959a19534504a0d539c465481f5c60d0ca7a7ad7016:
+  original: inside
+  translated: μέσα
+d276dc8c8864cf84125a6179555650dda332001735f05dfed633cc5b:
+  original: above/on top of/on
+  translated: πάνω
+8ef5e237dca52c7f7b2eb5784b9771326bd728ae9126b6b4b64345aa:
+  original: under/underneath
+  translated: κάτω
+85eca71f82f7ee8afbec2e0726d2bb126bafc7f43fe2fe8420551468:
+  original: against/next to
+  translated: δίπλα
+05f4aa84e34fac75ec4ed0f04a1d5d2b8940593d1faf6a107528a10e:
+  original: opposite of
+  translated: απέναντι
+59633f892f9a0309cd60946030af0d8136a1744ed82d108802bdf0f6:
+  original: through
+  translated: μέσα από
+6a0a67efa397afefada841dad294a614b5fbf30a1c93a7ca949f3fa6:
+  original: Temporal prepositions
+  translated: Χρονικές προθέσεις
+2fa5fffc3e8aef20e01596d3fd54359710a9fe1b7fc8a296121df453:
+  original: during
+  translated: κατά τη διάρκεια
+50d33bb827ee5c8b842e040d3719d62d4537006f6676af88c6d5d0f3:
+  original: Spatiotemporal prepositions
+  translated: Χωροχρονικές προθέσεις
+1e6009ba08f307fd230049b7c3b9c6afac6cb6b6d6c49cd2c6c8fdbe:
+  original: These prepositions can be used for time and space.
+  translated: Αυτές οι προθέσεις μπορούν να χρησιμοποιηθούν για το χρόνο και το χώρο.
+f2d52266f5fe367b2e0e70bd6db8c04039150e231c6bf62e59aded8d:
+  original: They are also used for other scales in general, eg temperature.
+  translated: Χρησιμοποιούνται επίσης για άλλες κλίμακες γενικά, π.χ. θερμοκρασία.
+9b0140cb4c3b5b3484477b5734a0eb79a20572ff6ccb73b8fd439b8b:
+  original: in/on/at a location or time
+  translated: σε
+e3603c63bfab27fdf400ed4f2b1c015d39868e42039c2499782619cc:
+  original: from
+  translated: από
+833a51a7177925f1d9eea6479ffee2d19c3308e9c4c13803c45d2808:
+  original: to
+  translated: προς
+1ee492292fa53466089fb716e67345e08b13c1fefb8aeadcf5f89ca3:
+  original: around
+  translated: γύρω
+8d227f6dc853e2fbb9379f571085a6d83e94840bce96d254afb990e3:
+  original: between (exclusive)
+  translated: ανάμεσα (αποκλειστικά)
+5718ad223f92e2df6c37f3b990615ecbe54d14121f8fc746b2b2f32f:
+  original: between (inclusive)
+  translated: ανάμεσα (συμπεριλαμβανομένα)
+3612e9f08bc6d6e8569d1d44e074aad4fcae9e68e4eb5f100ceba8e9:
+  original: until/up to
+  translated: μέχρι
+3e430d405895c8dc2906aacdb7ea4f710d39419e037839f658d0fe86:
+  original: in front of (before)
+  translated: μπροστά (πριν)
+516c50daf28b0352b10a0d57db74177236f57611291cb0ee1048b8a9:
+  original: behind (after)
+  translated: πίσω (μετά)
+eb383d0c11642250d2cb4f5441a2d62768f0a140cc4b1305cf7bf22e:
+  original: every (eg every 2 minutes)
+  translated: κάθε (π.χ. κάθε 2 λεπτά)
+50f3f5c5c5a4654bd0a3426f043ad2eed949eb59a890db55244789a1:
+  original: Instrumental prepositions
+  translated: Οργανωτικές προθέσεις
+15fe7c33c1976384653af618f87b731132665d133f77a250d17f33ea:
+  original: by (agent)
+  translated: από (ποιητής)
+1d5516e619fe82ada1e24b49043075c16178d86c88d9fa03d6c5a250:
+  original: by the means of
+  translated: μέσω, με τη βοήθεια
+ed33145c2108242f7448c2b143651c4223c9efab803b6b41d137f5b5:
+  original: with
+  translated: με
+125cc7110263cd8ef5ef1568bed41e984900256d0371b255cf84a97c:
+  original: without
+  translated: χωρίς
+8d0c4b5c28c84ffc8cb318756fe0011ababfedd4f65a7021297696b6:
+  original: Causal prepositions
+  translated: Αιτιακές προθέσεις
+46b0affb6d3b98f9223a40bc9850382eb0b73e043cb2ee126bccdfef:
+  original: for (purpose)
+  translated: για (σκοπός)
+269d6932b06dd1dab649d1533dd1494fe3224fd75207037148d08460:
+  original: for the benefit of
+  translated: για το όφελος
+e419412d6859b889633355c4abdf1e244ed339ec7d68a77418b43221:
+  original: instead of
+  translated: αντί για
+752a689e3e9aa0204062c5548bbe05383533801003f2eae1f120a208:
+  original: except for
+  translated: εκτός από
+7145c93689728f95967885513a3e213695515b759f3a3e6c6388947e:
+  original: according to
+  translated: σύμφωνα με
+de0c02737fa24229fa2b1eaff8f5b29648c0184a3d6dd2b233b71278:
+  original: against (e.g., against the rules)
+  translated: κατά (π.χ., κατά των κανόνων)
+ead9436841e642e9f7ffdca8753a16c55de599dd0694a82b242e0e0e:
+  original: Relational prepositions
+  translated: Σχεσιακές προθέσεις
+ff846e68d4317dcfee7f68442b7fcfb1509d9cb13adea4944139cd2d:
+  original: of (inalienable possession)
+  translated: από (μη αποξενώσιμη κατοχή)
+982d7e2769ba6c4177f1929429b6cb04f5c5694ccb3348d85bf0adc1:
+  original: of (alienable possession)
+  translated: από (αποξενώσιμη κατοχή)
+b5d4480818b34c1f5a882cfdfd00e244bab59524397624a53a5ae2c2:
+  original: about
+  translated: για
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+8bb4e0ec2053e6b03c022c8ff43bcc483f0c4181b1916d22f57e971d:
+  original: All the children are playing in the house.
+  translated: Όλα τα παιδιά παίζουν στο σπίτι.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+f9a0b9df3b4bf82ef8f686db1f3cafbc89363e310c606d2d7091008b:
+  original: The house is viewed as a location, so we use "&{in}" not "&{intra}".
+  translated: Tο σπίτι είναι μια τοποθεσία, οπότε χρησιμοποιούμε «&{in}» και όχι «&{intra}».
+  literals:
+    - in
+    - intra
+77cf43f0d7c021e76bd5e619155350ec3fa30007918255000a2870ea:
+  original: If it rains, we'll stay at home.
+  translated: Αν βρέξει, θα μείνουμε στο σπίτι.
+ba7ec83c8d009234315ed4578497003b3eef492552d00d081bc99053:
+  original: The house is viewed as a building, so we use "&{intra}" not "&{in}".
+  translated: Το σπίτι είναι ένα κτίριο, οπότε χρησιμοποιούμε «&{intra}» και όχι «&{in}».
+  literals:
+    - in
+    - intra

@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+84d5827dfce32975fb2dfbaf800bf3aae299d1217d149d49e4a9359a:
+  original: Adverbs
+  translated: Επιρρήματα
+0ee29fa3df0a8810d848835cfe02670c9676d3012c1fdae1cb12ae2e:
+  original: Adverbs in zerita have no declension.
+  translated: Τα επιρρήματα στα zerita δεν κλίνονται.
+70ec8f9a5c27d5d084b1c00eb9173e9ab88ac389c72978af72c19663:
+  original: Adverbs are used to modify parts of the sentence.
+  translated: Τα επιρρήματα χρησιμοποιούνται για να τροποποιούν μέρη της πρότασης.
+d9a68ed4c14c1a3ad3ec6a55550636c38ec5733dd60448f4d2c00132:
+  original: Sometimes, they are [derived][&{derived}] by adjectives.
+  translated: Μερικές φορές, [προέρχονται][&{derived}] από επίθετα.
+  literals:
+    - derived

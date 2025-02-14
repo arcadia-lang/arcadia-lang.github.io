@@ -1,0 +1,101 @@
+%YAML 1.2
+---
+18c2b122d90b384939e3cf8479a27094b14a9a0bf6a74f686e8e1d77:
+  original: Aspect
+  translated: Όψη
+cf65483413aa0ffab0c86c2f31e25e2d2b8193db65098d4de9adc4ac:
+  original:
+    In zerita there are &{9} aspects, which are used to indicate how the verb's
+    action extends over time.
+  translated:
+    Η ζερίτα έχει &{9} όψεις, οι οποίες χρησιμοποιούνται για να δηλώσουν
+    πώς η δράση του ρήματος εκτείνεται στο χρόνο.
+  literals:
+    - "9"
+529957eb0ef791a3e417c230e839ceddaf0b08657400933c83bf8693:
+  original:
+    In zerita the aspect is expressed by an aspect word, that precedes the
+    verb.
+  translated:
+    Στη ζερίτα η όψη εκφράζεται με μια λέξη όψης, η οποία προηγείται του
+    ρήματος.
+c34ca5a47e7d833d8c04b9bc0cc42c7be23e71dddfb5e1894dfc07f8:
+  original:
+    The aspect word doesn't have a meaning by itself, but it's a part of the
+    verb.
+  translated: Η λέξη όψης δεν έχει νόημα από μόνη της, αλλά είναι μέρος του ρήματος.
+7692d568dc64076f2c4239c3187f77a8432fa5284a3251cd8827adf3:
+  original: Parts of the aspect
+  translated: Μέρη της όψης
+dea94e924d3c33b17ce24577635c73456c6409ad2abf143d381a2ece:
+  original: "The first part of the aspect word is similar to perfect tenses in English:"
+  translated:
+    "Το πρώτο μέρος της λέξης όψης είναι παρόμοιο με τους τετελεσμένους
+    χρόνους στα ελληνικά:"
+e2dccbccd19a4b5ae3e3bc27b9182aac2d1fff2a32506eec816bae1c:
+  original: Perfect
+  translated: Τετελεσμένη
+dffc295a5a04fdaba9ffa12affb8f3109e211f285396317c457273d7:
+  original: '"&{il}", used for actions that have finished'
+  translated: «&{il}», χρησιμοποιείται για δράσεις που έχουν τελειώσει
+  literals:
+    - il
+f0337b3412cb574d9a32397e6641514100eedd490d16b29a04e43b54:
+  original: Prospective
+  translated: Αναμενόμενη
+de4e392309184cc74f386f05c5bbf39ae53ab2876b4210c3df83b671:
+  original: '"&{al}", used for actions that haven''t started yet'
+  translated: «&{al}», χρησιμοποιείται για δράσεις που δεν έχουν ξεκινήσει ακόμα
+  literals:
+    - al
+a943aa384811e1c07f95b776a2a9996b0afdb4ebbfaa634a76abd0ff:
+  original: "The second part of the aspect word is concerned with the continuity:"
+  translated: "Το δεύτερο μέρος της λέξης όψης αφορά τη συνέχεια:"
+b3b91f927a1935ba171961ecaf40e6c46ad0dc5f4297f28e30f88ee5:
+  original: Continuous
+  translated: Διαρκείας
+8f38275975667240930c07f3a5ae9bee897c6ec5941f8e49a7f6f4c3:
+  original: '"&{um}", used for actions run continuously'
+  translated: «&{um}», χρησιμοποιείται για δράσεις που εκτελούνται συνεχώς
+  literals:
+    - um
+0f6ac6a2de3465eccc98c95a479edc90bcc0c6b838920afc9be78aa3:
+  original: Iterative
+  translated: Επαναλαμβανόμενη
+3a8f62cfc908f9293f5468bca977e77f10991f6f365b74ecf6fe3358:
+  original: '"&{em}", used for actions that run on intervals, or as a habit'
+  translated:
+    «&{em}», χρησιμοποιείται για δράσεις που εκτελούνται σε διαστήματα ή
+    ως συνήθεια
+  literals:
+    - em
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+620fa8dfe6dd3896433e6eb2988469c64c95f2e45dd50f65937bea3e:
+  original: I drank water
+  translated: Ήπια νερό
+325d85d3723092433f27ff86d09242e59ceb92c7a3fd30afeb6b0767:
+  original: I had drunk water
+  translated: Έιχα πιει νερό
+ca9c22d94c44216738c2576b229e2d82f8169e152cb32630ff10eaca:
+  original: I was about to drink water
+  translated: Θα ξεκινούσα να πιω νερό
+d6488585903e23cbb02f105f9e78a0d35a70f4b71a208474531278f4:
+  original: I was drinking water
+  translated: Έπινα νερό
+d49332322ec332819ec2c6c5a67ffa49240acd05ebe9f516949e9da0:
+  original: I had been drinking water
+  translated: Είχα τελειώσει να πίνω νερό
+b71efafd887631849bcb9d8da471e9356d2d8bac8531ce7f79cbbd38:
+  original: I was about to start drinking water
+  translated: Θα ξεκινούσα να πίνω νερό
+5e77f74850ea3e7e2eeb72eafecb7ff333850bfa392327cbdd55818f:
+  original: I had the habit of drinking water
+  translated: Είχα τη συνήθεια να πίνω νερό
+65122f1151ea89545658a463ca99cb395eea05deab36e9bf64609a40:
+  original: I had had the habit of drinking water
+  translated: Είχα πιο πριν τη συνήθεια να πίνω νερό
+05b605d2221f06e915d1dcc5d4d970fdf5a72abdfcc080684a0a5851:
+  original: I was about to start having the habit of drinking water
+  translated: Θα ξεκινούσα να έχω τη συνήθεια να πίνω νερό

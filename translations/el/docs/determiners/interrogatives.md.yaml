@@ -1,0 +1,217 @@
+%YAML 1.2
+---
+9c8b9f6c8ea3417abc3de0b18bb32aaa8cd1a1fec3a1a54ef860bfae:
+  original: Questions
+  translated: Ερωτήσεις
+54e3de8fa6c3bfcd9ccef307217a41e4bc5b0fdcafcecfa31d8b358d:
+  original:
+    Questions in Arcadia are formed using a **question particle**, followed
+    by an affirmative sentence **with the unknown part omitted**.
+  translated:
+    Οι ερωτήσεις στην Αρκάδια σχηματίζονται χρησιμοποιώντας ένα **ερωτηματικό
+    μόριο**, ακολουθούμενο από μια καταφατική πρόταση **με την άγνωστη λέξη παραλειπόμενη**.
+22b7d0b55da896c2dae6547caa960d73a2795f21e2b09a6dd3094685:
+  original: Yes/no questions
+  translated: Ναι/Όχι ερωτήσεις
+798f8e9c98242f6eabc3089a00a124fb89a86c2923594ee80ba50dfc:
+  original: Indicated by **rising intonation** in spoken Arcadia.
+  translated: Υποδεικνύονται από **αυξανόμενη τονικότητα** στην προφορική Αρκάδια.
+fe1a03a2369ffd80cb3e25f7866dee5189ef7f3ff7b0c9b275346c03:
+  original: Open-ended questions
+  translated: Ανοιχτές ερωτήσεις
+d4c9aff0840454c877db26bc389af956573337b1b5a4c7b6bf769900:
+  original:
+    Use **interrogative particles**, which combine with **prepositions and
+    declensions** as expected.
+  translated:
+    Χρησιμοποιoύνται με **ερωτηματικά μόρια**, τα οποία συνδυάζονται με
+    **προθέσεις και κλίσεις** με τον αναμενόμενο τρόπο.
+88e86bd5d45df02b219690c233c56b6298718dfdb9f1e676c860d8b8:
+  original: Question Particles
+  translated: Ερωτηματικά μόρια
+c57277ba31f61bc534658637a7eeaf38a3a5797edb9f1c843ee50bf5:
+  original: Particle
+  translated: Μόριο
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+018cbc7bbdd9d354ac959483a1a9667aed2c6aeb5f75599274d3cec3:
+  original: Meaning
+  translated: Σημασία
+0e76fe97e831e60777bcd421b1195920d0539ba3dab20562ba370228:
+  original: Yes/no question
+  translated: Ναι/Όχι ερώτηση
+c68acc9b8060e3b2fbd7200520d1b7a114856bc2e28a0b301db59127:
+  original: Who/what
+  translated: Ποιος/τι
+2d02fec853f7ab5c31883bfa2501eef55008ac15d2404efd58259b5b:
+  original: Generic inquiry
+  translated: Γενική ερώτηση
+78019d9bb968bb003877af8c354f4882c5d155f432683eb19f282977:
+  original: Which
+  translated: Ποιο από αυτά
+e137804a57693f5845546afa7e5ecd4b4fbfb2322c67ace49ee30f80:
+  original: Choice selection
+  translated: Επιλογή
+f8ffcf866a6b941d41522778a9d02478696e8dca937ed36281f0c3dc:
+  original: Where
+  translated: Πού
+2a35456a02fe880e5e8acefae7cd68a6139fa4069613f6371a836e3e:
+  original: Location-based
+  translated: Χωροταξική
+a7fe7d99b746641f03e94081b62ecfcfa340f6171443e75487ea890c:
+  original: When
+  translated: Πότε
+1bcf423a975b96b208c524fa3f9505eabb71bb5b5aa81c72a95fe5b2:
+  original: Time reference
+  translated: Χρονική αναφορά
+2bfe7b0972d273ddc440bed5be1b5be53b19fc983587d3918b4dd259:
+  original: How much/how many
+  translated: Πόσο
+0f8659c286fa1dabbd9fd1f18e0b153b532f818e4dacf655034f84b7:
+  original: Quantity inquiry
+  translated: Ποσοτική ερώτηση
+2d7550a60f504d8e4ec8ae96935123c9d4fcc516e223617f9f2f4ad0:
+  original: How
+  translated: Πώς
+4354c9c2b9173ee98dad0f95e1fe4b43a2b2aaf0684932bf9571f22d:
+  original: Manner inquiry
+  translated: Ερώτηση τρόπου
+be3665db2dce43b7d60ad7c094fd2e37d43f58bf13df1fb8e0eaab2d:
+  original:
+    "**Interrogative words can combine with prepositions**, allowing **expanded
+    meanings**:"
+  translated:
+    "**Οι ερωτηματικές λέξεις μπορούν να συνδυαστούν με προθέσεις**, επιτρέποντας
+    **διευρυμένες σημασίες**:"
+32d148dc16f29aa533dce5d67fd8e874cccbeb275a83e7a257c25a6a:
+  original: Why
+  translated: Γιατί
+a7f5bcf7275d12af427e13a1c4ccd868dda3ea7fca7004faa91342b4:
+  original: For whose benefit
+  translated: Για ποιου το όφελος
+34a17d905491eab05b6967c62de35f25ca4f232f8b9f123dd3796113:
+  original: Handling Unknowns
+  translated: Διαχείριση Αγνώστων
+6b0af89c0ed228da19d8b7efe4c1ea707df76e2a14fd19457f409351:
+  original: "In Arcadia, asking a question **causes affected suffixes to drop**:"
+  translated: "Στην Αρκάδια, η υποβολή ερωτήματος **αφαιρεί τις επηρεαζόμενες καταλήξεις**:"
+2c886541c08c10046868cd1d52057ed17a39228606d215e39fafe380:
+  original: '**"&{cuót}"** removes **quantity markers**, simplifying nouns.'
+  translated: Το **"&{cuót}"** αφαιρεί **σημάδια ποσότητας**, απλοποιώντας τα ουσιαστικά.
+  literals:
+    - cuót
+e8d44bf928de68a3468ea6235b86e5da42f20fd0ed296e279281b194:
+  original: '**"&{cuando}"** drops **time suffixes** when asking about duration.'
+  translated: Το **"&{cuando}"** αφαιρεί **χρονικές καταλήξεις** όταν ρωτάμε για διάρκεια.
+  literals:
+    - cuando
+b60a8b76e44c3104cf493a2e94ec4bebe25f4ed9cc9f02e6ffc6d36a:
+  original:
+    '**"&{ce}"** removes **person suffixes** when querying the subject of
+    a verb.'
+  translated:
+    Το **"&{ce}"** αφαιρεί **καταλήξεις προσώπου** όταν ρωτάμε για το υποκείμενο
+    ενός ρήματος.
+  literals:
+    - ce
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+4a2970185b5700b69da83ea4c94a764a5c627c9040d5b3b4f1fa0e50:
+  original: Yes/No Question
+  translated: Ναι/Όχι Ερώτηση
+b963d827079af098b83d0906112c2b0a00a1354564169fdcba0c5f52:
+  original: Are you giving the book to me?
+  translated: Μου δίνεις το βιβλίο;
+aa044e241d06650bcfe61fd05684324c69c2b475a5edbac1dc89f1e2:
+  original: Method Inquiry
+  translated: Ερώτηση μεθόδου
+abfdc09f24ab686efc985ba0307a9dc66e1e938e2689109427f6e2c1:
+  original: How are you giving the book to me?
+  translated: Πώς μου δίνεις το βιβλίο;
+3fee2f9ec6898de05df9626dbc37f4d3ea2c520dad90621491e97b70:
+  original: Explanation
+  translated: Εξήγηση
+adaed1cd0e667e8502a4a298114fae8b3303845ffc18b6be1aa91259:
+  original: Asking about the method—e.g., by hand, by post.
+  translated: Ρωτώντας για τη μέθοδο—π.χ., με το χέρι, ταχυδρομικώς.
+2d2cd8f855c804efd103f60a109a35f00965bdd6cede4a2c384a99c4:
+  original: Location Inquiry
+  translated: Ερώτηση τοποθεσίας
+3b4ac7d5989baa14ead566be1daacaf29496b18b283671c29eb5eecb:
+  original: Where are you giving the book to me?
+  translated: Πού μου δίνεις το βιβλίο;
+3e9f23c757ba1ad60e63a51d2bc14a1f09f65951415120134ec0dcdb:
+  original: Subject Inquiry
+  translated: Ερώτηση υποκειμένου
+72bccfde3cd662daa1d52d052cb87cbe0d12013daae5db14ec618bf6:
+  original: To whom are you giving the book?
+  translated: Σε ποιον δίνεις το βιβλίο;
+9b9d51ebdd96af2f8402efa5cc461471951e6e985dceed1e1234cffd:
+  original: What are you giving to me?
+  translated: Τι μου δίνεις;
+3591556bc75c03854ecaf608d755959779eb82ae3df394348df4efe8:
+  original: Specific Selection
+  translated: Επιλογή
+7639c1d87d1d62fa059e8e4ed2388ccc5da314028f2d3576a2f42ddf:
+  original: Which book are you giving to me?
+  translated: Ποιο βιβλίο μου δίνεις;
+1635adc6938c988af054285a44183b300da8302ffc29a86773d509d0:
+  original: Temporal Reference
+  translated: Χρονική αναφορά
+291618eec88efc479154df42669efa5b3433fdb8b0a1efb6c324f167:
+  original: When are you going to give the book to me?
+  translated: Πότε θα μου δώσεις το βιβλίο;
+b324b47af8674f5e3c8905fa834a3d10e2a3a695c815c14228f14554:
+  original: Implies it is **in the future**.
+  translated: Υπονοεί ότι είναι **στο μέλλον**.
+7fc498fff7eea709023bdc9019c329b2ccee1e00f642a868d7d84818:
+  original: Quantity Inquiry
+  translated: Ποσοτική Ερώτηση
+37b71d8565ff2d361f03e44bbe7b9b1872f961e3ae5a4d19998ce066:
+  original: How many books are you giving to me?
+  translated: Πόσα βιβλία μου δίνεις;
+3e5e9aa0965cb99a528094e2b2844c1c6d750ecbcc72219cda882f8e:
+  original: Asking for the Subject of the Verb
+  translated: Ρωτώντας για το Υποκείμενο του Ρήματος
+6c9f22956b02b4d3486950f2c0b65e99430fe9e19db2e06e5365e44b:
+  original: "**Keeps only the known parts**, ensuring clarity in reference."
+  translated: "**Διατηρεί μόνο τα γνωστά μέρη**, διασφαλίζοντας σαφήνεια στην αναφορά."
+8004b3c72051ff68dced2654c61a5d23e6a08db39c4e9fdbdfd05c99:
+  original: Sentence
+  translated: Πρόταση
+a0b6ef2338099672b89c6f7b40756f2f63be8b9546544d6bd9cc3e05:
+  original: Translation
+  translated: Μετάφραση
+08880b855e146cc0578e15c7d69919db61114b18122d620bb33587a4:
+  original: Who is giving the book to me?
+  translated: Ποιος μου δίνει το βιβλίο;
+549caf3dac2a54075f213f7e35f6bdc4d255f5080855c948b261434b:
+  original: No indication about **who or how many** are involved.
+  translated: Καμία ένδειξη για **ποιος ή πόσοι** εμπλέκονται.
+5c6781b49652fc458cf4b5777e59a80859ed75cfa76c542f4f009f4b:
+  original: "**Third-person plural**—multiple people, **excluding you or me**."
+  translated:
+    "**Τρίτο πρόσωπο πληθυντικού**—πολλοί άνθρωποι, **εξαιρώντας εσένα ή
+    εμένα**."
+b6bfed2b08e1b094a559ff3afd047eb123e98758efe8ccb499d6fb3a:
+  original: Who among you (plural) is giving the book to me?
+  translated: Ποιος από εσάς μου δίνει το βιβλίο;
+5ef9bbcb7089c196bac9877d8d4ead697ca2c48715e5d45224f9cb6a:
+  original: Used as a **follow-up question** when the subject is unclear.
+  translated:
+    Χρησιμοποιείται ως **ερώτηση παρακολούθησης** όταν το υποκείμενο δεν
+    είναι σαφές.
+5964eb3732add682703e7c11cabd51c7d0f9cfe548423e21e79ea5c2:
+  original: Common Questions
+  translated: Συνηθισμένες Ερωτήσεις
+e4b353113a6746d6d2e5b0d0a3de8845b93d6263ae8a868e404047f6:
+  original: What's your name?
+  translated: Πώς σε λένε;
+0acf899f69ae0da71724ab89f4b6333621c5b97d74a5a90df4702e62:
+  original: How are you?
+  translated: Πώς είσαι;
+ee1ad9b9f62c28bf3105b17a443ac4a22929ea3280a5f74472a667ab:
+  original: Where are you from?
+  translated: Από πού είσαι;

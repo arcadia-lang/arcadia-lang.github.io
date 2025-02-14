@@ -1,0 +1,138 @@
+%YAML 1.2
+---
+9e1a7ba3b044ebb0bc3b9d77ab40c9934476a6e4c513434f256becd2:
+  original: "Arcadian Verbal Conjugation: Person & Number"
+  translated: "Κλίση Ρημάτων στην Αρκάδια: Πρόσωπο & Αριθμός"
+9b71cc2eecf5a23076d8d31dc4ea021f4a668c70e17779179e838848:
+  original: In Arcadia, verbs are conjugated using **person** and **number**,
+    expressed through suffixes attached to the **verb stem**, after the
+    **tense** suffix has been added.
+  translated: Στην Αρκάδια, τα ρήματα κλίνονται χρησιμοποιώντας το **πρόσωπο**
+    και τον **αριθμό**, που εκφράζονται μέσω επιθημάτων που προστίθενται στο
+    **θέμα του ρήματος**, μετά την προσθήκη του επιθήματος **χρόνου**.
+641759db91ff73ca0c6bbe91526889d6f130b98e97826bbb1abc3282:
+  original: The stem is formed by dropping the `-ir` ending from the infinitive.
+  translated: Το θέμα σχηματίζεται αφαιρώντας το κατάληξη `-ir` από το
+    απαρέμφατο.
+619ed0758503e8ca785573a0dcb1d88e0d6382822d34bfcf90ad4dec:
+  original:
+    "Arcadia is a **pro-drop** language: personal pronouns are omitted unless
+    emphasis or disambiguation is required."
+  translated:
+    "Η Αρκαδία είναι μια **γλώσσα υπέρ της απόρριψης**: οι προσωπικές αντωνυμίες
+    παραλείπονται εκτός εάν απαιτείται έμφαση ή αποσαφήνιση."
+584e1d720f9ece4f4359ea69d98c73104fc1e32d2a45574e7e09873d:
+  original: Persons in Arcadia
+  translated: Πρόσωπα στην Αρκαδία
+4be534421eb72731f4a664e5a0c65eba240816d8d64ddb8fce33faa8:
+  original: "Arcadia distinguishes **four grammatical persons**:"
+  translated: "Η Αρκαδία διακρίνει **τέσσερα γραμματικά πρόσωπα**:"
+6eb9dc5cfce7089d8d73951e8450b807d768279f6593ca69ab82e653:
+  original: Person
+  translated: Πρόσωπο
+1eba9774ed22669859eaf99d1b8ee348958281d9f0092fe48888b54c:
+  original: Description
+  translated: Περιγραφή
+f5e7e9e8057d65201446f0c42d896fc2d9cb64a79ea8c4a181ce517a:
+  original: 1st
+  translated: 1ο
+e9fc5b1c68efb94531a4b6aef26e2c32d4907ec55e60db6e00eac0ac:
+  original: Speaker (_I, we_)
+  translated: Ομιλητής (_εγώ, εμείς_)
+5d336cb3bb818a829b33b0e08277106d0dfbf691bdff1c08225950c4:
+  original: 2nd
+  translated: 2ο
+6dcdb190da84d61a9ac4597060db64003956267668e10a4a19e1530a:
+  original: Addressee (_you_)
+  translated: Ακροατής (_εσύ, εσείς_)
+4036f056033e09741f99d3ecdc4befa7036cf991320f269a520eec18:
+  original: 3rd
+  translated: 3ο
+77827a1eeb6d25a5a6b8d0a2d18d46818e2ef89adfce40b919a4bca0:
+  original: Other(s) (_he, she, they_)
+  translated: Άλλος/οι (_αυτός, αυτή, αυτοί_)
+276f68cc7b3e5e0c28678e53948fe58c5387a41f92414d46d1cdd5c4:
+  original: 4th
+  translated: 4ο
+4024a502211e8eed71b8e9021ab8453cbd2dcd9a9fc8c97cbaebadd2:
+  original: Non-personal agents (_collective forces, impersonal events,
+    zero-agency_)
+  translated: Απρόσωποι παράγοντες (_συλλογικές δυνάμεις, απρόσωπα γεγονότα,
+    μηδενική δράση_)
+d2196a2cda510230aee5be6fa6730248eed9ebb33ccc9fec2ffe2312:
+  original: "Additionally, **1st person plural** distinguishes between:"
+  translated: "Επιπλέον, το **πρώτο πληθυντικό πρόσωπο** διακρίνει μεταξύ:"
+4f9adbca4c9eab7894714692678d08a1e26100fec4ce5ae4b2fcb962:
+  original: Exclusive
+  translated: Αποκλειστικό
+0ac54a3e8ce1f408cbb7024b318cb9e72e74c316c7ea3dfcefe022c2:
+  original: we, not you
+  translated: εμείς, αλλά όχι εσύ
+345a0f76d95e1d04d590f2988abf226e197fb78f586c259c0aa4e470:
+  original: Inclusive
+  translated: Συμπεριληπτικό
+3bcaec507420079d6902b3e197f5ac12b88d03bf7e1784645aa160ae:
+  original: we, including you
+  translated: εμείς, συμπεριλαμβανομένου εσού
+1a34fe72331bc38327927e056ece03dba139f674e9c4b71f79e8b648:
+  original: Conjugation Rule
+  translated: Κανόνας Κλίσης
+e3391a84970fd9ca68a959b42f8fddb402f85b488bcfe8b04f21e355:
+  original: Each conjugated verb form is built by attaching a **person vowel**
+    and a **number consonant** to the **verb stem**.
+  translated: Κάθε κλιθείσα μορφή ρήματος σχηματίζεται προσθέτοντας ένα **φωνήεν
+    προσώπου** και ένα **σύμφωνο αριθμού** στο **θέμα του ρήματος**.
+1d2bf162efdef0ff0e3bbc621170efb099e4a6faaae1bc2f84486179:
+  original: Suffix Composition
+  translated: Σύνθεση Επιθημάτων
+11bfac44eec26ecbf491cd4543cc6e842345d2de99794dc3a5df960c:
+  original: Drop `-ir` from the infinitive to obtain the stem
+  translated: Αφαιρέστε το `-ir` από το απαρέμφατο για να αποκτήσετε το θέμα
+ed537993494bf1c31b8fd0da6b50b6a881fdde73c4b76205857c11c3:
+  original: Add the number suffix
+  translated: Προσθέστε το επίθημα αριθμού
+ceaba123547bb381f57aef3fe833ac35ac85622233ecdab88aeeafec:
+  original: "Add suffix: `[Person Vowel] + [Number Marker]`"
+  translated: "Προσθέστε το επίθημα: `[Φωνήεν Προσώπου] + [Σύμφωνο Αριθμού]`"
+2f725f3d0ad79fce30bca744871a70cf23cdbe7c99fcbc5b48702e43:
+  original: "Example using **sir** (_to be_):"
+  translated: "Παράδειγμα **sir** (_είμαι_):"
+a13955d4de83a6e7a9c60a8d61185c618318e97099496164d74645e7:
+  original: stem extraction
+  translated: εξαγωγή θέματος
+f15e86d7ae6341ca04cd74056e27118f70864007c1fdefe52445685a:
+  original: tense suffix
+  translated: επίθημα χρόνου
+478cd84131569080e9b0355618dce6fbf7660898beac09103c300fb6:
+  original: I am
+  translated: είμαι
+6eceac0d3df93fcfbe424b9a75b82d8b1d6e8ff2a8e6da4221dda5c2:
+  original: we (including you) are
+  translated: είμαστε (συμπεριλαμβανομένου εσού)
+38c1d505e536f5281691473baa9b67973ca577ce74b3ab0c2fc496a5:
+  original: everyone is
+  translated: όλοι είμαστε/είναι
+bd14577121839439a34d8be13c8c7f0971ceee491ad1f63f239d2d7d:
+  original: Person & Number Suffixes
+  translated: Επιθήματα Προσώπου & Αριθμού
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικό
+e31c3bd6d3a7f12f62119c70ec59d3e4b77b8a071b5b0a1d0a73bb65:
+  original: 1st (inclusive)
+  translated: 1ο (συμπεριληπτικό)
