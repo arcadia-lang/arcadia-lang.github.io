@@ -1,0 +1,126 @@
+%YAML 1.2
+---
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+4597dcaa9d508e0020a70563be3fddb2ad12866fdd0b10dbbba413a4:
+  original: Nouns form the **foundation** of Arcadia's grammar, classified based
+    on their **characteristics and usage**.
+  translated: Τα ουσιαστικά αποτελούν τη **βάση** της γραμματικής της Αρκάδιας,
+    ταξινομημένα με βάση τα **χαρακτηριστικά και τη χρήση τους**.
+ce2a2a16314a821833e461ed76184fe0d268ebae0b09a6ed05055d21:
+  original: Specificity-Based Classification
+  translated: Ταξινόμηση με βάση την Ειδικότητα
+11c3a2abf4a33d0caddb5ae1f358bcafd24288ef37c23c432a2e4daf:
+  original: "Arcadia distinguishes nouns by their **degree of specificity**:"
+  translated:
+    "Η Αρκάδια διακρίνει τα ουσιαστικά με βάση το **βαθμό ειδικότητας**
+    τους:"
+a2a21eb076dafd52fe7f4c833e853b01be79850e11ab0bc2061f481a:
+  original: Proper nouns
+  translated: Κύρια ουσιαστικά
+3dc7dcef1c820d5a87700c654d0b67ad1c770a77dcc94d5a3bef7ac1:
+  original: Refer to a **unique entity** (_Arcadia, Maria_).
+  translated: Αναφέρονται σε μια **μοναδική οντότητα** (_Αρκάδια, Μαρία_).
+f9d150bcd2d7cc5808a6e62d50a573b12b39f4a751d0ee1c95a2767b:
+  original: Common nouns
+  translated: Κοινά ουσιαστικά
+a2f39523a29945653de65821cf897aad01fd695593836e55f4af509d:
+  original: Describe a **general concept** (_tree, apple_).
+  translated: Περιγράφουν μια **γενική έννοια** (_δέντρο, μήλο_).
+147be55733cb2c51848526c806050a0111f9a4c9717d0e3bace97738:
+  original: Gender and Optional Prefixes
+  translated: Γένος και Προαιρετικά Προθέματα
+1b77c1ebc750f272ad6367bbe320ad4a3fe9fb201226b8f95b13c2cf:
+  original: Arcadia is **not a gendered language**, though **gender prefixes**
+    may be used for clarity.
+  translated: Η Αρκάδια **δεν είναι μια έμφυλη γλωσσα**, αν και τα **προθέματα
+    γένους** μπορούν να χρησιμοποιηθούν για σαφήνεια.
+d7a7a4b90584ec94b59b6a10bd26647b31935450b93104348fa57f75:
+  original: These prefixes are **optional** and serve only as **contextual
+    markers**, not as grammatical necessities.
+  translated: Αυτά τα προθέματα είναι **προαιρετικά** και χρησιμεύουν μόνο **για
+    να προσδιορίσουν το γένος** όταν είναι απαραίτητα, όχι ως γραμματικές
+    αναγκαιότητες.
+6162e867247bf44c6746229c8ce87d12a65cc579af419586c0c99e70:
+  original: More details on **gender handling** are available in the **[gender
+    guide][gender]**.
+  translated: Περισσότερες λεπτομέρειες σχετικά με τη **διαχείριση του γένους**
+    είναι διαθέσιμες στον **[οδηγό γένους][gender]**.
+6ebbcb4f450c6fcd9d0c53d53bc93c3070caaa189e6945de1458b761:
+  original: Grammatical Classes
+  translated: Κατηγορίες Ουσιαστικών
+9d1e6df587001303e0c29fc439d964fcd10d4c0bc6cb5aadda199e67:
+  original:
+    "Arcadia classifies nouns into **five grammatical [classes][class]**,
+    which serve a **structural role** with **minimal semantic influence**:"
+  translated:
+    "Η Αρκάδια ταξινομεί τα ουσιαστικά σε **πέντε γραμματικές [κατηγορίες][class]**.
+    Ο ρόλος των κατηγοριών είναι **κυρίως γραμματικός**, χωρίς να επηρεάζει την σημασία
+    τους, αν και **επηρεάζεται από αυτή**:"
+af7df7ddcdfa9d38e8a0034b1e82bd12c1a860470bcb29be54cc8742:
+  original: Solid
+  translated: Στερεή
+c530baafb56ed3b9bb9da1a8d9ed34b5f6d3b61e65cb91060f0046f6:
+  original: Liquid
+  translated: Υγρή
+8b68ce5d5ea8773a4c4ecbf6332dd99e2f9eef82141741b8a1cbf5e0:
+  original: Gas
+  translated: Αέρια
+a4507ca36eafa7de87a6cc8ff4643f53fdd05340bbf3727c958ec18e:
+  original: Plasma
+  translated: Πλάσμα
+eb437e1cb2ad8c881f182cd246a486b0bd84c936ea19acf1f8afb174:
+  original: Exotic
+  translated: Εξωτική
+eaec9d985337b2767f581fa5cb98d8a469d92189950be0ad9333d776:
+  original: Grammatical Number System
+  translated: Γραμματικοί Αριθμοί
+0ac7d061bdab71dd5b53f195fba9fceaed2739ca78b8529e171727d8:
+  original:
+    "Arcadia recognizes **countability distinctions**, influencing noun behaviour
+    in pluralization and measurement:"
+  translated:
+    "Η Αρκάδια αναγνωρίζει **διακρίσεις μετρησιμότητας**, που επηρεάζουν
+    τη συμπεριφορά των ουσιαστικών στην πληθυντική και στη μέτρηση:"
+29faeddb1c90e830b1dab1fc79e89907d156476b090fb39a1514ed09:
+  original: Countable nouns
+  translated: Μετρήσιμα ουσιαστικά
+35984b9f66757cdf8d28d01ac8740602b36d9907ebda386d660eac44:
+  original: Can be **enumerated** (_three apples, half an hour_).
+  translated: Μπορούν να **μετρηθούν** (_τρία μήλα, μισή ώρα_).
+9419e1445f83d8606ee683280d3da27837b2d32ea97532fa3cc31a45:
+  original: Uncountable nouns
+  translated: Μη μετρήσιμα ουσιαστικά
+077fa6d583df5bb20a2eb1cde5360b752f865156207bcfc29c407b1f:
+  original: Cannot be **individually counted** (_water, love_).
+  translated: Δεν μπορούν να **μετρηθούν μεμονωμένα** (_νερό, αγάπη_).
+3891a246808a560c9ad637e74fc4d419c45a8f78ec0b7aeaaf0bfd61:
+  original: Further, there are **five grammatical [numbers][number]**.
+  translated: Περαιτέρω, υπάρχουν **πέντε γραμματικοί [αριθμοί][number]**.
+448eb02bb231aec0082702891abb81f1abcda662a2af829e60c0ba75:
+  original: Case System
+  translated: Πτώσεις
+e472ab6ec347586e0dc8cedaa14547e416f73edbed52802a5996d67b:
+  original: Arcadia employs **eleven grammatical cases**, defining each noun's
+    **role within a sentence**.
+  translated: Η Αρκάδια χρησιμοποιεί **έντεκα γραμματικές πτώσεις**,
+    καθορίζοντας το **ρόλο** κάθε ουσιαστικού μέσα σε μια πρόταση.
+f19515d2a5a9ff6f7ca9e1213d2a614130f8d05f602bcb139d637130:
+  original: Details on their functions and interactions can be found in the
+    **[case guide][case]**.
+  translated: Λεπτομέρειες για τις λειτουργίες και τις αλληλεπιδράσεις τους
+    μπορείτε να βρείτε **[εδώ][case]**.
+f21171d5f3dbff7203cb838a1cbb364d2594824cc019a61af5b754c6:
+  original: Noun Formation and Derivation
+  translated: Δημιουργία και Παράγωγα Ουσιαστικών
+1e1d62a28627ca59fc9c7996ad253b3e42a6be80b35d7fd9ffed33ba:
+  original: Arcadia features a **system for generating new nouns** from existing
+    ones, allowing structured expansion of vocabulary.
+  translated: Η Αρκάδια διαθέτει ένα **σύστημα δημιουργίας νέων ουσιαστικών**
+    από υπάρχοντα, επιτρέποντας τη δομημένη επέκταση του λεξιλογίου.
+3e6529bb23ccf60d25815bab77de856fd0d1cd0177c76e47f55e4a68:
+  original: The full set of derivational rules is available in the **[noun
+    generation guide][generation]**.
+  translated: Ο πλήρης κατάλογος των παραγωγικών κανόνων είναι διαθέσιμος στον
+    **[οδηγό δημιουργίας ουσιαστικών][generation]**.

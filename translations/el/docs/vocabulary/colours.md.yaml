@@ -1,0 +1,103 @@
+%YAML 1.2
+---
+f0ce01fb457f456a9e206f64b10d5cf48f2cf8a48c6d581b6fe088ed:
+  original: Colours
+  translated: Χρώματα
+e3a8effaeb82949526c394d90141994e1620640c35994133118fdeac:
+  original: Arcadia recognizes **13 base colors**, each with a distinct
+    **archetypical hue**.
+  translated: Η Αρκάδια αναγνωρίζει **13 βασικά χρώματα**, το καθένα με μια
+    ξεχωριστή **αρχέτυπη απόχρωση**.
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+37eef94b8aeb1909eef31d9beb61c6e74ac9820d28d3eb9635627b88:
+  original: Sample
+  translated: Δείγμα
+ad48548beec59aa76f1adffb498c444fff47343410474a6bf144fb1d:
+  original: black
+  translated: μαύρο
+59edf046822432a7ce74567de0450a0532beadc0a32a68e39ac64815:
+  original: white
+  translated: άσπρο
+28090f943b28e852926a47294a9e635c0489dd642050653fdbbe69ef:
+  original: grey
+  translated: γκρι
+7080fc2eedd2ecb72ab8eb26daf0d38238fa828bcb4878f2fbaefb12:
+  original: yellow
+  translated: κίτρινο
+37b56d83da112f5c4433334922ff6827f78a34684297eca7b0953df7:
+  original: orange
+  translated: πορτοκαλί
+5fa3f957d76ce12b5519113662e41b3ddcf8a5a12e6f483330e9e61f:
+  original: red
+  translated: κόκκινο
+25572bddd4e1626e5259281838ce003a4482826f8a70d85eb0968379:
+  original: green
+  translated: πράσινο
+4abe884b9375d0a3bde8d0a7d3334132721f89bb3211d4474e9acbb2:
+  original: cyan
+  translated: γαλάζιο
+6592aaf255dc05f474341f0dcffb6e528ec99f0d2e510b5feb8db7a1:
+  original: blue
+  translated: μπλε
+15d1f85df05d212a95488fb8d0beaa0ee028f28ace487eb9e0aa3c68:
+  original: purple
+  translated: μωβ
+d553f2b663637b1806fdda7dfc944d19ea2a7a964ee65869963679f4:
+  original: brown
+  translated: καφέ
+0d1b571ecdb93c332f0d1bdc0ddb2be6b9767dfc263cbcb572078220:
+  original: pink
+  translated: ροζ
+032a70450a77ecd64f4908ec28c17e7d1706b1edb029624011ca9b79:
+  original: beige
+  translated: μπεζ
+e1aff658ad090f7ab74373f73541629eee24c8206b54808ea27a06fc:
+  original: Modifiers
+  translated: Τροποποιητές
+47174a2465d553693bb3f7cdd34a3a40e8039830ad8e772875ea45f2:
+  original: "Arcadia includes **two adjectives** for **shade**:"
+  translated: "Η Αρκάδια περιλαμβάνει **δύο επίθετα** για την **σκιά**:"
+be468e24152576647c4fc26a4081af570c11a811440eb33c90e02534:
+  original: light
+  translated: ανοιχτό
+6b7acfd3c12b2bbfb858af87a2433a7a7239e8222724d7265e0eb763:
+  original: dark
+  translated: σκούρο
+ef10f10706cc3e04f4c9887f5a445a46461413d04e968cf5432d084a:
+  original: "and **four adjectives** for **color finish**:"
+  translated: "και **τέσσερα επίθετα** για το **φινίρισμα**:"
+74ac2cf7f2a432425e763871afc654c6c86f64d47cbc96b4bd8a432c:
+  original: metallic
+  translated: μεταλλικό
+da5260c2f09283216aa8df3213041908eeedb29feede2bd087d93f2a:
+  original: matte
+  translated: ματ
+46ca9b88253699fd30d7229a80945c01ed30a825e4127db8e5fb91d4:
+  original: glossy
+  translated: γυαλιστερό
+b1a5773db0963ad1410f1be31a56b63a88f7134d4d788dfc4ecb9b26:
+  original: neon
+  translated: νέον
+bff2316b2caa1a1489faf436c3d49c06645b8bfe3377cbbd510ef4b2:
+  original: Shade always **precedes** the color finish.
+  translated: Η σκιά πάντα **προηγείται** του φινιρίσματος.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+f07d3ee95448277e0f6db13e9cd75d73f7285bdf27647199636c3ac7:
+  original: "translation:"
+  translated: ""
+72cc4289816ee7ea7ffa11cf64dcd622ce2c355ce5229ea05980292a:
+  original: glossy blue
+  translated: ""
+75202de2ed8e3aacecf6f56df9969515c88406acfa5da6f625b6d2de:
+  original: dark red
+  translated: ""
+64a1744ce9c608b6ed6ebf0af96b9879ac09cba0afefbd4e57210250:
+  original: light matte green
+  translated: ""

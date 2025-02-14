@@ -1,0 +1,213 @@
+%YAML 1.2
+---
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+a8003378e14df0b80ce4e67f4c3eb632abe19f25e7fe61e3c97cb22c:
+  original: Arcadia's verbs dictate sentence structure, shaping syntax based on
+    verb type.
+  translated: Τα ρήματα της Αρκάδια καθορίζουν τη δομή της πρότασης,
+    διαμορφώνοντας τη σύνταξη με βάση τον τύπο του ρήματος.
+b1218aace45cb2ff1f71aa13134209f66f1d2549c5a8bd72b5869e0d:
+  original: The verb determines word order and conveys extensive grammatical
+    information through **prefixes and suffixes**, integrating **[mood][mood],
+    [tense][tense], [aspect][aspect], and [person][person] distinctions**.
+  translated: Το ρήμα καθορίζει τη σειρά των λέξεων και μεταφέρει εκτενείς
+    γραμματικές πληροφορίες μέσω **προθεμάτων και επιθημάτων**, ενσωματώνοντας
+    τις διακρίσεις που αφορούν την **[διάθεση][mood], τον [χρόνο][tense], την
+    [όψη][aspect] και το [πρόσωπο][person]**.
+6be147112928dc625e0513f14d58ba06b61b40c462665a435cbbaa48:
+  original: All personal verbs in Arcadia require a **focus**, which is always
+    in the **nominative case**.
+  translated: Όλα τα προσωπικά ρήματα στην Αρκάδια απαιτούν μια **εστίαση**, η
+    οποία είναι πάντα στην **ονομαστική πτώση**.
+1d001b8b7dbba8d63d0c5f4b20e1af0ca6223255031347a7127e5f59:
+  original: Each section specifies which case applies to an argument when
+    **unfocused**.
+  translated: Σε κάθε ενότητα αναφέρεται σε ποια πτώση ισχύει κάθε μέρος της
+    πρότασης όταν είναι **μη εστιασμένο**, καθώς και ποια είναι η βασική
+    εστίαση.
+442670d1a00d6127ec3266e10c6991b86def5bb5d9eb717739134231:
+  original:
+    "Arcadia does not categorize verbs by **transitivity**; instead, it distinguishes
+    four core **verb types**:"
+  translated:
+    "Η Αρκάδια δεν κατηγοριοποιεί τα ρήματα με βάση την **μεταβατικότητα**.
+    Αντίθετα, διακρίνει τέσσερις βασικούς **τύπους ρημάτων**:"
+10252bbbc2414b8f427392e11840d22ff49ac0ad32b0b83650122d51:
+  original: Weather Verbs
+  translated: Ρήματα Καιρού
+1b7cf73fa5f42a78639602ad91d642363ee9fa8afef99aa84a1ae15d:
+  original: Linking Verbs
+  translated: Συνδετικά Ρήματα
+432add2444b9964e2ca8916c6ed86ad61de4265ad141aa0551d1e629:
+  original: Experiential Verbs
+  translated: Ρήματα Εμπειρίας
+f434785133a544f2e6671bc38ab558b320c1dc9e80b0f0ed956bd7fd:
+  original: Action Verbs
+  translated: Ρήματα Δράσης
+556e21fd9324c61f5552b654ad83a852bf597208085605193ac3399d:
+  original: Weather verbs describe **general states** without requiring a
+    subject (e.g., _"It is raining"_).
+  translated: Τα ρήματα καιρού περιγράφουν **γενικές καταστάσεις** χωρίς να
+    απαιτούν υποκείμενο (π.χ. _"Βρέχει"_).
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: Όνομα
+a438fbfab38ba86f89ecfe5bd2667f8ce60df320311140ed628de5a4:
+  original: Despite the name, these verbs extend beyond weather-related
+    phenomena to **impersonal conditions**.
+  translated: Παρά το όνομά τους, αυτά τα ρήματα επεκτείνονται πέρα από
+    φαινόμενα που σχετίζονται με τον καιρό σε **απρόσωπες καταστάσεις**.
+71827f896cde545fcce893146f1ead8eca3a78f5e963b5281cab7bc7:
+  original: Syntax
+  translated: Σύνταξη
+e5902c7d11edc074af6f608dafcaf8ff477bdc3b5f4dcc2deb7837b7:
+  original: Verb
+  translated: Ρήμα
+e4f76bc2f4c4c281f599a8545365edaf8915ff5aa19c5e62c488d893:
+  original: Focus
+  translated: Εστίαση
+bb8489e9cee8bfb8ab777f88de254640c2eb0b7ec5915b2e8b0666f7:
+  original: Since there is no subject, weather verbs **do not take personal
+    suffixes**.
+  translated: Δεδομένου ότι δεν υπάρχει υποκείμενο, τα ρήματα καιρού **δεν
+    παίρνουν προσωπικά επιθήματα**.
+0b35ff5c90fa3e88af6cf7093aebbdc70adfb5e1c82980253153a8d7:
+  original: Linking verbs **connect a subject to a predicate**, identifying or
+    describing it (e.g., _"I am a doctor"_, _"The roses smell nice"_).
+  translated: Τα συνδετικά ρήματα **συνδέουν ένα υποκείμενο με ένα
+    κατηγορούμενο**, προσδιορίζοντας ή περιγράφοντας το.
+b8a07b54d2227b670651d8f3c958a10ac58895f1284b24a35b73f154:
+  original: Subject
+  translated: Υποκείμενο
+fb84f5cbd715054ec1960418b780efe3bf19f7a68b365453c0f8ca8a:
+  original: Predicate
+  translated: Κατηγορούμενο
+64a789a6c3268598429d1c0301856b6325c52d4b137d11ca69909980:
+  original: The **predicate** takes the **predicative case**, agreeing in
+    **number** with the subject.
+  translated: Το **κατηγορούμενο** παίρνει την **κατηγορική πτώση**, συμφωνώντας
+    σε **αριθμό** με το υποκείμενο.
+dd3bbe141cbe8164208f16ec9e0df2a682c644b72ab4ac274473a19b:
+  original: The **subject is always in the nominative case** as it is the **only
+    possible focus**.
+  translated: Το **υποκείμενο είναι πάντα στην ονομαστική πτώση**, καθώς αυτή
+    είναι η **μόνη δυνατή εστίαση**.
+0f843cf1f37e9808953acba75f6ae24751c0155e2d2c454c3a1bda91:
+  original: Experiential verbs describe **states, sensations, or emotions**
+    (e.g., _"I sleep"_, _"I feel cold"_).
+  translated: Τα ρήματα εμπειρίας περιγράφουν **καταστάσεις, αισθήσεις ή
+    συναισθήματα** (π.χ. _«Κοιμάμαι»_, _«Νιώθω κρύο»_).
+ab74f7608f8f1994812aea83272c7b5745300b4b63cf379983f39304:
+  original: Experiencer
+  translated: Βιωματικός αποδέκτης
+9c431e4455869140eb684f04f57a468cb07de21b861f82c879de6e13:
+  original: Stimulus
+  translated: Ερέθισμα
+2dab1a39a987ef2a4cebb798786e97d85064658bfea674ca148317f5:
+  original: "Default focus:"
+  translated: "Βασική εστίαση:"
+a83ba440e3588cf350fd2b37d083299c0bf09221b4a1afce2216d904:
+  original: "Unfocused experiencer:"
+  translated: "Μη εστιασμένος βιωματικός αποδέκτης:"
+e7ee993f312c716593f584b0c9ddc17af8ad8c566dcf634f8420617d:
+  original: Absolutive case
+  translated: Απόλυτη πτώση
+6d48a776408ebe51743170ab4c6a420dfa4b9a3061c0ab4fec6e9ab1:
+  original: "Unfocused stimulus:"
+  translated: "Μη εστιασμένο ερέθισμα:"
+2c801df6187f25d1766b1e0032e20d866bc0b7cb07e57ba3c1fc439e:
+  original: Thematic case
+  translated: Θεματική πτώση
+b1e3db25b30365c42f82d7bf9afc29c05e3a9694638c67bad3dcc673:
+  original: Action verbs describe **physical or mental actions** (e.g., _"The
+    birds are singing"_, _"I sold a book to Adam"_).
+  translated: Τα ρήματα δράσης περιγράφουν **φυσικές ή πνευματικές ενέργειες**
+    (π.χ. _«Τα πουλιά τραγουδούν»_, _«Πούλησα ένα βιβλίο στον Αδάμ»_).
+d452e9bee36ed3d6499d42da19ce37960206b7fd94290d456af9e8c9:
+  original: Actor
+  translated: Δράστης
+3759db5464f2762d7952e3997b505c253dd3ad8cafd91627ecbbd7c9:
+  original: Patient
+  translated: Πάσχων
+93eecb5d25545215488b2fdb052df26bee6e03350026755a977d743b:
+  original: Recipient
+  translated: Παραλήπτης
+bb23ce0ebd573081f1a781abe20a6aa4bc9bb3fb501660dceb22d091:
+  original: "Unfocused actor:"
+  translated: "Μη εστιασμένος δράστης:"
+8f100e41aee6750162eab32f6b59de0076163f1007abd07c5acbec46:
+  original: Ergative case
+  translated: Εργατική πτώση
+9f3651f906844b56f8a06428f3c9099a1afb592b49702ecbf35ad34c:
+  original: "Unfocused patient:"
+  translated: "Μη εστιασμένος πάσχων:"
+6024bb00d137b8e3888b73ce9e879ea5de907422ee6f6e3d7fe9a335:
+  original: Accusative case
+  translated: Αιτιατική πτώση
+df7fa0aef1ff79d7ddeb29c91cbf7de2a72bce717eac6a21aa442ef2:
+  original: "Unfocused recipient:"
+  translated: "Μη εστιασμένος παραλήπτης:"
+454858d9a27b88ca61f00d9a9e7ad84535b62dc297edd8a6bfcf960e:
+  original: Dative case
+  translated: Δοτική πτώση
+ad612f61280f106c24d6961309c02d5d0361f0574f8e662ced4c0276:
+  original: Focus can be omitted, particularly for the **first, second, and
+    fourth persons**.
+  translated: Η εστίαση μπορεί να παραλειφθεί, ιδιαίτερα για τα **πρώτο, δεύτερο
+    και τέταρτο πρόσωπο**.
+64c1bb99aef754fa4e4e44fac77219f4f35df12fc15d0f12da1c1dc4:
+  original: Focus Shifting
+  translated: Μετατόπιση Εστίασης
+278126afd9e8af21fa9c5ac4711bb86fa23114ddc12275cdaf90b280:
+  original:
+    "Arcadia allows **focus shifting** for experience and action verbs, achieved
+    by modifying:"
+  translated:
+    "Η Αρκάδια επιτρέπει τη **μετατόπιση της εστίασης** για τα ρήματα εμπειρίας
+    και δράσης, επιτυγχάνεται με την τροποποίηση:"
+40c1ce7e9dc93118c558d8fee41f9977fbd2d90f4022e91f2350d298:
+  original: "**The case of the focused argument**."
+  translated: "**Η πτώση του εστιασμένου μέρους της πρότασης**."
+1ff92843711eff800350deee76ad736d182ae3545887743452e334a5:
+  original: "**The verb form**, as detailed in the **[verb generation guide][generation]**."
+  translated: "**Η μορφή του ρήματος**, όπως αναλύεται στον **[οδηγό παραγωγής ρημάτων][generation]**."
+56977113ffb64356b5082be404237cae99e95e892ea9066f4078df20:
+  original: Valid Focus
+  translated: Έγκυρη Εστίαση
+706a1f8365309f2a0e723b1a9b954f4404ee321f931cdde29303a3d9:
+  original: "**Stimulus** for experiential verbs"
+  translated: "**Ερέθισμα** για ρήματα εμπειρίας"
+109ed3f22a12bd2176094eb9848236dab178a52439f3e5d50f85ade8:
+  original: "**Patient** for action verbs"
+  translated: "**Πάσχων** για ρήματα δράσης"
+f88469740006d03d612632ae12aaf8ff2cc959bf49cfe1d8dfc5c7e2:
+  original: "**Recipient** for action verbs"
+  translated: "**Παραλήπτης** για ρήματα δράσης"
+b570bf8bf6332e218cbe0d64a159344246325edeb2cea6e033f6bf08:
+  original: "**Instrument**"
+  translated: "**Μέσο**"
+b6baf7521a9747be96c36011ed8988cb107475214959009a61eb604e:
+  original: "**Beneficiary**"
+  translated: "**Ευεργετούμενος**"
+f90d04ca4f0cc67e3e090a77d137a974a98611662e74bc3722fb6c8a:
+  original: Reflexivity and Reciprocity
+  translated: Αυτοαναφορά και Αμοιβαιότητα
+082450ec3219fb1af7a82918c59611a8890a081aa808a7f76c2227ae:
+  original: Arcadia uses **prefixes** to indicate **reflexive** and
+    **reciprocal** actions.
+  translated: Η Αρκάδια χρησιμοποιεί **προθέματα** για να υποδείξει
+    **αυτοαναφορικές** και **αμοιβαίες** ενέργειες.
+3709ccd85cb0595de0d6636123ba812d73d36391d3edfa26ebdebcd2:
+  original: The reflexivity prefix is **applied first**, followed by the
+    **focus-shifting prefix**, ensuring the reflexive element remains **closest
+    to the verb root**.
+  translated: Το πρόθεμα αυτοαναφοράς εφαρμόζεται **πρώτο**, ακολουθούμενο από
+    το **πρόθεμα μετατόπισης εστίασης**, διασφαλίζοντας ότι το στοιχείο
+    αυτοαναφοράς παραμένει **πιο κοντά στη ρίζα του ρήματος**.
+d6645b92f734fd077b698d649335da1d97c8db800ffb89295cc57aba:
+  original: The full set of reflexive and reciprocal markers is detailed in the
+    **[verb generation guide][generation]**.
+  translated: Το πλήρες σύνολο των δεικτών αυτοαναφοράς και αμοιβαιότητας
+    αναλύεται στον **[οδηγό παραγωγής ρημάτων][generation]**.
