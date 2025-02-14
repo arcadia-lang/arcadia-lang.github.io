@@ -1,0 +1,58 @@
+%YAML 1.2
+---
+b4e2406005100de6af748392ee795802f99189447498c0fe5e3f4093:
+  original: Punctuation
+  translated: Σημεία στίξης
+36975f22d2976c8f99c32d075e86bab95c9a99f77e659f770ba0a844:
+  original: Punctuation Mark
+  translated: Σημεία στίξης
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: Όνομα
+3066f8a7f62e4e2351115b6bdbfb9f2dab2d0c0855f2f0ebe98db3ef:
+  original: Usage
+  translated: Χρήση
+a39ba35fa83103c31a0de8c65022fe4beaa746b9987584152c463c25:
+  original: Period
+  translated: Τελεία
+1145df5b637453d27c2a927685409a465b88ba30831eef9b42ba83ef:
+  original: Ends a declarative sentence.
+  translated: Tελειώνει μια οριστική πρόταση.
+66ec817a9bf39eb9d956025e7e68b86569db1f2161d2ff25497f0b6b:
+  original: Semicolon
+  translated: Άνω τελεία
+70381745b7c5fb210e3ed4d908b34517b3c7387df6cd6ac9a0bb44a0:
+  original: Connects related independent clauses or separates items in a complex list.
+  translated:
+    Συνδέει σχετικές ανεξάρτητες προτάσεις ή χωρίζει στοιχεία σε μια σύνθετη
+    λίστα.
+51551501395e77ffd241e36945fd3de8388953d9584d8e2b4444ba00:
+  original: Comma
+  translated: Κόμμα
+b8a92b837c957fcec2da5deb733e67c7f8e5ec24630660cd18859397:
+  original: Separates elements in a list or clauses within a sentence.
+  translated: Χωρίζει τα στοιχεία σε μια λίστα ή τις προτάσεις μέσα σε μια πρόταση.
+dfd362edcbc4f113c01f505b915aa5c5c7f218b1e897c96ddb175fc8:
+  original: Colon
+  translated: Διπλή Τελεία
+278f0e9ee5dbba2d2d2bdf15b5f771da90b4754457f86ef09a42e28f:
+  original: Introduces a list, quotation, or explanation.
+  translated: Εισάγει μια λίστα, παράθεση ή εξήγηση.
+9381f87cd033fd7fc5f116c3cd7b305d587df54b243926a7a842813f:
+  original: Exclamation Mark
+  translated: Θαυμαστικό
+0c5bf98490b71376b153d9d1d7c72ede96a167fb69a263689e2b513e:
+  original: Expresses strong emotion or a command.
+  translated: Εκφράζει έντονα συναισθήματα ή μια εντολή.
+6c6a5e1d61bd5f668dc952d87ff2670578d5fd38944374fa0afbd3fc:
+  original: Question Mark
+  translated: Ερωτηματικό
+073579fe01e46632018ee56ab23d5aad7f8171792acc25fe95465b1a:
+  original: Marks a question.
+  translated: Δηλώνει μια ερώτηση.
+5cc296b44fdfc12416f7c121ad984d568dc6dccc16e232e4785335d7:
+  original: Quotation Marks
+  translated: Διπλά Εισαγωγικά
+53c15a650792421b337a61aea2fab6e693c5062e5ef0de7dffaeece6:
+  original: Encloses direct speech, quotations, or titles.
+  translated: Περικλείουν άμεσες ομιλίες, παραθέσεις ή τίτλους.

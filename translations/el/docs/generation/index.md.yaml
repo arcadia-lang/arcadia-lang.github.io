@@ -1,0 +1,45 @@
+%YAML 1.2
+---
+4d79d65014dcccc4539e11871e59083171088d40d368c11556f37366:
+  original: Generation
+  translated: Παράγωγα
+7c1fc0321718f1e4e099b0e19aa42c87fa51f3781d13befc76e4ddcd:
+  original:
+    Understanding Arcadia's **etymological principles** is essential for generating
+    new words effectively.
+  translated:
+    Η κατανόηση των **ετυμολογικών αρχών** της Αρκάδιας είναι απαραίτητη
+    για την αποτελεσματική παραγωγή νέων λέξεων.
+b6a620e39e39f2dd62db73d5ce10b1c8f26599fc3016eb34259eedda:
+  original:
+    Since Arcadia's vocabulary is **smaller than in most languages**, word
+    generation occurs more frequently.
+  translated:
+    Δεδομένου ότι το λεξιλόγιο της Αρκάδιας είναι **μικρότερο από τις περισσότερες
+    γλώσσες**, η παραγωγή λέξεων συμβαίνει πιο συχνά.
+d89de884787f05d3a806474f4f1eec342514b90ebafa9c816d50df98:
+  original:
+    The system is designed to **minimize lexical gaps**, ensuring that necessary
+    words can always be formed.
+  translated:
+    Το σύστημα έχει σχεδιαστεί για να **ελαχιστοποιεί τα λεξικά κενά**,
+    διασφαλίζοντας ότι οι απαραίτητες λέξεις μπορούν πάντα να σχηματιστούν.
+cd3fa3a767b431a32f8362351f0e035a9e595e26e2b49c06d5af32b9:
+  original:
+    Most words originate from **verbs**, making **verb-based derivation**
+    a key process.
+  translated:
+    Οι περισσότερες λέξεις προέρχονται από **ρήματα**, καθιστώντας την **παράγωγη
+    από ρήματα** μια βασική διαδικασία.
+c08adee6a682d6183df705d6e8c1cc77531f3735b5c5c5daa6c61560:
+  original: "This section is divided based on the **resulting word type**:"
+  translated: "Αυτή η ενότητα είναι χωρισμένη με βάση τον **τύπο λέξης που προκύπτει**:"
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: Επίθετα

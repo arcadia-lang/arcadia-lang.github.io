@@ -1,0 +1,162 @@
+%YAML 1.2
+---
+e3bd1dd6dbf1cd5b8d23ac532bdccf3510febf31e64bc7a2e0123f1c:
+  original: Replies
+  translated: Απαντήσεις
+b429ba28bbb48c076a1877ae7595612af433e77197790149b496bb52:
+  original: Reply Words
+  translated: Λέξεις απάντησης
+25f7039764807e8a68e9e07f06fd2acdd5f08536d4f67062f2392d19:
+  original:
+    "Arcadia has **three primary reply words**, each serving a distinct conversational
+    function:"
+  translated:
+    "Η Αρκάδια έχει **τρεις κύριες λέξεις απάντησης**, καθεμία από τις οποίες
+    εξυπηρετεί μια ξεχωριστή λειτουργία στην συνομιλία:"
+c3e83c784f14238acc1b4d492a10ccfa84e4fea69b73d0ef55906b7b:
+  original: Yes
+  translated: Ναι
+57700fd5fa013df338ccc932fc3ecb21d6f3b30b7b3cbc8148a18808:
+  original: affirmative response
+  translated: Καταφατική απάντηση
+0b1d5def4f0257158dc6022349b17d0f19a18bed83b32f164e03a116:
+  original: No
+  translated: Όχι
+443defe66d7630b61be82cb92e15415917e84e489f61eb505033ed86:
+  original: negative response
+  translated: Αρνητική απάντηση
+7847b15e5680c8a5ca988ec1dcbc99bd3b0a174a4707bb7ca217b7bc:
+  original: Neutral acknowledgment
+  translated: Ουδέτερη αναγνώριση
+549e5823d37a73d58cdb23394d73a218aba0897492c42011f6e3eeab:
+  original:
+    used to show that the listener is paying attention or understands **without
+    confirming or denying** the statement.
+  translated:
+    Χρησιμοποιείται για να δείξει ότι ο ακροατής προσέχει ή κατανοεί **χωρίς
+    να επιβεβαιώνει ή να αρνείται** την δήλωση.
+f10be45f7655542bd1f092cd8f0f3a0b53f12a763a7a583320f13a72:
+  original: Usage of "ack"
+  translated: Χρήση του "ack"
+98c417cd090dddbe09def93eb2f20e590bf99c94d970447cff49819a:
+  original:
+    Commonly used in **dialogue** when one wants to **indicate understanding**
+    but avoid committing to a definitive stance.
+  translated:
+    Χρησιμοποιείται συχνά σε **διάλογο** όταν κάποιος θέλει να **δηλώσει
+    κατανόηση** αλλά να αποφύγει να δεσμευτεί σε μια οριστική θέση.
+d4cdea69b4db0ff0307a7133b52e51825669a6431e7b8c36fc18a412:
+  original: Generic Reply Words
+  translated: Γενικές λέξεις απάντησης
+884942a3bfdb46b04a56c2095bbbd9142890ca896e6f67b29a00c895:
+  original:
+    Similar to English words like **"nowhere," "somewhere," "anywhere," and
+    "everywhere,"** Arcadia has **structured generic reply words** that align with
+    **interrogatives**.
+  translated:
+    Παρόμοια με ελληνικές λέξεις όπως **"πουθενά," "κάπου," "οπουδήποτε,"
+    και "παντού,"** η Αρκάδια έχει **δομημένες γενικές λέξεις απάντησης** που ευθυγραμμίζονται
+    με **ερωτηματικά**.
+9b3f1599a812b96e5741a5cb86fcd90f9da50f68f8769670502a6be3:
+  original: Interrogative-Based Reply Forms
+  translated: Μορφές απάντησης με βάση το ερωτηματικό
+b2905760bc68d51923c761e00150591ac54a55c851d9be7c37ef530e:
+  original:
+    "Each interrogative combines with **prefixes** to generate **negative,
+    generic, specific, and collective** responses:"
+  translated:
+    "Κάθε ερωτηματικό συνδυάζεται με **πρόθετα** για να δημιουργήσει **αρνητικές,
+    γενικές, ειδικές και συλλογικές** απαντήσεις:"
+0c0ed267b9ea80743b49921a2667e9fe76296694bfa6efb73419a3a5:
+  original: Interrogative
+  translated: Ερωτηματικό
+7ceb7bbf8f8be1ea806069c574206a2fec3db01153aaa5ab83017aa1:
+  original: Negative
+  translated: Αρνητικό
+84356e333c67abd2d6c7b5f9e0d068705a2dbce00a750346f5157e5b:
+  original: Unknown (generic)
+  translated: Άγνωστο (γενικό)
+a755473436660c7140d82d8f7a7151a137a2fec3a933649e4bc90a83:
+  original: Unknown (specific)
+  translated: Άγνωστο (συγκεκριμένο)
+cd646b0f5600c7fe24346290eda0effe0436a49b10f9a32536e60773:
+  original: no one/nothing
+  translated: κανένας/τίποτα
+058777abd0b779ad1259c0d8fd9292ba1961077cfd64fb078356ff38:
+  original: anyone/anything
+  translated: οποιοσδήποτε/οτιδήποτε
+a12abd5dc1686d9035c6d41a3b7167a4b002c534371038f703781e03:
+  original: someone/something
+  translated: κάποιος/κάτι
+7e2d5f4f87f08d2c7e8cdefbf46ce1d03acc41f04964dce7668b1a72:
+  original: everyone/everything
+  translated: όλοι/τα πάντα
+8b1788f57b101ba3c21eace0a97a99ee497419ce9d6f3e8408929495:
+  original: none
+  translated: κανένα
+1b80ba673a959ff153aa35c0bcf7bbc66aee780c7680fbb15a445c3a:
+  original: any
+  translated: οποιοδήποτε
+f6f1a49fa8596236aed2f0a8f76eeb2dc35374279c372c130b0974c4:
+  original: some
+  translated: κάποιο
+199d7f9196afa4415f4292de7af43947854136d77b8a87970a17011d:
+  original: all
+  translated: όλα
+cfd6404715660f7605a2566cdf4496b0ed7f622a0cd655c72d149b59:
+  original: nowhere
+  translated: πουθενά
+86df9eecc4c9b82dee26d21c673b9d8131c0c75321d189c87bdd8f55:
+  original: anywhere
+  translated: οπουδήποτε
+3fd4dd6c9eaea2db9f23fd382b35aca0f28a499b3ea0f4dd000e2b8c:
+  original: somewhere
+  translated: κάπου
+9d513d4ab153df0b8f72e45d247dd8d555da6aa1b32e6d01d3abb1f9:
+  original: everywhere
+  translated: παντού
+f26e67c643128ac5b2ca37e2ff9e75240dfb03f8ae806fc78d719062:
+  original: never
+  translated: ποτέ
+d1ba7f168bd6a0a2b8c4d0b455e0affe47549d89fc9c2fcf5405c90b:
+  original: anytime
+  translated: οποιαδήποτε στιγμή
+8cbe8b72e80e29ff094e7b9a5b1f2fe88069f399e406f16eda35e277:
+  original: sometime
+  translated: κάποτε
+15c1d80a423e37e404c433c233ee77887fa0518a61ee33c01a267b6d:
+  original: always
+  translated: πάντα
+cf824b8d24561318476b36159cf94fb921f72be69e24bec470359d17:
+  original: any amount
+  translated: οποιοδήποτε ποσό
+ae23f14a3b64a02c98cb3a11f852014ee8c41503fd550303e8751ea7:
+  original: some amount
+  translated: κάμποσο
+8cfb2ed6cb797dbc80e9112cacc2467b1bfcb954d0a90d6ab99cf36c:
+  original: no way
+  translated: κανένας τρόπος
+7d341081a997772dacd184eaca8612d3ef237f9a8f391c011afff825:
+  original: any way
+  translated: οποιοσδήποτε τρόπος
+00d67010991b6f1bdb5f2afd33b72dd666fdac1197a478320d5cbbe2:
+  original: some way
+  translated: κάποιος τρόπος
+c45fe5ae74d5507d554b7ceffc8838e06f66d4285596e280467f2d28:
+  original: every way
+  translated: κάθε τρόπος
+fe2c98e90db1de1cd8dab821bd56446257a5837217933b08bb7656e5:
+  original: Prefix System
+  translated: Σύστημα προθέσεων
+0eecdd60731b3e5932854cabd2fd1ec6bafa4519556ca41340364782:
+  original: Negative form (absence or negation).
+  translated: Αρνητική μορφή (απουσία ή άρνηση).
+7ad00de3a72b91116d94cb65fab776e8a71a20cddc4cd0ffc6845e71:
+  original: Unknown generic (any).
+  translated: Αγνωστο γενικό (οποιοδήποτε).
+f50b8ef655c7783c49924ce687dbaa2815471cd5bc00c71d92edd77d:
+  original: Unknown specific (some).
+  translated: Αγνωστο συγκεκριμένο (κάποιο).
+347dcece6abd9d25839a8f6e3d0a689915086fea932c7faf50ad763c:
+  original: Collective reference (all).
+  translated: Συλλογική αναφορά (όλα).
