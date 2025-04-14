@@ -1,0 +1,135 @@
+site_name: Αρκάδια
+docs_dir: ../docs
+site_dir: ../site
+
+repo_name: arcadia-lang
+repo_url: https://github.com/arcadia-lang/arcadia-lang.github.io
+
+nav:
+  - Αρχική: index.md
+  - Ορθογραφία:
+      - orthography/index.md
+  - Λεξιλόγιο:
+      - vocabulary/index.md
+      - Επίθετα: vocabulary/adjectives.md
+      - Ουσιαστικά: vocabulary/nouns.md
+      - Ρήματα: vocabulary/verbs.md
+      - Χρώματα: vocabulary/colours.md
+      - Επιρρήματα: vocabulary/adverbs.md
+      - Συνδέσεις: vocabulary/connections.md
+  - Παράγωγα:
+      - Ρήματα: generation/verbs.md
+  - Προσδιοριστές:
+      - determiners/index.md
+      - Άρθρα: determiners/articles.md
+      - Δεικτικά: determiners/demonstratives.md
+      - Ερωτηματικά: determiners/interrogatives.md
+      - Κτητικά: determiners/possessives.md
+      - Ποσοδείκτες: determiners/quantifiers.md
+      - Αριθμητικά: determiners/numerals.md
+  - Ουσιαστικά:
+      - nouns/index.md
+      - Γένος: nouns/gender.md
+      - Πτώσεις: nouns/cases.md
+      - Αριθμός: nouns/number.md
+      - Αντωνυμίες:
+          - nouns/pronouns/index.md
+          - Προσωπικές αντωνυμίες: nouns/pronouns/personal.md
+          - Απρόσωπες αντωνυμίες: nouns/pronouns/impersonal.md
+      - Πίνακες κλίσης: nouns/declension.md
+  - Ρήματα:
+      - verbs/index.md
+      - Τύπος: verbs/type.md
+      - Πρόσωπο και αριθμός: verbs/person.md
+      - Χρόνος: verbs/tense.md
+      - Όψη: verbs/aspect.md
+      - Έγκλιση: verbs/mood.md
+      - Πίνακες κλίσης: verbs/declension.md
+  - Περιγραφή:
+      - Επίθετα:
+          - description/adjectives/index.md
+      - Επιρρήματα:
+          - description/adverbs/index.md
+          - Παράγωγα επιρρήματα: description/adverbs/derived.md
+  - Συνδέσεις:
+      - Προθέσεις: connection/prepositions.md
+      - Απαντήσεις: connection/reply.md
+      - Άρνηση: connection/negation.md
+  - Υποθετικές προτάσεις:
+      - conditionals/index.md
+      - Υπόθεση: conditionals/antecedent.md
+      - Απόδοση: conditionals/consequent.md
+  - Επικοινωνία:
+      - communication/index.md
+      - Σημασιολογία: communication/semantics.md
+      - Προτιμήσεις: communication/preference.md
+      - Ύπαρξη: communication/existence.md
+      - Συνδετικά ρήματα: communication/linking.md
+  - Παραδείγματα:
+      - examples/index.md
+      - Α1:
+          - examples/a1/index.md
+          - Μία βόλτα στο ποτάμι: examples/a1/river.md
+          - Μία καλή μέρα: examples/a1/good_day.md
+      - Α2:
+          - examples/a2/index.md
+          - Μία τυπική μέρα: examples/a2/typical_day.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
+
+theme:
+  name: material
+  custom_dir: "../../overrides/"
+  language: el
+  logo: assets/images/logo.jpg
+  favicon: assets/images/favicon.ico
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Αλλαγή σε σκοτεινή λειτουργία
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Αλλαγή σε φωτεινή λειτουργία
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - search
+    - search.suggest
+    - search.share
+
+plugins:
+  - search:
+      lang: el
+
+extra:
+  alternate:
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇬🇷 Ελληνικά
+      link: /el/
+      lang: el
