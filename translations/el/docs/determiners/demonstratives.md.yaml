@@ -1,0 +1,214 @@
+%YAML 1.2
+---
+cf551b21b07f579b75154ce589e057fdebb1a5d3be7c12e9fad80d0c:
+  original: Demonstratives
+  translated: Δεικτικά
+2b373da905ca5a40855e2f4546e9269715e94997f8af9da7c2d1bd8c:
+  original: Arcadia has three **bound deixis elements**, that are **never used alone**.
+  translated:
+    Η Αρκαδία έχει τρία **δεσμευτικά στοιχεία δείξης**, που **ποτέ δεν χρησιμοποιούνται
+    μόνα τους**.
+aa93df5a09d4a1ad1146e0845e43df98a384d200b2aad027b9ed0e8f:
+  original:
+    Instead, they **attach to interrogatives** to add **spatial or temporal
+    deixis**, specifying proximity or distance.
+  translated:
+    Αντίθετα, **συνδέονται με ερωτηματικές λέξεις** για να προσθέσουν **χωρική
+    ή χρονική δείξη**, προσδιορίζοντας την εγγύτητα ή την απόσταση.
+cda4d12cd58e545bc5f786ecee50719d9671bd4ed87b0c431b230f43:
+  original: "The **three levels of deixis** are:"
+  translated: "Τα **τρία επίπεδα δείξης** είναι:"
+0b419c3725e2ece25a5f9c9227a345b73d9e2affc749e682e6e2d2d1:
+  original: Close (near the speaker).
+  translated: Κοντά (κοντά στον ομιλητή).
+5e922e19a07ffd8cc332be7466cdabeea46b060f65afa23e5c243678:
+  original: Far (visible but distant).
+  translated: Μακριά (ορατό αλλά μακρινό).
+7d10f367aa1119d9405f96c657a9f1999d25c1420037a9e89b8b22b4:
+  original: Very far or invisible (out of sight, abstract, or distant in time).
+  translated:
+    Πολύ μακριά ή αόρατο (εκτός οπτικού πεδίου, αφηρημένο ή μακρινό στο
+    χρόνο).
+9a2c2fb0f1f577cc59dc0671c1946b06322b10ed56cec285edb5aea6:
+  original:
+    Since **&{est}, &{ess}, and &{tis}** are dependent modifiers, they **cannot
+    appear independently** in speech or writing.
+  translated:
+    Δεδομένου ότι **&{est}, &{ess} και &{tis}** είναι εξαρτημένες τροποποιήσεις,
+    **δεν μπορούν να εμφανιστούν ανεξάρτητα** στην ομιλία ή τη γραφή.
+  literals:
+    - ess
+    - est
+    - tis
+b0e67684d10c693283c641c9374bd0e9dbc3782ac4ec34d0333e9cf6:
+  original: They always require an **interrogative base** to function correctly.
+  translated: Πάντα απαιτούν μια **ερωτηματική βάση** για να λειτουργήσουν σωστά.
+25d7cb59066a44967ae56ee695b959049b9501febfe86550872d5bbf:
+  original: Interrogative Demonstratives
+  translated: Ερωτηματικά Δεικτικά
+f9d8908a9baf2ae8902a54149fbe4ce1384c30e63463d4c836e2f237:
+  original:
+    "Deixis elements are combined with **interrogatives** to form precise
+    demonstratives:"
+  translated:
+    "Τα στοιχεία δείξης συνδυάζονται με **ερωτηματικές λέξεις** για να σχηματίσουν
+    ακριβή δεικτικά:"
+71bf6f4edd356500b23a0717ca9c6e96749e9bdc3e449d7703bf6140:
+  original: who/what
+  translated: ποιος/τι
+b14256464fa05beeca6d3e5e4c095c169ac456e9145fbfa07e698dab:
+  original: Close
+  translated: Κοντά
+f0ea8f965740ea52a58822053d2e1e1111dfae4f4dd3ac02b03d4acb:
+  original: This
+  translated: Αυτό
+465be2f6a52cb46f82b93286f4abb7211d30b26f87822dcaba5438f7:
+  original: Far
+  translated: Μακριά
+8fb2bef471e60b762c94efd53df2c9ba7653b4941a19c7e7c8b8004a:
+  original: That
+  translated: Εκείνο
+19bf0a2ec3c9237e7b37560ccd19137a46ec3efcdf2f9f79d86f690d:
+  original: Very far/invisible
+  translated: Πολύ μακριά/αόρατο
+3ee2d6e0596301136bc1f66283f63d7e59d6fa4a21fb52fdee7a89f1:
+  original: The one that's out of my sight
+  translated: Αυτό που είναι εκτός του οπτικού μου πεδίου
+b52b2bc8cdd7b86cb80efe46ccfb51c246280082f1d7946beed1ddb9:
+  original: which
+  translated: ποιο απ' αυτά
+e1b432dbdae8a844e9199972936c440c812b9a867d3df57c5a203706:
+  original: This one
+  translated: Αυτό
+863d0ab6e67537b8aeba874754a0b693d822189634eb0f8dba92fb74:
+  original: That one
+  translated: Εκείνο
+ab766becd196b89a423011414ca33a5411f7e3523ff8b984289da7ed:
+  original: where
+  translated: πού
+c110ec314158c529de257bbc787b80eb1ecb96b5c33d624878661bf5:
+  original: Here
+  translated: Εδώ
+1c1bcabc8c88f1c3ad848bed02fd1663345cb5da471bfa6308bb3c54:
+  original: There
+  translated: Εκεί
+f61d0a60371de370d30442502d0022949641e0a04d8ed0c31222ea69:
+  original: The place that's out of sight
+  translated: Το μέρος που είναι εκτός οπτικού πεδίου
+e29edc56da00502ad978a9a83552f40448502d5efd612a548f8befa5:
+  original: when
+  translated: πότε
+b4cfb619811c761e603af400242614171c6642b7440970f3e7e92c16:
+  original: Now
+  translated: Τώρα
+5b611735a13feee91e2c5b311b1373e9d1af6c42cdd4b88cf1175242:
+  original: The other time
+  translated: Τότε
+e40a832d3173ce44e8fc2765ac2ab8217589bc328bf1c3810ab0fe89:
+  original: In a distant time
+  translated: Σε μακρινό χρόνο
+511177a08417e242c677a7a7b2e4b85b0a9349419b62773c841f2ec1:
+  original: how much/how many
+  translated: πόσα
+b775d1b04f129d70071e58376d87d9471bf80b1000291c16a18b019b:
+  original: This much
+  translated: Τόσο
+f0825023bf183a8137f8675dd327d4fb54cf3864c1ef1452a5a18511:
+  original: That much
+  translated: Τόσο
+bf776c35602398ac65267e67c6114777f8b4a220793663d277a2b258:
+  original: how
+  translated: πώς
+a02206d26dc83e3512a804336f9de1e160926b07da801cdf0657e0b1:
+  original: This way
+  translated: Έτσι
+cd1fa6ae36aa7b16cf096e8292bdf38a7c3a514799c24a0f10c11cdd:
+  original: That way
+  translated: Αλλιώς
+d71cdaf7b15c8c4c8658569c3c1b07bd7f3e27f8a6f1370bf683654d:
+  original: Deictic Expressions
+  translated: Δεικτικές Εκφράσεις
+fac489ffdb16be98954d3228585046fbe4d0d5d1e8dcd15a749bb750:
+  original:
+    _"-&{ove}"_, _"-&{uando}"_, and _"-&{ume}"_ are **not true demonstratives**,
+    but are included here due to their close relationship with **deictic expressions**.
+  translated:
+    Τα _"-&{ove}"_, _"-&{uando}"_ και _"-&{ume}"_ **δεν είναι αληθινά δεικτικά**,
+    αλλά περιλαμβάνονται εδώ λόγω της στενής τους σχέσης με τις **δεικτικές εκφράσεις**.
+  literals:
+    - ove
+    - uando
+    - ume
+03c171a74e011170088ae3cee0060be7089e261d1d8b63bceccfbcea:
+  original: Agreement Rules
+  translated: Κανόνες Συμφωνίας
+49558cd767f55ce72f9904485700fc6ec48afc6a05f0099c4f20799b:
+  original: When combined with a noun, **the demonstrative must agree in number**.
+  translated:
+    Όταν συνδυάζεται με ένα ουσιαστικό, **το δεικτικό πρέπει να συμφωνεί
+    σε αριθμό**.
+6ccea82d12a9c4606203ea9884ea02ba768c16d4c90fa3ee3215f533:
+  original:
+    Demonstratives **do not take case markings** when used with a noun (to
+    avoid redundancy).
+  translated:
+    Τα δεικτικά **δεν κλίνονται** όταν χρησιμοποιούνται με ένα ουσιαστικό
+    (για να αποφευχθεί η πλεονασμός).
+141be703afb796857f43964513730d60e75b889b5b6c98775a3eea43:
+  original: When **used independently**, case marking **is mandatory**.
+  translated: Όταν **χρησιμοποιούνται ανεξάρτητα**, η κλίση **είναι υποχρεωτική**.
+749b1ed852ed9161521efe31e4bc6c12923b60d3997d37845edf4363:
+  original: '"&{ess}" vs. "&{tis}" in Temporal Contexts'
+  translated: '"&{ess}" vs. "&{tis}" σε Χρονικά Πλαίσια'
+  literals:
+    - ess
+    - tis
+5e098d9bf1fa086ce91297d13e2542dd5990f279bf0f0b19a277067f:
+  original: Used when referring to **a time within a lifetime**.
+  translated:
+    Χρησιμοποιείται όταν αναφερόμαστε σε **ένα χρονικό διάστημα εντός μιας
+    ζωής**.
+2cf668fb1939277fe710da16e08e6f70b91f600c9e6082c9a36eea3e:
+  original: Used when referring to **a more distant time or an abstract concept**.
+  translated:
+    Χρησιμοποιείται όταν αναφερόμαστε σε **ένα πιο μακρινό χρονικό διάστημα
+    ή μια αφηρημένη έννοια**.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+89e21132cb0dd329bfc5d4a4d64932f0147d72a6439a72e4d89856d5:
+  original: Demonstrative with a noun
+  translated: Δεικτικό με ουσιαστικό
+4bfdbca377960daa368a2abcb65f1b6a9e31b87dbe1dd96d13df15fb:
+  original: "No case marking required:"
+  translated: "Καμία κλίση δεν απαιτείται:"
+0dde746f1230ce63b83d2340f789636e1e0bdab806aef88a1b34de6c:
+  original: This apple
+  translated: Αυτό το μήλο
+5d7326cbac56e661d4a9c91a335cf75a7f9bf32d5f0ce8867a9f354e:
+  original: These apples
+  translated: Αυτά τα μήλα
+448f07d6e697b6764a49c727cf49c5a94cea741681799d0ded795dd8:
+  original: This one apple
+  translated: Αυτό εδώ το μήλο
+56d58e2e107c7070d9b694c151ed1dff77989e92f11108c6683e4085:
+  original: choosing among apples
+  translated: επιλέγοντας ανάμεσα σε μήλα
+252facd8e7f28e9981cbe899f90037176b4616f0f0c67bd4bc0b52a8:
+  original: This much water
+  translated: Τόσο νερό
+0923d7679094e7127317af4b348108b84dd41d1393221a320a0cb105:
+  original: Demonstrative as a standalone pronoun
+  translated: Δεικτικό ως αυτόνομη αντωνυμία
+afed4c0352a643e53d65e72f9c30e7b356340e5e05d6a1726fdad904:
+  original: "Requires case marking:"
+  translated: "Απαιτεί κλίση:"
+74bc7b5a2381db7db953b1de8fbcfdb320faa369de4eb319881ecec8:
+  original: I want that.
+  translated: Θέλω αυτό.
+6fb4964e2b15aa149f5d50b0f8d5c7d30bc50f37062264dd83060d11:
+  original: Case marking required
+  translated: Απαιτείται κλίση
+37298dc031b1497a2923f7760c76f3751297d412ac2a2d4b3e30fdb9:
+  original: I want the one that's out of sight.
+  translated: Θέλω αυτό που είναι εκτός του οπτικού μου πεδίου.
