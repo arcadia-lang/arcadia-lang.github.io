@@ -1,0 +1,167 @@
+%YAML 1.2
+---
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+a2695aa3c8ba169f50a80a3b3a90ae7d9fa42dbd7244b0ec2dea6ead:
+  original: Home
+  translated: Αρχική
+1667899649ab0d5bff08ab51a932261d7376452c197f32c0fc35f844:
+  original: Orthography
+  translated: Ορθογραφία
+731a7f0bebd5040dbec4da3672d85ae8bd70c7feb4ec294ea7e878b4:
+  original: Vocabulary
+  translated: Λεξιλόγιο
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: Επίθετα
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+f0ce01fb457f456a9e206f64b10d5cf48f2cf8a48c6d581b6fe088ed:
+  original: Colours
+  translated: Χρώματα
+84d5827dfce32975fb2dfbaf800bf3aae299d1217d149d49e4a9359a:
+  original: Adverbs
+  translated: Επιρρήματα
+568bc20361895de76ea52280fcc55ec38f05ed0cae79bc16311223fd:
+  original: Connections
+  translated: Συνδέσεις
+4d79d65014dcccc4539e11871e59083171088d40d368c11556f37366:
+  original: Generation
+  translated: Παράγωγα
+71827f896cde545fcce893146f1ead8eca3a78f5e963b5281cab7bc7:
+  original: Syntax
+  translated: Συντακτικό
+dc4c9ba70ef27e36fb053102778bec49611e0167dd11f4d2ad4be5d4:
+  original: Determinatives
+  translated: Προσδιοριστικά
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+cf551b21b07f579b75154ce589e057fdebb1a5d3be7c12e9fad80d0c:
+  original: Demonstratives
+  translated: Δεικτικά
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: Κτητικά
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+b6d48f0d27f762c2e9ac6bf59569ee223c10490eaffa56d466412852:
+  original: Numerals
+  translated: Αριθμητικά
+50ff40ca3b6578fc15bcb74bde0b6b51c1557a473025e7b8d1cb830e:
+  original: Gender
+  translated: Γένος
+e95e6f7dcb22164f2d48b6f75ebcc79df8ae774ad23188d8700d9f83:
+  original: Form
+  translated: Μορφή
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: Πτώσεις
+f71a6b4aeb5530b69c93777602d07deafe97ff76e8a1d7b1ce98ab91:
+  original: Pronouns
+  translated: Αντωνυμίες
+7c8489dfd11d0c6f3eb00cc49dcc7d9ba4da8bfc0459219b0314404b:
+  original: Personal pronouns
+  translated: Προσωπικές αντωνυμίες
+2e667332bff45281041a496cd6137ab5d24be775216386b529842218:
+  original: Impersonal pronouns
+  translated: Απρόσωπες αντωνυμίες
+fca19298824ed0ebb4b8339adaafbf9ba930ffbc482fb2227d20ec57:
+  original: Declension tables
+  translated: Πίνακες κλίσης
+01f1e0d4d00ef2ad740b2b2f2205b02e5e23758a46b71ae54347a844:
+  original: Type
+  translated: Τύπος
+47b75becf4989a27760838b597c8d15dcdf81d8d143e763098a0be5b:
+  original: Person and number
+  translated: Πρόσωπο και αριθμός
+f2cdd838db150cc9244f851773fa2157f656b656b65336c6e1919ef4:
+  original: Tense
+  translated: Χρόνος
+18c2b122d90b384939e3cf8479a27094b14a9a0bf6a74f686e8e1d77:
+  original: Aspect
+  translated: Όψη
+25443da77a42bbf889531b1650da131bd5b20c57015c58ecd58c9447:
+  original: Mood
+  translated: Έγκλιση
+1eba9774ed22669859eaf99d1b8ee348958281d9f0092fe48888b54c:
+  original: Description
+  translated: Περιγραφή
+b4c6bf14f4eab05db153ecc409090972d2b1af4933e8fdc71331daab:
+  original: Derived adverbs
+  translated: Παράγωγα επιρρήματα
+a2ff0578b3b965e3b72ea3c0530ccf07551dba952b4e6bb0a4be87bd:
+  original: Prepositions
+  translated: Προθέσεις
+dce86861b9d13a21bae04001a234e429e2ae3f33d2a590e32f22fc10:
+  original: Conditionals
+  translated: Υποθετικές προτάσεις
+badfbc61ff1dfd95251b1139f92aeef4687f8c2350ba4b81556cf145:
+  original: Antecedent
+  translated: Υπόθεση
+08de3898341ef2fe77d49a4e8f563b4c068ecb64f669ab1cbb6f11cb:
+  original: Consequent
+  translated: Απόδοση
+9c8b9f6c8ea3417abc3de0b18bb32aaa8cd1a1fec3a1a54ef860bfae:
+  original: Questions
+  translated: Ερωτήσεις
+9bbc67a4a6b184e4a4feec49d25ae58f1d7d44134f05ac8cf7bf0a27:
+  original: Interrogatives
+  translated: Ερωτηματικά
+e3bd1dd6dbf1cd5b8d23ac532bdccf3510febf31e64bc7a2e0123f1c:
+  original: Replies
+  translated: Απαντήσεις
+82935282df19a76f65003ba2abc5a36ebd8693ed1f46c409ec3cbfb8:
+  original: Negation
+  translated: Άρνηση
+17c7e2911aff2fc36d161c4b1f95460b16c1ece385d6e23d82afadb8:
+  original: Communication
+  translated: Επικοινωνία
+4aa104c9afa45bf6c674b920fa5cc8698f78c588c73bcbf817b6f32f:
+  original: Semantics
+  translated: Σημασιολογία
+3a5aed5335cab4d4186157db2be9a355d2020e75c3cbacb6029d6c2c:
+  original: Preference
+  translated: Προτιμήσεις
+916e8e85831330fe21ba445c41d30d47233db645ffe58b952173e4d8:
+  original: Existence
+  translated: Ύπαρξη
+79d6e3cfacc5618bee8d89b519852bd9f5f953a3354c4b923f29a9d7:
+  original: Linking verbs
+  translated: Συνδετικά ρήματα
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+6c32fb7775646f4d5241204fa2acfb90c979dd17a32f5d2f0fd9234e:
+  original: A1
+  translated: Α1
+d9d0981d48accd577a3742660a94571a95d4c5ec2b69e46090b411c3:
+  original: A walk by the river
+  translated: Μία βόλτα στο ποτάμι
+be99bbd52660bc375b827bbd3ba46289bb9f52a50ba486e289210835:
+  original: A good day
+  translated: Μία καλή μέρα
+f82c8e25871ef79de697dfcef3ac08d7c2b2d22d45b7ce53a0ef65e0:
+  original: A2
+  translated: Α2
+4a41aa258682d0b72b92370231f460b4df0565333a2f12877e79ad87:
+  original: A typical day
+  translated: Μία τυπική μέρα
+4351e1742ddcdb0a0cabaa1364e79fc1a3fe0ee50a9128565e63dcd2:
+  original: en
+  translated: el
+78ffd0bfa1de7baacdb9787298b07d349044ceb914afdd4f972c75b7:
+  original: Switch to dark mode
+  translated: Αλλαγή σε σκοτεινή λειτουργία
+1ad753d71024c4527727d68a42a3d506ba6e42cda2d06be504f08b76:
+  original: Switch to light mode
+  translated: Αλλαγή σε φωτεινή λειτουργία
