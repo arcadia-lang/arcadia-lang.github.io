@@ -1,0 +1,135 @@
+%YAML 1.2
+---
+71a6ff1bd3a254bcbdadf06eeda8125acd200c5d4d73691d54ecd331:
+  original: Syntactic structures
+  translated: Συντακτικές δομές
+b54a6a1932b85adefce966541e423c31ad8e3703a57275f92af00fba:
+  original: We will start our analysis with sentences.
+  translated: Θα ξεκινήσουμε την ανάλυσή μας με τις περιόδους.
+0c5b52795ac3d0112be008523d5c9bdadca101689b60b247d50f2d33:
+  original: A sentence is the largest unit that has a syntactic structure.
+  translated:
+    Μια περίοδος είναι το μεγαλύτερο κομμάτι κειμένου που έχει κάποια συντακτική
+    δομή.
+de481a46516b893e4ea1f5877db3ffcee9896bd767f0f5242b0cb293:
+  original:
+    Bigger parts of a passage still have structure, but it's not a structure
+    that is defined by the zerita syntax.
+  translated:
+    Τα μεγαλύτερα τμήματα ενός κειμένου έχουν μεν δομή, αλλά δεν είναι μια
+    δομή που ορίζεται από συντακτικούς κανόνες.
+6f0ff345ce02ee12dcb05c83203861cbf3b56fd5fb364857749ada96:
+  original: A sentence is a sequence of clauses connected with words like "&{i}" (and).
+  translated:
+    Μια περίοδος είναι μια ακολουθία προτάσεων που συνδέονται με λέξεις
+    όπως το «&{i}» (και).
+  literals:
+    - i
+73d363e2bcb879a7930e8963b2031d5e3113452784beb9055755303c:
+  original:
+    A clause is the smallest part of the sentence that express something,
+    for example a command (Just do it), a conclusion (the butler did it), a question
+    (can you do it?), a description of the state of the world (it's raining men).
+  translated:
+    Μια πρόταση είναι το μικρότερο μέρος μιας περιόδου που εκφράζει κάτι,
+    για παράδειγμα μια εντολή (Κάνε το), ένα συμπέρασμα (ο μπάτλερ το έκανε), μια
+    ερώτηση (μπορείς να το κάνεις;), μια περιγραφή της κατάστασης του κόσμου (βρέχει).
+f3bfd156cafa19d60d822f80dc640093f3623e78110b5f9fd831fd07:
+  original: This informal distinction comes with some interesting edge cases.
+  translated: Αυτή η άτυπη διάκριση μας οδηγεί σε μερικές ενδιαφέρουσες παρατηρήσεις.
+98eb49c5d210a2c84ecc35f0f679c50569ba06d056e2d0ce81ae4fb1:
+  original: "Consider the following sentences:"
+  translated: "Ας σκεφτούμε τις παρακάτω περιόδους:"
+b415e2dbd6c8b3bbc8724841f55456b11a809e05902814e554efea6e:
+  original: You study hard and you will pass your exams.
+  translated: Διαβάζεις πολύ και θα περάσεις τις εξετάσεις.
+6b525c738ebf18dcad56ab734025afc01dbea14639a5926ba19d1bed:
+  original: If you study hard, then you will pass your exams.
+  translated: Αν διαβάζεις πολύ, τότε θα περάσεις τις εξετάσεις.
+73c94f58c94ee09534fdf2c22ac902b88d8642277281fa618a4b9743:
+  original: If you study hard, then you will pass your exams, else you'll fail.
+  translated: Αν διαβάζεις πολύ, τότε θα περάσεις τις εξετάσεις, αλλιώς θα αποτύχεις.
+e7218c51463265fd3c877868dad889bcded635d4e87399e713aae9ef:
+  original: How many clauses does each of the sentences have?
+  translated: Πόσες προτάσεις έχει καθεμία από αυτές τις περιόδους;
+a15afd433d67a6ab9162f976f4e178bc43d76cd2345a3547b658fea7:
+  original: If they are more than one, are they treated as equals?
+  translated: Εάν είναι περισσότερες από μια, αντιμετωπίζονται όλες ως ισότιμες;
+193eecfa84aa264a729c6f19adeb1f6c2f8dc480497c7d8bbbc670ea:
+  original:
+    The approach that zerita takes is sentences have nodes, and all nodes
+    are equal.
+  translated:
+    Η προσέγγιση που ακολουθεί η ζερίτα είναι ότι οι περίοδοι χωρίζονται
+    κόμβους και όλοι οι κόμβοι είναι ισότιμοι.
+8855370c6fadd5a65eb7ab22fb1c39e0eceaeef1349a823d0591d2e1:
+  original: There is no main node.
+  translated: Δεν υπάρχει κύριος κόμβος.
+1651be70dc8096a3ba456cea7a752253c64bc5b22e78a251f9c1cf19:
+  original: Not all nodes are present, and there are phantom nodes.
+  translated: Δεν εμφανίζονται όμως πάντα όλοι οι κόμβοι και υπάρχουν κόμβοι-φαντάσματα.
+86e12c1edd114b7872a0d18913193a50025fe8a1cc3648537d0c3870:
+  original: Each node contains at least one a clause.
+  translated: Κάθε κόμβος περιέχει τουλάχιστον μια πρόταση.
+4de23ed87f54fe2d8c5cda5d6b4067115af23ee9dbd64a8b49a406b7:
+  original: It contains one main clause and any number of subordinate ones.
+  translated: Περιέχει μια κύρια πρόταση και οποιονδήποτε αριθμό δευτερεύουσων.
+554834b58cf3f828e2b371772ff74521117b4d1fb9efc8296ef4b4f5:
+  original: Let's split the above examples in nodes and each node in clauses.
+  translated: Ας χωρίσουμε τα παραπάνω παραδείγματα σε κόμβους και κάθε κόμβο σε προτάσεις.
+b0bdc219a7a2909f3d72e4696993920c16d36120ba1c5e1f7ea6de40:
+  original: first node
+  translated: πρώτος κόμβος
+9887aa2dfe1d63a41e97d0b2b110c97a65dafed50759a6761d65e90a:
+  original: you study hard
+  translated: διαβάζεις πολύ
+785046a7ef7b92d81cf5d1d3887bebbee0a5bdef74aac5a585bac14c:
+  original: node connector
+  translated: σύνδεσμος κόμβων
+298303eb5a42c7994957e4ba2b3f40364478cbc39f477fe3236db002:
+  original: and
+  translated: και
+5b5197cc6c152169e194383fb9bb8fa821e4a0cda61f759463cb6bbe:
+  original: second node
+  translated: δεύτερος κόμβος
+6a3450feb1897a359df13b2eebfaa2abb3455fc0154eef54642212b0:
+  original: you will pass your exams
+  translated: θα περάσεις τις εξετάσεις
+1e670283f0046e3d067437c85ff3556f563d01a658ce4000dd62bae8:
+  original: if you study hard, then you will pass your exams
+  translated: αν διαβάζεις πολύ, τότε θα περάσεις τις εξετάσεις
+c96b45475eb584a5a09ae1935e321b778e217a0d37ad99fd0d0d7475:
+  original: subordinate clause
+  translated: δευτερεύουσα πρόταση
+b0b3612ea0b9437ee0dcb07f6cffbbf2fa879159f7741e9246a94e12:
+  original: if you study hard
+  translated: αν διαβάζεις πολύ
+569eeff98c7be479cf0bbeb51cbd389017c9b501cc017f833b78aea6:
+  original: clause connector
+  translated: σύνδεσμος προτάσεων
+f2e904861bbd73ae4a6f61a6424c3cf51aca6947417e84ff5bd1e3b2:
+  original: then
+  translated: τότε
+f7991e173c78e60eba3b4eb5a9064c3965f23823f091b324aa972282:
+  original: main clause
+  translated: κύρια πρόταση
+2565c33335ca492695b79f80e7a21a58290ff1e9ed9092b243c3c1c3:
+  original: else
+  translated: αλλιώς
+d8029bbbcea6ac3b280b63ea72feb12d5e42dfccf2bb14769b22dfbf:
+  original: subordinate phantom clause
+  translated: δευτερεύουσα πρόταση-φάντασμα
+00fe309c46aedfc2fe0feaffbd0d076e04c7b5bd9249b27f81d772fe:
+  original: if you don't study hard
+  translated: αν δεν διαβάζεις πολύ
+b30e3596b3a684252ad57e808a4ccb0e4df1c4035a4b5f0ae8ad8dd3:
+  original: you'll fail
+  translated: θα αποτύχεις
+fff4e54df67194430fdf2477d8ef1a0f511988d86458588a78613c3b:
+  original:
+    The final multi-word syntactic structure that we focus on, is the phrase,
+    which is just a sequence of connected words, for example "the big bad wolf".
+  translated:
+    Η τελευταία συντακτική δομή με παραπάνω από μια λέξη που θα συγκεντρωθούμε
+    είναι η φράση, όπου είναι μια ακολουθία συνδεδεμένων λέξεων, για παράδειγμα «ο
+    μεγάλος κακός λύκος».
