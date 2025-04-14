@@ -1,0 +1,90 @@
+%YAML 1.2
+---
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+05755a06a3105dd56a7d4db973f4a5fe6967f34d90dda5423bc87bd2:
+  original:
+    'Zerita has two article: the definite article "&{ta}" and the indefinite
+    article "&{e}".'
+  translated:
+    "Η ζερίτα έχει δύο άρθρα: το οριστικό άρθρο «&{ta}» και το αόριστο άρθρο
+    «&{e}»."
+  literals:
+    - e
+    - ta
+3066f8a7f62e4e2351115b6bdbfb9f2dab2d0c0855f2f0ebe98db3ef:
+  original: Usage
+  translated: Χρήση
+682c608899709eb61532948194a81803aa9d146e62c9b41a32ee75c5:
+  original: "The articles have 3 uses:"
+  translated: "Το άρθρο έχει 3 χρήσεις:"
+24680c56aa04869fda3c6d70f198be9d0163dbc0ac86da53edd35229:
+  original: As a generic determinatives to be used when there is no other determinative
+  translated: Ως ένα γενικό προσδιοριστικό, απουσία άλλων
+a5bd11c3bc09ad3f666adb751b2c376f194d0d8038553444e2061ebe:
+  original:
+    "For the definite article, to turn indefinite determinatives to definite
+    ones:"
+  translated: "Το οριστικό άρθρο, για να μετατρέπει αόριστα προσδιοριστικά σε οριστικά:"
+fda61a4407959c7e527290a5e18f04520bbaad3856ad4e32cd4758f7:
+  original:
+    '"&{tre homesis}" (three people) -> "&{tas tre homesis}" (three specific
+    people)'
+  translated:
+    «&{tre homesis}» (τρεις άνθρωποι) -> «&{tas tre homesis}» (τρεις συγκεκριμένοι
+    άνθρωποι)
+  literals:
+    - tas tre homesis
+    - tre homesis
+d7f097458bf789003d1704940427b67d42f687cb6198d8a40d7ef8d3:
+  original:
+    For the indefinite article, to turn proper nouns in common ones, for example
+    "&{e adamis}" means "a person named Adam".
+  translated:
+    Το αόριστο άρθρο, για να μετατρέπει κύρια ονόματα σε κοινά, για παράδειγμα
+    «&{e adamis}» σημαίνει «κάποιος Αδάμ».
+  literals:
+    - e adamis
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+34890cbd6d7e75cd054c71bb285ff20a60272804eb162efa22ac54ec:
+  original: I met Adam.
+  translated: Γνώρισα τον Αδάμ.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+b014a7de76d132932ee9f1707e98a64d47b0507afaf72bfd2792f26b:
+  original: Talking about a specific person named Adam that you know.
+  translated: Μιλάω για έναν συγκεκριμένο άνθρωπο που ονομάζεται Αδάμ.
+748270f10ddce9797426ec4ecfc52d671e232718d23669e4ada88cc5:
+  original: I met a guy named Adam.
+  translated: Γνώρισα κάποιον που λέγεται Αδάμ.
+fca19298824ed0ebb4b8339adaafbf9ba930ffbc482fb2227d20ec57:
+  original: Declension tables
+  translated: Πίνακες κλίσης
+32fb1a3dccfb198462f58554ad54ec3443f4917c390f7d980c52ee76:
+  original: Definite article
+  translated: Οριστικό άρθρο
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+5044ef3384523bfd73aeb4aa26843581b957cab24e05ce98cf1f1fc1:
+  original: Article
+  translated: Άρθρο
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+0364d01b5d83e1f42cd4fa8e518ca2c943882f02c037ff9aca198620:
+  original: Indefinite article
+  translated: Αόριστο άρθρο
