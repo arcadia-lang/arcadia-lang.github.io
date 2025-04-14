@@ -1,0 +1,78 @@
+%YAML 1.2
+---
+dc4c9ba70ef27e36fb053102778bec49611e0167dd11f4d2ad4be5d4:
+  original: Determinatives
+  translated: Προσδιοριστικά
+86f3f54b1cafd1d90ba0293d7bc7df43689af5accfacb63114f6a456:
+  original:
+    Determinatives are words that precede a noun, and there role is to provide
+    additional information about the item are referring to.
+  translated:
+    Τα προσδιοριστικά είναι λέξεις που προηγούνται ενός ουσιαστικού και
+    ο ρόλος τους είναι να δώσουν παραπάνω πληροφορίες για το αντικείμενο στο οποίο
+    αναφέρονται.
+034038f0d834fcd6e6547a2c238c3dc672c245203cdd673407f8eb6a:
+  original:
+    "There are 6 grammatical forms that can function as the determinative
+    in zerita:"
+  translated:
+    "6 γραμματικές μορφές μπορούν να παίξουν το ρόλο του προσδιοριστικού
+    στη ζερίτα:"
+27c9dbd04a21877044c7e80cc99f0901a99dad376c8c6f89ebbf29b8:
+  original: articles
+  translated: άρθρα
+062f4280986e8c4cccfbcd9c6a79ab104db4bdeec3f7d23ae98df9f6:
+  original: _the_ tree, _an_ apple
+  translated: _το_ δέντρο, _ένα_ μήλο
+eb01b8afbdaef644ec50537c0a78657087e44b217b8417cb013a7fae:
+  original: demonstrative determiners
+  translated: δεικτικά
+d7870ac3c03deaaa09287f2ec49134a965132bc953701a53efd4cf26:
+  original: _this_ machine, _that_ person
+  translated: _αυτό το_ μηχάνημα, _εκείνος ο_ άνθρωπος
+57b2aece765029431959e0f1ba0c9e1953d1562e89b44f8c612b3baa:
+  original: interrogative determiners
+  translated: ερωτηματικά
+81e185f28306a8f6995a2460e61f6aad50ef15493a41e7cf99f18a1f:
+  original: _which_ book, _what_ blanket
+  translated: _ποιο από τα_ βιβλία, _ποια_ κουβέρτα
+029e8c9d766fe5bd4118c588d21992e0107db688d8a7876f43b7bb38:
+  original: possessives
+  translated: κτητικά
+3fe15cc4c833483f1d6bc7b03349a3c5711cdd3dc91a3d9b52ffb857:
+  original: _Maria's_ bag, _my_ bed
+  translated: _η_ τσάντα _της Μαρίας_, _το_ κρεβάτι _μου_
+c43900b2c3da00e1b49fb5669c43a6c55169cbaaa03956be2be303c3:
+  original: quantifiers
+  translated: ποσοδείκτες
+06c5d163227b5e1185f828eb70ccdc035c63b7ffc2824497a2b1601d:
+  original: _a few_ dogs, _each_ child
+  translated: _λίγα_ σκυλιά, _κάθε_ παιδί
+3c34a41d4a45aa3f78ba794d34fb1e760222a3557336f1e87b60ff33:
+  original: numerals
+  translated: αριθμητικά
+325207db0b558a85f073251bc84ffe2cc62a75120247207641cf94f2:
+  original: _two_ dolphins, _a million_ dollars
+  translated: _δύο_ δελφίνια, _ένα εκατομμύριο_ δολάρια
+4e59e27da87ff334ef0ba597f68d13bcf0fcd3a7af6b8137bf003cda:
+  original:
+    It's important to note that determinatives can be combined, as in "_the
+    three_ musketeers".
+  translated:
+    Είναι σημαντικό να που ότι τα προσδιοριστικά μπορούν να συνδυαστούν,
+    όπως στο «_οι τρεις_ σωματοφύλακες».
+6e1987e3c1723493f44e197e7d41374c70469181527e1c90e5b4d232:
+  original:
+    In zerita a determinative is mandatory, unless the noun is in the abstract
+    form, the zero, or the collective number, where no determinative should be used.
+  translated:
+    Στη ζερίτα η χρήση προσδιοριστικού είναι υποχρεωτική, εκτός αν το ουσιαστικό
+    είναι στον αφηρημένη μορφή, ή στον μηδενικό ή τον συλλογικό αριθμό, οπότε δεν
+    μπαίνει προσδιοριστικό.
+40e26ce75cb77d5b9ae7e6451033a4727cb45a956f4326eec079d60b:
+  original:
+    For proper nouns a determinative isn't necessary but it can be used in
+    the to change the specificity.
+  translated:
+    Τα κύρια ουσιαστικά δεν παίρνουν προσδιοριστικό εκτός αν είναι απαραίτητο
+    για την αλλαγή της εξειδίκευσης.
