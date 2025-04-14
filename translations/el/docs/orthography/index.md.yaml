@@ -1,0 +1,344 @@
+%YAML 1.2
+---
+433978471a7bd9a72721f5f2be60aed10a2cf4334302bca74d962f1d:
+  original: Orthography of Arcadia
+  translated: Ορθογραφία της Αρκάδια
+24bd9f011772ded3086e089518d9a203c9152fd51127db6738d58b7d:
+  original:
+    Arcadia uses **23 letters** from the Latin alphabet, **excluding &{k},
+    &{q}, and &{w}**.
+  translated:
+    Η Αρκάδια χρησιμοποιεί **23 γράμματα** από το λατινικό αλφάβητο, **εξαιρώντας
+    τα &{k}, &{q} και &{w}**.
+  literals:
+    - k
+    - q
+    - w
+27b87aa63d9d9a3ff95cf9975e9fed75413e4dfd47390342699800c3:
+  original:
+    Each letter has a **fixed pronunciation**, ensuring a **consistent spelling-to-sound
+    correspondence**.
+  translated:
+    Κάθε γράμμα έχει μια **σταθερή προφορά**, εξασφαλίζοντας μια **συνεπή
+    αντιστοιχία ορθογραφίας προς ήχο**.
+262d982b115ce8987a5d3ab7c86d84b70d8d35d6c9efac9bcdc4cdde:
+  original: Letters
+  translated: Γράμματα
+a145d624437e6c45072efdd57b90d578d85d8b05e02e2e34a1a5d5b5:
+  original: Pronunciation
+  translated: Προφορά
+9614f288b820179fe5c3a7f44b8aac2afc771a948edc1d8437d6c4a5:
+  original: Letter
+  translated: Γράμμα
+a95a8a050f423d7148c9a3f6ae639266cb4e313ecc0d1039c79e3b8e:
+  original: IPA
+  translated: ΔΦΑ
+38eafa6904e40ea1ad7716bd23f362007ae53236613063e6b33c5e72:
+  original: English Approximation
+  translated: Ελληνικό Παρόμοιο
+11435cc1878b1fd242d01ec9e35ae581b39396af81d309ca456dfb18:
+  original: h**a**t
+  translated: "**ά**λογο"
+b765ba47b80420fe50c7b9ec9d63f2fe62ad4db92a81bdd45e7c5b09:
+  original: a**b**ack
+  translated: "**μπ**ότα"
+c6c501d9a327e46389282fe5127c349a4eda2fceb50b82e415d291b8:
+  original: "**k**ite"
+  translated: "**κ**ύκλος"
+7dd988b6a7b3d067528e0a44f214b1451d9571436eb8b716fb1bcf3d:
+  original: "**d**og"
+  translated: "**ντ**ιβάνι"
+9948acb5082b0cd1a06b2736a24be87d82eb6bac71fe21cd959ef6aa:
+  original: s**e**t
+  translated: "**έ**λατο"
+a581933bc533176da15af3ee3dab889d22b9ffdaf08b788dbf7e4bed:
+  original: "**f**ish"
+  translated: "**φ**ως"
+58961897c8402cede4a05a1d2cc9bdbd9d51dcecae8922556524b42e:
+  original: "**g**et"
+  translated: "**γκ**ρι"
+00cda39220f4eadc1a9b68089b865be1c240be5a9e6b16402d841e2f:
+  original: "**h**oney"
+  translated: "**χ**ωριό"
+3bc53951d1b5881bc306b5aaf303a0c42f7e67ade2bc18a238b9fa0d:
+  original: sh**i**p
+  translated: "**ί**διος"
+26ae187cf83b2b350931f196fc8af13c886cd77b944e61bdd9ea7f94:
+  original: "**j**am"
+  translated: "**τζ**άμι"
+dc928992a2b47d032be0ed1026f166afdc2279258ee673f47a4491a5:
+  original: "**l**amp"
+  translated: "**λ**εμόνι"
+593c72af186f220c802604069e5c83d51605c385c2954a68ef594ac8:
+  original: "**m**an"
+  translated: "**μ**ήλο"
+46a5ca0530117789cba9122b3e4b9b4707905a0a82b52d0b194f37bd:
+  original: "**n**ot"
+  translated: "**ν**ήμα"
+a5e004cf2e1ff98da571950e73bf6e667f619c1c245834cc7c2bb5d1:
+  original: cr**o**ss
+  translated: "**ό**νομα"
+4836030bec50f24cd678e5a6a91ca0f7fbd9ca919ce61e03fad6d5e9:
+  original: "**p**an"
+  translated: "**π**όρτα"
+4c4c57db6adeffa32eb5e6c45e66cbc245deae9bf53c23d46108fd3e:
+  original: "**r**un"
+  translated: "**ρ**όδι"
+0d24cc7f9a92bda8f4cb3ed201e94b608caf921583d3b3be02c74f69:
+  original: "**s**un"
+  translated: "**σ**πίτι"
+06db3e88b0d0c1f44f8b110443603e7d9797d040de52fa6b0f33ba0c:
+  original: "**t**ap"
+  translated: "**τ**ραπέζι"
+762ed8a1a4c5c5ed9c40ac0162318a87fe8da3aaa5fbad76741eaeb0:
+  original: bl**u**e
+  translated: "**ού**τε"
+37d964e44ec73e611c9ee5f53c06f1eaf9286ea9c9970967c67577be:
+  original: "**v**an"
+  translated: "**β**άζο"
+962d64b14a14a45ce7c7d4ad73fdd869e88c05f87577724ccb4f131e:
+  original: ta**x**
+  translated: "**ξ**ερό"
+755db5c14a477857d7a97572591f1ae5503fd5cff9e44558d1386535:
+  original: "**y**es"
+  translated: "**γ**ερό"
+f389d0d46539a1e04797223ed11bc02821f3f2350b55027bc1a94588:
+  original: "**z**oo"
+  translated: "**ζ**άρι"
+58c4e5c0a6360c1c55e89d30f3e1f1c413208a207adb31dcfb11a5c1:
+  original: Digraphs
+  translated: Δίψηφα
+31e77035f8e2dbb93e42e160ee5077f4eea4497d076aedeae28b5429:
+  original: "Arcadia also uses the following **digraphs**:"
+  translated: "Η Αρκάδια χρησιμοποιεί επίσης τα παρακάτω **δίψηφα**:"
+5dfe47aeecddbe2e2fc25c4407c0861d7b754fac56408d69055c261e:
+  original: Digraph
+  translated: Δίψηφο
+8979e88d2c7918e7178177861cd4e5f8c094a257703c45da3ed94def:
+  original: "**ch**air"
+  translated: "**τσ**άι"
+1c30913639ae7aea05238c931953ffa50b7b144f8eda18621dade99e:
+  original: "**th**ere"
+  translated: "**δ**έντρο"
+88fc8b7db4e96654038b05c5d7620b7c6500157175ce2861a7d2d49c:
+  original: "**th**anks"
+  translated: "**θ**άλασσα"
+eace06ad68c701899352f823efa908d35f6082c64f98314b28b47ea3:
+  original: Rule
+  translated: Κανόνας
+6f479728c1261c5e8ed13a02317b1e96581009f78149c6c9f61ebe61:
+  original: The phoneme **/&{ks}/** is always spelled **"&{x}"**, never as "&{cs}."
+  translated: Το φώνημα **/&{ks}/** γράφεται πάντα ως **"&{x}"**, ποτέ ως "&{cs}."
+  literals:
+    - cs
+    - ks
+    - x
+917da7b484614269bba667f2552ecce51c95a7a4f48ea83286cc3f9e:
+  original:
+    Each letter is pronounced according to its **IPA value** and may differ
+    slightly from English pronunciation.
+  translated:
+    Κάθε γράμμα προφέρεται σύμφωνα με την **ΔΦΑ** του και μπορεί να διαφέρει
+    ελαφρώς από την ελληνική προφορά.
+75ede14cd13822114dbea34777b55e6909a45ba15cc7a7760e2f9991:
+  original:
+    The **English equivalent** provides only the closest approximation (based
+    on Received Pronunciation).
+  translated: Το **ελληνικό ισοδύναμο** παρέχει μόνο την πιο κοντινή προσέγγιση.
+020da10611bd891694858c5909b82b9109977c369ef459422d64e177:
+  original: Accentuation
+  translated: Τονισμός
+236d36fb0dbb8f0bd63bf60a1534f02fe27ad27c8012983cd3191ff0:
+  original: "Arcadia uses the **acute accent (&{´})** to mark stress:"
+  translated: "Η Αρκάδια χρησιμοποιεί την **οξεία (&{´})** για να δηλώσει τονισμό:"
+  literals:
+    - ´
+83b2ed0c99edf574561b810e9f3eaa345dfdd27c198218418594ccb3:
+  original: Words **without an acute**
+  translated: Λέξεις **χωρίς οξεία**
+9c4863ca2685b71b313c6ca45e53e41378032fb30302f1126e6f1a4d:
+  original:
+    Default stress on the **penultimate syllable** (or the **only syllable**
+    if the word is monosyllabic).
+  translated:
+    Ο τόνος είναι στη **παραλήγουσα** (ή στη **μοναδική συλλαβή** αν η λέξη
+    είναι μονοσύλλαβη).
+4310080fe01ef41269ec442c4289fae38e732fe91f5f0a89d0194dbb:
+  original: Words **with an acute**
+  translated: Λέξεις **με οξεία**
+c9acb2faab6d13850b4d8246991efaa41ff5cf61a504fe1bebff5f4e:
+  original: Stress falls on the **marked syllable**.
+  translated: Ο τόνος είναι στη **σημειωμένη συλλαβή**.
+e78dafdb7cb763aefb95c6c50c244ff973479fb2dc27a46961bfb988:
+  original: "Examples:"
+  translated: "Παραδείγματα:"
+6fca5367560ee08bde9d2c4ee6868a29f7c1440b25c6f4a0d352a32f:
+  original: human, person
+  translated: άνθρωπος
+70748bdc08baeb2ce238875b8d50108362e2bcf7459030c4af3d0cb5:
+  original: stress on "o"
+  translated: τόνος στο «o»
+03a6760618adc28219022da90c7720f600de6507e99ba524573e6dcd:
+  original: no
+  translated: όχι
+aece63cef1cae2b01d9cc77daff5654d40b698123cd437da3c025463:
+  original: stress on "i"
+  translated: τόνος στο «i»
+c28b5981234df7f1527a2d0beb93ed4e0f71e0441d95938cf282f50d:
+  original: third-person pronoun
+  translated: προσωπική αντωνυμία τρίτου προσώπου
+cd2ef36192aa87924d9aa22c460f6f33de75e414e7f161747a230e7c:
+  original: stress on "é"
+  translated: τόνος στο «é»
+a943ddb4792ff3408b0fc3e524ca23f48fd86cf8d0b88fb73f64895f:
+  original: Vowel Merging
+  translated: Συγχώνευση Φωνηέντων
+35901fc4fdb24f3c6e838bd220feacd40bb342fb3a8c2cce68b68cdc:
+  original: Macron Notation
+  translated: Μακρό
+800c187c8936f0c729ce25f699169609c72bd9109bacf72b1a514f7e:
+  original:
+    When **compounding words** or **adding affixes**, **identical adjacent
+    vowels** are **never allowed**—they always **merge into a single instance**.
+  translated:
+    Όταν **συνδυάζονται λέξεις** ή **προστίθενται επιθήματα**, **παρόμοια
+    γειτονικά φωνήεντα** **δεν επιτρέπονται ποτέ**—πάντα **συγχωνεύονται σε μια μόνο
+    περίπτωση**.
+5e2b318c22cd54ea72fadf9dde5a07d636f9d3752b06b4b66562732b:
+  original:
+    In **dictionary entries, grammar books, and syntax guides**, vowel mergers
+    can be marked with a **macron** over the vowel (e.g., _mē_ instead of _me_).
+  translated:
+    Στις **λεξικογραφικές καταχωρήσεις, τα εγχειρίδια γραμματικής και τους
+    οδηγούς σύνταξης**, οι συγχωνεύσεις φωνηέντων μπορούν να σημειωθούν με ένα **μακρό**
+    πάνω από το φωνήεν (π.χ. _mē_ αντί για _me_).
+ed6e674c6be94b6ec062fad3dd09c1e9b4e48f59e9c61abce439c40c:
+  original:
+    However, **macrons are not used in normal writing**—words are spelled
+    without them in everyday text.
+  translated:
+    Ωστόσο, **τα μακρό δεν χρησιμοποιούνται στη φυσιολογική γραφή**—οι λέξεις
+    γράφονται χωρίς αυτά στο καθημερινό κείμενο.
+b4e2406005100de6af748392ee795802f99189447498c0fe5e3f4093:
+  original: Punctuation
+  translated: Σημεία στίξης
+fa39830e8bfc90a880c9337e1a604f004e303e355b8e52859315526b:
+  original: Formatting
+  translated: Μορφοποίηση
+2bca0cc291fe12457fcc263a293606e3481b8851680586fc0ce56a99:
+  original: Arcadia has **no capitalization** and **no silent letters**.
+  translated: Η Αρκάδια έχει **κανένα κεφαλαίο γράμμα** και **καμία σιωπηλή λέξη**.
+647c096ad99748af9f0f05caa4eb7336a36390c5f4b41917557a411f:
+  original: "It uses the following **punctuation marks**:"
+  translated: "Χρησιμοποιεί τα παρακάτω **σημεία στίξης**:"
+fb0202410145911f9796a1d99eab5a13588a22ce785ad36064941f77:
+  original: Mark
+  translated: Σημείο Στίξης
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: Όνομα
+3066f8a7f62e4e2351115b6bdbfb9f2dab2d0c0855f2f0ebe98db3ef:
+  original: Usage
+  translated: Χρήση
+a39ba35fa83103c31a0de8c65022fe4beaa746b9987584152c463c25:
+  original: Period
+  translated: Τελεία
+1145df5b637453d27c2a927685409a465b88ba30831eef9b42ba83ef:
+  original: Ends a declarative sentence.
+  translated: Tελειώνει μια οριστική πρόταση.
+66ec817a9bf39eb9d956025e7e68b86569db1f2161d2ff25497f0b6b:
+  original: Semicolon
+  translated: Άνω τελεία
+70381745b7c5fb210e3ed4d908b34517b3c7387df6cd6ac9a0bb44a0:
+  original: Connects related independent clauses or separates items in a complex list.
+  translated:
+    Συνδέει σχετικές ανεξάρτητες προτάσεις ή χωρίζει στοιχεία σε μια σύνθετη
+    λίστα.
+51551501395e77ffd241e36945fd3de8388953d9584d8e2b4444ba00:
+  original: Comma
+  translated: Κόμμα
+b8a92b837c957fcec2da5deb733e67c7f8e5ec24630660cd18859397:
+  original: Separates elements in a list or clauses within a sentence.
+  translated: Χωρίζει τα στοιχεία σε μια λίστα ή τις προτάσεις μέσα σε μια πρόταση.
+dfd362edcbc4f113c01f505b915aa5c5c7f218b1e897c96ddb175fc8:
+  original: Colon
+  translated: Διπλή Τελεία
+278f0e9ee5dbba2d2d2bdf15b5f771da90b4754457f86ef09a42e28f:
+  original: Introduces a list, quotation, or explanation.
+  translated: Εισάγει μια λίστα, παράθεση ή εξήγηση.
+9381f87cd033fd7fc5f116c3cd7b305d587df54b243926a7a842813f:
+  original: Exclamation Mark
+  translated: Θαυμαστικό
+0c5bf98490b71376b153d9d1d7c72ede96a167fb69a263689e2b513e:
+  original: Expresses strong emotion or a command.
+  translated: Εκφράζει έντονα συναισθήματα ή μια εντολή.
+6c6a5e1d61bd5f668dc952d87ff2670578d5fd38944374fa0afbd3fc:
+  original: Question Mark
+  translated: Ερωτηματικό
+073579fe01e46632018ee56ab23d5aad7f8171792acc25fe95465b1a:
+  original: Marks a question.
+  translated: Δηλώνει μια ερώτηση.
+5cc296b44fdfc12416f7c121ad984d568dc6dccc16e232e4785335d7:
+  original: Quotation Marks
+  translated: Διπλά Εισαγωγικά
+53c15a650792421b337a61aea2fab6e693c5062e5ef0de7dffaeece6:
+  original: Encloses direct speech, quotations, or titles.
+  translated: Περικλείουν άμεσες ομιλίες, παραθέσεις ή τίτλους.
+756fc04a6284c3b3676afd995bf4356ad200158a849a5eebd9f8a05f:
+  original: Hyphens
+  translated: Παύλες
+9a2db1846d07e3724ff84479c5377eaa7232fc63bef55f69666e7be9:
+  original: Apostrophes
+  translated: Απόστροφοι
+90022932f83d1257086d0dcc8638281bfe84a601a2d90381cd21cf61:
+  original: Used for compound words forming a single lexeme.
+  translated:
+    Χρησιμοποιείται για τις σύνθετες λέξεις που σχηματίζουν ένα μόνο λεξικό
+    στοιχείο.
+dd28b6dc853a632788161d95a2f1820a34451ccf44324d878a9dae7b:
+  original: Used for contractions.
+  translated: Χρησιμοποιείται για την έκθλιψη και την αφαίρεση φωνηέντων.
+39f785b09b20fdbf212be07b8bf5def5a5f97063bcb094b3a3bfab11:
+  original: Single Quotes
+  translated: Μονά Εισαγωγικά
+061ccfb98ddc1aea554221d849d48b252969aa4097ab7f48a07a256b:
+  original: Can substitute apostrophes for easier typing.
+  translated: Μπορεί να αντικαταστήσει τους αποστροφούς για ευκολότερη πληκτρολόγηση.
+69dbde99090d0224130e63586d8e4152cf8ea929be594c8d2289d79d:
+  original: Quotes
+  translated: Διπλά Εισαγωγικά
+e80961a12ee82cbc36d4af8b4d511f6575a15d9342dcb03f470d7607:
+  original: Proper Nouns
+  translated: Κύρια Ονόματα
+b76a0d106b7d32133ba3d39730a304190c5251531487d63aa904316a:
+  original: Loanwords
+  translated: Δάνεια
+ee9d4e8974311e86d10f46b453bfe8fc32d3a48f4aa36d2b30d5c69b:
+  original: Proper names **retain their original spelling** (if in Latin alphabet).
+  translated:
+    Τα κύρια ονόματα **διατηρούν την αρχική τους ορθογραφία** (αν είναι
+    στο λατινικό αλφάβητο).
+0f3895bba4e718cd0de645a11e838e9e31bce86c9393ccb8673745d7:
+  original:
+    Names from other scripts **use standard Latin transliteration**, or a
+    phonetic adaptation.
+  translated:
+    Τα ονόματα από άλλα αλφάβητα **χρησιμοποιούν τη λατινική μεταγραφή**
+    ή μια φωνητική προσαρμογή.
+dca03df2184d60415c0bf40aca98f957ddfd740cc3fbd04ad6b7fbb1:
+  original:
+    Even with original spelling, names are pronounced **as close as possible**
+    to the source language.
+  translated:
+    Ακόμα και με την αρχική ορθογραφία, τα ονόματα προφέρονται **όσο το
+    δυνατόν πιο κοντά** στη γλώσσα προέλευσης.
+3473c0c1a9f336c6f0cdd747f2bc2875fcf2f68221819ff8c6dba0b9:
+  original:
+    "As a **reader's aid**, a name can be **transliterated inside double colons**
+    the first time it appears:"
+  translated:
+    "Ως **βοήθεια του αναγνώστη**, ένα όνομα μπορεί να **μεταγραφεί μέσα
+    σε διπλά εισαγωγικά** την πρώτη φορά που εμφανίζεται:"
+8f97be48c7f21e3b7023a617c53a81d6994345315a41952ec4d831c3:
+  original: "Example:"
+  translated: "Παράδειγμα:"
