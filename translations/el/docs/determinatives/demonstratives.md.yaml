@@ -1,0 +1,174 @@
+%YAML 1.2
+---
+cf551b21b07f579b75154ce589e057fdebb1a5d3be7c12e9fad80d0c:
+  original: Demonstratives
+  translated: Δεικτικά
+d103bbe883c1e2c9f19b83de7a68a6374fe276e69dcfe223bafdcef5:
+  original: "Zerita has three levels of deiksis:"
+  translated: "Η ζερίτα έχει τρία επίπεδα δεικτικών:"
+b0f75e51d6c33542930aab55f41a0d2e70cb799d14f555fcce666a7d:
+  original: close
+  translated: κοντά
+3c00c080c0d4bb92d74be554449a15137ecd3588d78212f29c812d66:
+  original: far
+  translated: μακριά
+aafb75c4a513e45ee523640c3c754da5aa67231248d8daa4bd38e944:
+  original: very far, invisible
+  translated: πολύ μακριά, αόρατο
+f28e8e47342224261d75a675504eae6b90f725e4199dd60164aeeefc:
+  original: "They can be combined with any interrogative:"
+  translated: "Μπορούν να συνδυαστούν με οποιαδήποτε ερωτηματική λέξη:"
+71bf6f4edd356500b23a0717ca9c6e96749e9bdc3e449d7703bf6140:
+  original: who/what
+  translated: ποιος/τι
+05e286ebfd10c701bf7786c79e11bb55174d5667694c1502080dae31:
+  original: this
+  translated: αυτό
+10a52d8ed2ef07c8e24eaf7aa0c57ef70d2e7bfd69c6cf26a36a5f5c:
+  original: that
+  translated: εκείνο
+6df7d08c1e312af85d85231f20327222f70095ab4c39d85578ee336a:
+  original: the one that's out of my sight
+  translated: το αλλο που είναι εκτός οπτικού πεδίου
+b52b2bc8cdd7b86cb80efe46ccfb51c246280082f1d7946beed1ddb9:
+  original: which
+  translated: ποιο απ' αυτά
+8744f5e65e771ae2120020e4fe3cf2d5d138f5c99bac21b7ecb67f90:
+  original: this one
+  translated: αυτό
+2f53a2c18dbca336588b52477bbd3e5839947ecf57b4675b297d33db:
+  original: that one
+  translated: εκείνο
+ab766becd196b89a423011414ca33a5411f7e3523ff8b984289da7ed:
+  original: where
+  translated: πού
+a6466479685510dcd6c5a440cd1944cf3bbc9befe3d8ceda7c03e805:
+  original: here
+  translated: εδώ
+15b775f0184e29eaf292cc27b98e4160c7afe02b296b503b93cc84bc:
+  original: there
+  translated: εκεί
+cfe9c2d13605b56a2cd41743eab5afaa5a97b3f391d3e564c0c8fefb:
+  original: the place that's out of my sight
+  translated: το μέρος που είναι εκτός οπτικού πεδίου
+e29edc56da00502ad978a9a83552f40448502d5efd612a548f8befa5:
+  original: when
+  translated: πότε
+1ecac8a6e0ea3e4a0f38afa7e87ce8a7460e5fbc0a14211bd972fa23:
+  original: now
+  translated: τώρα
+d83b6eb74f90f449534b3c833281a5111ced33256fca696114f90c2b:
+  original: the other time
+  translated: την άλλη φορά
+e3b8b3cbb4d51fc3fe904556966a620e12b62efd639be5251579c891:
+  original: in a very distant time
+  translated: σε πολύ μακρινό χρόνο
+511177a08417e242c677a7a7b2e4b85b0a9349419b62773c841f2ec1:
+  original: how much/how many
+  translated: πόσα
+161f6b46b89aa808fdb0ecbbea9ff090ba30e20f96a68b412c974eb5:
+  original: this much
+  translated: τόσα
+dc04e39ed736426ab32624373776e7294f83875c93bb2cded5f18875:
+  original: that much
+  translated: τόσα
+bf776c35602398ac65267e67c6114777f8b4a220793663d277a2b258:
+  original: how
+  translated: πώς
+57353605fba7d66d7a32192df33d5807188a1f5088cd228691c5fc37:
+  original: this way
+  translated: έτσι
+8b0b853b5d0bcb9d39e457ad71f57cc9fd05eb563a9b27b26c9b6f52:
+  original: that way
+  translated: αλλιώς
+f23d8c0aec7f77504195fefc14f2c67e44fb22420041a39507ca1ed7:
+  original:
+    When it's possible to combine them with a noun, the demonstrative must
+    agree with the noun in number.
+  translated:
+    Όταν μπορούν να συνδυαστούν με ένα ουσιαστικό, το δεικτικό πρέπει να
+    συμφωνεί με το ουσιαστικό σε αριθμό.
+6db8c756e7d8c1aa272cada6998c29e1f9983e3aae654381218804d3:
+  original: '"-&{ove}", "-&{uando}", and "-&{ume}" aren''t demostratives, but
+    they are mentioned here as they are closely related to the demonstratives.'
+  translated:
+    Όσα λήγουν σε «-&{ove}», «-&{uando}», και «-&{ume}» δεν είναι δεικτικά,
+    αλλά αναφέρονται εδώ καθώς σχετίζονται στενά με τα δεικτικά.
+  literals:
+    - ove
+    - uando
+    - ume
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: Πτώσεις
+46881a1b3b0d5397fffbdc6de62d441cf11f8e22fb5ef54c0eacbd28:
+  original: Demonstratives don't have a case, when used with a noun, to avoid redundancy.
+  translated:
+    Τα δεικτικά δεν έχουν πτώση, όταν χρησιμοποιούνται με ένα ουσιαστικό,
+    για να αποφευχθεί η επανάληψη.
+dd304f2688dec304132233a051899b1672b1a11c8439cdee4254771f:
+  original: But when they are used instead of a noun, the case marking is mandatory.
+  translated: Αλλά όταν χρησιμοποιούνται αντί για ένα ουσιαστικό, η πτώση είναι υποχρεωτική.
+5f94d60827571805c168cb67757a6f55f84d1f7a09e96bd5ca4bad51:
+  original: '"&{ess}" or "&{tis}"'
+  translated: «&{ess}» ή «&{tis}»
+  literals:
+    - ess
+    - tis
+a7ed917967ec1fa4db41b3fbe6cc1b4230ce756a1dfcb8a1a62f967f:
+  original:
+    The difference between "&{ess}" and "&{tis}" is that "&{tis}" is used
+    when the object is not visible, but the line is blurry for the "-&{ando}" form.
+  translated:
+    Η διαφορά μεταξύ «&{ess}» και «&{tis}» είναι ότι το «&{tis}» χρησιμοποιείται
+    όταν το αντικείμενο δεν είναι ορατό, αλλά η γραμμή είναι θολή για τη μορφή «-&{ando}».
+  literals:
+    - ando
+    - ess
+    - tis
+f747f1590d6fa442a73e56a50fa4b381920b248a6a39eddb943fb520:
+  original:
+    The general rule is "&{essando}" is used when the time is within a lifetime,
+    and "&{tisando}" for a more distant time.
+  translated:
+    Ο γενικός κανόνας είναι ότι το «&{essando}» χρησιμοποιείται όταν ο χρόνος
+    είναι εντός μιας ζωής, και «&{tisando}» για πιο μακρινό χρόνο.
+  literals:
+    - essando
+    - tisando
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+0dde746f1230ce63b83d2340f789636e1e0bdab806aef88a1b34de6c:
+  original: This apple
+  translated: Αυτό το μήλο
+ac8d007caefb497c24ca3cb317323dbca46537e9013b8de3ce2994f3:
+  original: I want this apple.
+  translated: Θέλω αυτό το μήλο.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+43158e15286b1d2654055c8c049ba7188d2a464efbfe83cfc3c75a14:
+  original: Using the demonstrative with a noun, so no case marking.
+  translated: Χρησιμοποιούμε το δεικτικό με ένα ουσιαστικό, οπότε δεν χρειάζεται πτώση.
+74bc7b5a2381db7db953b1de8fbcfdb320faa369de4eb319881ecec8:
+  original: I want that.
+  translated: Θέλω εκείνο.
+b11e34efa5c5b584491af364b0d666623b65d2918ac2b2a72892c3d9:
+  original: Using the demonstrative instead of a noun, so the case marking is required.
+  translated: Χρησιμοποιούμε το δεικτικό αντί για ένα ουσιαστικό, οπότε η πτώση χρειάζεται.
+5d7326cbac56e661d4a9c91a335cf75a7f9bf32d5f0ce8867a9f354e:
+  original: These apples
+  translated: Αυτά τα μήλα
+c28a8cb2274035bf2edb5a8dd77d91a2c96d4d6bf58fff707588ca7f:
+  original: Those apples
+  translated: Εκείνα τα μήλα
+35895392afa6bb07d0bb479119ab47b2e11ce30d7a4f9d32efd6cb73:
+  original: This one apple (when choosing between apples)
+  translated: Αυτό το μήλο (όταν διαλέγουμε μεταξύ μήλων)
+252facd8e7f28e9981cbe899f90037176b4616f0f0c67bd4bc0b52a8:
+  original: This much water
+  translated: Τόσο νερό
