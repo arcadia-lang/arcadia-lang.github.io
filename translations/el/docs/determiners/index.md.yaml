@@ -1,0 +1,90 @@
+%YAML 1.2
+---
+358ae51edcefdd53bf89e95e47a6308de387fc45d39fbc842d7d584d:
+  original: Determiners
+  translated: Προσδιοριστές
+aaafec6ea294049adfbd864f2144971269e9e060f3bae1bc743e4075:
+  original:
+    Determiners are words that precede a noun, providing additional information
+    about **its reference, quantity, or specificity**.
+  translated:
+    Οι προσδιοριστές είναι λέξεις που προηγούνται ενός ουσιαστικού, παρέχοντας
+    πρόσθετες πληροφορίες σχετικά με **την αναφορά, την ποσότητα ή την ειδικότητα**
+    του.
+71a94a4fa2f10835219da6d07d528db2b25b55dd3828225b7117af47:
+  original: "Arcadia recognizes **six types** of determiners:"
+  translated: "Η Αρκάδια έχει **έξι τύπους** προσδιοριστών:"
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+362b5325e2fdb6927c1ab535e8b28d5169c41606fd7c6d431e40c5d7:
+  original: "Defines specificity:"
+  translated: "Ορίζει την ειδικότητα:"
+a3f82567d2605c848dd3743881292dcd6267e22e17502ff0920586e0:
+  original: _the_ tree, _an_ apple.
+  translated: _το_ δέντρο, _ένα_ μήλο.
+42f78f9d76a2278ba0ba10fc03c8dc25032880ed8a8ad930147b5e82:
+  original: Demonstrative determiners
+  translated: Δεικτικοί προσδιοριστές
+152cbc4b763c39050e3641845bffd11c6765b1da3fc069675732d724:
+  original: "Indicates proximity:"
+  translated: "Δηλώνει εγγύτητα:"
+72fefaddf6aa8f0e9301fb5b8e92cda266528003b01e9d7802b5e46d:
+  original: _this_ machine, _that_ person.
+  translated: _αυτή_ η μηχανή, _εκείνος_ ο άνθρωπος.
+00bd11be336d2baa8491a6cb386348a66bfddb1d717310e2cc3f0393:
+  original: Interrogative determiners
+  translated: Ερωτηματικοί προσδιοριστές
+5fd64f54d2126aec8d9039e638ac59fa5a6f80cfc80b24b0b9605bba:
+  original: "Forms questions:"
+  translated: "Δημιουργεί ερωτήσεις:"
+17721af623c89a941edb71bfdd960bce2b550e9fb13a06c479ecf043:
+  original: _which_ book, _what_ blanket.
+  translated: _ποιο_ βιβλίο, _ποιο_ πάπλωμα.
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: Κτητικά
+7aeb1bc999e2977324621858386c4bcdf4917b7b057bf9c857045538:
+  original: "Expresses ownership:"
+  translated: "Εκφράζει ιδιοκτησία:"
+3751b95d461eb3af820d96eb960214da10dd824423f8df80cfa62fe4:
+  original: _Maria's_ bag, _my_ bed.
+  translated: _Η_ τσάντα _της Μαρίας_, _το_ κρεβάτι _μου_.
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+e8b62901e01d4d13f038af9052e41e2c67957dbe7fa8a972db418216:
+  original: "Describes quantity:"
+  translated: "Περιγράφει ποσότητα:"
+73c1b87e3453a3acab6a9eeb4bbfd63cfcaccba3b15c1b01aafbf4fa:
+  original: _a few_ dogs, _each_ child.
+  translated: _μερικοί_ σκύλοι, _κάθε_ παιδί.
+b6d48f0d27f762c2e9ac6bf59569ee223c10490eaffa56d466412852:
+  original: Numerals
+  translated: Αριθμητικά
+05b685c8405352ec2d6bbe9b181321e61318bdf9c1a9a72cf5dfeb31:
+  original: "Specifies an exact number:"
+  translated: "Καθορίζει έναν ακριβή αριθμό:"
+b901d156a9d29c8a6f624bd8af40dd6c56fbad70fd1c9e0ed69b68c6:
+  original: _two_ dolphins, _a million_ dollars.
+  translated: _δύο_ δελφίνια, _ένα εκατομμύριο_ δολάρια.
+713dc3f0339fe051db58a0a01625496f462f52be4d52a5d11c274470:
+  original: '**Determiners can be combined**, as in **"the three musketeers."**'
+  translated: '**Οι προσδιοριστές μπορούν να συνδυαστούν**, όπως στο **"οι τρεις σωματοφύλακες."**'
+674fc488f569c57ccb44098fb9073dffc34cedd2e3fb8c6afd11fefe:
+  original: "**Determiner Rules in Arcadia**"
+  translated: "**Κανόνες προσδιοριστών στην Αρκάδια**"
+236978b82a757689ab48a12f66c66f6e7e3b2d70e25d92c11feadf1b:
+  original:
+    "**A determiner is mandatory** unless the noun is in the **zero**, or
+    **collective number**, where **no determiner normally used**."
+  translated:
+    "**Ένας προσδιοριστής είναι υποχρεωτικός** εκτός αν το ουσιαστικό είναι
+    σε **μηδενικό**, ή **συλλογικό αριθμό**, όπου **δεν χρησιμοποιείται συνήθως προσδιοριστής**."
+b157cbedb579676d752dd4c5098f64a35fc229a8a7b802d9d31417d2:
+  original:
+    "**Proper nouns** do **not** require a determiner but **can take one**
+    when specificity needs to be emphasized."
+  translated:
+    "**Τα κύρια ονόματα** δεν απαιτούν προσδιοριστή αλλά **μπορούν να πάρουν
+    έναν** όταν χρειάζεται να τονιστεί η ειδικότητα."
