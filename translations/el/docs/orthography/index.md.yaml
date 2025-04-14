@@ -1,0 +1,119 @@
+%YAML 1.2
+---
+8b0820184130e0ba505523b9a95de9c93944cb5283e2eb3376ab5c79:
+  original: Orthography & Phonology of Arcadia
+  translated: ""
+359299e2376c6c730e1ad677ad8bfe5ce77346ba849f8bfcf1a11cce:
+  original:
+    Arcadia merges writing and speech into a 1:1 correspondence, ensuring
+    fixed letter pronunciations while allowing natural accent variations (marked in
+    `/.../` IPA).
+  translated: ""
+8d63ad143a57bfd3356322519efa015ed1387999e0275e3803d16499:
+  original:
+    The language uses 23 Latin letters, excluding ⟨k⟩, ⟨q⟩, and ⟨w⟩, along
+    with digraphs and well-defined stress rules for uniformity.
+  translated: ""
+d14bcdade918837683b371e45d27a481a9e052aa93e3ac777088020a:
+  original:
+    You can find the full table of pronunciation for each letter and digraph
+    [here][letters].
+  translated: ""
+be9d6b8bae37d65e29c353598ec96160a0181d0911470d9f943dac9f:
+  original: Pronunciation Flexibility
+  translated: ""
+2d1248efe90f693e858cdfc7d79f1e5558187472f04967577a837857:
+  original:
+    IPA values (e.g., `/r/`) define core sounds, but nuances—such as trilled
+    vs. tapped _r_—are accent-neutral.
+  translated: ""
+f2611579852dae26a67654accca21b87f679be18a5e23404a5742946:
+  original:
+    Arcadia's phonological system is designed to be accessible across cultures,
+    allowing a natural range of phonetic realizations.
+  translated: ""
+e42805a8cc39c66bf8b57c617ea34dc5a8abb9d704c1da439c730799:
+  original:
+    The punctuation marks and their meanings within Arcadia are detailed in
+    the [Punctuation][punctuation] section.
+  translated: ""
+906ad58c9e6e3927bc55f63f1f91de7d87ba732397dc638f8f15647f:
+  original: Key Rules
+  translated: ""
+020da10611bd891694858c5909b82b9109977c369ef459422d64e177:
+  original: Accentuation
+  translated: Τονισμός
+4eecdb7fd5e8795837478cdbf7bf896c34b2e33635e0bc37e1f61d17:
+  original: No accent mark
+  translated: ""
+87cc088ccfa8625a371bf4b624c608b82e113b9d7e6fe83cd2d8e807:
+  original: Stress falls on the penultimate syllable (e.g., _ho.mis_ → /ˈhomis/).
+  translated: ""
+2fee2377433991e675b8d3050433d80251bb5a3681f8ed1455e841f2:
+  original: Acute accent
+  translated: ""
+6076e7d2e6440be9e1a5859e4f0116ebc102ace752546c427385f196:
+  original: Overrides default stress (e.g., _a.sé_ → /aˈse/).
+  translated: ""
+ecaa97b18964445ad6ae434fa0fe4d196880e82a472bd232fb5917cc:
+  original: Monosyllables
+  translated: ""
+fb995549fe211cd8015ae069dfc7b7f2fbac0892763db3598c766434:
+  original: Always stressed on their only syllable.
+  translated: ""
+a943ddb4792ff3408b0fc3e524ca23f48fd86cf8d0b88fb73f64895f:
+  original: Vowel Merging
+  translated: Συγχώνευση Φωνηέντων
+5ac1b3822c71b689ce5f72b0fc08ceef3630516e7959ee72f249f1a8:
+  original:
+    Adjacent identical vowels merge (_mee_ → _mē_), though in everyday text,
+    merged vowels are typically written in their simplified form (_me_).
+  translated: ""
+d573731841c2b047167661c95e7d84c4d5abb44e8bd585adaf0a18d1:
+  original: Macron (¯) marks vowel mergers only in dictionaries or grammar references.
+  translated: ""
+b4e2406005100de6af748392ee795802f99189447498c0fe5e3f4093:
+  original: Punctuation
+  translated: Σημεία στίξης
+35cb7507ddfa5add6f7de610d6310593319b0901b819b0e971d5c6d3:
+  original: "Quotation & sentence-final punctuation:"
+  translated: ""
+4932ec19a4c8112abec8e0cfd838b2feeb5fce7321fc8a87438598b7:
+  original:
+    When a quoted sentence ends with the same punctuation mark as the main
+    sentence, the punctuation is placed outside the quotation.
+  translated: ""
+063fcc2530caa3dc0bd6016d39cba88390e3e1d57166ebda1abe7511:
+  original: He said, "This is correct".
+  translated: ""
+07ebe72d120c5465125880cf9f1a88b0dfe11cb92119bcc0b5f31f77:
+  original: He said, "This is correct.".
+  translated: ""
+64443e260b63e571905e6f54e4117bb40520c743e903856fb6ad7525:
+  original: Loanwords & Names
+  translated: ""
+238d9b6870aabc0c75ab5ea88e5b90b07e4457dbfb9f3b3c8cdf960a:
+  original: Loanwords retain original spelling (e.g., _tokyo_).
+  translated: ""
+"_) can be used upon the first occurrence of a name or loanword (e.g., _mike ":
+  original:
+    "Phonetic aid: Double colons (_::_) can be used upon the first occurrence
+    of a name or loanword (e.g., _mike ::maic::_)."
+  translated: ""
+1c1c9368f79de7d0a52561c5c22a6f0223e5ef7d7a30ecc1830086d0:
+  original: Letters ⟨k⟩, ⟨q⟩, and ⟨w⟩ appear only in loanwords.
+  translated: ""
+42a9f4909454e02bb5669e10ff52154389aa6d4e688f9c5323f95d35:
+  original: Design Philosophy
+  translated: ""
+07087cce6475ec30ee697047065b9b2503938679b850ab366f60c59f:
+  original: No silent letters or capitalization.
+  translated: ""
+98001147b25bc34622fbc8b3922f640f70a52089a1115752b9770c06:
+  original: The /ks/ sound is always written as ⟨x⟩ (never ⟨cs⟩).
+  translated: ""
+b250d0dc544f919a5541b39ba6ce0d4686aac1d47842c08970656347:
+  original:
+    "Flexible accent tolerance: All phonetic variations of /e/ (such as [e]
+    and [ɛ]) are valid, supporting diverse linguistic backgrounds."
+  translated: ""
