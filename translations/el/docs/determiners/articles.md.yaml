@@ -1,0 +1,166 @@
+%YAML 1.2
+---
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+0a80931808c7f5cac56f35bf9c5308be7136e814d6509c83a253e8a6:
+  original: "Arcadia has **five articles**, each serving a distinct grammatical function:"
+  translated:
+    "Η Αρκαδία έχει **πέντε άρθρα**, το καθένα με διαφορετική γραμματική
+    λειτουργία:"
+b0523581ae2d58a47bf92b62f31e24a530ee4c18e7a4c4c69b1fe014:
+  original: Definite
+  translated: Οριστικό
+3381b00ddfc11767b241e0169249ba6d88581db92896b3275c4db104:
+  original: The lion
+  translated: Το λιοντάρι
+d561d8a7d37d95fc108c8b87a3a5a24684fbb71a9454ff72aa933154:
+  original: a specific, known lion
+  translated: ένα συγκεκριμένο, γνωστό λιοντάρι
+d829209402067c7735dd0e70fee0155a5763aae4a01c036d63fe4f34:
+  original: Definite-Anaphoric
+  translated: Οριστικό-Αναφορικό
+3fc5da5a42ab8eada2706350cc689da142f96643581a49df16d31f9a:
+  original: The lion (we talked about earlier)
+  translated: Το λιοντάρι (για το οποίο μιλήσαμε νωρίτερα)
+14de43e27fb9f4ab33e5adc9b2c42fa2978fdd70e669e763244bf932:
+  original: referencing a previously mentioned lion
+  translated: αναφορά σε ένα λιοντάρι που έχει αναφερθεί προηγουμένως
+8abdd1cc7bff70616e2ed7fc11af25e1e8a75b6f06c2b3f2bb4b671c:
+  original: Indefinite-Weak
+  translated: Αόριστο-Αδύνατο
+b60cbf545faef74d3488ff29aa5f5e81c825ba581e01c4d27b0f653c:
+  original: Any lion
+  translated: Οποιοδήποτε λιοντάρι
+b9c5ffe9af731d857d642818595a8227053aedab6d22d66469819cb3:
+  original: a general reference to any lion
+  translated: γενική αναφορά σε οποιοδήποτε λιοντάρι
+ad24ccfa3f280c4d78779fa1ee0fa1a12c194c7f8553b24e4fb7e9af:
+  original: Indefinite-Strong
+  translated: Αόριστο-Ισχυρό
+ed2711e88667dbdbe568af2c4996b9d7815ee2c17a31fe00ca92d0ef:
+  original: A lion (one specific but unknown)
+  translated: Ένα λιοντάρι (ένα συγκεκριμένο αλλά άγνωστο)
+2e6225345d4160f3280971a1c6a4e393116c27591bc77463b74b5329:
+  original: introducing a singular but particular lion
+  translated: ένα συγκεκριμένο αλλά συγκεκριμένο λιοντάρι
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικός
+489e10498706ad48c8d7de410bc356886952b27d27e74cd5a0d29069:
+  original: A pride of lions
+  translated: Μια λεοπαρδαλή λιονταριών
+3b026c97dd8f5d675530c2ee155aefa5309949277826f6a6c3215bfc:
+  original: encapsulating collective meaning
+  translated: συγκεντρωτική συλλογική έννοια
+1e134536885f71f1b2d4d2505141f57c7bf9b66f1df17d23ed22831b:
+  original: Usage Rules
+  translated: Κανόνες Χρήσης
+748b891ac112d535206b29272ae518ba3b1df678b3f330a23181fdf0:
+  original:
+    "**Definite article (`&{la}/&{le}`)** can modify **indefinite determiners**,
+    turning them **definite**:"
+  translated:
+    "**Το οριστικό άρθρο (`&{la}/&{le}`)** μπορεί να τροποποιήσει **αόριστους
+    προσδιοριστές**, μετατρέποντάς τους σε **οριστικούς**:"
+  literals:
+    - la
+    - le
+2f51be49f3a689340d4876d0576310322ecb7930cd4472f469ed692b:
+  original: three people
+  translated: τρεις άνθρωποι
+fb837e9c5c9d4f30569218f7645d5a8af6032cc16c6ed5a38f5b057d:
+  original: three specific people
+  translated: τρεις συγκεκριμένοι άνθρωποι
+2c18718c3bf79cbf111e28fc18f2af0192be3c8c4d9215f59a1fc888:
+  original:
+    "**Indefinite article (`&{ya}/&{ye}`)** can transform proper nouns into
+    **common nouns**:"
+  translated:
+    "**Το αόριστο άρθρο (`&{ya}/&{ye}`)** μπορεί να μετατρέψει τα ονόματα
+    σε **κοινά ονόματα**:"
+  literals:
+    - ya
+    - ye
+24c9bf9dfe7ca0c8663db2e94510140c3ca958f8beb67b50d6b786f7:
+  original: a person named Adam
+  translated: κάποιος που λέγεται Αδάμ
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+a0b6ef2338099672b89c6f7b40756f2f63be8b9546544d6bd9cc3e05:
+  original: Translation
+  translated: Μετάφραση
+34890cbd6d7e75cd054c71bb285ff20a60272804eb162efa22ac54ec:
+  original: I met Adam.
+  translated: Γνώρισα τον Αδάμ.
+3fee2f9ec6898de05df9626dbc37f4d3ea2c520dad90621491e97b70:
+  original: Explanation
+  translated: Εξήγηση
+ee22d8406a5f3e4c0278f51c8ba2fe1e131ef770ba47510a23f509ea:
+  original: Refers to a **specific person named Adam** that the speaker knows.
+  translated:
+    Αναφέρεται σε **συγκεκριμένο άτομο που ονομάζεται Αδάμ** και το οποίο
+    γνωρίζει ο ομιλητής.
+1d9676f67f000f04bb4289404c0109f3682537c8fb8ce0277773e722:
+  original: Refers to a **specific person named Adam** that was mentioned before.
+  translated:
+    Αναφέρεται σε **συγκεκριμένο άτομο που ονομάζεται Αδάμ** και το οποίο
+    έχει αναφερθεί προηγουμένως.
+748270f10ddce9797426ec4ecfc52d671e232718d23669e4ada88cc5:
+  original: I met a guy named Adam.
+  translated: Γνώρισα κάποιον που λέγεται Αδάμ.
+2e40ea1aa087ba2c5d30766bb8f4aa2c50e0475cc0638db1aa613d70:
+  original: Refers to **someone named Adam**, without assuming familiarity.
+  translated: Αναφέρεται σε **κάποιον που ονομάζεται Αδάμ**, χωρίς να υποθέτει οικειότητα.
+8b6676952f73abef5688cbb3a747289a1848ecb692929b7efddd2d6c:
+  original: Declension Tables
+  translated: Πίνακες Κλίσης
+8b19af875e9e0c524acf1680f02f1709ab89f6d3785c10faf33b4e36:
+  original: Definite Article
+  translated: Οριστικό Άρθρο
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+5044ef3384523bfd73aeb4aa26843581b957cab24e05ce98cf1f1fc1:
+  original: Article
+  translated: Άρθρο
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+b071c4dc47d942bf2d9d9f26548948a28afa1fdaa6efb6f58ddc6250:
+  original: Anaphoric Article
+  translated: Αναφορικό Άρθρο
+cf2538404fbb575483e3568fe899160287ff525264d51c8779608eb6:
+  original: Weak Indefinite Article
+  translated: Ασθενές Αόριστο Άρθρο
+8d1840a79cde4188b63d4be5913667e5ec7ab0ba5a44b8babdd33d27:
+  original: Strong Indefinite Article
+  translated: Ισχυρό Αόριστο Άρθρο
+a404862bbfc04927faa39d8955ff0e64c77b8e90d9839bb385d81225:
+  original: Collective Article
+  translated: Συλλογικό Άρθρο
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+33fe53cfde8b484d14810f90a0393599dc906316606fe584c3ec63fb:
+  original: Pronunciation Adjustments
+  translated: Προσαρμογές Προφοράς
+99c6a8fb66d8cf8280a6887f5d64df22b656b8a4401c1504db468380:
+  original:
+    "If a singular article **precedes a noun beginning with the same vowel**,
+    it **contracts**, replacing the vowel with an apostrophe:"
+  translated:
+    "Εάν ένα ενικό άρθρο **προηγείται ενός ουσιαστικού που αρχίζει με το
+    ίδιο φωνήεν**, **συμβάλλεται**, αντικαθιστώντας το φωνήεν με απόστροφο:"
+c495396fda56d990840821c6f721a17c87703acd8d636386f5250507:
+  original: This ensures **smooth pronunciation** while maintaining clarity in speech.
+  translated:
+    Αυτό εξασφαλίζει **ομαλή προφορά** διατηρώντας παράλληλα τη σαφήνεια
+    στην ομιλία.
