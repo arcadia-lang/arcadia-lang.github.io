@@ -1,0 +1,199 @@
+%YAML 1.2
+---
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+b12f3da026f6b9b0a3aced52aaf49f157da028e9284bee20b5434da5:
+  original: Basic pronouns
+  translated: Βασικές αντωνυμίες
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+9439a92d09b67af52e62a43318f9fb5f5f56ff8c5561d66a484966f0:
+  original: I
+  translated: εγώ
+246c31b9595607b66e25397908850056e2aa240bcf30ae91da3b90bf:
+  original: you (singular)
+  translated: εσύ
+da2990b70bd94fe425e32cefb28d0dcd8a3961f76b6212372c7a1756:
+  original: he/she/it
+  translated: αυτός/αυτή/αυτό
+5a3802c194e5a5e48ce24bce5eec3c45026acedcdce61b3ada57f014:
+  original: Basic nouns
+  translated: Βασικά ουσιαστικά
+7b4d0e7317287b290399b4b951f234fa917540fdf7e1d389415d845a_noun:
+  original: love
+  translated: αγάπη
+  classes:
+    - noun
+80a4113048482e10b8bd9a039140b003180a58da7b7243cd8f1c222e:
+  original: water
+  translated: νερό
+74a7a8efce4d8bf548d2e5fb982cc1af9eb3b07235f3474b7162e7b4:
+  original: market
+  translated: αγορά
+90e1a3954c6a24b9aa87112bf601d3d2dbf5b88a4fc0301cc4ee7cb4:
+  original: car
+  translated: αυτοκίνητο
+5da61735d50e897c952738454e699a9f2061932b0319af658a83f547:
+  original: house
+  translated: σπίτι
+423c60f6a7abb85a4faa4864f9c2ef7f5e5834e31b168294076d985e:
+  original: window
+  translated: παράθυρο
+7bc134da5f5e4b6089e75f85787b43046f20945f1fa65e08863f2194:
+  original: fire
+  translated: φωτιά
+f339ac048b3af7a254a6d6e9453cada72ec0016bd29bb60b5b97eb97:
+  original: human
+  translated: άνθρωπος
+0ac22bdf5de1a72a826f21edde1153db02cb9607ad355b46be213a20:
+  original: documentation
+  translated: οδηγίες χρήσης
+80f5b92a8ef86f91e0a0bfa08b92d326e89ae6bfe5171fbc4750ce35:
+  original: book
+  translated: βιβλίο
+b91c50647942e3834821d4cecbb6f24a42cb55cfdbb1d40d55cb33ee:
+  original: name
+  translated: όνομα
+d9d939368b139021e8895d55d6293f6ba830b7259bc660e6a47296e7:
+  original: street
+  translated: δρόμος
+2accf044e145d35a77b43920ae2d1528a3c30b506e05546ee008ee76:
+  original: park
+  translated: πάρκο
+38b70816ce71928a7628ab9a30556bba125a7eea34c65af86fde8ba0:
+  original: door
+  translated: πόρτα
+9d4e90eadf99825a116fc032194310243846ea46a89e5f642df0de29:
+  original: child (young human)
+  translated: παιδί (ανήλικος)
+31d1235f46f7c57d3c1d5c8fba864aca5ff6fcfc876db2bec34af8b5:
+  original: neighbour
+  translated: γείτονας
+929e8ecbbc8965d17afeab357756415e118265f4a04919ce60e299b5:
+  original: Family
+  translated: Οικογένεια
+85a4c26278a8a8a71c35d3cd62992f7ef534ae1b95fe073c0a2bed2a:
+  original: parent
+  translated: γονιός
+4798658a36f5bda71176215f994099268c777f294006736b4ad5ec8e:
+  original: child (offspring)
+  translated: παιδί (απόγονος)
+262261e459decde7992edd1d73c252e3968e7d33ca005ea6ab2ea02d:
+  original: Day
+  translated: Ημέρα
+421f0c2e8ce535b5aeda5cec371ecbc44a6cfc4a8267775abff699ec:
+  original: dawn
+  translated: ξημέρωμα
+71b364e7a2018caab3eb8f8101bddd4321a7b4191f54aaaed358ec25:
+  original: morning
+  translated: πρωί
+37ea778c3fd81586da92840984c38ba93d3562470d97e75d47b998b6:
+  original: day
+  translated: μέρα
+31994b03573bf70ce5c697678d6181ea564224650d5c6cf7428e80e0:
+  original: evening
+  translated: απόγευμα
+fd17aba59c71e898d5fffc8a6d8b61fd060a9cfec2718cb4304cb65c:
+  original: dusk
+  translated: σούρουπο
+5c196e776c9d1a894705bc0f2d443e5bcd91f387269ef3f52d1e0312:
+  original: night
+  translated: νύχτα
+00c28063fcd7270c108a33864553858bcc4a12130729b0c4908e7d66:
+  original: Natural world
+  translated: Φυσικός κόσμος
+4da6de649b818f351444e92c0634987f696e561a9557600d578eee70:
+  original: bird
+  translated: πουλί
+e37d3c09b6e84ef084da0e179660768e1ba1657f338b2ebae5923178:
+  original: dog
+  translated: σκύλος
+447c857980c93d613b8bd6897c05bfd0621245139f021aaa6b57830a:
+  original: cat
+  translated: γάτα
+40accf478f82ba535e3d12df7a54a26f33ba84fba4152421f918f562:
+  original: fish
+  translated: ψάρι
+1012527b8605ba4644eef2e88744ae56c4a1501fc6c7553d4c385c06:
+  original: rose
+  translated: τριαντάφυλλο
+b8d3c014a3ca6ac709d9a63d00d209510e0d1b2eac8fcaceb6a65a13:
+  original: earth
+  translated: γη
+d2af59ca9537a33b831e7a6308a4ba893e9cc8c5105dea413a37de79:
+  original: river
+  translated: ποταμός
+107d58cd119e4c453be94f69bab78e621a814c25a7f8ddf2ba55f865:
+  original: forest
+  translated: δάσος
+ba4d9be6f8840a9d880a0ad4f1ec3426e068e6b2102e0d639c5001b1:
+  original: tree
+  translated: δέντρο
+f68d54eb67e505dca600d255fa387900bb9ce691ad6d587bfe8277ed:
+  original: plant
+  translated: φυτό
+1a7aa739a7c8579b93edb05311773dd9061dbbe05ea92a93c63c5468:
+  original: animal
+  translated: ζώο
+8e7fb9a10f7c2fd7d417b9b75d7217689c21f08a0f7f896307cfa379:
+  original: Food
+  translated: Φαγητό
+fc050a63cc75c191b53ccc05b0163c0cee2189b4a21bed7034a43c37:
+  original: breakfast
+  translated: πρωινό
+c88e78358b0e59c781a3da19fb30b2693bcb8b98cbabdbf7f097d8c8:
+  original: lunch
+  translated: μεσημεριανό
+d5e04520c1f216e5333bb9a768fcc3e51fda40454c5ad42a432730be:
+  original: supper
+  translated: βραδινό
+295d0141421e438e34592ba4cc854ef694cfe989a7356aa4a53c5a06:
+  original: meal
+  translated: γεύμα
+328725fead22d41cc0656f0321efad39bcc5b33c5bf4b9abf377e0ec:
+  original: starter
+  translated: ορεκτικό
+c5e39fd907e5f28a8445a60e888de1f363dc6339cd9ac7f409a0f2d0:
+  original: dessert
+  translated: επιδόρπιο
+18a5e5f938c6baee7d9fc45b7f462465e4d013d019a78b3ee7bdcea1:
+  original: plate
+  translated: πιάτο
+a8a4edebe16de798cdddb6cf3bb2e24da900335d9111dc62c6c2b7bd:
+  original: apple
+  translated: μήλο
+2fcc8d12aacb942439f3aea3e9189a137ecaa7b0aa15ee821121f9d0:
+  original: bread
+  translated: ψωμί
+239592a8751835de41ed8281ff71024846a92fa03824f5d6731508af:
+  original: tea
+  translated: τσάι
+303f55a681ad0b0312331be623944bacb8607ec41eccdca33b9b46d7:
+  original: fork
+  translated: πιρούνι
+647c2ea88360225a2a09f303b210325ccde5668ed635aad39dfa01d8:
+  original: spoon
+  translated: κουτάλι
+c508ffeacfda18ffa4d3e3988e6873b4ea12b95ac745b77853d1afe2:
+  original: knife
+  translated: μαχαίρι
+613c3623d486e74334e4b7128a9446d1e3a5f56b69702cfdb7abffd1:
+  original: Celestial bodies
+  translated: Ουράνια σώματα
+16bb8185f8c7da65e738c92042e06b45bb6a1cc2f0d7b901e95c59d2:
+  original: sky
+  translated: ουρανός
+80aa0b98e409af706aa85f7a8165f4639c7a021d94c7aed68bc17a47:
+  original: sun
+  translated: ήλιος
+2ff7b0755ec10c17ea811c9c6716092b6d6ac4c8b89fb65498b7431c:
+  original: moon
+  translated: φεγγάρι
+d9e28ad6287603be0dd80680613614f65e2cc54f03ac2fe739b2b645:
+  original: star
+  translated: αστέρι
