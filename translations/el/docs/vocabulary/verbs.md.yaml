@@ -1,0 +1,182 @@
+%YAML 1.2
+---
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+3170acce671f18b19904734c4c4f91cbc86dca194783a3c60d748ac6:
+  original: Basic verbs
+  translated: Βασικά ρήματα
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+b4fe2b0a6130d0ffbbcbd2f14d7326c0990d01c7fd327a86170eff29:
+  original: doubt
+  translated: αμφιβάλλω
+ceb1bff53b0e16b516c464ed5282ff5c8deea2d8f9c20061b4b1110e:
+  original: command
+  translated: διατάσσω
+9948ce1f828705a859b681764603bf1e8a252fd10ac17a8535fba963:
+  original: stay
+  translated: μένω
+c30fe5230b5537b1bfe480805559503341efcab6fd9301c84ca394a4:
+  original: die
+  translated: πεθαίνω
+a55d2153e8ed16af3dcf8563455565b417f329a530e4896bc86f8804:
+  original: must
+  translated: πρέπει
+bd5e3082136e64f63213b14eb6bc793521512f0f5f4596d7c6e89e83:
+  original: can
+  translated: μπορώ
+26bc209b036ef88fa617d2c06c6157045508d9924ca09edb71d8dfb2:
+  original: laugh
+  translated: γελάω
+fd9dc48ed52245c81385c2a50f69254ef2318efd51650adb441113cc:
+  original: smile
+  translated: χαμογελάω
+d15f8623c919452a5decd2e94e6dfb6316546c0ceb5cdfeeb3d8d761:
+  original: be
+  translated: είμαι
+93356b32cb7e215ccb76d7ecfbbedbda90590545189a79a9c9b945c7:
+  original: serve
+  translated: υπηρετώ
+6fb76b0a78cc71b672bf52705613eda1fbc81fc48f52542445b7238f:
+  original: live
+  translated: ζω
+fd91de65ce5a6ca68f6bc35e20084675ca223b04238b8fbea7990039:
+  original: appear
+  translated: φαίνομαι
+2cdbb309710038065ec0608e26e9c2f3ef42d71620272d7866c2a702:
+  original: change
+  translated: αλλάζω
+731acafeeb9f0d4fc012df073908065661d6635437a3ea20b2057e51:
+  original: choose
+  translated: διαλέγω
+cf4762473caaff6f8476342b2b1dfc7edd9d6a06922312d8a6a00c95:
+  original: come
+  translated: έρχομαι
+ec127c6b2a6695b86622841cfc8fdc397dc088ca74fc8f150aeaaa3b:
+  original: do
+  translated: κάνω
+eae9cd8d78434b00db8bc22b43d95106177c7a21280593ad9a7e05d6:
+  original: expect
+  translated: περιμένω
+ec6423db36182afee937dd16cfc0542dc7834cdbb9eb0205822b2628:
+  original: go
+  translated: πηγαίνω
+5e28c7851ba5c20f82ab1507d1d57e0206851da25e6e463a476f278f:
+  original: have
+  translated: έχω
+9971f3c7546b855e69dc2e40474b53128364c1e93ea7c4d3eb7b7b4c:
+  original: jump
+  translated: πηδώ
+28544695ac7b06b3fa7c4f717e46782b9529e9cfe301a839e851ad8b:
+  original: make
+  translated: φτιάχνω
+df8655e755376b88940e4b361d34adcb283b572b978a3fddcfdb8e25:
+  original: rise
+  translated: σηκώνω
+cb69f8a87039348ed11e7169226beb9075d68abe710e1a9146120632:
+  original: sleep
+  translated: κοιμάμαι
+4682f7f3389dbaa508b60ad73bfefe28b7f53596a1d242f34ef40028:
+  original: speak
+  translated: μιλάω
+5324fd1d2968456021ab2240ec34e48ab9b7a0a167fac02d58b265af:
+  original: Science
+  translated: Επιστήμη
+a0a34bc7f39738272e5e6636dcdc3b27cd545a4c314c0617554fedd2:
+  original: boil
+  translated: βράζω
+1a0bfa6bcb95bfb0eb1af77e137e8fd0608ca81a44fe3468d94d33e5:
+  original: freeze
+  translated: παγώνω
+e912df91888d59b9eda5ad1657afe861387bab693ff5f03c0d13cf14:
+  original: Weather
+  translated: Καιρός
+6e55b7a9ed92e6359f7f74b94e62fff99cb9ed1404d9d326a5b84274:
+  original: snow
+  translated: χιονίζει
+1e38eac4c3fbe0449b7f2423eb573a7a8a6c50bd1e05b74dce96347f:
+  original: rain
+  translated: βρέχει
+b20beb86ea409ba882a3dd29e1c1cdb2f7d8d51aa22bc1aa066dc14c:
+  original: Senses
+  translated: Αισθήσεις
+a9200eb8bf15464f1ef3e339643151c13c68813cbc8e0d81075cb242:
+  original: hear
+  translated: ακούω
+9c2ceef241bc128fc787a61364b4e5561bd73db30832ef84e7a3f883:
+  original: see
+  translated: βλέπω
+b8dada748d906d4cfc0776189cc14822b5ff8775b8f7d37f74babf26:
+  original: smell
+  translated: μυρίζει
+ea362bf3fe9f56f2803c62e994a14cd103e9032833e63a12ee020fbf:
+  original: touch
+  translated: αγγίζω
+bc414df26f8bb20dcb95e15f3a59f5ae9dc8b217bf9a3195da3d5c29:
+  original: Feelings
+  translated: Συναισθήματα
+7b4d0e7317287b290399b4b951f234fa917540fdf7e1d389415d845a:
+  original: love
+  translated: αγαπάω
+e242491b06be6f1870417c2dad8e4238e9f8425bd385c9c3d356e65d:
+  original: dislike
+  translated: αντιπαθώ
+ac42c55ec5083d9918b180f1f2483bb70a14fadeb0e5488ed6558223:
+  original: like
+  translated: αρέσω
+e91ef4e58a7643f08fa24a4d0cb1434ea33e3f773796ad143766817a:
+  original: hope
+  translated: ελπίζω
+b2f7e9920a8a0efe6e4b31539c489df14ca330e7c40670ca32595e37:
+  original: believe
+  translated: πιστεύω
+9d35f81d14fc378a07a3bcd77b0f1ac0b3a554b3e862dca9f55fcd5a:
+  original: hate
+  translated: μισώ
+07b420ac7f841c822b62ec90f45a5a98931ae0abec5e4063606395b5:
+  original: wish
+  translated: εύχομαι
+82b0b6c3192fc0a4a9c655f3826804fc86cd19ccf6ad2f2886d0895b:
+  original: want
+  translated: θέλω
+8e7fb9a10f7c2fd7d417b9b75d7217689c21f08a0f7f896307cfa379:
+  original: Food
+  translated: Φαγητό
+16f9762a93b01b22babe1ef5f0b3a7cf3f4db7c23f761f1dc9f3797e:
+  original: eat
+  translated: τρώω
+fb472b78641df6354d34b5e8cba4d3c383dcac8c3c6977d848549abc:
+  original: drink
+  translated: πίνω
+c2979cd98624e5c4db93015d29378370062094456d47542dd6fb3e01:
+  original: Transactions
+  translated: Συναλλαγές
+a09e721fd0f76b150cbf0670ce9ea7842e87b6a6b2ae7fb846fa284a:
+  original: give
+  translated: δίνω
+5880b308e240e7406b4cc37f31c4dd5dfb4d95dd7bb85034e2506826:
+  original: sell
+  translated: πουλάω
+c7bfef8e5b49bf1593e6613b8969a87233157b27c79c70eaa3c07399:
+  original: Hobbies
+  translated: Χόμπι
+b5742516a1a930f471a017d91000954068705a5372138b1e687509ea:
+  original: play
+  translated: παίζω
+9274d53ff2777d0584fa1d813c1bcd32ba62202d94eec7ba6f45c603:
+  original: sing
+  translated: τραγουδάω
+456642970e287cba323a39c1c6926b4fceff510b42631e07cb383055:
+  original: read
+  translated: διαβάζω
+f1d5de48de11b79f92cef2de49f3c145bf433448a6bbb2278f115f16:
+  original: lose
+  translated: χάνω
+720299c9bc78293fea4bb30c52e603e71d668bcd2ed93a8b608ccc20:
+  original: win
+  translated: κερδίζω
