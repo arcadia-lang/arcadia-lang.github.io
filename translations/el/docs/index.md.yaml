@@ -1,0 +1,123 @@
+%YAML 1.2
+---
+ff42e8d69ff13c6965a563a01559ad95324f6b0e0ce94f95cddb149f:
+  original: Arcadia
+  translated: Αρκάδια
+04f8d29435faf3a4c5c944a1e652193181280184313afb68e8e84849:
+  original:
+    Arcadia is a **highly expressive conlang** built on **consistency and
+    clarity**—without exceptions.
+  translated:
+    Η Αρκάδια είναι μια **υψηλά εκφραστική κατασκευασμένη γλώσσα** που βασίζεται
+    στην **συνέπεια και την σαφήνεια**—χωρίς εξαιρέσεις.
+8ad277a099b3090fb73f9d75c3b6fa4409106061f8ed84452cdc283c:
+  original:
+    It follows a **VSO (Verb-Subject-Object) syntax** and draws inspiration
+    from **Romance languages** for vocabulary, orthography, and pronunciation.
+  translated:
+    Ακολουθεί μια **VSO (Ρήμα-Υποκείμενο-Αντικείμενο) σύνταξη** και αντλεί
+    έμπνευση από τις **λατινογενείς γλώσσες** για το λεξιλόγιο, την ορθογραφία και
+    την προφορά.
+cdbe373399588ad329bff1a930b9cd7da3ecd80d950eabf1686a28ad:
+  original:
+    The writing system ensures a **1:1 correspondence** between spoken and
+    written forms, making it **ideal for machine parsing** while maintaining rich
+    expressiveness.
+  translated:
+    Το σύστημα γραφής εξασφαλίζει μια **1:1 αντιστοιχία** μεταξύ προφορικών
+    και γραπτών μορφών, καθιστώντας το **ιδανικό για μηχανική ανάλυση** ενώ διατηρεί
+    την πλούσια εκφραστικότητα.
+88bb62a16c6269ec9318dbea2ef35e4422adf79928defc2404482061:
+  original:
+    Though this expressiveness introduces a **steeper learning curve**, the
+    **absence of exceptions** provides a logical, predictable structure.
+  translated:
+    Αν και αυτή η εκφραστικότητα εισάγει μια **αυστηρότερη καμπύλη εκμάθησης**,
+    η **απουσία εξαιρέσεων** παρέχει μια λογική, προβλέψιμη δομή.
+f48f72a51b68e43b78e79ce7ec75121c3b06d158a75bfc117d6b250d:
+  original: Overview of Arcadia
+  translated: Επισκόπηση της Αρκάδια
+e6d897a94a3bc673bdc57ab921360f4d61f2ca2fa64d1aca28000734:
+  original:
+    Arcadia is designed to be **a highly regular language**, eliminating irregularities
+    and exceptions.
+  translated:
+    Η Αρκάδια έχει σχεδιαστεί για να είναι **μια εξαιρετικά κανονική γλώσσα**,
+    εξαλείφοντας τις ανωμαλίες και τις εξαιρέσεις.
+75da471446c15d8c7489160cc1646b0352de0d80b2dd3f1870aba5ea:
+  original:
+    While **grammar and syntax** innovate beyond traditional linguistic patterns,
+    phonetics, writing, and vocabulary remain **intentionally familiar**, as these
+    aspects are considered **less central to linguistic structure**.
+  translated:
+    Ενώ η **γραμματική και η σύνταξη** καινοτομούν πέρα από τα παραδοσιακά
+    γλωσσικά πρότυπα, η φωνητική, η γραφή και το λεξιλόγιο παραμένουν **σκόπιμα οικεία**,
+    καθώς αυτές οι πτυχές θεωρούνται **λιγότερο κεντρικές στη γλωσσική δομή**.
+310cfe3d010f3bb1cd8dcaa7f8a938b05221742422fdd0793b3669eb:
+  original:
+    The language prioritizes **expressive precision**, always favoring **clarity
+    of meaning over simplicity**—ensuring depth without unnecessary complexity.
+  translated:
+    Η γλώσσα δίνει προτεραιότητα στην **εκφραστική ακρίβεια**, πάντα προτιμώντας
+    την **σαφήνεια της σημασίας από την απλότητα**—εξασφαλίζοντας βάθος χωρίς περιττή
+    πολυπλοκότητα.
+0e2d123065f8d24308575891d89ff736c686a593f8679a08e5c4d29f:
+  original: Literal Information Flow
+  translated: Ροή κυριολεκτικής πληροφορίας
+4f93aedf68ebddba29f56fe1219d76ce002506f845c3a87fdaa8d843:
+  original:
+    A core principle in Arcadia is the **explicit communication of information**,
+    avoiding assumptions.
+  translated:
+    Μια βασική αρχή στην Αρκάδια είναι η **ρητή επικοινωνία της πληροφορίας**,
+    αποφεύγοντας τις υποθέσεις.
+9045969dfc9f9a376d33447dc1600ae16a0b79713c8b033efad57834:
+  original: "For example:"
+  translated: "Για παράδειγμα:"
+2456640f473d2f7567e766878e96bef807612db4f8958eaf5d5331cd:
+  original: In English, "The door was black" suggests the color has changed.
+  translated: Στα ελληνικά, «Η πόρτα ήταν μαύρη» υποδηλώνει ότι το χρώμα έχει αλλάξει.
+770af99a438640262853b7cc5fedcae1cae10c63b2fa51ec4c62badd:
+  original:
+    In Arcadia, _&{sive ta portas neri}_ simply states **the door was black**,
+    without implying any present change.
+  translated:
+    Στην Αρκάδια, _&{sive ta portas neri}_ δηλώνει απλά **η πόρτα ήταν μαύρη**,
+    χωρίς να υπονοεί καμία παρούσα αλλαγή.
+  literals:
+    - sive ta portas neri
+2014861509e3b8fdd85a02223ca92fd41c48386a3c6ec03b3833f747:
+  original:
+    This **literal structure** ensures that **meaning is conveyed with precision**
+    rather than inferred.
+  translated:
+    Αυτή η **κυριολεκτική δομή** διασφαλίζει ότι **η σημασία μεταφέρεται
+    με ακρίβεια** παρά υπονοείται.
+dbc55fd1a1a2629f9360c4ed5610f64735b886500deb6bd4fe05a673:
+  original:
+    While Arcadia's **orthography and vocabulary** reflect Romance languages,
+    its **grammar and syntax** incorporate influences from **natural languages and
+    conlangs**, driving innovation.
+  translated:
+    Ενώ η **ορθογραφία και το λεξιλόγιο** της Αρκάδιας αντικατοπτρίζουν
+    τις λατινογενείς γλώσσες, η **γραμματική και η σύνταξη** ενσωματώνουν επιρροές
+    από **φυσικές γλώσσες και κατασκευασμένες γλώσσες**, προωθώντας την καινοτομία.
+7119d30369343d560957a977a915afa7fd44e7da9dd1a5c22324492f:
+  original: Key Features of Arcadia
+  translated: Βασικά Χαρακτηριστικά της Αρκάδια
+6f4cc9192c34632a0869de6ce0dca6e10fd66d5ae1ef0b17caf46e46:
+  original:
+    "Arcadia introduces several **unique** or **rare linguistic features**,
+    including:"
+  translated:
+    "Η Αρκάδια εισάγει αρκετά **μοναδικά** ή **σπάνια γλωσσικά χαρακτηριστικά**,
+    συμπεριλαμβανομένων:"
+11275603f3828515987e951a6e351f89f6b023636315c7ba1fe88083:
+  original: Four-person system
+  translated: Τετραπρόσωπο σύστημα
+3e2eb17c45cc0dede22b0e0174d6a2837f0b6641cbca10fbe12a3654:
+  original: Timeless tenses
+  translated: Διαχρονικοί χρόνοι
+ab7b9f3e534852d4547c6238dbff6667a4d3072b26b2100b820d1b29:
+  original: Factual conditionals in the past
+  translated: Πραγματικές υποθετικές προτάσεις στο παρελθόν
