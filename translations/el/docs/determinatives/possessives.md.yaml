@@ -1,0 +1,69 @@
+%YAML 1.2
+---
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: Κτητικά
+a0d8037b37bba8a302f59a95faaf22bcb04a75de6c256484f84fb5d1:
+  original: Zerita is using the preposition "&{de}" or "&{du}" to indicate possession.
+  translated:
+    Η ζερίτα χρησιμοποιεί την πρόθεση «&{de}» ή «&{du}» για να δηλώσει την
+    κατοχή.
+  literals:
+    - de
+    - du
+a723243331b07b416c74adfda61203ddeeced331c2cc4fda7546c359:
+  original: The possessive is used as a determiner, and it is placed before the noun.
+  translated:
+    Το κτητικό χρησιμοποιείται ως προσδιοριστικό και τοποθετείται πριν από
+    το ουσιαστικό.
+e25dc1e2ac7fcd600b7315961ee856efb4f1a9e19c140a7b39247a44:
+  original:
+    Chaining possessives is possible, and the order of possessives is that
+    the possessor comes before the possessed.
+  translated:
+    Πολλαπλά κτητικά στη σειρά είναι δυνατόν να υπάρξουν και η σειρά των
+    κτητικών είναι ο κάτοχος να τοποθετείται πριν από το κατεχόμενο αντικείμενο.
+4b25da80e26e770bb2fe8a7d1a55622af4a39aaee457c9fea1513945:
+  original:
+    The difference between "&{de}" and "&{du}" is that "&{de}" is for inalienable
+    possession, while "&{du}" is for alienable possession.
+  translated:
+    Η διαφορά μεταξύ «&{de}» και «&{du}» είναι ότι το «&{de}» είναι για
+    την μη-αποξενώσιμη κατοχή, ενώ το «&{du}» είναι για την αποξενώσιμη κατοχή.
+  literals:
+    - de
+    - du
+73883d543e58fc5fd49190b077b2cf0fecb6a622cb2323999a5ff949:
+  original:
+    Inalienable possession is when the possessor is an integral part of the
+    possessed, while alienable possession is when the possessor is not an integral
+    part of the possessed.
+  translated:
+    Η μη-αποξενώσιμη κατοχή είναι όταν ο κάτοχος είναι αναπόσπαστο μέρος
+    του κατεχόμενου, ενώ η αποξενώσιμη κατοχή είναι όταν ο κάτοχος δεν είναι αναπόσπαστο
+    μέρος του κατεχόμενου.
+5e487cc6385d5fd7c3fd44f94d18812974bd3ea42f2fdc031af0c976:
+  original:
+    There are no possessive pronouns in zerita, and they are expressed by
+    "&{de}" or "&{du}" + pronoun.
+  translated:
+    Δεν υπάρχουν κτητικές αντωνυμίες στη ζερίτα και εκφράζονται με «&{de}»
+    ή «&{du}» + αντωνυμία.
+  literals:
+    - de
+    - du
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+30c701d4158c3a8252cd6e79352f101dfbad77a6d1b62566974f9882:
+  original: My book is big.
+  translated: Το βιβλίο μου είναι μεγάλο.
+c56c7285c31d4b201a6ccabf6d42e264582cc14a4d241ace87fad7b8:
+  original: The book is mine.
+  translated: Το βιβλίο είναι δικό μου.
+05acbada83a90a65de3e1ef5675ca5b780a62a873c051190528d475e:
+  original: The father of my child is Adam.
+  translated: Ο πατέρας του παιδιού μου είναι ο Αδάμ.
