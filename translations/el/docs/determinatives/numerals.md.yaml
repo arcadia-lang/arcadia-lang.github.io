@@ -1,0 +1,69 @@
+%YAML 1.2
+---
+b6d48f0d27f762c2e9ac6bf59569ee223c10490eaffa56d466412852:
+  original: Numerals
+  translated: Αριθμητικά
+b0895f8d134b4aeb4a5746d6705198c92722c7818487a4a8d2c12e35:
+  original:
+    Zerita is using two parallel number systems, a decimal and a hexadecimal
+    one.
+  translated:
+    Η ζερίτα χρησιμοποιεί δύο παράλληλα αριθμητικά συστήματα, ένα δεκαδικό
+    και ένα δεκαεξαδικό.
+0d2ae94b46c868e63bbaf6ceaf0c632fde9cedde204c092ccd3dcbc8:
+  original: Hexadecimal numbering system is present, for future-proofing purposes.
+  translated: Το δεκαεξαδικό αριθμητικό σύστημα είναι παρόν, για μελλοντικής εξασφάλιση.
+1297dd02055062f6a9329f6b1b43bdcf10025159db2f8914426a4451:
+  original: Both numbering systems use big billions for the naming.
+  translated:
+    Και τα δύο αριθμητικά συστήματα χρησιμοποιούν μεγάλα δισεκατομμύρια
+    για την ονομασία.
+ee547a791e8e3b833062d04f8aa83ee65fb4b6fcebf7cd147feb2291:
+  original: Numbers and writing
+  translated: Αριθμοί και γραφή
+ba5cf9abba17ccff9efc5fa70f9b30ed16d08c87bdba3f73f5046f42:
+  original:
+    Zerita is using 0-9 and A-F for writing the numbers in hexadecimal, so
+    there is no chance of misunderstanding as words use only lowercase letters to
+    be written.
+  translated:
+    Η ζερίτα χρησιμοποιεί 0-9 και A-F για να γράψει τους αριθμούς σε δεκαεξαδικό,
+    οπότε δεν υπάρχει περίπτωση παρεξήγησης καθώς οι λέξεις χρησιμοποιούν μόνο πεζά
+    γράμματα για να γραφούν.
+02f71afe282f3ac19ba35fabaf3dddd4c200ac17375371e0577c8e27:
+  original: The preferred grouping for numbers is with an underscore, as it's unambiguous.
+  translated:
+    Η προτιμώμενη ομαδοποίηση για τους αριθμούς είναι με μια κάτω παύλα,
+    καθώς δεν υπάρχει περίπτωση παρεξήγησης.
+57d6e877d8a4d846260d6c772eaa377c6cbb184f1b3aefc47d88d017:
+  original: "The numbers that have a basic name are:"
+  translated: "Οι αριθμοί που έχουν βασικό όνομα είναι:"
+13265a7d9d57783155522ce7c1cd0a84bb8f017599dcd2b46dcec3b1:
+  original: Decimal
+  translated: Δεκαδικό
+d734355ad0c26b1c56678b7e623f6dd77a73b8f24a0778e23cdec9c5:
+  original: Hexadecimal
+  translated: Δεκαεξαδικό
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: Όνομα
+5f902b6d6223fa39104714b7c58c1ea423c5f044dfc8b59cdb247c48:
+  original: Larger numbers
+  translated: Μεγαλύτεροι αριθμοί
+c73c16b9b65638564c53dd233c37ac077c3a9e4f988f8a42fc9710e3:
+  original:
+    Both systems, after 999_999 are using powers of 1_000_000 to create names
+    for arbitrary large numbers.
+  translated:
+    Και τα δύο συστήματα, μετά το 999_999 χρησιμοποιούν δυνάμεις του 1_000_000
+    για να δημιουργήσουν ονόματα για αυθαίρετα μεγάλους αριθμούς.
+34f765caa7ba04aaa4eb3dd17ee7cd2d90fb442e11884de484700220:
+  original:
+    For one-word powers, instead of using the form "&{ad X potente}", the
+    ending "&{-ente}" can be used.
+  translated:
+    Για τις δυνάμεις μιας λέξης, αντί να χρησιμοποιήσετε τη μορφή «&{ad
+    X potente}», μπορεί να χρησιμοποιηθεί το επίθημα «&{-ente}».
+  literals:
+    - -ente
+    - ad X potente
