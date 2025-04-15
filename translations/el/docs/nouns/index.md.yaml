@@ -1,0 +1,41 @@
+%YAML 1.2
+---
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+dc3cad9ffb07068864708f9fafce391609672718b059c1027b0e6d9d:
+  original: Nouns are a **foundational element** of Arcadia's grammar.
+  translated:
+    Τα ουσιαστικά είναι ένα **θεμελιώδες στοιχείο** της γραμματικής της
+    Αρκάδια.
+21967118d78284f4a8a86ca5b88aa59ccf2fd61051a2e3b6fe792812:
+  original:
+    They carry many of the language's complexities, making them an essential
+    starting point for understanding Arcadia.
+  translated:
+    Φέρουν πολλές από τις πολυπλοκότητες της γλώσσας, καθιστώντας τα ένα
+    απαραίτητο σημείο εκκίνησης για την κατανόηση της Αρκάδια.
+46bc50e7d140ddc2357c0f7793fe9b4efb43134ab4a8ea4978c86c6e:
+  original: Arcadian nouns have **five [numbers][&{number}]**, and **seven [cases][&{case}]**.
+  translated:
+    Τα ουσιαστικά στην Αρκάδια έχουν **πέντε [αριθμούς][&{number}]** και
+    **επτά [πτώσεις][&{case}]**.
+  literals:
+    - case
+    - number
+28894999aefb7b57899bf3d9d4538dd43050cff3760a63c9c2c95ff6:
+  original:
+    "The order of affixes follows this structure: **gender - base - number
+    - case**."
+  translated:
+    "Η σειρά των προσθηκών ακολουθεί αυτή τη δομή: **γένος - βάση - αριθμός
+    - πτώση**."
+58b3e1dbed80e6cbf6e33b3f9cf163c2e0f15eb3410e73f87c0ebc39:
+  original:
+    The **[gender][&{gender}]** and **number** of a noun convey **semantic
+    meaning**, while **case** functions purely as a **syntactic marker**.
+  translated:
+    Το **[γένος][&{gender}]** και ο **αριθμός** ενός ουσιαστικού έχουν **σημασιολογικό
+    νόημα**, ενώ η **πτώση** λειτουργεί αποκλειστικά ως **συντακτικός δείκτης**.
+  literals:
+    - gender
