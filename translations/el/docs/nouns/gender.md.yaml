@@ -1,0 +1,75 @@
+%YAML 1.2
+---
+50ff40ca3b6578fc15bcb74bde0b6b51c1557a473025e7b8d1cb830e:
+  original: Gender
+  translated: Γένος
+ce9cfc0f174a611bbab6e6d5685549695fa75c997eddf1368abfba2b:
+  original:
+    Arcadia has **five grammatical genders**, which serve as **structural
+    classifications** rather than semantic distinctions.
+  translated: ""
+313c7793ab95ab7267062fefe675d5924c72734a3180d6bbb202ecd3:
+  original: "Each gender is named after a prototype noun:"
+  translated: ""
+ab4cf4fd385a1b9598faf8bde60363cab8e8d15ad980a8f544deb9f1:
+  original: Earth
+  translated: ""
+77ead05d135d9a382547b07c5683ec41ce72b9865e97da16ab702112:
+  original: Water
+  translated: ""
+2a90a8dd782fee563bf8891f5e0e91caa891e84c3228f9bec278da6f:
+  original: Fire
+  translated: ""
+3a7c53e01ea306f49adf138be6ddfc67418da5bdcf02b01285b120b1:
+  original: Air
+  translated: ""
+18704048992e12507714a28e302c7454220d0671c240c4694c74ec31:
+  original: Aether
+  translated: ""
+6c7a0a67bc131d3ea6f2c8a417e91b6cfe4668508d5413da069e5005:
+  original:
+    All nouns in Arcadia **end in a vowel**, and their gender is determined
+    by the **final vowel**.
+  translated: ""
+b9046045916051219770ac1d888eddc225bbe5c986d817fc5c247de0:
+  original:
+    However, Arcadia itself is **not a gendered language**—it does not inherently
+    mark nouns for male or female identity.
+  translated: ""
+97c35576762413e2a08cb238f1e8e4f2d30d1a3d58f0c1ecd4b49672:
+  original: "While gender-specific prefixes exist, they are optional:"
+  translated: ""
+86164b5a6c95bb91937f70b682f9540c3d3c099991683a910cc70848:
+  original: male
+  translated: ""
+951bb4b013760b56ded7aa8cd4ec31c33579e61ec3570ee24683b5a9:
+  original: female
+  translated: ""
+b3e267e03453056f22dfcb8a9898c0b33129b95e81be3bcf5c69e251:
+  original: When gender **is not relevant**, the noun remains unmarked.
+  translated: ""
+043e09b68c26454726a0715ddc55e3be6c978af31150ac0a7de29598:
+  original: Using Non-Grammatical Gender
+  translated: ""
+caf8057fe1b4c0494dfad2fdca14c655c416ff5f849ae1b8b1f46ba7:
+  original:
+    By default, non-grammatical gender **should not** be marked unless explicitly
+    relevant.
+  translated: ""
+bd8843f454cd496802ac4df3d17a3df5c5d8264eecb57290c9cc00c1:
+  original:
+    For example, "datere" (parent) is used unless specifying "padatere" (father)
+    or "madatere" (mother).
+  translated: ""
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+1ae6a492ec08fccef4d3ee03442586d045290e5c7a36cd830ed26a0e:
+  original: Lion
+  translated: ""
+772ea9328faa3d11123a8718a0ca351dd1091fccfd3a9cc8a0a4d37b:
+  original: Male
+  translated: ""
+1b4c5a2f69ca10c8d157b01f6175ccfea049ae994b5b22071738268c:
+  original: Female
+  translated: ""
