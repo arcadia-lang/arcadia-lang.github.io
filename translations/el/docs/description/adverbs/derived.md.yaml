@@ -1,0 +1,33 @@
+%YAML 1.2
+---
+b4c6bf14f4eab05db153ecc409090972d2b1af4933e8fdc71331daab:
+  original: Derived adverbs
+  translated: Παράγωγα επιρρήματα
+c1259c4364586660d7ada535d4fdee35d48183462e4b2ebd70bf2b84:
+  original: 'Any adjective can be turned into an adverb, by using the "&{-ie}" suffix:'
+  translated:
+    "Κάθε επίθετο μπορεί να μετατραπεί σε επίρρημα, χρησιμοποιώντας το επίθημα
+    «&{-ie}»:"
+  literals:
+    - -ie
+73253ddc80c90d8aaadd2ddd655774412747d4cfbb2043b730e7757a:
+  original: well
+  translated: καλά
+af380e8629fb00bbd3a96c46b9a92043b90a64114f61222df1bac60b:
+  original: badly
+  translated: κακά
+f956e91d6d33d39286a5d6aa43ccc81df55ca946ce479e0e5a5a9058:
+  original:
+    The "&{-ie}" suffix moves the stressed syllable once towards the end,
+    but never to itself.
+  translated:
+    Το επίθημα «&{-ie}» μετακινεί τη τονισμένη συλλαβή μία φορά προς το
+    τέλος, αλλά ποτέ στον εαυτό του.
+  literals:
+    - -ie
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+50d6519edafc0bc21bf7a4933921c36f9705ec0dba4d380b8d49d947:
+  original: The birds are singing well.
+  translated: Τα πουλιά τραγουδούν καλά.
