@@ -1,0 +1,93 @@
+%YAML 1.2
+---
+e95e6f7dcb22164f2d48b6f75ebcc79df8ae774ad23188d8700d9f83:
+  original: Form
+  translated: Μορφή
+6ebbf069d4b9e69f65870fa7257d53b52cac509fcb4f40ed6e09ed29:
+  original: There are 4 forms in Zerita.
+  translated: Υπάρχουν 4 μορφές ουσιαστικών στη ζερίτα.
+62335d220af902b9524bf9800b61b39253c61ae7dfb6bc4ef23d1982:
+  original: These forms are formed by adding a suffix to the root word.
+  translated: Αυτές σχηματίζονται προσθέτοντας ένα επίθημα στο θέμα.
+4fbc7ac010edb48a326282684adb3a8498234f910f814443c9f1fbf0:
+  original: 'Using "&{libr}", which is the word for "book", the suffixes are:'
+  translated:
+    "Χρησιμοποιώντας το «&{libr}», που είναι η λέξη για το «βιβλίο», τα
+    επιθήματα είναι:"
+  literals:
+    - libr
+311a4e36a7376ccd02f43f4ac8e8a0ddae5df713e43183a8792b6060:
+  original: Default form
+  translated: Βασική μορφή
+4e1b5431a489245122fcb037c17cbbf131acb5c83c7402538d31e901:
+  original: "no suffix, it doesn't have any special meaning:"
+  translated: "χωρίς επίθημα, δεν έχει ιδιαίτερη σημασία:"
+afd9ec24198ff5e67814dbe40769fbea8433b3e3ae23c54847e5d8e8:
+  original: a book
+  translated: ένα βιβλίο
+d17ed79b3b5da8fe6decd763006b77a265fa5625c07d1a880d0f18f5:
+  original: Collective form
+  translated: Συλλογική μορφή
+74df5e30bc8c5466dc8af2cb11ea31b59510db57459a2684c9147373:
+  original: '"&{-as}", used for collections of things:'
+  translated: "«&{-as}», χρησιμοποιείται για συλλογές:"
+  literals:
+    - -as
+c881c617e15583b0c80521fbcf84b1adcb239ac7f59f158cf076a115:
+  original: a pile of books
+  translated: μια στοίβα βιβλία
+670497ebc0585158c010b428c553397feafdd73fc3013d3d5d7b4804:
+  original: Abstract form
+  translated: Αφηρημένη μορφή
+65ce3d4fadc4d038ce8909e85f3b5f9ed08d2a4e4862a3b509e867a5:
+  original: '"&{-at}", used for abstract things:'
+  translated: «&{-at}», χρησιμοποιείται για αντικείμενα με την αφηρημένη έννοια
+  literals:
+    - -at
+d3c06acefdc17b8514bce8e282b32a62271bf5a7c86ae78c0d6a0211:
+  original: a book in the abstract sense
+  translated: ένα βιβλίο με την αφηρημένη έννοια
+28d3da87d42aa3283657a8e3f7bcad5d5e36bc1e5315b59a6654295d:
+  original: Cultural form
+  translated: Πολιτιστική μορφή
+a0c4c35804d29552fbcf785574f61394ec76886fe18b38e1110ae5aa:
+  original: '"&{-an}", used for cultural artifacts:'
+  translated: "«&{-an}», που χρησιμοποιείται για πολιτιστικά αντικείμενα:"
+  literals:
+    - -an
+024988895f86a1c8132a56fdf3d77d64f8a5333804dec35b7efd24fd:
+  original: a culturally significant book
+  translated: ένα πολιτιστικά σημαντικό βιβλίο
+6310b99a9c5404d6e2bcc4b314c21835c2aa89dcf0f9263bed9c20c1:
+  original:
+    The abstract form is used to convey the meaning of an item in a non-concrete
+    sense, as a general concept.
+  translated:
+    Η αφηρημένη κλάση χρησιμοποιείται για να μεταφέρει την έννοια ενός αντικειμένου
+    με μη συγκεκριμένο τρόπο, ως γενική έννοια.
+7e005f8b4d973cd9a40be162ef9315a9e2948bc64b04914ffbacd3ba:
+  original: 'For example, using it in a sentence like "I like pizza":'
+  translated:
+    "Για παράδειγμα, χρησιμοποιώντας την σε μια πρόταση όπως «Μου αρέσει
+    η πίτσα»:"
+93439c4e6dcf5015b977265fd6c94792a001ccbe6cdecdd848466c2d:
+  original: we're not talking about a pizza, or a specific pizza, but pizza in general.
+  translated:
+    δεν μιλάμε για μια πίτσα, ή μια συγκεκριμένη πίτσα, αλλά για την πίτσα
+    γενικά.
+d0ed2ddd49b1ebeaa690b7e6db95f9827b60c76823e0090b04f951fc:
+  original:
+    This is in contrast to "I would like a pizza", where we talk about eating
+    the food called pizza itself.
+  translated:
+    Αντιθέτως, όταν λέμε «Θα ήθελα μια πίτσα», μιλάμε για μια πίτσα οποιαδήποτε,
+    αλλά συγκεκριμένη.
+a9d1f51edb624b59d3b6b9ae209047c73dda9179ae7ef3131e42eea8:
+  original:
+    Other examples include "Love is important" vs "Give me your love" where
+    the first example is talking about love as a general concept, and the second is
+    talking about a concrete instance of love.
+  translated:
+    Άλλο παράδειγμα είναι το «Η αγάπη είναι σημαντική» σε αντίθεση με το
+    «Δείξε μου την αγάπη σου», όπου το πρώτο παράδειγμα μιλάει για την αγάπη ως γενική
+    έννοια, και το δεύτερο μιλάει για την αγάπη ενός συγκεκριμένου ανθρώπου.
