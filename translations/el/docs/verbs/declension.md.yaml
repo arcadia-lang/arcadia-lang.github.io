@@ -1,0 +1,56 @@
+%YAML 1.2
+---
+a7bea49906f40d89717f0ae7e972f2bfa311d80dcb9fa91f20f192d7:
+  original: Full declension table
+  translated: Πλήρης κλίση
+054caf0a3a3e382f186a4747d77c32543d280e469a0a6465d8d0f3bd:
+  original: Veritas
+  translated: Αληθινός
+6eb9dc5cfce7089d8d73951e8450b807d768279f6593ca69ab82e653:
+  original: Person
+  translated: Πρόσωπο
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικός
+f5e7e9e8057d65201446f0c42d896fc2d9cb64a79ea8c4a181ce517a:
+  original: 1st
+  translated: 1ο
+5def87485d3583bcdda891e5be76febbc4376ee0e0c90888750905d9:
+  original: 1st (inc)
+  translated: 1ο (συμπ)
+5d336cb3bb818a829b33b0e08277106d0dfbf691bdff1c08225950c4:
+  original: 2nd
+  translated: 2ο
+4036f056033e09741f99d3ecdc4befa7036cf991320f269a520eec18:
+  original: 3rd
+  translated: 3ο
+276f68cc7b3e5e0c28678e53948fe58c5387a41f92414d46d1cdd5c4:
+  original: 4th
+  translated: 4ο
+ee8fb5ca80f959d2064bfa25c9fc1903d3092dcef848676addad5dce:
+  original: Status
+  translated: Καταστατικός
+2cd7305cf8c3a97fa41bff9e9ebb84a1b9fa746db845f9720e714ad6:
+  original: Present
+  translated: Ενεστώτας
+1083ef829412514da703fcdef27e0528093878409b77e8a1e264a088:
+  original: Past
+  translated: Αόριστος
+29c13a0ba2a4871fc490222380fad4d27abc5c89f48504bc007be181:
+  original: Future
+  translated: Μέλλοντας
