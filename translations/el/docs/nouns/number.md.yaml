@@ -1,0 +1,113 @@
+%YAML 1.2
+---
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+6c57c8626b6cfc502b58476b24c106eab4911aa1c82e2abe1497d37a:
+  original: Numbers are formed by adding a **suffix** to the root word.
+  translated: Οι αριθμοί σχηματίζονται προσθέτοντας ένα **επίθημα** στη ρίζα της λέξης.
+6e56a51642ba3564079c329acb4d6a00ffc828442b479c7f27614b91:
+  original:
+    The semantic meaning of the suffix **varies** depending on whether the
+    noun is **countable or uncountable**.
+  translated:
+    Η σημασιολογική έννοια του επιθήματος **διαφέρει** ανάλογα με το αν
+    το ουσιαστικό είναι **μετρήσιμο ή μη μετρήσιμο**.
+f52b718170802af2b6621ca07781846dc731033d03ccd0a82260f729:
+  original:
+    If the noun **ends in a consonant**, an **"e" is inserted** between the
+    base and the suffix.
+  translated:
+    Αν το ουσιαστικό **τελειώνει σε σύμφωνο**, ένα **"e" προστίθεται** μεταξύ
+    της ρίζας και του επιθήματος.
+920ba0153c651eaac637ad52dc214515dec366297283f37ce7837a5d:
+  original: Countable Nouns
+  translated: Μετρήσιμα ουσιαστικά
+a8c165a8b5dcfa903d8921644e9e8d5ceb8b7190e5207c9639e75190:
+  original:
+    Countable nouns are those that can be **quantified as discrete units**—such
+    as apples, kilograms, and humans.
+  translated:
+    Τα μετρήσιμα ουσιαστικά είναι αυτά που μπορούν να **ποσοτικοποιηθούν
+    ως διακριτές μονάδες**—όπως μήλα, κιλά και άνθρωποι.
+2da7ac3cdf78846455993eea6939e3914797283d77c13db4586c8378:
+  original: 'Using **"dia"** (_day_), here are the suffixes:'
+  translated: 'Χρησιμοποιώντας το **"dia"** (_ημέρα_), οι καταλήξεις είναι:'
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+cb438f21a60c339a6a557fe8c12160269683e32d7ee38f241df25c71:
+  original: No suffix
+  translated: Καμία κατάληξη
+9b7b0c769262e5294b076ff35dcea35aa38a465edc7307340bee020a:
+  original: used for exactly one item (**dia** → a day).
+  translated: χρησιμοποιείται για ακριβώς ένα αντικείμενο (**dia** → μια μέρα).
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+7ad743fb2e421c4a33d84b24afe187ff2ba320f2f9ac53a61dc13527:
+  original: Represents a quantity **less than one** (**diad** → part of a day).
+  translated:
+    Αντιπροσωπεύει μια ποσότητα **μικρότερη από το ένα** (**diad** → μέρος
+    της μέρας).
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+962b7637a6bcfcae0aa05c1bf198db1dd9a5367d44af6eeb397566ff:
+  original:
+    Used for **more than one item**, even if not a full integer (**dias**
+    → days).
+  translated:
+    Χρησιμοποιείται για **περισσότερα από ένα αντικείμενα**, ακόμα και αν
+    δεν είναι πλήρης ακέραιος (**dias** → μέρες).
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+064fe8c348efb31c7f1fa2f97290dc21cac270da9f87389c5c2e1780:
+  original: Expresses **absence** of the noun (**dian** → no days).
+  translated: Εκφράζει την **απουσία** του ουσιαστικού (**dian** → καμία μέρα).
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικός
+e35728c526ced102b403614310ad6aff272db5293f9ad14baa9f8453:
+  original: Represents the **totality** of the noun (**diar** → all days).
+  translated:
+    Αντιπροσωπεύει την **ολικότητα** του ουσιαστικού (**diar** → όλες οι
+    μέρες).
+b7fdac3ff250ced8a6e0b94abd624b26f4d519621beef9c5b3e17152:
+  original: "**Negative quantities** take the **same suffix** as their positive counterpart."
+  translated:
+    "**Αρνητικές ποσότητες** παίρνουν το **ίδιο επίθημα** με την θετική
+    τους αντίστοιχη."
+04a65d6fd54a45af17846c50a1a7f171747093dfe23c47f9313b749c:
+  original: Uncountable Nouns
+  translated: Μη μετρήσιμα ουσιαστικά
+2dcaa3bf581a65a42c4e2fde160b5f7ef5f4d1cf8b4df84d45e063c5:
+  original:
+    Uncountable nouns do **not** have discrete units—such as water, money,
+    and love.
+  translated:
+    Τα μη μετρήσιμα ουσιαστικά δεν έχουν διακριτές μονάδες—όπως το νερό,
+    τα χρήματα και η αγάπη.
+b87c28615d13cb91dbf3b7db229786a078a773d378dc0302647cb72b:
+  original: 'Using **"amore"** (_love_), the suffixes and their meanings are:'
+  translated:
+    'Χρησιμοποιώντας το **"amore"** (_αγάπη_), οι καταλήξεις και οι έννοιές
+    τους είναι:'
+8cd619a02c8d1d3fbcb126e3b25d780c73c0fcb8e3d777c07bac59b5:
+  original: used when quantity is unspecified (**amore** → love).
+  translated: χρησιμοποιείται όταν η ποσότητα δεν είναι καθορισμένη (**amore** → αγάπη).
+631b9fa3dbb4408b55bca1e81eede964e14f6811627367a919de3338:
+  original: Represents a **small** quantity (**amored** → a little bit of love).
+  translated: Αντιπροσωπεύει μια **μικρή** ποσότητα (**amored** → λίγο από την αγάπη).
+8ab11bfefb5d6162fec7c2e54ec84f6761a29da187f4269db5b866fa:
+  original: Expresses a **large** quantity (**amores** → an abundance of love).
+  translated: Εκφράζει μια **μεγάλη** ποσότητα (**amores** → μια αφθονία αγάπης).
+5f9e60a6d94807f9bfa059b84afc4aa3e50e91c9e8728c707bf7f0b0:
+  original: Indicates **absence** (**amoren** → no love).
+  translated: Υποδηλώνει την **απουσία** (**amoren** → καμία αγάπη).
+3141992e5948f7dc247694fbe803dd22510c9163b1f4cbf1d8f22f42:
+  original: Represents the **totality of the concept** (**amorer** → all love in existence).
+  translated:
+    Αντιπροσωπεύει την **ολικότητα της έννοιας** (**amorer** → όλη η αγάπη
+    που υπάρχει).
