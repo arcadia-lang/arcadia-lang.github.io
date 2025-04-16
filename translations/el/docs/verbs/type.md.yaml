@@ -1,0 +1,230 @@
+%YAML 1.2
+---
+01f1e0d4d00ef2ad740b2b2f2205b02e5e23758a46b71ae54347a844:
+  original: Type
+  translated: Τύπος
+55160eec56c117d22aff33eb243a91331aac1d735a7ab06ca439eb52:
+  original:
+    Zerita has a rich type system for verbs, each one having it's own syntactic
+    rules.
+  translated:
+    Η ζερίτα έχει ένα πλούσιο σύστημα τύπων για ρήματα, καθένας από τους
+    οποίους έχει τους δικούς του συντακτικούς κανόνες.
+fa18756e1f6e0f8320af952464d5f27d2e9b0b1e0f530a902857d05c:
+  original: The syntax of each sentence stems from the verb and its type.
+  translated: Η σύνταξη κάθε πρότασης εξαρτάται από το ρήμα και τον τύπο του.
+de5833391886b4700d63f591dd0a48cd64435abad3c74b202e74c679:
+  original: The basic syntax is VSO.
+  translated: Η βασική σύνταξη είναι Ρήμα - Υποκείμενο - Αντικείμενο.
+95cce9d9e5bfd2b2acd3cfd6768ed94265e663ad2873966563116d4c:
+  original:
+    In cases that the sentence has a topic, it is placed directly after the
+    verb.
+  translated:
+    Σε περιπτώσεις όπου η πρόταση έχει θέμα (ουσιαστικό στην θεματική πτώση),
+    αυτό τοποθετείται αμέσως μετά το ρήμα.
+79d6e3cfacc5618bee8d89b519852bd9f5f953a3354c4b923f29a9d7:
+  original: Linking verbs
+  translated: Συνδετικά ρήματα
+c122156cc73a14f61f0b7db7f81293dec49d079f0ee73ecdf7fcc0f7:
+  original:
+    Linking verbs are verbs that don't have an action, but rather they describe
+    an state or a characteristic, for example "I am a doctor" or "The roses smell
+    nice".
+  translated:
+    Τα συνδετικά ρήματα είναι ρήματα που δεν έχουν δράση, αλλά περιγράφουν
+    μια κατάσταση ή ένα κατηγορούμενο, για παράδειγμα «Είμαι γιατρός» ή «Τα τριαντάφυλλα
+    μυρίζουν ωραία».
+c56d4dc4d0793f681f72974cb0dfc6e502c02f75fc40be3f4861e456:
+  original:
+    Syntax in zerita is verb - subject - attribute, where the attribute is
+    in the predicative case.
+  translated:
+    Στη ζερίτα η σύνταξη είναι ρήμα - υποκείμενο - κατηγορούμενο, όπου το
+    κατηγορούμενο είναι στην κατηγορική πτώση.
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+4c57fa73a00aa6729adbcc839c9d84a408a014985dee953613a77523:
+  original: The roses smell sweet.
+  translated: Τα τριαντάφυλλα μυρίζουν γλυκά.
+d87877a3b4e78e7f546587964b0800115632b826d60fdeeea30c80f9:
+  original:
+    One important case in the linking verbs, is introducing oneself, as in
+    "I'm Jon Snow".
+  translated:
+    Μια σημαντική περίπτωση στα συνδετικά ρήματα είναι η αυτοπαρουσίαση,
+    όπως στο «Είμαι ο Jon Snow».
+612321473d2c35752171b4246a37d09a4a4f5f8a94499f54206bff34:
+  original: I'm Jon Snow.
+  translated: Είμαι ο Jon Snow.
+bcc6ebf42d6960f0fc3b86ba9195803fb71dff96ccfff98992315c0b:
+  original: Impersonal verbs
+  translated: Απρόσωπα ρήματα
+11803c4079d4124624cc80942c458aa733061740685e9762a2b0cb37:
+  original:
+    Impersonal verbs are verbs that describe the state of the world, of a
+    place, or even a time period.
+  translated:
+    Τα απρόσωπα ρήματα είναι ρήματα που περιγράφουν την κατάσταση του κόσμου,
+    ενός τόπου ή ακόμα και μιας χρονικής περιόδου.
+9bf51bb97ba26275c3c8c260ca2571aba00d439cdffb5915db9f5417:
+  original:
+    For example they describe things like "it snows", and they lack subject
+    and the personal suffix.
+  translated:
+    Για παράδειγμα, περιγράφουν πράγματα όπως «χιονίζει», και δεν έχουν
+    υποκείμενο και προσωπική κατάληξη.
+319844911be1f6ff2bc168c21c7e9e89b44d30944a207538f09249b0:
+  original: It is snowing.
+  translated: Χιονίζει.
+7a96654bc1cdca5ae280e2e8c63ebbd92b1b3197bc948ca3e10a9715:
+  original: Intransitive verbs
+  translated: Αμετάβατα ρήματα
+0c7e5ca9ca9af342b29276550c2d0203e0f51fd62324bfb4be29fcf7:
+  original:
+    Intransitive verbs are verbs that describe an action without a recipient,
+    for example "the birds are singing", or, verbs that describe an state, "the cat
+    is sleeping".
+  translated:
+    Τα αμετάβατα ρήματα είναι ρήματα που περιγράφουν μια δράση χωρίς παραλήπτη,
+    για παράδειγμα «τα πουλιά τραγουδούν», ή, ρήματα που περιγράφουν μια κατάσταση,
+    «η γάτα κοιμάται».
+36b5e66c5c3f97f0eadb777f17163de74f71ef35584d8d82a6152765:
+  original:
+    They follow the syntax verb - subject, and the subject is in the nominative
+    case.
+  translated:
+    Ακολουθούν τη σύνταξη ρήμα - υποκείμενο, και το υποκείμενο είναι στην
+    ονομαστική πτώση.
+33f10aeccdb66ed6c33e4e6d4c1020c00cc586ef703f92c497435c4e:
+  original: Birds are singing.
+  translated: Κάποια πουλιά τραγουδούν.
+72e6efcf16935db755e95210a1fc15c68ba15f1651b6efbab6e2a9c2:
+  original: Transitive verbs
+  translated: Μεταβατικά ρήματα
+32c93709ea234a721374ba6e4a1723b3770f5fd5fc6524d7cc18da42:
+  original:
+    Transitive verbs are verbs that describe an action that has a recipient,
+    for example "I'm drinking water".
+  translated:
+    Τα μεταβατικά ρήματα είναι ρήματα που περιγράφουν μια δράση που έχει
+    παραλήπτη, για παράδειγμα «πίνω νερό».
+fcfe301c69d6e6c7dfd316e9e998f299bbc3a5881d963d0fc6885503:
+  original:
+    They follow the syntax verb - subject - object, the subject is in the
+    nominative case, and the object in the accusative.
+  translated:
+    Ακολουθούν τη σύνταξη ρήμα - υποκείμενο - αντικείμενο, το υποκείμενο
+    είναι στην ονομαστική πτώση και το αντικείμενο στην αιτιατική.
+16c1b62cd1d89cfc8c4040a53c9e9766a3f88a8b6da8d67a4e961739:
+  original:
+    The subject can be dropped, especially in the first, second, and fourth
+    person.
+  translated:
+    Το υποκείμενο μπορεί να παραλειφθεί, ειδικά στο πρώτο, δεύτερο και τέταρτο
+    πρόσωπο.
+e3b467bef0856ffa967a6ff5f39086080db1a76459623da24b292891:
+  original: I'm drinking water.
+  translated: Πίνω νερό.
+73bb612e17b097aa09be21e1874fbbb3df0b26f77f5e34f94ee8edcc:
+  original: Distransitive verbs
+  translated: Διπλά μεταβατικά ρήματα
+303400e02875541306decddf55c574c9cae56575d4a02551ef2676f5:
+  original:
+    Distransitive verbs are verbs that describe an action with two recipient,
+    for example "I'm giving the book to you".
+  translated:
+    Τα διπλά μεταβατικά ρήματα είναι ρήματα που περιγράφουν μια δράση με
+    δύο παραλήπτες, για παράδειγμα «δίνω το βιβλίο σε σένα».
+4ac14897d71125e62db97dc620c2c3e3f9a65267534eefc3defdd895:
+  original:
+    They follow the syntax verb - subject - direct object - indirect object,
+    the subject is in the nominative case, and the direct object in the accusative
+    and the indirect one is in the dative case.
+  translated:
+    Ακολουθούν τη σύνταξη ρήμα - υποκείμενο - άμεσο αντικείμενο - έμμεσο
+    αντικείμενο, το υποκείμενο είναι στην ονομαστική πτώση, το άμεσο αντικείμενο στην
+    αιτιατική και το έμμεσο αντικείμενο στην δοτική πτώση.
+a87328c49327f3b05d7d8057451cac57ff708e6bec593695af875339:
+  original: I am giving the book to you.
+  translated: Δίνω το βιβλίο σε σένα.
+5c1c69029344a2ec9af0a4de77a663570b705cd52d2dd2036a035db7:
+  original: I am giving the book to the child.
+  translated: Δίνω το βιβλίο στο παιδί.
+ef594a28960cbbc2d6214a8f7026f4054070ef827ea592029fc1008b:
+  original: Object promotion
+  translated: Προώθηση αντικειμένου
+7d506dd62d334995e3df6581441519682661d49c3c5880d36a046060:
+  original:
+    Zerita allows both the direct and the indirect object to be promoted to
+    subject.
+  translated:
+    Η ζερίτα επιτρέπει και το άμεσο και το έμμεσο αντικείμενο να προαχθούν
+    σε υποκείμενο.
+2d16a4dee293fd33f29885fd898596dcbc0744fbe32b1a6bf558ade7:
+  original: This happens with the verb derivation system.
+  translated: Αυτό συμβαίνει με το σύστημα παραγωγής ρημάτων.
+a205e2430b71325b4b5cb9e817b03ad93b8967476ed0706650446529:
+  original: IO promotion
+  translated: Προώθηση άμεσου αντικειμένου
+cd2083e4a40b340600fef2dd31bdf2a512efc7d64f5465bfa4a91199:
+  original: '"&{re-}" prefix'
+  translated: πρόθεμα «&{re-}»
+  literals:
+    - re-
+a45ab330ffec2a94609a41a2a4ef4a1f833325a41f4fe4bcff2e81e5:
+  original: DO promotion
+  translated: Προώθηση έμμεσου αντικειμένου
+81ef740f434f4d9d9cede52e3bdd4299712517a752d75eedc29b2364:
+  original: '"&{ob-}" prefix'
+  translated: πρόθεμα «&{ob-}»
+  literals:
+    - ob-
+354f87e1c3062a8f6022b6c02ab802cf337e1af81d966b7982a2ef37:
+  original:
+    After the promotion, the promoted argument is in nominative, and the demoted
+    one in ablative.
+  translated:
+    Μετά την προώθηση, το προαχθέν είναι στην ονομαστική πτώση, και το υποβιβασμένο
+    στην αφαιρετική.
+150243fb7f4411cfd5b5c7ef5e9b0e5d757b162e053984fb85f71471:
+  original: Water is being drunk by me.
+  translated: Το νερό πίνεται από μένα.
+dac076f59d21decd1a176fd3f6418bacd62bf0eaceb4d291ad385607:
+  original: The book is being given from me to you.
+  translated: Το βιβλίο δίνεται από μένα σε σένα.
+5e09805e417d5ec6e433e4224fabe10b4ccc8bbe1ee6192f8b70a87b:
+  original: You are receiving a book from me.
+  translated: Λαμβάνεις ένα βιβλίο από μένα.
+7b0712e08ddd3ba7c390e709b877458b5dbbb0461517b3e173f4f883:
+  original: Reflexivity
+  translated: Αυτοπαθή και αντανακλαστικά ρήματα
+8d48e15b5ec4c14378f997269ae73c86abead5f9971e10f411859623:
+  original: In zerita reflexivity and reciprocality are handled with prefixes.
+  translated: Στη ζερίτα η αυτοπάθεια και η αμοιβαιότητα διαχειρίζονται με προθέματα.
+2e1e7e7b4496d9fc2130b62543f0f12fc5b9abeb59c930dc6bd73889:
+  original: A prefix changes the verb in a reflexive or a reciprocal form.
+  translated: Ένα πρόθεμα αλλάζει το ρήμα σε αυτοπαθή ή αμοιβαία μορφή.
+99632ef9ebb06d48dbce7ca98108662101e908d80fa1879808b3809f:
+  original: reflexive
+  translated: αυτοπαθής
+72fe4b01452347afcf16d9e15512f3321915ac9fb58a8007e9c63272:
+  original: '"&{aut-}" prefix'
+  translated: πρόθεμα «&{aut-}»
+  literals:
+    - aut-
+dfaa75127662b4d1d562ae2d736931d45fe794e7651fd42dd0beb031:
+  original: reciprocal
+  translated: αμοιβαία
+a864b2933940c10362f0635458f018f80d3d8f9e5b4ac1fd1a977460:
+  original: '"&{kon-}" prefix'
+  translated: πρόθεμα «&{kon-}»
+  literals:
+    - kon-
+954d7f520537ddc2dce87658b7eac6c3f9e9a8cb472829ae633f137b:
+  original: Adam and Maria love themselves.
+  translated: Ο Αδάμ και η Μαρία αγαπούν τους εαυτούς τους.
+28ab58987ac537025da0377cdd28d93c988694081955a76e98aaf5b6:
+  original: Adam and Maria love each other.
+  translated: Ο Αδάμ και η Μαρία αγαπούν ο ένας τον άλλον.
