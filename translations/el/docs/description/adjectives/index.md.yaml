@@ -1,0 +1,47 @@
+%YAML 1.2
+---
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: Επίθετα
+e19058b8782def32b2b26a3944eb63bd5e4fb1b749d0ac90bf7ecaba:
+  original: Adjectives in zerita decline exactly the same as nouns do.
+  translated: Τα επίθετα στην ζερίτα κλίνονται ακριβώς όπως τα ουσιαστικά.
+747eb48c2b21899b4b3be252a1674a9cfe28264b9cd22095907493bc:
+  original:
+    'They are placed after the noun that the describe in order of importance,
+    for example both mean "big new knife":'
+  translated:
+    Τοποθετούνται μετά το ουσιαστικό που περιγράφουν κατά σειρά σημαντικότητας,
+    για παράδειγμα και τα δύο σημαίνουν «μεγάλο καινούριο μαχαίρι»
+530d2f1974fd72259a7f300920b90384084a63e3658b085fe95de8ef:
+  original: There is an slight difference in intention.
+  translated: Υπάρχει μια ελαφριά διαφορά στην πρόθεση.
+126cc8259f4c47e8b394ad1dc450f06a811cf312b6978b5154f62f34:
+  original:
+    The first means that it's a big new knife, but the second means the knife
+    is noticeably new, and maybe so shiny that you'll notice this first.
+  translated:
+    Το πρώτο σημαίνει ότι είναι ένα μεγάλο καινούριο μαχαίρι, αλλά το δεύτερο
+    σημαίνει ότι το μαχαίρι είναι αισθητά καινούριο, και ίσως τόσο γυαλιστερό που
+    θα το παρατηρήσετε πρώτα.
+423a71320e1360a89fecc86ddef1a640b67e05eb50be0937c9a5eb94:
+  original: "The number of the adjective always agrees with the nouns that it modifies:"
+  translated: "Ο αριθμός του επιθέτου συμφωνεί πάντα με τα ουσιαστικά που τροποποιεί:"
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+7c94786d107b93ffb80d5b6a54e9dcff8ef973e4f70a4b00ffc07e49:
+  original: a big fork and a big spoon
+  translated: ένα μεγάλο πιρούνι και ένα μεγάλο κουτάλι
+74bfbdfdc258509f3eff136769405c1a68bfafe3d2af717a74ffa961:
+  original: a fork and a big spoon
+  translated: ένα πιρούνι και ένα μεγάλο κουτάλι
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+defbe04778c226712f700fbb1e04f0e76dfd46ce36aca0c4707ea49a:
+  original: the big house is beautiful.
+  translated: το μεγάλο σπίτι είναι όμορφο.
+724a1b853655c57906601837f9d46b9c8d790fcf1527b0fab6844c2a:
+  original: the house is big and beautiful.
+  translated: το σπίτι είναι μεγάλο και όμορφο.
