@@ -1,0 +1,193 @@
+%YAML 1.2
+---
+9c8b9f6c8ea3417abc3de0b18bb32aaa8cd1a1fec3a1a54ef860bfae:
+  original: Questions
+  translated: Ερωτήσεις
+780f56b71434e34320ac22eb8e1291e0f7e7b5bd984f398b8af61eb4:
+  original:
+    Questions in zerita are formed by the question particle + the sentence,
+    in the affirmative syntax, with the unknown part missing.
+  translated:
+    Οι ερωτήσεις στα ζερίτα σχηματίζονται με το ερωτηματικό μόριο + την
+    πρόταση, στην καταφατική σύνταξη, με το άγνωστο μέρος να λείπει.
+109087863145b71a01fdd90b9a743af6d3680dd7a0898b710f2e1826:
+  original:
+    Yes/no questions, in spoken zerita, have a rising intonation at the end
+    of a sentence.
+  translated:
+    Οι ερωτήσεις ναι/όχι, στην προφορική ζερίτα, έχουν αυξανόμενη τονικότητα
+    στο τέλος της πρότασης.
+f7dcef2ddcb9c347bb3ad3c8ee41ee9e7992cb09bab68826514b4e9f:
+  original: Question particles
+  translated: Ερωτηματικά μόρια
+c57277ba31f61bc534658637a7eeaf38a3a5797edb9f1c843ee50bf5:
+  original: Particle
+  translated: Μόριο
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+018cbc7bbdd9d354ac959483a1a9667aed2c6aeb5f75599274d3cec3:
+  original: Meaning
+  translated: Σημασία
+252809b3df686846891dff101c7abff0fb8326bbc9efe6e781886703:
+  original: yes/no question
+  translated: ναι/όχι ερώτηση
+71bf6f4edd356500b23a0717ca9c6e96749e9bdc3e449d7703bf6140:
+  original: who/what
+  translated: ποιος/τι
+2db4c839496c60f0324740e1c2328027ae212c4ab91d137a49732f0f:
+  original: generic question
+  translated: γενική ερώτηση
+b52b2bc8cdd7b86cb80efe46ccfb51c246280082f1d7946beed1ddb9:
+  original: which
+  translated: ποιο απ' αυτά
+136ce8f3250e94c5ee22c324c380be424bcc5f609647f1a8dbf97000:
+  original: choice
+  translated: επιλογή
+ab766becd196b89a423011414ca33a5411f7e3523ff8b984289da7ed:
+  original: where
+  translated: πού
+1b4c83b1d3d736ce76c61e742a6a4cc2cff7e9f2164e822c8c557641:
+  original: location
+  translated: μέρος
+e29edc56da00502ad978a9a83552f40448502d5efd612a548f8befa5:
+  original: when
+  translated: πότε
+a4e9642f614f5e851f973d580971533e4684ff474b7f4c890edd3080:
+  original: time
+  translated: χρόνος
+511177a08417e242c677a7a7b2e4b85b0a9349419b62773c841f2ec1:
+  original: how much/how many
+  translated: πόσα
+c4c4e17e265dbbe452bf8a57198eb37c0937b5f62a1ac0d2dbf8aca6:
+  original: quantity
+  translated: ποσότητα
+bf776c35602398ac65267e67c6114777f8b4a220793663d277a2b258:
+  original: how
+  translated: πώς
+6f3dc136f4beecd21b7714bc715e3ad09fab25f811078b1439eec6c2:
+  original: manner
+  translated: τρόπος
+5dea87152847f8a5b4f2726325d88e82976d4b99a208f48b690bfa80:
+  original:
+    The particles also use the preposition/postposition and declension that
+    is expected.
+  translated: Τα μόρια χρησιμοποιούν επίσης την πρόθεση/μετοχή και την κλίση που αναμένονται.
+72a6fbbbe2e2c8c825c19f881e29c500278218e3fbf43eb8f703b460:
+  original:
+    Interrogative words can be combined with prepositions, for example "&{pro
+    ke}", to ask why something is happening (purpose), or "&{por ke}" to ask for whose
+    benefit something is happening.
+  translated:
+    Οι ερωτηματικές λέξεις μπορούν να συνδυαστούν με προθέσεις, για παράδειγμα
+    «&{pro ke}», για να ρωτήσουν γιατί συμβαίνει κάτι (σκοπός), ή «&{por ke}» για
+    να ρωτήσουν προς όφελος ποίου συμβαίνει κάτι.
+  literals:
+    - por ke
+    - pro ke
+c3882117f1c5205f995f0ece5f5c2720dd62cfbb346c6b26457483e4:
+  original: Handling unknowns
+  translated: Διαχείριση αγνώστων
+8bf42f30a07032d4f2cd08232f5bc8892367cc3b9065e3c78d0d6f1a:
+  original: In zerita, asking for something, causes the affected suffixes to drop.
+  translated:
+    Στη ζερίτα, η ερώτηση για κάτι προκαλεί την πτώση των επηρεαζόμενων
+    καταλήξεων.
+b9a30c07c550d4b4ced26c3675e440f72c1ba5b35ff1c14b1000b683:
+  original:
+    For example, "&{kuanto}" causes the time suffix to drop, or "&{kuót}"
+    causes the number suffix or the noun to drop.
+  translated:
+    Για παράδειγμα, "&{kuanto}" προκαλεί την πτώση της κατάληξης του χρόνου,
+    ή "&{kuót}" προκαλεί την πτώση της κατάληξης του αριθμού ή του ουσιαστικού.
+  literals:
+    - kuanto
+    - kuót
+4612f6a98bd2fff9790ebb537aae2a43f3a90f14e4dd10fb7d49ac19:
+  original:
+    Similarly, "&{ke}" when used to ask for the subject of the verb, it makes
+    the person suffix to drop.
+  translated:
+    Ομοίως, "&{ke}" όταν χρησιμοποιείται για να ρωτήσει για το υποκείμενο
+    του ρήματος, προκαλεί την πτώση της κατάληξης του προσώπου.
+  literals:
+    - ke
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+b963d827079af098b83d0906112c2b0a00a1354564169fdcba0c5f52:
+  original: Are you giving the book to me?
+  translated: Μου δίνεις το βιβλίο;
+abfdc09f24ab686efc985ba0307a9dc66e1e938e2689109427f6e2c1:
+  original: How are you giving the book to me?
+  translated: Πώς μου δίνεις το βιβλίο;
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+e9f041a44725cee8251ffece009e2307a305af49cc8ba52da5595aa3:
+  original: Asking about the method of delivery, eg are you posting it by hand?
+  translated: Ρωτάει για τη μέθοδο παράδοσης, π.χ. το στέλνεις με το χέρι;
+3b4ac7d5989baa14ead566be1daacaf29496b18b283671c29eb5eecb:
+  original: Where are you giving the book to me?
+  translated: Πού μου δίνεις το βιβλίο;
+2305b00a6631d2d35331d1ebf92116073cfcd8a756d4696766cb25c8:
+  original: To who are you giving the book?
+  translated: Σε ποιον δίνεις το βιβλίο;
+9b9d51ebdd96af2f8402efa5cc461471951e6e985dceed1e1234cffd:
+  original: What are you giving to me?
+  translated: Τι μου δίνεις;
+7639c1d87d1d62fa059e8e4ed2388ccc5da314028f2d3576a2f42ddf:
+  original: Which book are you giving to me?
+  translated: Ποιο βιβλίο μου δίνεις;
+291618eec88efc479154df42669efa5b3433fdb8b0a1efb6c324f167:
+  original: When are you going to give the book to me?
+  translated: Πότε θα μου δώσεις το βιβλίο;
+cbf19eba1ca39b6740f1f0f9e0ea5da20773630eec6e10955fe4f191:
+  original: I know it's in the future.
+  translated: Ξέρω ότι είναι στο μέλλον.
+37b71d8565ff2d361f03e44bbe7b9b1872f961e3ae5a4d19998ce066:
+  original: How many books are you giving to me?
+  translated: Πόσα βιβλία μου δίνεις;
+5da549e3c295edaa889114d52f290ad281cf6c8461b38ee33b480eff:
+  original: "Asking for the subject of the verb keeps only the known parts:"
+  translated: "Ρωτώντας για το υποκείμενο του ρήματος διατηρεί μόνο τα γνωστά μέρη:"
+08880b855e146cc0578e15c7d69919db61114b18122d620bb33587a4:
+  original: Who is giving the book to me?
+  translated: Ποιος μου δίνει το βιβλίο;
+ae8727f85dea241ffff3d9990a166efbba90bc89257e4ce9c63d38c7:
+  original: I have no indication about who or how many people are giving me the book.
+  translated: Δεν έχω καμία ένδειξη για το ποιος ή πόσοι άνθρωποι μου δίνουν το βιβλίο.
+0fa1e1f8ff456bef79f82778ab88b2fab59e1e0df24e5a509698196e:
+  original:
+    I know that they are multiple people, not including you or me, so it's
+    3rd person plural.
+  translated:
+    Ξέρω ότι είναι πολλοί άνθρωποι, που δεν περιλαμβάνουν εσένα ή εμένα,
+    οπότε είναι 3ο πρόσωπο πληθυντικού.
+b8c393751803b36544caa23439a2854b2a73c047d3806e1fa3be63c2:
+  original: Who are you (plural), who is giving the book to me?
+  translated: Ποιοι είστε εσείς που μου δίνετε το βιβλίο;
+e428ef98a3597b46fa071f72e2a473add717b3077dae5b7319bc6ae7:
+  original:
+    It can be as a follow up question to "&{donavos ta libron veim}", but
+    who is in included is unclear.
+  translated:
+    Μπορεί να είναι ως ερώτηση παρακολούθησης στο «&{donavos ta libron veim}»,
+    αλλά ποιος περιλαμβάνεται δεν είναι σαφές.
+  literals:
+    - donavos ta libron veim
+4a006154af0703bbd24c3fe32e73aedac3a0c84a73d84bf2f88ee70f:
+  original: "Some common questions include:"
+  translated: "Ορισμένες κοινές ερωτήσεις περιλαμβάνουν:"
+e4b353113a6746d6d2e5b0d0a3de8845b93d6263ae8a868e404047f6:
+  original: What's your name?
+  translated: Πώς σε λένε;
+0acf899f69ae0da71724ab89f4b6333621c5b97d74a5a90df4702e62:
+  original: How are you?
+  translated: Πώς είσαι;
+ee1ad9b9f62c28bf3105b17a443ac4a22929ea3280a5f74472a667ab:
+  original: Where are you from?
+  translated: Από πού είσαι;
