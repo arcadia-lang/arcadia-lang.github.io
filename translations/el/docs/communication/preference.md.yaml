@@ -1,0 +1,107 @@
+%YAML 1.2
+---
+3a5aed5335cab4d4186157db2be9a355d2020e75c3cbacb6029d6c2c:
+  original: Preference
+  translated: Προτιμήσεις
+6a95dfca869c36e297bccaa57d6dc2332dc135857fe9b9bb62e6b8d0:
+  original: Zerita has 4 main verbs to express preference.
+  translated: Η ζερίτα έχει 4 κύριους ρήματα για να εκφράσει προτίμηση.
+7604a575e001b0c06eb0724621fa636f0c34d6018f6eb8d4059d2374:
+  original:
+    The verbs are "&{amor}" (love), "&{estim}" (like), and the negative ones
+    "&{hostil}" (hate) and "&{avert}" (dislike).
+  translated:
+    Τα ρήματα είναι «&{amor}» (αγαπάω), «&{estim}» (μου αρέσει), και τα
+    αρνητικά «&{hostil}» (μισώ) και «&{avert}» (αντιπαθώ).
+  literals:
+    - amor
+    - avert
+    - estim
+    - hostil
+f8d115214507431e82fbde338eede7cc9316867f7876d1a29c43e596:
+  original:
+    The negation can be used with the positive verbs to express a more nuanced
+    meaning.
+  translated:
+    Η άρνηση μπορεί να χρησιμοποιηθεί με τα θετικά ρήματα για να εκφράσει
+    μια πιο λεπτή διαβάθμιση.
+f934760f292495300f3bfd37b55a64ab3738da47a5d8dbe2d3baaaff:
+  original: "The order of likeness is as follows:"
+  translated: "Η σειρά προτίμησης είναι η εξής:"
+7b4d0e7317287b290399b4b951f234fa917540fdf7e1d389415d845a:
+  original: love
+  translated: αγαπάω
+ac42c55ec5083d9918b180f1f2483bb70a14fadeb0e5488ed6558223:
+  original: like
+  translated: αρέσω
+7f8e4463f073bfa185e0ac036035ef228ddefe04adfd22f705f2ae4f:
+  original: not love
+  translated: δεν αγαπάω
+c64fc7b0f1430db2e4d2c8789718ddbcfeb3bf0d3307aea9ae9e2ec1:
+  original: not like
+  translated: δεν μου αρέσει
+6fede8b50d89736918c161a39218d66dfc8d6e0d2946aeadf7a6d401:
+  original: not dislike
+  translated: δεν αντιπαθώ
+04e12522e3ad8211171cac7624cf351ee13e3c176338460e1f96a1c0:
+  original: not hate
+  translated: δεν μισώ
+e242491b06be6f1870417c2dad8e4238e9f8425bd385c9c3d356e65d:
+  original: dislike
+  translated: αντιπαθώ
+9d35f81d14fc378a07a3bcd77b0f1ac0b3a554b3e862dca9f55fcd5a:
+  original: hate
+  translated: μισώ
+b8e1b81f5aa7cc018a3e987d54424dfd16378599460f1e9e4e9c336f:
+  original:
+    The "&{ne estim}" and "&{ne avert}" are used to express a neutral feeling,
+    but still having a slight preference.
+  translated:
+    Τα «&{ne estim}» και «&{ne avert}» χρησιμοποιούνται για να εκφράσουν
+    ένα ουδέτερο συναίσθημα, αλλά ακόμα δείχνουν μια μικρή προτίμηση προς το θετικό
+    ή το αρνητικό.
+  literals:
+    - ne avert
+    - ne estim
+972ba476dcd39d5377b09266125f5691db3fb40cbc6c2b03427e0edd:
+  original:
+    The verbs can be used with any person, but outside the first person singular,
+    they are uncommon unless they are in the evidential mood or in a question.
+  translated:
+    Τα ρήματα αυτά μπορούν να χρησιμοποιηθούν με οποιοδήποτε πρόσωπο, αλλά
+    αν δεν είναι στο πρώτο ενικό πρόσωπο, δεν είναι συνηθισμένα εκτός αν είναι ερωτήσεις,
+    ή αν είναι στην αποδεικτική έγκλιση.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+99654cebc9772c446550bae5b0697e06f6cf84418acf069316e32254:
+  original: I like reading books.
+  translated: Μου αρέσει να διαβάζω βιβλία.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+c652dd0c3f5f857abf6e082e2f08703557d7b8878fe569ea0ab8e170:
+  original:
+    Notice that the the book is in the abstract form, "&{libraton}", which
+    means that I like reading books in general, not a specific book.
+  translated:
+    Σημειώστε ότι το βιβλίο είναι σε αφηρημένη μορφή, «&{libraton}», που
+    σημαίνει ότι μου αρέσει να διαβάζω βιβλία γενικά, όχι ένα συγκεκριμένο βιβλίο.
+  literals:
+    - libraton
+f8b0779150e25a7a3a91cc8543bd5605b3f4b18a66addbf5e92783bb:
+  original: Do you like reading books?
+  translated: Σου αρέσει να διαβάζεις βιβλία;
+c01898ecb3f17e4d447784e24efd03f094dcadde08f8ca02e5e5ccdf:
+  original: She likes reading books.
+  translated: Της αρέσει να διαβάζει βιβλία.
+9b48142535171bab98f3e1f072f234a0c7cf555db9ff976837d36fd2:
+  original:
+    I have evidence for that, she may have told me or I may have seen her
+    reading a lot.
+  translated:
+    Έχω αποδείξεις για αυτό, μπορεί να μου το είπε ή μπορεί να έχω δει να
+    διαβάζει πολύ.
