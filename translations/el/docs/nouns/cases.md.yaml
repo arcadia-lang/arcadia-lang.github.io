@@ -1,0 +1,86 @@
+%YAML 1.2
+---
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: Πτώσεις
+a75167bd5da157e7b0a961dc151f39118802812e79188afaf3036140:
+  original: Arcadia has **seven grammatical cases**, each marked by a **suffix**.
+  translated: Η Αρκάδια έχει **επτά πτώσεις**, οι οποίες δηλώνονται με μια **κατάληξη**.
+8a2f70e432da6dd8b14476a78baf20e79c5a6add4de9ec88b2d46237:
+  original: These cases define the **syntactic role** of a noun within a sentence.
+  translated:
+    Αυτές οι πτώσεις καθορίζουν τον **συντακτικό ρόλο** ενός ουσιαστικού
+    μέσα σε μια πρόταση.
+8254fa949e8ba0bb2f7d4454f1777ec520469a2fcd355d493ab3c737:
+  original: We will use **"pan"** (_bread_) as our example noun.
+  translated: Θα χρησιμοποιήσουμε το **"pan"** (_ψωμί_) ως παράδειγμα.
+448eb02bb231aec0082702891abb81f1abcda662a2af829e60c0ba75:
+  original: Case System
+  translated: Πτώσεις
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+30fd4cce09b6151fae6f3767e8d2a0651d646d04c70ceb59a3d85891:
+  original: Marks the **subject** of the sentence
+  translated: Δηλώνει το **υποκείμενο** της πρότασης
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+5e8b6563df5affb4dfad8048d06b3812e6479bc586d1ddd9598b554b:
+  original: Marks the **direct object**
+  translated: Δηλώνει το **άμεσο αντικείμενο**
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+04f0b5884fc167b019732328ab6f39fdda6b3e1c3cd475c7aa3f4172:
+  original: Marks the **indirect object** (recipient)
+  translated: Δηλώνει το **έμμεσο αντικείμενο** (παραλήπτης)
+4a7ea3f18c38eddbe55d996639dc06beaa24a5f992f4e0b9cadb581a:
+  original: Ablative
+  translated: Αφαιρετική
+751ce5981d22f45766630a00473cb0bbf40314bb67805ffef4813220:
+  original: Marks the **indirect object** (donor/source)
+  translated: Δηλώνει το **έμμεσο αντικείμενο** (δωρητής/πηγή)
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+12352b59250f9270d329d8fc35c2b92a23a2d3eaf53789750cfcb8de:
+  original: Used with **linking verbs** to express **attributes**
+  translated: Χρησιμοποιείται με **συνδετικά ρήματα** για να εκφράσει **το κατηγορούμενο**
+eb2bcb2642b013947cfb07d4432bec776c617ce75da41a13bf977f22:
+  original: Adpositional
+  translated: Προθετική
+7a218a147e0f2ffd29013feb0d290bace84c3471d226935ee388f977:
+  original: Used after **prepositions**
+  translated: Χρησιμοποιείται μετά από **προθέσεις**
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
+7a4d01dea7c7768728f34393ed147e295898cbde739dfb92abf7a789:
+  original: Used for **direct address**
+  translated: Χρησιμοποιείται για **προσφώνηση**
+05910ffc9391f8905e47e29262f46baf5e20cb706475e97da24e0167:
+  original: Vowel Merging Rules
+  translated: Κανόνες συγχώνευσης φωνηέντων
+4dd00e7505eed6b822791ae3c40f9c5855a0cbb7b596556b21d2a3f6:
+  original:
+    "If a noun **ends in a back vowel** (_&{a}, &{o}, &{u}_), the suffix merges
+    with the vowel:"
+  translated:
+    "Αν ένα ουσιαστικό **τελειώνει σε οπισθόφθογγο** (_&{a}, &{o}, &{u}_),
+    η κατάληξη συγχωνεύεται με το φωνήεν:"
+  literals:
+    - a
+    - o
+    - u
+43f864cbcc877d695b0977ee8dd5e76bbd57a12e67f35891a9a99d30:
+  original: The **suffix vowel is dropped** (_instead of "luna-is" → "lunas"_).
+  translated: To **φωνήεν της κατάληξης** αφαιρείται (_αντί για "luna-is" → "lunas"_).
+186032a3f12d66eb8c2c9c0bf28f0bedf3224872543c086ccc662036:
+  original: Other cases
+  translated: Υπόλοιπες πτώσεις
+cb34acb12426aa2094cebdaae8dff15fb6922ede1f61018862c8f52c:
+  original: The **noun's final vowel is dropped** (_instead of "luna-on" → "lunon"_).
+  translated:
+    Το **τελευταίο φωνήεν του ουσιαστικού** αφαιρείται (_αντί για "luna-on"
+    → "lunon"_).
