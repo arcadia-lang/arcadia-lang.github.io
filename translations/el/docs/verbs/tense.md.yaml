@@ -1,0 +1,71 @@
+%YAML 1.2
+---
+f2cdd838db150cc9244f851773fa2157f656b656b65336c6e1919ef4:
+  original: Tense
+  translated: Χρόνος
+3e2eb17c45cc0dede22b0e0174d6a2837f0b6641cbca10fbe12a3654:
+  original: Timeless tenses
+  translated: Διαχρονικοί χρόνοι
+3be51bf68c6cfcab9a7b731cf451b652a65a4eba7b4fd84b72c3b93e:
+  original: Zerita has two timeless tenses, the veritas tense, and the status.
+  translated: Η Zerita έχει δύο διαχρονικούς χρόνους, τον αληθινό χρόνο και τον καταστατικό.
+054caf0a3a3e382f186a4747d77c32543d280e469a0a6465d8d0f3bd:
+  original: Veritas
+  translated: Αληθινός
+25416212e5fd5f7d883fc23373a5a4b758507858cabe700914626148:
+  original:
+    The veritas tense is used to describe a timeless truth, a scientific fact,
+    or an unchanging state, anything that is true regardless of past, present, or
+    future.
+  translated:
+    Ο αληθινός χρόνος χρησιμοποιείται για να περιγράψει μια διαχρονική αλήθεια,
+    ένα επιστημονικό γεγονός, ή μια αμετάβλητη κατάσταση, οτιδήποτε είναι αληθινό
+    ανεξάρτητα από το παρελθόν, το παρόν ή το μέλλον.
+659a8c58470a4033621ea93a0d7ac9985553974742071f1d64e1fa67:
+  original: In the indicative mood, it's formed using the "&{-uv}" suffix.
+  translated: Στην οριστική, σχηματίζεται χρησιμοποιώντας το επίθημα «&{-uv}».
+  literals:
+    - -uv
+ee8fb5ca80f959d2064bfa25c9fc1903d3092dcef848676addad5dce:
+  original: Status
+  translated: Καταστατικός
+684b79d3b6569c67e00170eb437adb355b21b4db79d9ab57ac1e960a:
+  original:
+    The status tense is used to describe something regardless of past, present,
+    or future, but it's not necessarily lasting forever.
+  translated:
+    Ο καταστατικός χρόνος χρησιμοποιείται για να περιγράψει κάτι ανεξάρτητα
+    από το παρελθόν, το παρόν ή το μέλλον, αλλά δεν είναι απαραίτητο να διαρκεί για
+    πάντα.
+1ab9e11810749b577c4b55023ba5dbbe6d81051d822c97e42e1a422a:
+  original: In the indicative mood, it's formed using the "&{-ev}" suffix.
+  translated: Στην οριστική, σχηματίζεται χρησιμοποιώντας το επίθημα «&{-ev}».
+  literals:
+    - -ev
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+a42ccb9721ab4c4835e5b10b9f4f401ed6edc25d23633ef4eecf434b:
+  original: Water freezes at 0°C.
+  translated: Το νερό παγώνει στους 0°C.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+98318232a2e9d3cb69ffb2cba7890748b4741b186f9d9a5b54d987a1:
+  original: As a scientific truth, it cannot change.
+  translated: Ως επιστημονική αλήθεια, δεν μπορεί να αλλάξει.
+7c5aacb1e1e99d79cfdcc756b3f37628aec1339829e62a831b0bc689:
+  original: I always eat dessert after dinner.
+  translated: Πάντα τρώω επιδόρπιο μετά το δείπνο.
+bf8ba2a5731b83837369f9f836cdb9f352e7b808f10f335b77838347:
+  original: This is something that can change.
+  translated: Αυτό είναι κάτι που μπορεί να αλλάξει.
+08f93b25e9fec9e33224dcecde670fcca045cba49b0c8b39f30da3b9:
+  original: Timed tenses
+  translated: Χρόνοι με χρονική αναφορά
+49538c6fffa6fa72d539a3855bbb064fc7d96a5efe7d21ebafcdde4d:
+  original: "There are 3 timed tenses, and their suffixes are:"
+  translated: "Υπάρχουν 3 χρόνοι με χρονική αναφορά, και τα επιθήματά τους είναι:"
