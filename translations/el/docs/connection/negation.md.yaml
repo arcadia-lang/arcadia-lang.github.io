@@ -1,0 +1,33 @@
+%YAML 1.2
+---
+82935282df19a76f65003ba2abc5a36ebd8693ed1f46c409ec3cbfb8:
+  original: Negation
+  translated: Άρνηση
+d88ca45eb8fb671fb807746b616ef06a36c89bc95d110042a10aac02:
+  original:
+    '"&{ni}" is used as the negative particle, but to negate a sentence, or
+    a part of it, "&{ne}" is used.'
+  translated:
+    Το «&{ni}» χρησιμοποιείται ως το αρνητικό μόριο, αλλά την άρνηση μιας
+    πρότασης, ή ενός μέρους της, χρησιμοποιείται το «&{ne}».
+  literals:
+    - ne
+    - ni
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+53a232ed3d88c535b911ed2c817579b9966fe25875c434c07122af11:
+  original: No, you are not giving the book to me.
+  translated: Όχι, δεν μου δίνεις το βιβλίο.
+3415cc50d4d1d40f367933de700b8469a45c20d6a27c9da346b23c3f:
+  original: You are not giving the book to me.
+  translated: Δεν μου δίνεις το βιβλίο.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+6b24901d331892ae5f4cef85b985933f65973e2137fab495faa57a44:
+  original: You're giving me something else.
+  translated: Μου δίνεις κάτι άλλο.
