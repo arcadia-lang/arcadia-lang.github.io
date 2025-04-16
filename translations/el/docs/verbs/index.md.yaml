@@ -1,0 +1,64 @@
+%YAML 1.2
+---
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+b0df771ea31035328c4216273171742004454e1b15dc122538fccb6a:
+  original:
+    Arcadia's verbs **dictate sentence structure**, shaping **main syntax**
+    based on **verb type**.
+  translated:
+    Τα ρήματα της Αρκάδια **καθορίζουν τη δομή της πρότασης**, διαμορφώνοντας
+    τη **κύρια σύνταξη** με βάση τον **τύπο του ρήματος**.
+b439b4a4c529b98605d418d9893c3a3655f969bda6570fb507e881ac:
+  original:
+    They convey extensive grammatical information through a **prefix and suffix
+    system**, integrating **mood, tense, aspect, and person distinctions**.
+  translated:
+    Μεταφέρουν εκτενή γραμματική πληροφορία μέσω ενός **συστήματος προθέματος
+    και επιθήματος**, ενσωματώνοντας **διακρίσεις διάθεσης, χρόνου, όψης και προσώπου**.
+08650ae6a06ba40433a1ba09601f786a059263c4053a735cc25cd344:
+  original: Core Verb Features
+  translated: Βασικά Χαρακτηριστικά Ρημάτων
+9a6620ced5b624c296538e4e0dc75238e91b4b7b846c8baa090fc568:
+  original: Verb types
+  translated: Τύποι ρημάτων
+eca11efbca30b7ed048a163a5916f2a0d9c1111a00383e956e88f21b:
+  original: Define sentence structure and determine **syntactic dependencies**.
+  translated: Ορίζουν τη δομή της πρότασης και καθορίζουν τις **συντακτικές εξαρτήσεις**.
+c9936f0ab6fcf830857091b950b4ed4bcb29549ac63113c284466884:
+  original: Moods
+  translated: Εγκλίσεις
+165029829b9e46cf8836ecf5fe73765c34c47919f6ec3bb81c234e18:
+  original: Arcadia has **8 moods**, allowing precise expression of **intent and modality**.
+  translated:
+    Η Αρκαδία έχει **8 εγκλίσεις**, επιτρέποντας την ακριβή έκφραση της
+    **πρόθεσης και της τροπικότητας**.
+33ee39dc174619a0be119153c6e1ee30f8502964dbfe72aa72e49616:
+  original: Tenses
+  translated: Χρόνοι
+d063865bada2ad2b3b896978281ef1f1e93e503f6975b8f91c85ee90:
+  original:
+    Arcadia distinguishes **5 tenses**, structuring actions across **time
+    frames**.
+  translated:
+    Η Αρκαδία διακρίνει **5 χρόνους**, δομώντας τις ενέργειες σε **χρονικά
+    πλαίσια**.
+f9b87ece67cfc4e432c68df12a112c5134f361e529235dbb84f80427:
+  original: Aspects
+  translated: Όψεις
+412fc08878b83a18cbd7e1f4cdb354097013e70f0d91b0c8d22ed49f:
+  original: With **9 aspects**, verbs encode **action flow and duration**.
+  translated:
+    Με **9 όψεις**, τα ρήματα κωδικοποιούν τη **ροή και τη διάρκεια της
+    ενέργειας**.
+0149195f64f17a4be0aadb9da935d81e95fe4c6cc2630a8a6d1cbf42:
+  original: Persons
+  translated: Πρόσωπα
+70b7c2d3e4d54d32223fdc2c46cd4e935ee0646002dd9a2e10ae578b:
+  original:
+    Due to **nullar and collective numbers**, Arcadia accommodates **4 grammatical
+    persons**.
+  translated:
+    Λόγω των **μηδενικών και συλλογικών αριθμών**, η Αρκαδία έχει **4 γραμματικά
+    πρόσωπα**.
