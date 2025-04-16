@@ -1,0 +1,281 @@
+%YAML 1.2
+---
+dce86861b9d13a21bae04001a234e429e2ae3f33d2a590e32f22fc10:
+  original: Conditionals
+  translated: Υποθετικές προτάσεις
+023b2241801dc5557723ef94ecb40af73f5fa9f34d632f2ce4800433:
+  original: Zerita has a rich conditionals system.
+  translated: Η ζερίτα έχει ένα πλούσιο σύστημα υποθετικών λόγου.
+5c9288717150a9f5eca158414286a6b76c3b1929e4da140132365019:
+  original:
+    Some of the following aren't true conditionals in zerita, but they are
+    listed here, as they are expressed via a conditional in many other languages.
+  translated:
+    Ορισμένες από τα παρακάτω δεν είναι υποθετικές προτάσεις στη ζερίτα,
+    αλλά αναφέρονται εδώ, καθώς εκφράζονται μέσω μια υποθετικής πρότασης σε πολλές
+    άλλες γλώσσες.
+ce6a74cce057ee2ad58e34d02971f327fe805285797bc2c5c6420232:
+  original: Implications
+  translated: Επιπτώσεις
+a5019328abf3d3803be56fc0714aa01a792adc394e25ba798a782391:
+  original: "which are used to express a direction implication:"
+  translated: "χρησιμοποιούνται για να εκφράσουν μια άμεση επίπτωση:"
+3d42048f1c4f989dd3c7f1ddc9741e1804f7e720660f21703af5c871:
+  original: If the water reaches 100°C in 1 atm, it boils
+  translated: Αν το νερό φτάσει τους 100°C σε 1 atm, βράζει
+26ed39fcb0237c8961a4a12171f9db6838892caa1363b58f8a0ce48d:
+  original: Definitions
+  translated: Ορισμοί
+eb5ad7fb9bfa86a3bd3e9edb687303b0725a9922e0d99db729853915:
+  original: "which are used for definition:"
+  translated: "χρησιμοποιούνται για τον ορισμό:"
+9b0c565e7fcc30e7cb625d61db1ba36773b07d0ffc629f1b1c939fde:
+  original:
+    A number bigger than 1 is called prime, if it's only divisible by 1 and
+    itself
+  translated:
+    Ένας αριθμός μεγαλύτερος του 1 ονομάζεται πρώτος, αν διαιρείται μόνο
+    από το 1 και τον εαυτό του
+bfa7e6f205150b22e20d48f3028ab4591302b44d0d515008464482bd:
+  original: Anankastics
+  translated: Αναγκαστικά
+3c50a65f404e26a804eaeead1ea90bd552110a6e7ca9744b0da4e926:
+  original: "which are used to describe a necessity:"
+  translated: "χρησιμοποιούνται για να περιγράψουν μια αναγκαιότητα:"
+1303f551fffafb49014e1a2735d98ee2f39d31ff2430e3726e0917b4:
+  original: If you wanna be my lover, you gotta get with my friends
+  translated:
+    Αν θέλεις να γίνεις ο εραστής μου, πρέπει να τα βρεις με τους φίλους
+    μου
+f42052936ed9d19c815590200fc03e7236d95cd95ab856b36d22225e:
+  original: Biscuit conditionals
+  translated: Μπισκοτοειδείς υποθετικές προτάσεις
+f513be29f438391bb59787ebd30244ed4f6c551f3598ee4a5e7259bb:
+  original:
+    "where the the truth of the then clause does not depend on the truth of
+    the if clause:"
+  translated: "όπου η αλήθεια της απόδοσης δεν εξαρτάται από την αλήθεια της υπόθεσης:"
+b34c317c8c5c812e3aab3dda0079544ca8e0593458bdfbee99f65b6a:
+  original: There are biscuits on the table, if you want some
+  translated: Υπάρχουν μπισκότα στο τραπέζι, αν θέλεις
+b241d1c3183584224ed643ba47d839466fab626574830e238f484d75:
+  original: Counterfactuals
+  translated: Αναληθείς προτάσεις
+aa5c30ee3be4dce24611e4a8a48dec282b32afe12306fbbc7813ffd4:
+  original: "where the if clause is false or impossible:"
+  translated: "όπου η υπόθεση είναι ψευδής ή αδύνατη:"
+4d9a1f5ca371b89f6ba66812aa46a49b5d37bb8657e21efd7b4b966d:
+  original: If I were a rich man, all day long I'd biddy biddy bum
+  translated: Αν ήμουν πλούσιος, όλη μέρα θα τραγουδούσα μπαμ μπαμ
+00692f93bfc8dcbac709f62238a9eae6a629c38589fe48885c0e7084:
+  original: If I had studied more, I would have passed the exams
+  translated: Αν είχα διαβάσει περισσότερο, θα είχα περάσει τις εξετάσεις
+e2cefbea924f3a26e90aa2f8cb95b413336fb72fdc822e05c86b3829:
+  original: Anderson Case
+  translated: Άντερσον
+c26190a711ba7076a8e7ed3304761cb7d3a7b6f78bdfb3d9e37c0edf:
+  original: "which are used as part of an argument for the truth of its if clause:"
+  translated: "χρησιμοποιούνται ως μέρος ενός επιχειρήματος για την αλήθεια της υπόθεσης:"
+87d95c48dab8b88903c32b32a0e565ecbd8f855d5b69a689a829503c:
+  original:
+    If Jones had taken arsenic, he would not have shown just exactly those
+    symptoms which he does show.
+  translated:
+    Αν ο Δημήτρης είχε πάρει αρσενικό, δεν θα είχε δείξει ακριβώς αυτά τα
+    συμπτώματα που δείχνει.
+5819d55b7b0e7a8bf81c802ddd371ba2e1711a84ad785633424bb2fe:
+  original: Predictive
+  translated: Προβλεπτικές
+625ebcd08805da01d073353bfa23f192456ad36d38ca029459ef6e74:
+  original: "where the if clause is a possibility:"
+  translated: "όπου η υπόθεση είναι μια πιθανότητα:"
+e781a7ca47b9ebe0f72327097c0670e100ba45532ae3e8e44272c888:
+  original: If we work hard, we will finish the project on time
+  translated: Αν δουλέψουμε σκληρά, θα τελειώσουμε το έργο στην ώρα του
+dc8ad00e1fc8d36b278f4c35b652becc95f3f01260295bfe9bf62bb9:
+  original: "In zerita, conditionals follow a different paradigm:"
+  translated: "Στη ζερίτα, οι υποθετικές προτάσεις ακολουθούν μια διαφορετική παράδοση:"
+7a343d3d148ca58a2fb576a14da4b09b7922e0c7e097e3fe3a97f067:
+  original: A zeritan conditional is a multi-part sentence.
+  translated: Μια υποθετική πρόταση στη ζερίτα είναι μια πολυμερής πρόταση.
+3fbcc480054276da864b8d5a09c3a5bd04f42c6e4eba831c82e5624b:
+  original:
+    There isn't a main and a subordinate sentence, as in most languages, but
+    all parts of them form a sentence with multiple verbs.
+  translated:
+    Δεν υπάρχει μια κύρια και μια δευτερεύουσα πρόταση, όπως στις περισσότερες
+    γλώσσες, αλλά όλα τα μέρη τους σχηματίζουν μια πρόταση με πολλαπλά ρήματα.
+9614bbf191aa0127f02ed00caa43546ad0376ae78e261ece7145442e:
+  original:
+    The tenses follow a temporal order, ie the tense of the then clause is
+    relevant to the tense of the if clause.
+  translated:
+    Οι χρόνοι ακολουθούν μια χρονική σειρά, δηλαδή ο χρόνος της απόδοσης
+    είναι σχετικός με τον χρόνο της υπόθεσης.
+7460e87cf22da748cede58cf8bed24c7f3f135331b4ca4572388f957:
+  original: Factuality
+  translated: Αλήθεια
+333ca38bb1cc369095dbbb9a93756ad054dd07fd12ebb2fa68846253:
+  original: The first distinction is based on the factuality of the if clause.
+  translated: Η πρώτη διάκριση βασίζεται στην αλήθεια της υπόθεσης.
+45ad43fbe58764ff1ee5a741aaec78b691ccb83964c1a30ecba6065b:
+  original: Is it a possibility or is it counterfactual?
+  translated: Είναι μια πιθανότητα ή είναι αναληθής;
+b60b97883c603b82850fcd15a37e90468d82b6626675dda4d230d462:
+  original: counterfactual
+  translated: αναληθής
+98a53803a1a9530e946089cbc403adbbd1578ce6d52ffc4a0f10b75a:
+  original: is an if clause that is or cannot be true.
+  translated: είναι μια υπόθεση που είναι ή δεν μπορεί να είναι αληθής.
+4e238c24580e213d5c5dea485f2ba2c2c7b2ed48912e4b71b80a0e51:
+  original: "an alternative past:"
+  translated: "ένα εναλλακτικό παρελθόν:"
+2ede2147bc66a0da8077b4d59c53cc97daf4dbf0f0d7060a6d8a1f5b:
+  original: If I had studied more
+  translated: Αν είχα διαβάσει περισσότερο
+464223e569462e95dab4f1e13cb10ac26004673222a439f8411dd6ef:
+  original: but I hadn't and I cannot change that
+  translated: αλλά δεν είχα και δεν μπορώ να το αλλάξω
+ca8273d6201b42e3b9fc5afe3d5150d88fe9d934cea3d0be097ddaae:
+  original: "an impossible situation:"
+  translated: "μια αδύνατη κατάσταση:"
+1469e0a16348cea12a18f23e9aa52d4e3420b9e0822acfc545f936a5:
+  original: If I could land this spacecraft on the sun
+  translated: Αν μπορούσα να προσγειώσω αυτό το διαστημόπλοιο στον ήλιο
+09cde49a1b66984c12a4b973b71ed9fef4f3567c323e099347340d99:
+  original: but it's not possible
+  translated: αλλά δεν είναι δυνατό
+87ef639fe56c0d4c3565d57397dea89aa261048a4963daa9df085d67:
+  original: "an imaginary situation:"
+  translated: "μια φανταστική κατάσταση:"
+ebc5e2a0910fa73dbeaa6061ff51e6ba58d56339175c9999a3e67360:
+  original: If you were here
+  translated: Αν ήσουν εδώ
+60338e64330e35d5b9a25edd3d0dcf2248c2787177d2479388767fe1:
+  original: but you're somewhere else
+  translated: αλλά είσαι κάπου αλλού
+f2a22b4899b9dcfa0d132a9045fa634e297f4cc582eed0638afffa78:
+  original: possibility
+  translated: πιθανότητα
+4a0539cc55c88c5759f1642f69f110a4ec7ee354093c36833a919105:
+  original: is an if clause that can be true
+  translated: είναι μια υπόθεση που μπορεί να είναι αληθής
+c7bce951e881b93b93a45120f9cfa6c9d4b424ab5acb65e0d6d500c9:
+  original: "a future, unknown event:"
+  translated: "ένα μελλοντικό, άγνωστο γεγονός:"
+8eea745d3be8db76f6a9c052d5497cb62d463d9b2de14d7d84f27a58:
+  original: If I come home early
+  translated: Αν έρθω σπίτι νωρίς
+81167281d3bf06fbdb6c1a051c07d4244b5d3db4c8c1c511212f90b6:
+  original: I may come early, I may not
+  translated: Μπορεί να έρθω νωρίς, μπορεί και όχι
+0310313226b98f4fd6dacc434c58fbd37ead06971bd030339deed433:
+  original: 'a "placeholder" case:'
+  translated: "μια «αντιφραστική» περίπτωση:"
+edcd1d5fa467afc9d8baa377c5c48fc4515aaf1fc485541126d0e254:
+  original: If n in an even number
+  translated: Αν το n είναι ζυγός αριθμός
+cbce509f1d505e0696cd0bad7b664af32de6e42594df28b5c110e2b7:
+  original: it depends on n
+  translated: εξαρτάται από την τιμή του n
+e2c1bdb6c05e58bd3729ef174f1c39f4b70e6e7a240668c0c4dbe779:
+  original: "an unknown:"
+  translated: "ένα άγνωστο:"
+782d02d026c8e85373f497660bd214ba742d9297dec3a6063e681e60:
+  original: If you had been here
+  translated: Αν ήσουν εδώ
+263ed00055793fff7eb87b533b9ede1dffa6dcdbd363baa88dd890ec:
+  original: I don't know if you were, I'm trying to explore whether it's possible
+  translated: Δεν ξέρω αν ήσουν, προσπαθώ να εξερευνήσω αν είναι δυνατό
+e229c0142957cd6aad2ff7e30e0ba47a1aa49a00a4f935420c256d7f:
+  original: Necessity
+  translated: Αναγκαιότητα
+4372e4c302621441c479f0dcb0dd2a2c6a05113d190e571339a914b4:
+  original:
+    The second distinction is the necessity of the if clause, ie whether the
+    if clause is also a necessary condition for the main clause to happen.
+  translated:
+    Η δεύτερη διάκριση είναι η αναγκαιότητα της υπόθεσης, δηλαδή αν η υπόθεση
+    είναι επίσης μια αναγκαία προϋπόθεση για να συμβεί η κύρια πρόταση.
+92edc472171e02de1b2fe28c039841792bc35b4570e70762db19d1ea:
+  original: Anankastics are also expressed in the if clause.
+  translated: Οι αναγκαστικές προτάσεις εκφράζονται επίσης στην υπόθεση.
+fa5c79e319b7fd68b0c29cf5f3d2635a52ebb44b84bdd20777e8c595:
+  original:
+    As in the other parts of zerita, we use the non-necessary form, unless
+    we want to specifically include it.
+  translated:
+    Όπως και στα άλλα μέρη της ζερίτα, χρησιμοποιούμε τη μη αναγκαία μορφή,
+    εκτός αν θέλουμε να την συμπεριλάβουμε ειδικά.
+35a71e32109d582caa47fae42fc5ded8ba12007cb4aea7f44e12cfe9:
+  original: "Essentially, we differentiate between:"
+  translated: "Ουσιαστικά, διακρίνουμε μεταξύ:"
+085a343fb98dae84d134af33713a427d8a25d175b6b366eb5ed0d65a:
+  original: If I work hard, I will be able to afford a new car
+  translated: Αν δουλέψω σκληρά, θα μπορώ να πάρω ένα νέο αυτοκίνητο
+91c8744e580941dbd9e67041574a97c0284200c9eb52d2ef52911e64:
+  original:
+    A complete conditional means that if I don't work hard, I won't be able
+    to afford a new car, but an incomplete one indicates that I can still afford a
+    new car, even if we don't work time, but with other means, for example by winning
+    the lottery.
+  translated:
+    Μια πλήρης υποθετική πρόταση σημαίνει ότι αν δεν δουλέψω σκληρά, δεν
+    θα μπορώ να πάρω ένα νέο αυτοκίνητο, αλλά μια ελλιπής υποθετική πρόταση υποδηλώνει
+    ότι μπορώ ακόμα να πάρω ένα νέο αυτοκίνητο, ακόμα κι αν δεν δουλέψουμε σκληρά,
+    αλλά με άλλα μέσα, για παράδειγμα κερδίζοντας το λαχείο.
+b5a3ee327df6eaf1960644dbd0ee5fbcb2f123154c8e46b06bbbd786:
+  original: Implication strength
+  translated: Δύναμη της υπόθεσης
+d204f44cc10b1e96216a99a0bab3f80b4e8dd396f13d9165358d9901:
+  original: The third distinction is the strength of the implication of the conditional.
+  translated: Η τρίτη διάκριση είναι η δύναμη της υπόθεσης της υποθετικής πρότασης.
+00fe6e1e8e92f87ff57c8a134c16b7c55fdbcdefe2a02cb942c40275:
+  original: If the if clause is true, how probable is for the then clause to happen?
+  translated: Αν η υπόθεση είναι αληθής, πόσο πιθανό είναι να συμβεί η απόδοση;
+98eb49c5d210a2c84ecc35f0f679c50569ba06d056e2d0ce81ae4fb1:
+  original: "Consider the following sentences:"
+  translated: "Ας σκεφτούμε τις παρακάτω περιόδους:"
+41c2e25782f2ec1ad9bc63392bef180719a498cc973eeae3c9abf2a1:
+  original: If you exercise regularly, you'll live more
+  translated: Αν γυμνάζεσαι τακτικά, θα ζήσεις περισσότερο
+a00f8f0d36d3d734b252fb50f5124f1a98fc645dceff8b8e5ac2d5e6:
+  original: If I win the lottery, I'll buy a Ferrari
+  translated: Αν κερδίσω το λαχείο, θα αγοράσω μια Ferrari
+19d265b8bee484df895d0c6f0ce80f6e2e9f8e6de35f2e9a5ecac96c:
+  original: The first is a fact.
+  translated: Το πρώτο είναι γεγονός.
+f0e70c54815ae93f3fc951e4727647e2fe4b5aed4018442d64c14e1f:
+  original:
+    If the water reaches 100°C in 1 atm, it has no other option that to start
+    boiling.
+  translated:
+    Αν το νερό φτάσει τους 100°C σε 1 atm, δεν έχει άλλη επιλογή από το
+    να αρχίσει να βράζει.
+37621c9ca864ccf39f9a5cd2d8c1d071517e157e22190e7a0387f9d2:
+  original:
+    Maybe you can boil it in another way (eg in vacuum), but when the if clause
+    is true then the then clause will necessarily happen.
+  translated:
+    Ίσως μπορείς να το βράσεις με άλλο τρόπο (π.χ. σε κενό), αλλά όταν η
+    υπόθεση είναι αληθής τότε η απόδοση θα συμβεί αναγκαστικά.
+cb88961ea829f7c249377d05f8e9a521135c9ab055a23302fd57e367:
+  original:
+    The second is a strong association but not a necessity; you mean exercise,
+    but not reach an old age from another reason.
+  translated:
+    Το δεύτερο είναι μια ισχυρή συσχέτιση αλλά όχι αναγκαιότητα. Εννοείς
+    τη γυμναστική, αλλά όχι να φτάσεις σε μεγάλη ηλικία από άλλο λόγο.
+d2b56d5f39d28aad91bfec3757620b6d27910a8980d7a29e3f72db1f:
+  original: But the probabilities are with you.
+  translated: Αλλά οι πιθανότητες είναι με το μέρος σου.
+6e26325600bbd9c71863d40e29e1d2933a2dd2b5d3f03b1f242e29a6:
+  original: The third one is a weaker association.
+  translated: Το τρίτο είναι μια πιο αδύνατη συσχέτιση.
+2f44c0fab13a2171b6c20484be67c02e1dd281e427cf8010e2244578:
+  original:
+    Winning the lottery may change my priorities, although the most probable
+    outcome is still that I'll buy a Ferrari.
+  translated:
+    Το να κερδίσω το λαχείο μπορεί να αλλάξει τις προτεραιότητές μου, αν
+    και το πιο πιθανό αποτέλεσμα είναι ότι θα αγοράσω μια Ferrari.
