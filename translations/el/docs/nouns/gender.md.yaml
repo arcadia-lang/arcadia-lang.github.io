@@ -1,0 +1,67 @@
+%YAML 1.2
+---
+50ff40ca3b6578fc15bcb74bde0b6b51c1557a473025e7b8d1cb830e:
+  original: Gender
+  translated: Γένος
+06ee58c062b0e1af1e8d70140185d2af9d5ffb12df71df4b8e29abb7:
+  original: Arcadia is **not a gendered language**.
+  translated: Η Αρκάδια **δεν είναι έμφυλη γλώσσα**.
+4598a10beecc280ab271eb37aacde5307a9c6d69c7a9018c18656a5f:
+  original:
+    Gender has **no effect** on grammatical rules—it is **purely semantic**,
+    used only when relevant to specify the gender of an object or person.
+  translated:
+    Το γένος έχει **κανένα αποτέλεσμα** στους γραμματικούς κανόνες—είναι
+    **καθαρά σημασιολογικό**, χρησιμοποιείται μόνο όταν είναι σχετικό για να προσδιορίσει
+    το φύλο ενός αντικειμένου ή ατόμου.
+7c5c5e34b62bf8640e6ca7a0013143d1823663a77fa50ee61b3167f7:
+  original: Gender is marked by the prefixes **"vi-"** (male) and **"me-"** (female).
+  translated:
+    Το γένος δηλώνεται με τα προθέματα **"vi-"** (αρσενικό) και **"me-"**
+    (θηλυκό).
+d2e473ebe037cb0c309e9e8d9f773e2987196cd6800933d8ddf005b1:
+  original: If gender **does not need to be specified**, the noun remains **unmarked**.
+  translated:
+    Αν το γένος **δεν χρειάζεται να προσδιοριστεί**, το ουσιαστικό παραμένει
+    **απροσδιόριστο**.
+5f6af4efc2b28fe75736d7fe213ff1ba0fd043da6f9884adff782c82:
+  original: Using Gender
+  translated: Χρήση Γένους
+8a1e8e99530d64028d9f5afbed28cb5a3bf8be136e865dee81c35aaa:
+  original:
+    By default, gender **should not be marked** unless it is **explicitly
+    relevant**.
+  translated:
+    Κατά προτίμηση, το γένος **δεν πρέπει να δηλώνεται** εκτός αν είναι
+    **ρητά σχετικό**.
+062dcf871583a2c748e2a514f6541e77d623376cc4f8149c63a11aee:
+  original:
+    For example, when referring to a child, **"filio"** is used unless specifying
+    **"son"** (*vifilio*) or **"daughter"** (*mefilio*).
+  translated:
+    Για παράδειγμα, όταν αναφερόμαστε σε έναν απόγονο, χρησιμοποιούμε το
+    **"filio"** εκτός αν προσδιορίζουμε **"γιός"** (*vifilio*) ή **"κόρη"** (*mefilio*).
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+6401088aa656367f3d2b56935058ca7911c4df25e723d00ec9e9baf1:
+  original: Parent
+  translated: Γονιός
+0ad0eae7c9326252f2c64c571bf69b90c7930ca885bf65e1a878a1bb:
+  original: Any gender
+  translated: Οποιοδήποτε φύλο
+38f8b5a53fbcace04e530dcc631fc05db96ff5e86d65a6a3ab0ba386:
+  original: Father
+  translated: Πατέρας
+bb5296b1877901551e16cddd7ef917439e27374d2363178e18a7706f:
+  original: Mother
+  translated: Μητέρα
+f5d5f98e548e9edee48d09ba55d059387be0d90fcc5050b1bb61ca09:
+  original: Child (offspring)
+  translated: Παιδί (απόγονος)
+40cd73f38f81727bf7da145b3260f2901bed7a41bd85c96bba88b6bd:
+  original: Son
+  translated: Γιος
+2e2c59816eceef442f6063e9dd4fed69e028fc24e55d1468d32ce80d:
+  original: Daughter
+  translated: Κόρη
