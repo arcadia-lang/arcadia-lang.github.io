@@ -1,0 +1,64 @@
+%YAML 1.2
+---
+6eb9dc5cfce7089d8d73951e8450b807d768279f6593ca69ab82e653:
+  original: Person
+  translated: Πρόσωπο
+8da11c28acc4986227c9c28b987c853947320d03f7c538c26c03277c:
+  original: "In Zerita, there are 4 persons: 1st, 2nd, 3rd, and 4th."
+  translated: "Στη ζερίτα, υπάρχουν 4 γραμματικά πρόσωπα: 1ο, 2ο, 3ο και 4ο."
+2fbacc33dd2f9a3fad0555e621e9ae55c347c9218aeeb5ccd9006f77:
+  original:
+    The 4th person is used to describe total cases, such as zero and collective
+    numbers.
+  translated:
+    Το 4ο πρόσωπο χρησιμοποιείται για να περιγράψει συνολικές περιπτώσεις,
+    δηλαδή τον μηδενικό και τον ολικό αριθμό.
+0eaeeeb9df8f08124cec183161f6076ba0fb7f546d690a009f74aed5:
+  original: "Additionally, the 1st person plural has two forms: inclusive and exclusive."
+  translated:
+    "Επιπλέον, το 1ο πρόσωπο πληθυντικού έχει δύο μορφές: την συμπεριληπτική
+    και την αποκλειστική."
+bbd561b35d1ac354b435ce80a8047fb4240e39f657beec0fb88dc6ad:
+  original: "The person and number suffixes are:"
+  translated: "Τα επιθήματα είναι:"
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικός
+f5e7e9e8057d65201446f0c42d896fc2d9cb64a79ea8c4a181ce517a:
+  original: 1st
+  translated: 1ο
+5def87485d3583bcdda891e5be76febbc4376ee0e0c90888750905d9:
+  original: 1st (inc)
+  translated: 1ο (συμπ)
+5d336cb3bb818a829b33b0e08277106d0dfbf691bdff1c08225950c4:
+  original: 2nd
+  translated: 2ο
+4036f056033e09741f99d3ecdc4befa7036cf991320f269a520eec18:
+  original: 3rd
+  translated: 3ο
+276f68cc7b3e5e0c28678e53948fe58c5387a41f92414d46d1cdd5c4:
+  original: 4th
+  translated: 4ο
+50feb25f84bd3e2739b9a5631cefbf1fee9a96874c279d1c8da669ab:
+  original:
+    Zerita is a pro-drop language, so the pronouns aren't necessary, and should
+    only be used if emphasis is required.
+  translated:
+    Η ζερίτα είναι μια γλώσσα που παραλείπεται ότι εννοείται από τα συμφραζόμενα,
+    οπότε οι αντωνυμίες δεν είναι απαραίτητες και θα πρέπει να χρησιμοποιούνται μόνο
+    αν απαιτείται έμφαση.
