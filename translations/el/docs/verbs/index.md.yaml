@@ -1,0 +1,40 @@
+%YAML 1.2
+---
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+891bc4c0f121943c012b933dd7f716c26fbd883b227fa5b25530626a:
+  original:
+    Zeritan verbs dictate the form of the sentence, the main syntax, as it
+    depends strongly on the [verb type][&{type}], and convey a lot of information
+    through the prefix and suffix system.
+  translated:
+    Τα ρήματα της ζερίτα καθορίζουν τη μορφή της πρότασης, τη βασική σύνταξη,
+    καθώς εξαρτάται σε μεγάλο βαθμό από τον [τύπο ρήματος][&{type}], και μεταφέρουν
+    πολλές πληροφορίες μέσω του συστήματος προθέματος και επιθήματος.
+  literals:
+    - type
+648f5e5ec6caa4269df1d0ee74d2a8ed5083d1a28d5e8e81452ff3aa:
+  original:
+    Zeritan verbs have &{8} [moods][&{mood}], &{5} [tenses][&{tense}], and
+    &{9} [aspects][&{aspect}].
+  translated:
+    Τα ρήματα της ζερίτα έχουν &{8} [εγκλίσεις][&{mood}], &{5} [χρόνους][&{tense}]
+    και &{9} [όψεις][&{aspect}].
+  literals:
+    - "5"
+    - "8"
+    - "9"
+    - aspect
+    - mood
+    - tense
+1300954f1d6d0ddfbdb8e03157d9f5a6afbb67b43eb8dcf5719d234f:
+  original:
+    As zerita has a nullar and collective number, there are &{4} grammatical
+    [persons][&{person}] to accommodate this.
+  translated:
+    Καθώς η ζερίτα έχει μηδενικό και συλλογικό αριθμό, υπάρχουν &{4} γραμματικά
+    [πρόσωπα][&{person}].
+  literals:
+    - "4"
+    - person
