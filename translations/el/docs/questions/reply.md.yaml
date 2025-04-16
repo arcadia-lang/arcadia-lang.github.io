@@ -1,0 +1,124 @@
+%YAML 1.2
+---
+e3bd1dd6dbf1cd5b8d23ac532bdccf3510febf31e64bc7a2e0123f1c:
+  original: Replies
+  translated: Απαντήσεις
+77e48cbb410a72ecaab79e7e0d14336d50d8f7ed436b789f84238182:
+  original: Reply words
+  translated: Απαντητικές λέξεις
+d82ea9eb182ae8c1b9faec6c6156e61cf68222b690928c8a32593962:
+  original: "Zerita has three reply words:"
+  translated: "Η ζερίτα έχει τρεις λέξεις για απαντήσεις:"
+47192f7ededd7b9e5576f64936fe484c1a97dce0441efae7957e0212:
+  original:
+    "\"&{si}\" which means \"yes\", \"&{ni}\" which means \"no\", and \"&{ack}\"\
+    \ which is neither affirmative nor negative, but it's just an acknowledgment of
+    the speaker's statement."
+  translated:
+    «&{si}» που σημαίνει «ναι», «&{ni}» που σημαίνει «όχι», και «&{ack}»
+    που δεν είναι ούτε αρνητικό, ούτε καταφατικό, απλά είναι μια επιβεβαίωση της προσοχής.
+  literals:
+    - ack
+    - ni
+    - si
+28f1b2922b69a77c56e5036a22b743775c97c8529dd9ba16919f634a:
+  original:
+    It can be used to show that you are listening or understanding, but you
+    don't want to give a definitive answer.
+  translated:
+    Μπορεί να χρησιμοποιηθεί για να δείξεις ότι ακούς ή καταλαβαίνεις, χωρίς
+    να δώσεις μια συγκεκριμένη απάντηση.
+317a544d015a7bdd13b34036cd7a04bd5de2f6ce31f1834fadc00142:
+  original: Generic reply words
+  translated: Γενικές απαντητικές λέξεις
+5c1ac6b08285d62f3d592c5bd2af48c6da1a241bf15dbe5d251a0173:
+  original:
+    Similar to "nowhere", "somewhere", "anywhere", and "everywhere" in English,
+    Zerita has generic reply words.
+  translated:
+    Παρόμοια με το «πουθενά», «κάπου», «οπουδήποτε» και «παντού» στα ελληνικά,
+    η ζερίτα έχει γενικές απαντητικές λέξεις.
+71bf6f4edd356500b23a0717ca9c6e96749e9bdc3e449d7703bf6140:
+  original: who/what
+  translated: ποιος/τι
+e71c1a883c5c059146f93f5a06cd4b820eebd017daf13aea167f46d1:
+  original: negative
+  translated: αρνητικό
+332293097c3a708f9c25bb2e239564256ce52d0cea3d63d26cdf3372:
+  original: no one, nothing
+  translated: κανένας, τίποτα
+f30505797d2d7ac78c233b562008fe08a396ad08ec7cd356e9c2f397:
+  original: unknown generic
+  translated: άγνωστο γενικό
+4d00f3a07b74770007135297f59eb14e255a739a10e95158802b6369:
+  original: anyone, anything
+  translated: οποιοσδήποτε, οτιδήποτε
+87e582a79113b2371ba43b4a54eac46b1e663dd1d0a932ff82ddc10c:
+  original: unknown specific
+  translated: άγνωστο συγκεκριμένο
+5fdacaf04b27352a9bb00178f6d0cc3cbf9b286c71a48601ac609a66:
+  original: someone, something
+  translated: κάποιος, κάτι
+42b8a5fe31fcd3bd1a7f80f04db943102b339fc31bf83eafd7b59b4d:
+  original: collective
+  translated: συλλογικό
+264e1e933e47300a35e98a73039df1b0675cd9d0925d6061ba8c67b6:
+  original: everyone, everything
+  translated: όλοι, τα πάντα
+b52b2bc8cdd7b86cb80efe46ccfb51c246280082f1d7946beed1ddb9:
+  original: which
+  translated: ποιο απ' αυτά
+8b1788f57b101ba3c21eace0a97a99ee497419ce9d6f3e8408929495:
+  original: none
+  translated: κανένα
+1b80ba673a959ff153aa35c0bcf7bbc66aee780c7680fbb15a445c3a:
+  original: any
+  translated: οποιοδήποτε
+f6f1a49fa8596236aed2f0a8f76eeb2dc35374279c372c130b0974c4:
+  original: some
+  translated: κάποιο
+199d7f9196afa4415f4292de7af43947854136d77b8a87970a17011d:
+  original: all
+  translated: όλα
+ab766becd196b89a423011414ca33a5411f7e3523ff8b984289da7ed:
+  original: where
+  translated: πού
+cfd6404715660f7605a2566cdf4496b0ed7f622a0cd655c72d149b59:
+  original: nowhere
+  translated: πουθενά
+86df9eecc4c9b82dee26d21c673b9d8131c0c75321d189c87bdd8f55:
+  original: anywhere
+  translated: οπουδήποτε
+3fd4dd6c9eaea2db9f23fd382b35aca0f28a499b3ea0f4dd000e2b8c:
+  original: somewhere
+  translated: κάπου
+9d513d4ab153df0b8f72e45d247dd8d555da6aa1b32e6d01d3abb1f9:
+  original: everywhere
+  translated: παντού
+e29edc56da00502ad978a9a83552f40448502d5efd612a548f8befa5:
+  original: when
+  translated: πότε
+f26e67c643128ac5b2ca37e2ff9e75240dfb03f8ae806fc78d719062:
+  original: never
+  translated: ποτέ
+d1ba7f168bd6a0a2b8c4d0b455e0affe47549d89fc9c2fcf5405c90b:
+  original: anytime
+  translated: οποιαδήποτε στιγμή
+8cbe8b72e80e29ff094e7b9a5b1f2fe88069f399e406f16eda35e277:
+  original: sometime
+  translated: κάποτε
+15c1d80a423e37e404c433c233ee77887fa0518a61ee33c01a267b6d:
+  original: always
+  translated: πάντα
+511177a08417e242c677a7a7b2e4b85b0a9349419b62773c841f2ec1:
+  original: how much/how many
+  translated: πόσα
+cf824b8d24561318476b36159cf94fb921f72be69e24bec470359d17:
+  original: any amount
+  translated: οποιοδήποτε ποσό
+ae23f14a3b64a02c98cb3a11f852014ee8c41503fd550303e8751ea7:
+  original: some amount
+  translated: κάμποσο
+bf776c35602398ac65267e67c6114777f8b4a220793663d277a2b258:
+  original: how
+  translated: πώς
