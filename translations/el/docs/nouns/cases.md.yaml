@@ -1,0 +1,81 @@
+%YAML 1.2
+---
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: Πτώσεις
+e4f5b12061bf93440e4d0a72abff8aacc8d5b11f8e9849585eeeb80c:
+  original: Zerita has &{7} cases, again signified by a suffix.
+  translated: Η ζερίτα έχει &{7} πτώσεις, που πάλι δηλώνονται με επιθήματα.
+  literals:
+    - "7"
+70162ad0ee43e711a298a417ab2bcf5e5b778f5e012688948090e1f7:
+  original: We will use "&{ros}", which means "rose".
+  translated: Θα χρησιμοποιήσουμε το «&{ros}», που σημαίνει «τριαντάφυλλο».
+  literals:
+    - ros
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+232075c154ef992dba0294233b6a9ea9668ddab9eb4c24ff92d88248:
+  original: '"&{-is}" suffix, used subject of the sentence:'
+  translated:
+    "επίθημα «&{-is}», χρησιμοποιείται για να δηλώσει το υποκείμενο της
+    πρότασης:"
+  literals:
+    - -is
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+daffa5d89886c3660f3858e5493c1f5979ec506d43d414647e8b706f:
+  original: '"&{-on}" suffix, used for the direct object of the sentence:'
+  translated:
+    "επίθημα «&{-on}», χρησιμοποιείται για να δηλώσει το άμεσο αντικείμενο
+    της πρότασης:"
+  literals:
+    - -on
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+042db4f1ac1e7938b34e303c9b8102a10ec192ff6b5955cbc3eeeb43:
+  original: '"&{-im}" suffix, used for the indirect object, if it''s the recipient:'
+  translated:
+    "επίθημα «&{-im}», χρησιμοποιείται για να δηλώσει το έμμεσο αντικείμενο,
+    αν είναι ο παραλήπτης:"
+  literals:
+    - -im
+4a7ea3f18c38eddbe55d996639dc06beaa24a5f992f4e0b9cadb581a:
+  original: Ablative
+  translated: Αφαιρετική
+55fdac432967b2ec368f1b46cc6cb12edb15c475ee70433ead11d0b4:
+  original: '"&{-ic}" suffix, used for the indirect object, if it''s the donor:'
+  translated:
+    "επίθημα «&{-ic}», χρησιμοποιείται για να δηλώσει το έμμεσο αντικείμενο,
+    αν είναι ο δωρητής:"
+  literals:
+    - -ic
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+4543eba4228b29239daa5ed7ddcf49d9c427569e6152e26b839634c6:
+  original: '"&{-i}" suffix, used for the attribute in a linking verb:'
+  translated:
+    "επίθημα «&{-i}», χρησιμοποιείται για να δηλώσει το χαρακτηριστικό σε
+    ένα συνδετικό ρήμα:"
+  literals:
+    - -i
+eb2bcb2642b013947cfb07d4432bec776c617ce75da41a13bf977f22:
+  original: Adpositional
+  translated: Προθετική
+799da6765c2502fcd8145722b77e060d54966b9efd4ed017a00a3dd8:
+  original: '"&{-e}" suffix, used after a preposition:'
+  translated: "επίθημα «&{-e}», χρησιμοποιείται μετά από μια πρόθεση:"
+  literals:
+    - -e
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
+b1e9591e8237ac31529e57bf797e4da7660ef6ae76501a2a775cc483:
+  original: '"&{-o}" suffix, used to address someone:'
+  translated: "επίθημα «&{-o}», χρησιμοποιείται για να απευθυνθείς σε κάποιον:"
+  literals:
+    - -o
