@@ -1,0 +1,202 @@
+%YAML 1.2
+---
+25443da77a42bbf889531b1650da131bd5b20c57015c58ecd58c9447:
+  original: Mood
+  translated: Έγκλιση
+65ac8aee3dcfe41b83c38f46d07df85f5cd552292128d79c4c893723:
+  original:
+    In zerita, moods are split the the moods in two groups, the main and the
+    secondary.
+  translated:
+    Στη ζερίτα, οι έγκλισεις χωρίζονται σε δύο ομάδες, τις κύριες και τις
+    δευτερεύουσες.
+184fae7ca4e3ab512b451f652bcd632fb7a544bd4e78ee1cdcae8ce0:
+  original:
+    The main moods cannot be combined between them, but they can be combined
+    with secondary moods.
+  translated:
+    Οι κύριες έγκλισεις δεν μπορούν να συνδυαστούν μεταξύ τους, αλλά μπορούν
+    να συνδυαστούν με δευτερεύουσες έγκλισεις.
+8af557de8681bc15556d031a1ab91441b4c867718412adf59847962f:
+  original:
+    Unless combined, moods in zerita are formed by changing the consonant
+    of the tense suffix.
+  translated:
+    Εκτός συνδυασμών, οι έγκλισεις στη ζερίτα σχηματίζονται αλλάζοντας το
+    σύμφωνα του επιθήματος του χρόνου.
+7fba58518e88cf2512fa7d904acc17cf6831cb00e1c93613c45a3115:
+  original: Main moods
+  translated: Κύριες έγκλισεις
+adbf52c50d96f33bab3fd8489e159fd7458d5db974fc89882ecbae3f:
+  original: Indicative mood
+  translated: Οριστική
+5b309926b5fb40869aa54259258d2d808b32622aae72dded77a69a75:
+  original:
+    The indicative mood is used to express facts, and it's using the consonant
+    "&{v}".
+  translated:
+    Η οριστική χρησιμοποιείται για να εκφράσει γεγονότα, και χρησιμοποιεί
+    το σύμφωνα «&{v}».
+  literals:
+    - v
+d68ad55c7e12682862fc81fa1fe952a2d0b1ef3a61409a88f09a973c:
+  original: Imperative mood
+  translated: Προστακτική
+eba7c29ccfdd4870b911799753b121ac47a55004807e391baa2ca03f:
+  original:
+    Imperative mood is used to express commands, and it's using the consonants
+    "&{nt}".
+  translated:
+    Η προστακτική χρησιμοποιείται για να εκφράσει εντολές, και χρησιμοποιεί
+    τα σύμφωνα «&{nt}».
+  literals:
+    - nt
+eef4d46c5d5dcc1e349165d93cc358d64c8a53ab93d02c594d3c637f:
+  original: Obligative Mood
+  translated: Δεσμευτική
+36d5c4e434b8970ab6cbc4f95d94731dc5508fbad7c6df564d95b41c:
+  original:
+    The obligative mood expresses necessity or obligation, and it's using
+    the consonant "&{d}".
+  translated:
+    Η δεσμευτική χρησιμοποιείται για να εκφράσει αναγκαιότητα ή υποχρέωση,
+    και χρησιμοποιεί το σύμφωνα «&{d}».
+  literals:
+    - d
+bc8811ac12b905460c87cd936761a6e56592dcdf53308e60cc359ab7:
+  original: It's also used to express duty, destiny, or social obligation.
+  translated: Επίσης για να εκφράσει καθήκον, προορισμό ή κοινωνική υποχρέωση.
+aa02e354f872cdbc8691e3186a6b5221f0c2f9bc7f13ae2ffde569c3:
+  original:
+    Duty and social obligation use the veritas tense, and destiny uses the
+    simple future.
+  translated:
+    Το καθήκον και η κοινωνική υποχρέωση χρησιμοποιούν το αληθινό χρόνο,
+    και η μοίρα χρησιμοποιεί το απλό μέλλον.
+bfffcae2ad63a9c7e43bd56a5c3875d47449b0a9aa7bcbf30822d308:
+  original:
+    Negating a verb in the obligative mood means that you don't have the obligation,
+    rather than meaning you must not perform the action.
+  translated:
+    Η άρνηση της δεσμευτικής σημαίνει ότι δεν έχεις την υποχρέωση, όχι ότι
+    δεν πρέπει να κάνεις την ενέργεια.
+5485bef01a6ef04abbafb8a495cc5dd6225a85076deb3e052e115cb8:
+  original: Permissive Mood
+  translated: Επιτρεπτική
+625270f67338d5bfba7794379d3cdb7753f7539ae27d687a0723631f:
+  original:
+    The permissive mood expresses the action of the verb is permitted, and
+    it's using the consonant "&{m}".
+  translated:
+    Η επιτρεπτική χρησιμοποιείται για να εκφράσει ότι η ενέργεια του ρήματος
+    επιτρέπεται, και χρησιμοποιεί το σύμφωνα «&{m}».
+  literals:
+    - m
+f6ba19e146e7c83ea2a5bb9171eed35d749d032c5c8df0fa36e90375:
+  original: Potential Mood
+  translated: Δυνητική
+a84df2989824db4631ce8307d9589a48742470b7dc2d6e0bfc24333d:
+  original:
+    The potential mood expresses the ability or possibility to do something,
+    and it's using the consonant "&{p}".
+  translated:
+    Η δυνητική χρησιμοποιείται για να εκφράσει την ικανότητα ή την πιθανότητα
+    να κάνεις κάτι, και χρησιμοποιεί το σύμφωνα «&{p}».
+  literals:
+    - p
+d294fc0cd72c7db70c923edc3d1dfcdf7b2db992a6b13b0e4419ac9c:
+  original: Secondary moods
+  translated: Δευτερεύουσες έγκλισεις
+1b6bb32504f9f4c97e6bc2e7589b550f0c29f981d3b60b6c820b30b3:
+  original: Secondary moods can be combined.
+  translated: Οι δευτερεύουσες έγκλισεις μπορούν να συνδυαστούν.
+0ffaa18012569b4e50ae9b4d2c2872bc5d250988a0ff1c8242509a90:
+  original: Combination works by adding extra tense suffixes.
+  translated: Ο συνδυασμός λειτουργεί προσθέτοντας επιθήματα χρόνου.
+8ea6cd86faa2ec22958cdbd6167b69ae288f2152ca62a80828def649:
+  original: Optative Mood
+  translated: Ευκτική
+4d7ddf8db711cad5c02da6cfba5bca3ccf7c6219e5e2bb308a53ad89:
+  original:
+    The optative mood expresses wishes, desires, or hopes, and it's using
+    the consonant "&{f}".
+  translated:
+    Η ευκτική χρησιμοποιείται για να εκφράσει ευχές, επιθυμίες ή ελπίδες,
+    και χρησιμοποιεί το σύμφωνα «&{f}».
+  literals:
+    - f
+0e12ca10244d3dd96bc5cefbecf864515638fcc01bbd0832b10b4e7c:
+  original: Dubitative mood
+  translated: Διστακτική
+e57e93eea2d99687eb135f93d0619eb0298c1825eae8272dd197cb61:
+  original:
+    The dubitative mood expresses doubt or scepticism about the action, and
+    it's using the consonant "&{r}".
+  translated:
+    Η διστακτική χρησιμοποιείται για να εκφράσει αμφιβολία ή σκεπτικισμό
+    για την ενέργεια, και χρησιμοποιεί το σύμφωνα «&{r}».
+  literals:
+    - r
+1d496a447a37b7414b030ee4e13a9936f566f3b358cb72e2c3894b81:
+  original: Evidential mood
+  translated: Αποδεικτική
+4a12ab97ae00ae0d3ed086982f3edacdd1ec775a221e7aff65546e35:
+  original: Evidential expresses different levels of evidence about the action.
+  translated: Η αποδεικτική εκφράζει διαφορετικά επίπεδα αποδείξεων για την ενέργεια.
+e5cbd379c8cf45d5d7d94c810ef3bff0ec960b19c669ae7c997624fc:
+  original: "The following consonants are used:"
+  translated: "Τα παρακάτω σύμφωνα χρησιμοποιούνται:"
+725afc757b945cc81aabbd3b7ef67970d8f037a416095c29b8bae562:
+  original: for direct evidence, eg when the speaker has seen the action
+  translated: για άμεσες αποδείξεις, π.χ. όταν ο ομιλητής έχει δει την ενέργεια
+2e56c84da5a6ec2744e8ea5d05b0ebcd4ec39c86dd64f729b732eefb:
+  original: for hearsay
+  translated: για φήμες
+af63ae772f033e2d0c556beae110e18a8d0b7f804510ec890c6a7901:
+  original: for inference
+  translated: για συμπεράσματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+8fbb871dd34ffcf9f1cfaebebf47c5d01615bd8740ad213ca1014e72:
+  original: You are reading the book.
+  translated: Διαβάζεις το βιβλίο.
+c90df2123f77276c5527875bcfab7ef7f05916da61f1ddc7ec0b85ac:
+  original: Read the book!
+  translated: Διάβασε το βιβλίο!
+8aa3d9c6dd88748779afd41d69e73d8ad562dda19d9c107269ab04c0:
+  original: You must read the book.
+  translated: Πρέπει να διαβάσεις το βιβλίο.
+14898ffb22a6e03b8590d4971babc65a6a8fcf82a141a8addb4ffd0b:
+  original: You may read the book.
+  translated: Επιτρέπεται να διαβάσεις το βιβλίο.
+6766b447f591cd70dd22ad6c78d843e832639878ee177b268b214e5b:
+  original: You can read the book.
+  translated: Μπορείς να διαβάσεις το βιβλίο.
+064595c55f7082d54a6b2dec4638e02d1a409e0e2a9630d455a86858:
+  original: May you read the book.
+  translated: Είθε να διαβάσεις το βιβλίο.
+0ad90b1ae06aa347185c14e7140f581c115a8e8b0b393baa7474e0c9:
+  original: I don't believe that you're reading the book.
+  translated: Δεν πιστεύω ότι διαβάζεις το βιβλίο.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+25ad2d19edc0cd464596429016686e07ad9ea8b01ddfc00a63060709:
+  original: I have direct evidence about it.
+  translated: Έχω άμεσες αποδείξεις γι' αυτό.
+cf07050841e3b073d8303553941d2e2784e5cacd65d68eb44ccb6f3e:
+  original: Someone told me about it.
+  translated: Κάποιος μου το είπε.
+66d9140cb9d6b0839ca2a242cfa479912532006aed463a448a1c2c14:
+  original: I inferred that you're doing so, from your other actions.
+  translated: Συμπέρανα ότι το κάνεις από τις άλλες ενέργειές σου.
+5b0da27cfd2d47676c45524eb0d7ba92090f16a2097c3333631c7c11:
+  original: All men must die.
+  translated: Όλοι οι άνθρωποι πρέπει να πεθάνουν.
+cb45a5ab5fe54877ed6fc4e45e8c46b23686467686b4fb439fbd526c:
+  original: All men must serve.
+  translated: Όλοι οι άνθρωποι πρέπει να υπηρετήσουν.
+02626255158a71d8c4d2f2fe639d95be58b6e61299513fb4d28d4d8e:
+  original: I doubt that you were allowed to read the book.
+  translated: Αμφιβάλλω ότι σου επιτράπηκε να διαβάσεις το βιβλίο.
