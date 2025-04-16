@@ -1,0 +1,93 @@
+%YAML 1.2
+---
+9f220f4f364218a6e11e6ee9b6e7cb67b615e3f8c1f9bbdd1e4d6195:
+  original: Personal Pronouns
+  translated: Προσωπικές Αντωνυμίες
+db79d6c7286c5a186a489877977e21f4c71ee95a96e5574eb78d28ba:
+  original:
+    Arcadia recognizes **three core personal pronouns**, corresponding to
+    **first, second, and third persons**.
+  translated:
+    Η Αρκάδια έχει **τρεις βασικές προσωπικές αντωνυμίες**, οι οποίες αντιστοιχούν
+    **στο πρώτο, στο δεύτερο και στο τρίτο πρόσωπο**.
+56c71753e69fec369c80f8dc18ad22da24839b53d2f612eba3661d70:
+  original:
+    The **fourth person** serves a **generalized reference**, expressing **all
+    objects or none**—it is handled through **indefinite pronouns**, rather than a
+    distinct personal form.
+  translated:
+    Το **τέταρτο πρόσωπο** χρησιμοποιείται για μια **γενικευμένη αναφορά**,
+    εκφράζοντας **όλα τα αντικείμενα ή κανένα**—διαχειρίζεται μέσω **αόριστων αντωνυμιών**,
+    παρά με μια ξεχωριστή προσωπική μορφή.
+fa3ec8870ef97ebcef17534da4401010d86b8a42695c76f0e24d3f66:
+  original: Pronoun Overview
+  translated: Επισκόπηση Αντωνυμιών
+6eb9dc5cfce7089d8d73951e8450b807d768279f6593ca69ab82e653:
+  original: Person
+  translated: Πρόσωπο
+0caf25890780cb1b748f923ae4ee941e446c3742d7fe46215a9d5496:
+  original: Pronoun
+  translated: Αντωνυμία
+f5e7e9e8057d65201446f0c42d896fc2d9cb64a79ea8c4a181ce517a:
+  original: 1st
+  translated: 1ο
+5d336cb3bb818a829b33b0e08277106d0dfbf691bdff1c08225950c4:
+  original: 2nd
+  translated: 2ο
+4036f056033e09741f99d3ecdc4befa7036cf991320f269a520eec18:
+  original: 3rd
+  translated: 3ο
+2df1d8d0815a23b279795f4dad42104e36ae14b31e25a963e8975dae:
+  original: Full Declension Table
+  translated: Πλήρης Πίνακας Κλίσης
+c0e3491ef1c7b3483b7603bd006129c0931ce1a5b63ee5138b288511:
+  original: Personal pronouns follow the **standard declension patterns of nouns**.
+  translated: Οι προσωπικές αντωνυμίες ακολουθούν τα **τυπικά πρότυπα κλίσης των ουσιαστικών**.
+2962d3e8b46b9c935bb6811d3db11a5a44f8894e0bfc56a5cc2cc2a7:
+  original: 1st Person
+  translated: 1ο Πρόσωπο
+8f240a8fcf5b3f37db470bb7a946d891931566d1973f5d15ad47f951:
+  original: Case
+  translated: Πτώση
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+21e3e0fdab535fda34892d2ffb39f29955a4040e30803f5d4bc7fc3b:
+  original: Plural (inclusive)
+  translated: Πληθυντικός (συμπεριληπτικός)
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+4a7ea3f18c38eddbe55d996639dc06beaa24a5f992f4e0b9cadb581a:
+  original: Ablative
+  translated: Αφαιρετική
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+eb2bcb2642b013947cfb07d4432bec776c617ce75da41a13bf977f22:
+  original: Adpositional
+  translated: Προθετική
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
+f90ca006d94e6ebe159f5dfc91015eda371466ef1401b46947129406:
+  original: 2nd Person
+  translated: 2ο Πρόσωπο
+1b190e21977934c574f5543a397167f8f92c135d141c40e704a8536e:
+  original: 3rd Person
+  translated: 3ο Πρόσωπο
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
