@@ -1,0 +1,134 @@
+%YAML 1.2
+---
+916e8e85831330fe21ba445c41d30d47233db645ffe58b952173e4d8:
+  original: Existence
+  translated: Ύπαρξη
+688a71dd544ebd7f85444591dcc3b07b7b51a4fc3ac5a5967ed99960:
+  original: "In zerita, there are three verbs are used to express existence:"
+  translated:
+    "Στη ζερίτα, υπάρχουν τρία ρήματα που χρησιμοποιούνται για να εκφράσουν
+    την ύπαρξη:"
+5548266390287401313a565e79f83c03c8db3e67b3ac6fc2687e3a04:
+  original: The verb "&{exis}" is used to express existence in a general sense.
+  translated:
+    Το ρήμα «&{exis}» χρησιμοποιείται για να εκφράσει την ύπαρξη με γενικό
+    τρόπο.
+  literals:
+    - exis
+5400aa135471505c5d09ddf833b326b458c5031d27eae7136285d315:
+  original: It doesn't imply presence or absence, but rather the existence of something.
+  translated: Δεν υποδηλώνει παρουσία ή απουσία, αλλά μάλλον την ύπαρξη κάποιου πράγματος.
+40ef50429c7e74a90a0a141f3ed6caf05a6c42079516f3946b2ceebc:
+  original: "&{viv} and &{stat}"
+  translated: "&{viv} και &{stat}"
+  literals:
+    - stat
+    - viv
+93ac83e6e15286855b4537ac438b11dcf647ccd3ba0f6dc20a125b08:
+  original: The verbs "&{viv}" and "&{stat}" are used to express existence.
+  translated:
+    Τα ρήματα «&{viv}» και «&{stat}» χρησιμοποιούνται για να εκφράσουν την
+    ύπαρξη.
+  literals:
+    - stat
+    - viv
+e973f14683dd8ecd8524fc63e59180fd204dea918087f73d39e67fb4:
+  original: Their difference depends on the nature of the existence being expressed.
+  translated: Η διαφορά τους εξαρτάται από τη φύση της ύπαρξης που εκφράζεται.
+c2c684be9b171e2a550c1a24e9592949c1912ee78fa7ccdd07389512:
+  original:
+    The verb "&{viv}" is used to express existence in a dynamic sense, while
+    "&{stat}" is used to express existence in a static sense.
+  translated:
+    Το ρήμα «&{viv}» χρησιμοποιείται για να εκφράσει την ύπαρξη με δυναμικό
+    τρόπο, ενώ το «&{stat}» χρησιμοποιείται για να εκφράσει την ύπαρξη με στατικό
+    τρόπο.
+  literals:
+    - stat
+    - viv
+835ee0edb5206d27712237b083abf8cd966116361b4cf928dbb0e873:
+  original:
+    For example, "&{statave e silvis}" and "&{vivave e silvis}" both mean
+    "There is a forest".
+  translated:
+    Για παράδειγμα, «&{statave e silvis}» και «&{vivave e silvis}» σημαίνουν
+    «Υπάρχει ένα δάσος».
+  literals:
+    - statave e silvis
+    - vivave e silvis
+ca5ceaa8eebbe1ff5958d3bc7d8fb2675bcfb5f74f7c29253977cb18:
+  original:
+    The difference between the two is that "&{viv}" emphasises the dynamic
+    nature of the forest, viewing is as a living organism that grows, lives, and decays
+    while "&{stat}" just states that the forest is there.
+  translated:
+    Η διαφορά μεταξύ των δύο είναι ότι το «&{viv}» τονίζει τη δυναμική φύση
+    του δάσους, το βλέπει ως έναν ζωντανό οργανισμό που μεγαλώνει, ζει και αποσυντίθεται,
+    ενώ το «&{stat}» απλώς δηλώνει ότι το δάσος είναι εκεί.
+  literals:
+    - stat
+    - viv
+3e7545d6c778fc8ac764cb32cf43b7e87e4c04fac648f5990f74a52e:
+  original:
+    '"&{stat}" can be used for humans, animals, and plants, to express the
+    presence of a person, animal, or plant.'
+  translated:
+    Το «&{stat}» μπορεί να χρησιμοποιηθεί για ανθρώπους, ζώα και φυτά, για
+    να εκφράσει την παρουσία ενός ατόμου, ζώου ή φυτού.
+  literals:
+    - stat
+bfe83afaea8fcc53941f075fd6dbbc6028dba0ea964cd9957446d861:
+  original:
+    Similarly, "&{viv}" can be used for objects like a car, a river, or even
+    a house to express their ever-changing nature.
+  translated:
+    Ομοίως, το «&{viv}» μπορεί να χρησιμοποιηθεί για αντικείμενα όπως ένα
+    αυτοκίνητο, ένα ποτάμι ή ακόμη και ένα σπίτι για να εκφράσει τη διαρκώς μεταβαλλόμενη
+    φύση τους.
+  literals:
+    - viv
+4985ee547cb7a7d2ff3fafdeb5e4583c607807c0074cf3412c14cbfe:
+  original: Differences between "&{viv}"/"&{stat}" and "&{exis}"
+  translated: Διαφορές μεταξύ «&{viv}»/«&{stat}» και «&{exis}»
+  literals:
+    - exis
+    - stat
+    - viv
+3d7bc138a002223c3b8787236294302a9f26a3e012bf888f6cf8214b:
+  original:
+    'In zerita, in order to choose between "&{viv}"/"&{stat}" and "&{exis}",
+    you need to consider the following:'
+  translated:
+    "Στη ζερίτα, για να επιλέξετε μεταξύ «&{viv}»/«&{stat}» και «&{exis}»,
+    πρέπει να λάβετε υπόψη τα εξής:"
+  literals:
+    - exis
+    - stat
+    - viv
+c87de7c49f264ca301286c0225c268875493e4e5a502c709929fce6a:
+  original: Are you talking about presence or absence?
+  translated: Η πρόταση είναι για παρουσία ή απουσία;
+12188b019c7e9e902e680f98df8927c6e78b898ceec81e9492393534:
+  original: If yes, use "&{viv}" or "&{stat}", otherwise use "&{exis}".
+  translated:
+    Αν ναι, χρησιμοποιήστε το «&{viv}» ή το «&{stat}», αλλιώς χρησιμοποιήστε
+    το «&{exis}».
+  literals:
+    - exis
+    - stat
+    - viv
+16b1b8a752b9511e335554115ca6aec2ef6599e225f6182d18ff6391:
+  original: Are you using the abstract form?
+  translated: Χρησιμοποιείτε την αφηρημένη μορφή;
+c3352ef964532de3783a45b18a089f48fbb48414f3f05c20539dd221:
+  original: If yes, use "&{exis}", otherwise use "&{viv}" or "&{stat}".
+  translated:
+    Αν ναι, χρησιμοποιήστε το «&{exis}», αλλιώς χρησιμοποιήστε το «&{viv}»
+    ή το «&{stat}».
+  literals:
+    - exis
+    - stat
+    - viv
+43aeb50c2a40523ca38c8d10c9c502e4540dbccbb43f5f95cda6cfbf:
+  original: Are you using the definite article, or a demonstrative pronoun?
+  translated: Χρησιμοποιείτε τον οριστικό άρθρο ή μια δεικτική αντωνυμία;
