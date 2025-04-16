@@ -1,0 +1,70 @@
+%YAML 1.2
+---
+dc2bf9794f2b7954feda58479c0f270a7a173d013a9287d589e9b4d5:
+  original: Then clause variation
+  translated: Διαφορετική μορφή του "τότε"
+56c398583d3ce79e8873d218759934e00af3dd95eb81024d90645913:
+  original:
+    In zerita the then particle is mandatory in conditionals, even when it
+    precedes the if clause.
+  translated:
+    Στην ζερίτα το μόριο «τότε» είναι υποχρεωτικό στον υποθετικό λόγο, ακόμα
+    και όταν προηγείται της πρότασης αν.
+ce497a1a4f630387907b28f5813ae1f0df9eb69b096792c79d3138ac:
+  original: "There are the &{3} different ways to express then:"
+  translated: "Υπάρχουν οι &{3} διαφορετικοί τρόποι να εκφράσουμε το «τότε»:"
+  literals:
+    - "3"
+8f17b67db7414d834f0e95301ed6ab8108c687a0b7fb6464af31835c:
+  original: which is used when the conditional an scientific implication.
+  translated: οποίος χρησιμοποιείται όταν η υποθετική πρόταση είναι επιστημονική.
+830140a5fa21a5227e273dd62bfd5cbdf32310d2ca57100b014c7afb:
+  original: which is used when the conditional the implication strength is strong.
+  translated: οποίος χρησιμοποιείται όταν η απόδοση είναι ισχυρή.
+80ca34050c389604331dd5301de7b20108bc111724fa5e837d9bf6ec:
+  original: which is used when the conditional the implication strength is weaker.
+  translated: ο οποίος χρησιμοποιείται όταν η απόδοση είναι ασθενής.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+8c4987c5b37367b7e834532c0ccff4a34646fc2a91773dcf8439f4d8:
+  original: If we play, I will win.
+  translated: Αν παίξουμε, θα κερδίσω.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+366fdff1d0302d22571ecf4b2f5da20c829e0695396aa40f32a48721:
+  original: '"&{si}" is reserved for proofs.'
+  translated: Το «&{si}» είναι μόνο για αποδείξεις.
+  literals:
+    - si
+d624cf159e43b71f59a548a0a2691e8b1b489865f0f3a9831cac01ac:
+  original: If we play, I expect to win.
+  translated: Αν παίξουμε, αναμένω να κερδίσω.
+9085ca25157598e23ee0fb3f95bda98fb162f9f14d0e2677097c9e00:
+  original: '"&{su}" still means that this is the expected outcome.'
+  translated: Το «&{su}» σημαίνει ότι αυτό είναι το αναμενόμενο αποτέλεσμα.
+  literals:
+    - su
+ed2098099cda8d1ba872cbd27367627e62b5868e200e09585ad1d820:
+  original: Else clause variation
+  translated: Διαφορετική μορφή του «αλλιώς»
+80b2d05de594bccc300e4a3b42890991dc5d5415e57a2a1f26d373aa:
+  original:
+    In zerita the else clause isn't mandatory in conditionals, and conditionals
+    that are introduced with "&{est}" or "&{cest}" cannot have an else clause.
+  translated:
+    Στην ζερίτα η εναλλακτική πρόταση δεν είναι υποχρεωτική, και οι υποθετικές
+    προτάσεις που αρχίζουν με το «&{est}» or «&{cest}» δεν μπορούν να έχουν εναλλακτική.
+  literals:
+    - cest
+    - est
+c605af57f604e8ddba6e78fb1e7527b5d7084ca758f9774dd9bab671:
+  original: It can only be used with "&{celo}" or "&{ucelo}".
+  translated: Μπορεί να χρησιμοποιηθεί μόνο με το «&{celo}» ή το «&{ucelo}».
+  literals:
+    - celo
+    - ucelo
