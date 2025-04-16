@@ -1,0 +1,68 @@
+%YAML 1.2
+---
+50ff40ca3b6578fc15bcb74bde0b6b51c1557a473025e7b8d1cb830e:
+  original: Gender
+  translated: Γένος
+16d2b384b7e37b31e612b3682dc71befaa623fbf32305f10df364826:
+  original: Zerita is not a gendered language.
+  translated: Η ζερίτα δεν είναι έμφυλη γλώσσα.
+a7f05e99962ea4d8abb3e149573c2e14f76ab76d514229d870de4e33:
+  original:
+    The gender has no affect on the grammatical rules, it's only used to signify
+    the gender of the object, and it's only used when it's relevant.
+  translated:
+    Το φύλο δεν έχει καμία επίδραση στους γραμματικούς κανόνες, χρησιμοποιείται
+    μόνο για να δηλώσει το φύλο του αντικειμένου και χρησιμοποιείται μόνο όταν είναι
+    σχετικό.
+ae25611f280627585bd71e1ee7516027d80dcc702013b332ae5f01d1:
+  original:
+    It's marked by the prefixes "&{vi-}" and "&{me-}", for the male and the
+    female counterparts, respectively.
+  translated:
+    Χαρακτηρίζεται από τα προθέματα «&{vi-}» και «&{me-}», για τα αντίστοιχα
+    αρσενικά και θηλυκά, αντίστοιχα.
+  literals:
+    - me-
+    - vi-
+cabb081bb8d3ff36bc590811f8e8176408ff03174f516654d41268c4:
+  original: Using gender
+  translated: Χρήση του προθέματος φύλου
+a44fa6d32ce6db7a258afa322fc314854853e961d580f8c42fcd7763:
+  original:
+    By default, unless you want to specify a gender, no gender prefix should
+    be used.
+  translated: Εκτός εάν θέλετε να καθορίσετε ένα φύλο, το πρόθεμα φύλου δεν χρησιμοποιείται.
+53d26fc4af71d92b02a2fb53ad0e88a6fe387a097800b7aca58a89d9:
+  original:
+    For example, if you have a son, you should use "&{fil}" unless you specifically
+    want to indicate that your child is a son rather than a daughter.
+  translated:
+    Για παράδειγμα, εάν έχετε γιο, θα πρέπει να χρησιμοποιήσετε το «&{fil}»,
+    εκτός εάν θέλετε συγκεκριμένα να υποδείξετε ότι το παιδί σας είναι γιος και όχι
+    κόρη.
+  literals:
+    - fil
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+6401088aa656367f3d2b56935058ca7911c4df25e723d00ec9e9baf1:
+  original: Parent
+  translated: Γονιός
+0ad0eae7c9326252f2c64c571bf69b90c7930ca885bf65e1a878a1bb:
+  original: Any gender
+  translated: Οποιοδήποτε φύλο
+38f8b5a53fbcace04e530dcc631fc05db96ff5e86d65a6a3ab0ba386:
+  original: Father
+  translated: Πατέρας
+bb5296b1877901551e16cddd7ef917439e27374d2363178e18a7706f:
+  original: Mother
+  translated: Μητέρα
+f5d5f98e548e9edee48d09ba55d059387be0d90fcc5050b1bb61ca09:
+  original: Child (offspring)
+  translated: Παιδί (απόγονος)
+40cd73f38f81727bf7da145b3260f2901bed7a41bd85c96bba88b6bd:
+  original: Son
+  translated: Γιος
+2e2c59816eceef442f6063e9dd4fed69e028fc24e55d1468d32ce80d:
+  original: Daughter
+  translated: Κόρη
