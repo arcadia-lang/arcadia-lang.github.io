@@ -1,0 +1,82 @@
+%YAML 1.2
+---
+ea79451bfdd1d9564d25d5f27ab47ea61e11e68552ba5017721c280b:
+  original: Impersonal Pronouns
+  translated: Απρόσωπες Αντωνυμίες
+2f29305f82daeab541d2e5ebc77cf04c395414bf2cce0f9742b8a719:
+  original:
+    Arcadia has **two impersonal pronouns**, **"&{le}"** and **"&{alé}"**,
+    which differ in **degree of specificity**.
+  translated:
+    Η Αρκαδία έχει **δύο απρόσωπες αντωνυμίες**, **"&{le}"** και **"&{alé}"**,
+    οι οποίες διαφέρουν σε **βαθμό ειδικότητας**.
+  literals:
+    - alé
+    - le
+72052aec10afd7f24ba6ec521ed39667638f212e26b5132a94cb476a:
+  original:
+    Represents an **implied but relatively specific** vague subject (e.g.,
+    a known general group).
+  translated:
+    Αντιπροσωπεύει ένα **υπονοούμενο αλλά σχετικά συγκεκριμένο** αόριστο
+    υποκείμενο (π.χ. μια γνωστή γενική ομάδα).
+d1cdc621155c1460c67fd4de4397e310010cf6161cae08309930b368:
+  original:
+    Represents a **fully indeterminate** or **diffuse** subject (e.g., society
+    as a whole).
+  translated:
+    Αντιπροσωπεύει ένα **εντελώς αόριστο** ή **διάχυτο** υποκείμενο (π.χ.
+    η κοινωνία στο σύνολό της).
+cf536e7dd9492a04147502fbbbf85e430497d41015d95347339fa128:
+  original: Impersonal Pronoun Declensions
+  translated: Κλίσεις Απρόσωπων Αντωνυμιών
+abb7ae9af1fb6f299df3794b1356fb4f1f6d3e6299c4c6878ff0741e:
+  original: Both **"&{le}"** and **"&{alé}"** follow standard noun declension patterns.
+  translated:
+    Τόσο το **"&{le}"** όσο και το **"&{alé}"** ακολουθούν τα πρότυπα κλίσης
+    των ουσιαστικών.
+  literals:
+    - alé
+    - le
+3ba6fce323778fcfd0ff2943471e25933fc9ce0dacccb018a8ea5d1a:
+  original: Specific Impersonal
+  translated: Συγκεκριμένο Απρόσωπο
+8f240a8fcf5b3f37db470bb7a946d891931566d1973f5d15ad47f951:
+  original: Case
+  translated: Πτώση
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+4a7ea3f18c38eddbe55d996639dc06beaa24a5f992f4e0b9cadb581a:
+  original: Ablative
+  translated: Αφαιρετική
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+eb2bcb2642b013947cfb07d4432bec776c617ce75da41a13bf977f22:
+  original: Adpositional
+  translated: Προθετική
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
+b98424cd8dcbc5150a7a8d37b79d562d84dd4f69582c1efb140d7438:
+  original: Vague Indeterminate Impersonal
+  translated: Αόριστο Απρόσωπο
