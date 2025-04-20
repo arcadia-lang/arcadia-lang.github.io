@@ -1,0 +1,63 @@
+%YAML 1.2
+---
+2e667332bff45281041a496cd6137ab5d24be775216386b529842218:
+  original: Impersonal pronouns
+  translated: Απρόσωπες αντωνυμίες
+19e9759cc6ceea06349ec23a0b1cb85b6b0f6453c62870e32b0b54a1:
+  original: Zerita has &{2} impersonal pronouns, "&{te}" and "&{le}".
+  translated: Η ζερίτα έχει &{2} απρόσωπες αντωνυμίες, το "&{te}" και το "&{le}".
+  literals:
+    - "2"
+    - le
+    - te
+542a72f113d10e1f10cae4e4d40c904813ffa9b9922c4dd4ddc01ae7:
+  original: They differ in specificity, as "&{te}" is more specific than "&{le}".
+  translated:
+    Διαφέρουν στην ειδικότητα, καθώς το "&{te}" είναι πιο συγκεκριμένο από
+    το "&{le}".
+  literals:
+    - le
+    - te
+cec385ededd2d89a0eb379a985e3cbf84de2662d7904e71b749b9d2c:
+  original:
+    For example, "They say that honey is good for you", "They" is more vague
+    than "you", even though both are impersonal.
+  translated:
+    Για παράδειγμα, "Λένε ότι το μέλι είναι καλό για σένα", το "Λένε" είναι
+    πιο αόριστο από το "σένα", αν και και τα δύο είναι απρόσωπα.
+8f240a8fcf5b3f37db470bb7a946d891931566d1973f5d15ad47f951:
+  original: Case
+  translated: Πτώση
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+4a7ea3f18c38eddbe55d996639dc06beaa24a5f992f4e0b9cadb581a:
+  original: Ablative
+  translated: Αφαιρετική
+ef2f5f0ed52862aea957853f7db67ccaf5af37294e77e2e97c6deb51:
+  original: Predicative
+  translated: Κατηγορηματική
+eb2bcb2642b013947cfb07d4432bec776c617ce75da41a13bf977f22:
+  original: Adpositional
+  translated: Προθετική
+296446dd497f4fe21296c1957cfdccbe294b31da68c75245ae4bc09d:
+  original: Vocative
+  translated: Κλητική
