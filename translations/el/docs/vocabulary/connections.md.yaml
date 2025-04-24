@@ -1,0 +1,260 @@
+%YAML 1.2
+---
+568bc20361895de76ea52280fcc55ec38f05ed0cae79bc16311223fd:
+  original: Connections
+  translated: Συνδέσεις
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: Άρθρα
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+0c8e7cec2a7f3b3c022f250a263114e22929e6307c814d64c3ab70ce:
+  original: the
+  translated: ο/η/το
+d5c43b157b23881a38ffb1224500f1d74aa673731534714632547520:
+  original: a/an
+  translated: ένας/μία/ένα
+550ff4efb7deff634dbe03b9335b620f9c7d63891969934c86a22f3b:
+  original: Spatial prepositions
+  translated: Χωρικές προθέσεις
+ad0ae67253616959a19534504a0d539c465481f5c60d0ca7a7ad7016:
+  original: inside
+  translated: μέσα
+d276dc8c8864cf84125a6179555650dda332001735f05dfed633cc5b:
+  original: above/on top of/on
+  translated: πάνω
+8ef5e237dca52c7f7b2eb5784b9771326bd728ae9126b6b4b64345aa:
+  original: under/underneath
+  translated: κάτω
+85eca71f82f7ee8afbec2e0726d2bb126bafc7f43fe2fe8420551468:
+  original: against/next to
+  translated: δίπλα
+05f4aa84e34fac75ec4ed0f04a1d5d2b8940593d1faf6a107528a10e:
+  original: opposite of
+  translated: απέναντι
+59633f892f9a0309cd60946030af0d8136a1744ed82d108802bdf0f6:
+  original: through
+  translated: μέσα από
+6a0a67efa397afefada841dad294a614b5fbf30a1c93a7ca949f3fa6:
+  original: Temporal prepositions
+  translated: Χρονικές προθέσεις
+2fa5fffc3e8aef20e01596d3fd54359710a9fe1b7fc8a296121df453:
+  original: during
+  translated: κατά τη διάρκεια
+50d33bb827ee5c8b842e040d3719d62d4537006f6676af88c6d5d0f3:
+  original: Spatiotemporal prepositions
+  translated: Χωροχρονικές προθέσεις
+9b0140cb4c3b5b3484477b5734a0eb79a20572ff6ccb73b8fd439b8b:
+  original: in/on/at a location or time
+  translated: σε
+e3603c63bfab27fdf400ed4f2b1c015d39868e42039c2499782619cc:
+  original: from
+  translated: από
+833a51a7177925f1d9eea6479ffee2d19c3308e9c4c13803c45d2808:
+  original: to
+  translated: προς
+1ee492292fa53466089fb716e67345e08b13c1fefb8aeadcf5f89ca3:
+  original: around
+  translated: γύρω
+8d227f6dc853e2fbb9379f571085a6d83e94840bce96d254afb990e3:
+  original: between (exclusive)
+  translated: ανάμεσα (αποκλειστικά)
+5718ad223f92e2df6c37f3b990615ecbe54d14121f8fc746b2b2f32f:
+  original: between (inclusive)
+  translated: ανάμεσα (συμπεριλαμβανομένα)
+3612e9f08bc6d6e8569d1d44e074aad4fcae9e68e4eb5f100ceba8e9:
+  original: until/up to
+  translated: μέχρι
+3e430d405895c8dc2906aacdb7ea4f710d39419e037839f658d0fe86:
+  original: in front of (before)
+  translated: μπροστά (πριν)
+516c50daf28b0352b10a0d57db74177236f57611291cb0ee1048b8a9:
+  original: behind (after)
+  translated: πίσω (μετά)
+eb383d0c11642250d2cb4f5441a2d62768f0a140cc4b1305cf7bf22e:
+  original: every (eg every 2 minutes)
+  translated: κάθε (π.χ. κάθε 2 λεπτά)
+50f3f5c5c5a4654bd0a3426f043ad2eed949eb59a890db55244789a1:
+  original: Instrumental prepositions
+  translated: Οργανωτικές προθέσεις
+15fe7c33c1976384653af618f87b731132665d133f77a250d17f33ea:
+  original: by (agent)
+  translated: από (ποιητής)
+1d5516e619fe82ada1e24b49043075c16178d86c88d9fa03d6c5a250:
+  original: by the means of
+  translated: μέσω, με τη βοήθεια
+ed33145c2108242f7448c2b143651c4223c9efab803b6b41d137f5b5:
+  original: with
+  translated: με
+125cc7110263cd8ef5ef1568bed41e984900256d0371b255cf84a97c:
+  original: without
+  translated: χωρίς
+8d0c4b5c28c84ffc8cb318756fe0011ababfedd4f65a7021297696b6:
+  original: Causal prepositions
+  translated: Αιτιακές προθέσεις
+46b0affb6d3b98f9223a40bc9850382eb0b73e043cb2ee126bccdfef:
+  original: for (purpose)
+  translated: για (σκοπός)
+269d6932b06dd1dab649d1533dd1494fe3224fd75207037148d08460:
+  original: for the benefit of
+  translated: για το όφελος
+e419412d6859b889633355c4abdf1e244ed339ec7d68a77418b43221:
+  original: instead of
+  translated: αντί για
+752a689e3e9aa0204062c5548bbe05383533801003f2eae1f120a208:
+  original: except for
+  translated: εκτός από
+7145c93689728f95967885513a3e213695515b759f3a3e6c6388947e:
+  original: according to
+  translated: σύμφωνα με
+de0c02737fa24229fa2b1eaff8f5b29648c0184a3d6dd2b233b71278:
+  original: against (e.g., against the rules)
+  translated: κατά (π.χ., κατά των κανόνων)
+ead9436841e642e9f7ffdca8753a16c55de599dd0694a82b242e0e0e:
+  original: Relational prepositions
+  translated: Σχεσιακές προθέσεις
+ff846e68d4317dcfee7f68442b7fcfb1509d9cb13adea4944139cd2d:
+  original: of (inalienable possession)
+  translated: από (μη αποξενώσιμη κατοχή)
+982d7e2769ba6c4177f1929429b6cb04f5c5694ccb3348d85bf0adc1:
+  original: of (alienable possession)
+  translated: από (αποξενώσιμη κατοχή)
+b5d4480818b34c1f5a882cfdfd00e244bab59524397624a53a5ae2c2:
+  original: about
+  translated: για
+f7dcef2ddcb9c347bb3ad3c8ee41ee9e7992cb09bab68826514b4e9f:
+  original: Question particles
+  translated: Ερωτηματικά μόρια
+252809b3df686846891dff101c7abff0fb8326bbc9efe6e781886703:
+  original: yes/no question
+  translated: ναι/όχι ερώτηση
+71bf6f4edd356500b23a0717ca9c6e96749e9bdc3e449d7703bf6140:
+  original: who/what
+  translated: ποιος/τι
+b52b2bc8cdd7b86cb80efe46ccfb51c246280082f1d7946beed1ddb9:
+  original: which
+  translated: ποιο απ' αυτά
+ab766becd196b89a423011414ca33a5411f7e3523ff8b984289da7ed:
+  original: where
+  translated: πού
+e29edc56da00502ad978a9a83552f40448502d5efd612a548f8befa5:
+  original: when
+  translated: πότε
+511177a08417e242c677a7a7b2e4b85b0a9349419b62773c841f2ec1:
+  original: how much/how many
+  translated: πόσα
+bf776c35602398ac65267e67c6114777f8b4a220793663d277a2b258:
+  original: how
+  translated: πώς
+ab40ff9a8b9128c519cdb6609cc215076df372c1817281804fefb40f:
+  original: Numbers
+  translated: Αριθμοί
+fcca214864885e278014f8f4912c81987dfc65a0c94f8535002d8479:
+  original: zero
+  translated: μηδέν
+0955e779f0b85da41436db74fc9a9acd5490b1266afdb4804a1ece5b:
+  original: one
+  translated: ένα
+4ca5d8b2031e34481592660948bf8d867ebced7a1486f738eabd77fa:
+  original: two
+  translated: δύο
+8810ef8d38982af52addd6bcce3bf04ed84bc74b01b2ccd95ff6d29a:
+  original: three
+  translated: τρία
+de91b9ca968f066e9a6b7779253106e9c520249c5ac367bf3b648f37:
+  original: four
+  translated: τέσσερα
+7280d1ea3803ab795bc27ee527bca86919fa8a36eae3a29e907a5990:
+  original: five
+  translated: πέντε
+5de36032fcbcf21b78f4e4eb355e9f60dd38acbaebf950477f349f89:
+  original: six
+  translated: έξι
+d0b27ada1eacb016021192a0fdfa617054c11607a91f3d9ae525ddcf:
+  original: seven
+  translated: επτά
+b4e48181453435c498b798ba31e7eb5f015da7fa33d090a4e85cd772:
+  original: eight
+  translated: οκτώ
+20737bbed53f6e5294364ec4757f1d4d36bcc673143c496dbf9569a1:
+  original: nine
+  translated: εννέα
+728f895ce5badb31a3e147bdd4df306766f27ad4b4b677f283f6c6c8:
+  original: ten
+  translated: δέκα
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+5d0e17c3d1a2ae343d2b7fb6da697ff43a4e8e3a90cf405ac5582746:
+  original: a few
+  translated: λίγα
+4cef7ed47c704f71e2f34c155b83d6a6c4287fd1b8e8c7cd8eee7934:
+  original: same
+  translated: ίδιο
+5bd60fabaaf289db8f9096fcf6cadc19ffd054e6f7e15f3f97080803:
+  original: some (can be one)
+  translated: μερικά (μπορεί και να είναι ένα)
+efc45c0b32b876716d91549a0a2d18c80353b617de8b34075c78a823:
+  original: some (cannot be one)
+  translated: μερικά (δεν μπορεί να είναι ένα)
+770bc32f1af06809a65f957f86c0e35870179bbf825081fd97779697:
+  original: many
+  translated: πολλά
+17b6a8f95ae7c5013f925c45157075eae8a743d91dfb9eb17093e1b5:
+  original: each
+  translated: έκαστος
+e3bd1dd6dbf1cd5b8d23ac532bdccf3510febf31e64bc7a2e0123f1c:
+  original: Replies
+  translated: Απαντήσεις
+32dc4538fdbd62c40ef9969b82b400612aeba7d6e39ae4ec1c67eabe:
+  original: yes
+  translated: ναι
+03a6760618adc28219022da90c7720f600de6507e99ba524573e6dcd:
+  original: no
+  translated: όχι
+f4093fbae10394a5de931b23dadd3c52be390bcde4a5d191df1cbd83:
+  original: not
+  translated: δεν
+9ba186289c85ac17366065f94f7e40c71002b14e1f7f771a89154cb2:
+  original: acknowledgment
+  translated: αναγνώριση
+2c0a9531ae10669c68b3fffc5afc42ad2f088f3878ed09bdc1e47511:
+  original: but
+  translated: αλλά
+298303eb5a42c7994957e4ba2b3f40364478cbc39f477fe3236db002:
+  original: and
+  translated: και
+9b677129a4b26a4ac9d5c5dba72f90a10e956eaf0cc65b004a6ce3da:
+  original: or (inclusive)
+  translated: ή (περιλαμβανομένη διάζευξη)
+b458ce58da67ebe4c1700077498c1a1bc6ab76889a970e0bd9c54c2a:
+  original: or (exclusive)
+  translated: ή (αποκλειστική διάζευξη)
+4a580e79081906262fa43543abb161ff64e324a8bc48927dbcbf4de2:
+  original: nor
+  translated: ούτε
+dce86861b9d13a21bae04001a234e429e2ae3f33d2a590e32f22fc10:
+  original: Conditionals
+  translated: Υποθετικές προτάσεις
+07e84cde330b338f6e9143838661a7aa1b3e5a9d26e7185696b06392:
+  original: if
+  translated: αν
+f2e904861bbd73ae4a6f61a6424c3cf51aca6947417e84ff5bd1e3b2:
+  original: then
+  translated: τότε
+2565c33335ca492695b79f80e7a21a58290ff1e9ed9092b243c3c1c3:
+  original: else
+  translated: αλλιώς
+91b72aafbab3125c895102f39b897ccb169fc59cb47883b53938e24b:
+  original: Greeting
+  translated: Χαιρετισμός
+d8709d191f77f06358f29e937c5231ca5924934d9f06be1a035351c2:
+  original: hello (initial)
+  translated: γεια (αρχικό)
+a0fb801cd484cec46b1fcce815eaf632de422de50ecd6dac1129a1d0:
+  original: hello (reply)
+  translated: γεια (απάντηση)
