@@ -1,0 +1,78 @@
+%YAML 1.2
+---
+79d6e3cfacc5618bee8d89b519852bd9f5f953a3354c4b923f29a9d7:
+  original: Linking verbs
+  translated: Συνδετικά ρήματα
+69d70e32567c7127084f7437b425dbb1957a423495de277d201051b9:
+  original:
+    Zerita has many verbs that can be thought as the counterparties of "to
+    be" and "to have"
+  translated:
+    Στη γλώσσα Ζερίτα υπάρχουν πολλά ρήματα που μπορούν να θεωρηθούν ως
+    αντίστοιχα του «είναι» και «έχω»
+72066b5ced803d8a20e48c3ca3cc682fa1cef273a520da2f0660aadb:
+  original: It's easier to view them from a zerita viewpoint.
+  translated: Είναι πιο εύκολο να τα δούμε από την οπτική γωνία της ζερίτα.
+4927fe8ca82b7c62aff741e9c6dc4a4e699646bde671216f5193723b:
+  original: Properties
+  translated: Ιδιότητες
+f36cd884ce4798961030eb745bc031f21d7ca0668b308ef71cec9773:
+  original: The first group of verbs is about the properties of a subject.
+  translated: Η πρώτη ομάδα ρημάτων αφορά τις ιδιότητες ενός υποκειμένου.
+eed8a9983abec459cb29bc0a4e8bec4f0138ef8d506fafb0ebf67f8d:
+  original: Zerita has three closely related verbs for attributes.
+  translated: Στη ζερίτα υπάρχουν τρία στενά συνδεδεμένα ρήματα για τις
+    ιδιότητες.
+ba6114cb1b41c04c2ae453b56c1644357c6f316c0360b9f1b6a5c95d:
+  original: the attibutal verb.
+  translated: το ρήμα των χαρακτηριστικών.
+11cd13e0011fc955c00f8d7b9e6bda7bcba300afabe46a37b12644db:
+  original:
+    '"&{s}" is used to assign an attribute (permanent or temporary) to the
+    subject.'
+  translated: 
+  literals:
+    - s
+192cbaa62da52fc3bd454f86c524fb9a4f5a70c5500f4d75a7a9dad4:
+  original: the membership verb.
+  translated: το ρήμα για τα μέλη μιας ομάδας.
+98da1fda8c43fd4881477edf5a25b581fb5c9f6c5bc4e4e2b41ce9b6:
+  original: '"&{est}" is used to assign the subject to a group.'
+  translated: 
+  literals:
+    - est
+7c6c57fc8244d0b3ceac100ac345ac8d48286db16c889932638b9aed:
+  original: the tautological verb.
+  translated: το ταυτολογικό ρήμα.
+4a9d4d04e038211f97b1ae80d6dc4b6bc6a0da2b7c45fcd808862e94:
+  original: '"&{tot}" is used for definitions, equality, or tautologies.'
+  translated: Το «&{tot}» χρησιμοποιείται για ορισμούς, ισότητα, ή ταυτολογίες.
+  literals:
+    - tot
+30854fbec66f620231416a9e6abb0d4aa4a51e367a9d9cb62490eb77:
+  original: It's easier to see there differences with some examples.
+  translated: Είναι ευκολότερο να δουμε τις διαφορές μέσω κάποιων παραδειγμάτων.
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+d2ab799362a7226c2b8609917e0d1c1c0ce382a3514849c3201a4248:
+  original: The egg is white.
+  translated: Το αυγό είναι άσπρο.
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+f14b21117d971e012fff9f3a1e43df4a22e1072ba19fa029135e657f:
+  original: The egg has it's colour attribute to be white.
+  translated: Το αυγό έχει ως χαρακτηριστικό να είναι άσπρο.
+010e90be1eb919b8c5cbc60f11f6653a7b13fce24c06125a6c718d2f:
+  original: Ten is even.
+  translated: Το δέκα είναι άρτιος.
+db996e2a1e757e8a5efe94ae2e137fccbae0d382b73e030fbd54806e:
+  original: Ten is a member of the even numbers.
+  translated: Το δέκα είναι μέλος των άρτιων αριθμών.
+4f4e6995a07761588f1c2e922ad45107b8df8ec55e611045593c214a:
+  original: Red and blue is purple.
+  translated: Κόκκινο και μπλέ έιναι μωβ.
+4d517c4449a61a299af1f4023ba2c380a9611096679bbf3a30b7fae9:
+  original: Purple and the combination of red and blue are exactly the same thing.
+  translated: Το μωβ και ο συνδυασμός κόκκινου και μπλε είναι τα ίδια πράγματα.
