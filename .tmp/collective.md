@@ -12,7 +12,7 @@ The **abstract article** `to` also lacks **fractional and plural forms**, reinfo
 
 !!! note "Note on Articles"
 
-    While Arcadia's **collective article** does not typically take a **fractional form**, speakers may **deliberately** bend this rule in **rhetorical or expressive contexts**.
+    While Arcádia's **collective article** does not typically take a **fractional form**, speakers may **deliberately** bend this rule in **rhetorical or expressive contexts**.
     For instance, a teacher might say "_I have only half a class today_," even though a class **remains a singular unit regardless of absences**.
     In these cases, the fractional collective serves as a **marked statement**, emphasizing disruption or incompleteness rather than strictly following grammatical logic.
     This usage reflects the human tendency to reshape language for effect, making the grammatical "error" a deliberate stylistic tool rather than an oversight.

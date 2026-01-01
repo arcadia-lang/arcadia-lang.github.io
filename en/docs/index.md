@@ -25,7 +25,7 @@ Arcadia follows the **Austronesian alignment**, but **not purely**; it incorpora
 
 ### **Understanding Syntax through Diagrams**
 
-Traditional **nominative-accusative languages** follow an asymmetric structure.
+Traditional **nominative-accusative languages** follow an asymmetric syntax.
 In **active voice**, the **subject** is the main actor, the **verb** conveys action, the **direct object** receives the action, and the **indirect object** is the recipient.
 
 ```mermaid
@@ -52,15 +52,15 @@ graph LR
 
 ### **Arcadia's Symmetric Syntax**
 
-Arcadia's syntax is **symmetric**, inspired by the **Austronesian alignment**.
+Arcadia's syntax is **symmetric**, inspired by the **Austronesian alignment**. The **verb** remains the central focus, viewing everything else as **roles** assigned by it.
 
 ```mermaid
-graph LR
+graph TB
   B@{ shape: circle, label: "**Action**<br/>_gives_" }
   subgraph participants
-    direction TB
-    A([**Actor**<br/>_John_])
-    C([**Patient**<br/>_the ball_])
+    direction LR
+    A([**Donor**<br/>_John_])
+    C([**Asset**<br/>_the ball_])
     D([**Recipient**<br/>_to Mary_])
   end
   B --> A
@@ -68,18 +68,14 @@ graph LR
   B --> D
 ```
 
-The **actor, patient, and recipient** can **all** act as the focus.
-
-!!! note "Recipient"
-
-    The recipient here refers to the **receiver of the patient**, **not the action** itself.
+The **donor, asset, and recipient** can **all** act as the focus.
 
 To fully understand Arcadia's **case system**, refer to the **[Noun Cases Guide][cases]**.
 For verb transformations, see the **[Verb Generation Guide][generation]**.
 
 ## Subclauses
 
-Arcadia allows an **infinite number of nested subclauses**, enabling highly expressive ideas.
+Arcádia allows an **infinite number of nested subclauses**, enabling highly expressive ideas.
 
 - Subclauses use the **indicative mood**, meaning they **retain their own subjects**.
 - **Tense is always relative** to the **narrator's perspective**, ensuring seamless narrative progression.

@@ -1,144 +1,90 @@
 # Verbs
 
-Arcadia's verbs dictate sentence structure, shaping syntax based on verb type.
-The verb determines word order and conveys extensive grammatical information through **suffixes**, integrating **[mood][mood], [tense][tense], [aspect][aspect], and [person][person] distinctions**.
+In Arcadia, **verb type determines sentence structure**.
 
-All personal verbs in Arcadia require a **focus**, which is always in the **nominative case**.
-Each section specifies which case applies to an argument when **unfocused**.
+The verb functions as the structural core of the clause.
+It determines:
 
-Arcadia does not categorize verbs by **transitivity**; instead, it distinguishes six core **verb types**:
+- Which participant roles are licensed
+- Which roles are mandatory or optional
+- Which role is the default pivot
+- How agreement and omission behave
 
-- [Stative verbs](#stative-verbs)
-- [Locative verbs](#locative-verbs)
-- [Possessive verbs](#possessive-verbs)
-- [Experiential verbs](#experiential-verbs)
-- [Cognitive verbs](#cognitive-verbs)
-- [Action verbs](#action-verbs)
+Arcadia does **not** categorise verbs by transitivity.
+Valency emerges from verb type and role structure, not from a transitive/intransitive distinction.
 
-## Stative verbs { #stative-verbs }
+Verb types and their role structures are defined in **[types][type]**.
 
-Stative verbs describe **states**, **properties**, **relationships**, **existence**, or **natural phenomena**.
-They can be either static (e.g., _"The sky is blue"_, _"My friend is sick"_) or mutating (e.g., _"The ice is melting"_, _"The flowers are blooming"_).
+## Clause Structure
 
-### Syntax
+The default clause order is:
 
-The syntax is **Verb - Entity - State (in) - State (from) - State (to)**.
+**Verb – Core Roles – Obliques**
 
-### Pivot
+Core roles and obliques may be reordered for discourse emphasis, poetic rhythm, or stylistic effect.
 
-- Verbs without an entity, they may optionally lack pivot, in which case, they **do not take personal suffixes**.
+**Role assignment is never determined by word order.**
+Roles must remain recoverable through morphology and verb type.
 
-### Examples
+Arcadia is fully pro-drop.
+Core roles may be omitted when recoverable from verbal morphology or discourse context.
 
-- _nivav._
-    - It's snowing.
+## Verbal Morphology
 
-- _pluvav._
-    - It's raining.
+Arcadia verbs encode grammatical information through a fixed suffix sequence.
 
-- _dormavi._:
-    - You're sleeping.
+The suffix template is:
 
-## Locative Verbs { #locative-verbs }
+**Root–T–M–A–P–N**
 
-Locative verbs **connect a subject to a predicate**, identifying or describing it (e.g., _"I am a doctor"_, _"The roses smell nice"_).
+Where:
 
-### Syntax
+- **T (Tense)**: single vowel
+- **M (Mood / Hypermood)**: one or two consonants
+- **A (Aspect)**: vowel–consonant pair, or ∅ for zero aspect
+- **P (Person)**: single vowel
+- **N (Number)**: zero or one consonant
 
-**Verb – Subject – Predicate**
+Each slot contains at most one morpheme.
+Zero aspect is expressed by the absence of the aspect slot.
 
-### Pivot
+Detailed paradigms are provided in:
 
-- The **predicate** takes the **predicative case**, agreeing in **number** with the subject.
-- The **subject is always in the nominative case** as it is the **only possible focus**.
+- [Mood][mood]
+- [Tense][tense]
+- [Aspect][aspect]
+- [Person][person]
 
-### Examples
+## Orientation and Role Selection
 
-- _save la portis sanguadhi._:
-    - The door is red.
+Arcadia uses **orientation prefixes** to select which role is treated as the pivot of the clause.
 
-- _save este dias lungi._:
-    - This day is long.
+The default pivot is defined by verb type.
+Orientation prefixes allow an alternative licensed role to become the pivot.
 
-## Possessive Verbs { #possessive-verbs }
+This mechanism:
 
-## Experiential Verbs { #experiential-verbs }
+- Avoids lexical verb pairs (e.g., buy/sell-type alternations)
+- Enables omission of non-pivot roles
+- Supports morphosyntactic alignment without duplicating roots
 
-Experiential verbs describe **preferences, sensations, or emotions** (e.g., _"I like apples"_, _"I feel cold"_, _"My foot itches"_).
-
-### Syntax
-
-**Verb – Experiencer – Stimulus**
-
-### Pivot
-
-- **Default focus:** **Experiencer**.
-- **Unfocused experiencer:** **Absolutive case**.
-- **Unfocused stimulus:** **Thematic case**.
-
-### Examples
-
-- _audavo las avisath._:
-    - I'm hearing the birds.
-
-## Cognitive Verbs { #cognitive-verbs }
-
-## Action Verbs { #action-verbs }
-
-Action verbs describe **physical or mental actions** (e.g., _"The birds are singing"_, _"I sold a book to Adam"_).
-
-### Syntax
-
-**Verb – Actor – Patient – Recipient**
-
-### Pivot
-
-- **Default focus:** **Actor**.
-- **Unfocused actor:** **Ergative case**.
-- **Unfocused patient:** **Accusative case**.
-- **Unfocused recipient:** **Dative case**.
-
-!!! note "Focus"
-
-    Focus can be omitted, particularly for the **first, second, and fourth persons**.
-
-### Examples
-
-- _saltove la pueris._:
-    - The child will jump.
-
-- _legavo la librion._:
-    - I'm reading the book.
-
-- _donivo la librion marial._:
-    - I'm giving the book to Maria.
-
-## Focus Shifting
-
-Arcadia allows **focus shifting** for experience and action verbs, achieved by modifying:
-
-1. **The case of the focused argument**.
-2. **The verb form**, as detailed in the **[verb generation guide][generation]**.
-
-!!! note "Valid Focus Shifts"
-
-    Apart from the basic focus, Arcadia allows following additional focus options:
-
-    -   **Stimulus** for experiential verbs
-    -   **Patient** for action verbs
-    -   **Recipient** for action verbs
-    -   **Instrument**
-    -   **Beneficiary**
+The full inventory and generation rules are defined in the **[verb generation guide][generation]**.
 
 ## Reflexivity and Reciprocity
 
-Arcadia uses **prefixes** to indicate **reflexive** and **reciprocal** actions.
-The reflexivity prefix is **applied first**, followed by the **focus-shifting prefix**, ensuring the reflexive element remains **closest to the verb root**.
+Arcadia uses prefixes to mark **reflexive** and **reciprocal** constructions.
 
-The full set of reflexive and reciprocal markers is detailed in the **[verb generation guide][generation]**.
+Prefix scope order is fixed:
+
+**Reflexive / Reciprocal → Orientation → (other derivational prefixes) → Root**
+
+The reflexive or reciprocal prefix is always closest to the verb root among prefixes.
+
+Full forms and combinatorial rules are described in the **[verb generation guide][generation]**.
 
 [mood]: ./mood.md
 [tense]: ./tense.md
 [aspect]: ./aspect.md
 [person]: ./person.md
+[type]: ./types.md
 [generation]: ../generation/verbs.md

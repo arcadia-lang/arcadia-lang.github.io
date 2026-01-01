@@ -1,7 +1,7 @@
-# Contributing to Arcadia
+# Contributing to Arcádia
 
-Thank you for your interest in contributing to Arcadia!
-We welcome contributions that align with Arcadia's linguistic framework and philosophy.
+Thank you for your interest in contributing to Arcádia!
+We welcome contributions that align with Arcádia's linguistic framework and philosophy.
 
 ## Guidelines for Contributions
 
@@ -16,7 +16,7 @@ We welcome contributions that align with Arcadia's linguistic framework and phil
 
 ### **2. Linguistic Contributions**
 
-- New **vocabulary** proposals must adhere to Arcadia's phonological rules.
+- New **vocabulary** proposals must adhere to Arcádia's phonological rules.
 - **Grammar** refinements should maintain consistency with existing syntax.
 
 ### **3. Technical Contributions**
@@ -54,13 +54,13 @@ When submitting a PR:
 
 - Provide a **clear description** of the changes.
 - Reference related issues using `Closes #issue-number`.
-- Ensure all updates adhere to Arcadia's linguistic framework.
+- Ensure all updates adhere to Arcádia's linguistic framework.
 
 For major contributions, **discussion in the issues tab is encouraged** before submission.
 
 ## Code of Conduct
 
-All contributors are expected to follow Arcadia's Code of Conduct.
+All contributors are expected to follow Arcádia's Code of Conduct.
 Please maintain respectful and constructive communication in all discussions and submissions.
 
 [mkdocs-material]: https://squidfunk.github.io/mkdocs-material/
