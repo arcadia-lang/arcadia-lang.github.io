@@ -1,93 +1,135 @@
 # Verbs
 
-In Arcadia, verb type determines sentence structure.
+In Arcádia, verb type determines sentence structure.
 The verb determines word order and conveys extensive grammatical information through **suffixes**, integrating **[mood][mood], [tense][tense], [aspect][aspect], and [person][person] distinctions**.
 
-Arcadia does not categorize verbs by **transitivity**; instead, it distinguishes five core **verb types**:
+Arcádia does not categorise verbs by **transitivity**.
+The best analogy to understand the distinction is to think of verb as **the director** of the sentence, orchestrating different _roles_ that the rest of the phrases can have in a sentence.
+Some of the roles are mandatory, while others are optional, depending on the verb type.
 
-- [Stative verbs](#stative-verbs)
-- [Possessive verbs](#possessive-verbs)
-- [Experiential verbs](#experiential-verbs)
-- [Cognitive verbs](#cognitive-verbs)
-- [Action verbs](#action-verbs)
+### Roles
+
+Before we dive into the verb types, here's a quick diagram of three different verbs.
+
+A verb describing **a transaction**:
+
+```mermaid
+graph TB
+  A@{ shape: circle, label: "**Action**<br/>_Bought_" }
+  subgraph participants
+    direction LR
+    C([**Recipient**<br/>_Mary_])
+    D([**Asset**<br/>_the ball_])
+    B([**Donor**<br/>_from John_])
+    E([**Compensation**<br/>_for a thousand pounds_])
+  end
+  A --> C
+  A --> D
+  A --> B
+  A --> E
+```
+
+A verb describing **an action**:
+
+```mermaid
+graph TB
+  A@{ shape: circle, label: "**Action**<br/>_Kicked_" }
+  subgraph participants
+    direction LR
+    B([**Agent**<br/>_Mary_])
+    C([**Patient**<br/>_the ball_])
+  end
+  A --> B
+  A --> C
+```
+
+A verb describing **a feeling**:
+
+```mermaid
+graph TB
+  A@{ shape: circle, label: "**Action**<br/>_Loves_" }
+  subgraph participants
+    direction LR
+    B([**Experiencer**<br/>_Maria_])
+    C([**Stimulus**<br/>_football_])
+  end
+  A --> B
+  A --> C
+```
+
+### Overloading
+
+One other other crucial idea is the idea of overloading.
+Let's consider the sentence:
+
+**I am transitioning from developer to a manager.**
+
+"To transition" is a **liminal verb**, therefore it has two mandatory roles to assign: **source** and **destination**.
+Let's now consider another liminal verb, to melt:
+
+**The ice is melting**.
+
+"To melt" is overloaded, meaning that it includes the source (_from solid_) and the destination (_to liquid_), and therefore the mandatory roles cannot be assigned.
+
+## Types
+
+Arcádia distinguishes four core **verb types**:
+
+- [Existential verbs](#existential-verbs)
+    - [Stative verbs](#stative-verbs)
+    - [Liminal verbs](#liminal-verbs)
+- [Relational verbs](#relational-verbs)
+    - [Relationship verbs](#relationship-verbs)
+    - [Transaction verbs](#transaction-verbs)
+- [Mental verbs](#mental-verbs)
+    - [Experiential verbs](#experiential-verbs)
+    - [Cognitive verbs](#cognitive-verbs)
+- [Agentive verbs](#agentive-verbs)
+
+In all verb types, the verb always comes **first** in the sentence structure, and is followed by its assigned roles.
+The **pivot** comes after the verb, then the other roles follow in any order, first the **mandatory** ones, and finally the **optional** ones.
 
 ## Stative verbs { #stative-verbs }
 
-Stative verbs describe **states**, **properties**, **locations**, **relationships**, **existence**, or **natural phenomena**.
-They can be either static (e.g., _"The sky is blue"_, _"My friend is sick"_, _"I am here"_) or mutating (e.g., _"The ice is melting"_, _"The flowers are blooming"_, _"The boy entered the classroom"_).
+Existential verbs are divided into two subtypes: **stative verbs** and **liminal verbs**.
 
-### Syntax
+### Stative verbs { #stative-verbs }
 
-For static stative verbs, the syntax is **Verb - Entity - State**.
-For mutating stative verbs, the syntax is **Verb - Entity - Origin - Destination**.
+Stative verbs describe **states**, **properties**, **movement**, **existence**, or **natural phenomena**, e.g., _"The sky is blue"_, _"My friend is sick"_, _"I am here"_, _"It's raining"_.
 
-### Case marking
+Stative verbs have two mandatory roles, the **entity** and the **state**.
+Stative verbs can be **totally overloaded**, meaning that they do not require any roles to be assigned, e.g., _"It is raining"_.
+In such cases, the verb **drops** all **personal and number markings**.
 
-- **Entity:** Absolutive case (optional, default pivot).
-- **State:** Locative case, agreeing in number with the entity.
-- **Source:** Allative case (optional).
-- **Result:** Ablative case (optional).
+### Liminal verbs { #liminal-verbs }
 
-### Pivot
+Liminal verbs describe **transitions** or **changes of state**, e.g., _"The ice is melting"_, _"The flowers are blooming"_, _"The boy entered the classroom"_.
 
-- The **entity** is the default pivot.
-- Verbs without an entity (predominantly the weather verbs), they may optionally lack a pivot, in which case, they **do not take personal suffixes**.
+Liminal verbs have three mandatory roles, the **entity**, the **origin** and the **destination**.
 
-### Examples
+## Relational verbs { #relational-verbs }
 
-- _nivav._:
-    - It's snowing.
+Relational verbs are divided into two subtypes: **relationship verbs** and **transaction verbs**.
 
-- _pluvav._:
-    - It's raining.
+## Relationship Verbs { #relationship-verbs }
 
-- _dormavi._:
-    - You're sleeping.
+Relationship verbs describe **relationships** or **possession**, e.g., _"I have a hand"_, _"I have a car"_, _"She is my sister"_.
 
-- _save la portis sanguadhi._:
-    - The door is red.
+Relationship verbs have three mandatory roles, the **relator**, the **correlate**, and the **relationship**.
+More often than not, relationship verbs are **relationship-overloaded**.
 
-- _save este dias lungi._:
-    - This day is long.
+## Transfer Verbs { #transfer-verbs }
 
-## Possessive Verbs { #possessive-verbs }
+Transfer verbs describe a **change of relationship** through giving, receiving, selling, buying,
 
-Possessive verbs describe **possession**, **trade**, or **transfer**.
-They can be either static (e.g., _"I have a hand"_, _"I have a car"_) or transfer (e.g., _"I gave her my book"_, _"I sold my car to John for money"_).
+## Experiential Verbs { #experiential-verbs }
 
-### Syntax
+or transfer (e.g., _"I gave her my book"_, _"I sold my car to John for money"_).
 
-The syntax is **Verb - Owner - Asset**.
-The syntax is **Verb - Donor - Recipient - Asset - Price**.
-
-### Case marking
-
-- **Owner:** Nominative case (default pivot).
-- **Possession:** Accusative case.
-- **Recipient:** Dative case (optional).
-- **Price:** Ablative case (optional).
-
-### Pivot
-
-- The **entity** is the default pivot.
-- Verbs without an entity (predominantly the weather verbs), they may optionally lack a pivot, in which case, they **do not take personal suffixes**.
-
-### Examples
-
-- _nivav._:
-    - It's snowing.
-
-- _pluvav._:
-    - It's raining.
-
-- _dormavi._:
-    - You're sleeping.
-
-- _save la portis sanguadhi._:
-    - The door is red.
-
-- _save este dias lungi._:
-    - This day is long.
+- **Donor**: Ergative
+- **Asset**: Absolutive
+- **Recipient**: Dative
+- **Compensation**: Benefactive
 
 ## Experiential Verbs { #experiential-verbs }
 
@@ -96,17 +138,6 @@ Experiential verbs describe **preferences, sensations, or emotions** (e.g., _"I 
 ### Syntax
 
 **Verb – Experiencer – Stimulus**
-
-### Pivot
-
-- **Default focus:** **Experiencer**.
-- **Unfocused experiencer:** **Absolutive case**.
-- **Unfocused stimulus:** **Thematic case**.
-
-### Examples
-
-- _audavo las avisath._:
-    - I'm hearing the birds.
 
 ## Cognitive Verbs { #cognitive-verbs }
 
@@ -124,54 +155,32 @@ Action verbs describe **actions**, **communication**, **interaction**, or **even
 
 **Verb – Actor – Patient – Recipient**
 
-### Pivot
+## Case Marking and Pivoting
 
-- **Default focus:** **Actor**.
-- **Unfocused actor:** **Ergative case**.
-- **Unfocused patient:** **Accusative case**.
-- **Unfocused recipient:** **Dative case**.
-
-!!! note "Focus"
-
-    Focus can be omitted, particularly for the **first, second, and fourth persons**.
-
-### Examples
-
-- _saltove la pueris._:
-    - The child will jump.
-
-- _legavo la librion._:
-    - I'm reading the book.
-
-- _donivo la librion marial._:
-    - I'm giving the book to Maria.
-
-## Focus Shifting
-
-Arcadia allows **focus shifting** for experience and action verbs, achieved by modifying:
-
-1. **The case of the focused argument**.
-2. **The verb form**, as detailed in the **[verb generation guide][generation]**.
-
-!!! note "Valid Focus Shifts"
-
-    Apart from the basic focus, Arcadia allows following additional focus options:
-
-    -   **Stimulus** for experiential verbs
-    -   **Patient** for action verbs
-    -   **Recipient** for action verbs
-    -   **Instrument**
-    -   **Beneficiary**
+| Type         | Role         | Case       | Is the default pivot? |
+| ------------ | ------------ | ---------- | --------------------- |
+| Stative      | Entity       |            | Yes                   |
+| Stative      | State        |            |                       |
+| Liminal      | Entity       |            | Yes                   |
+| Liminal      | Origin       | Ablative   |                       |
+| Liminal      | Destination  | Dative     |                       |
+| Relationship | Relator      | Ablative   | Yes                   |
+| Relationship | Correlate    | Accusative |                       |
+| Relationship | Relationship |            |                       |
+| Transfer     | Donor        | Ablative   | Yes                   |
+| Transfer     | Recipient    | Dative     |                       |
+| Transfer     | Asset        | Accusative |                       |
+| Transfer     | Compensation |            |                       |
+| Experiential | Experiencer  |            | Yes                   |
+| Experiential | Stimulus     | Thematic   |                       |
+| Cognitive    | Cogniser     |            | Yes                   |
+| Cognitive    | Concept      |            |                       |
+| Agentive     | Agent        | Ergative   | Yes                   |
+| Agentive     | Patient      |            |                       |
 
 ## Reflexivity and Reciprocity
 
-Arcadia uses **prefixes** to indicate **reflexive** and **reciprocal** actions.
+Arcádia uses **prefixes** to indicate **reflexive** and **reciprocal** actions.
 The reflexivity prefix is **applied first**, followed by the **focus-shifting prefix**, ensuring the reflexive element remains **closest to the verb root**.
 
 The full set of reflexive and reciprocal markers is detailed in the **[verb generation guide][generation]**.
-
-[mood]: ./mood.md
-[tense]: ./tense.md
-[aspect]: ./aspect.md
-[person]: ./person.md
-[generation]: ../generation/verbs.md
