@@ -21,7 +21,7 @@
       
       
       <link rel="icon" href="assets/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
     
     
       
@@ -29,7 +29,7 @@
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/main.618322db.min.css">
+      <link rel="stylesheet" href="assets/stylesheets/main.484c7ddc.min.css">
       
         
         <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
@@ -2838,7 +2838,7 @@ Its standard word order is <strong>Verb-Subject-Object (VSO)</strong>, emphasizi
 However, as a <strong>pro-drop language with case markings</strong>, word order may shift <strong>for emphasis</strong>.</p>
 <p>Arcadia follows the <strong>Austronesian alignment</strong>, but <strong>not purely</strong>; it incorporates elements from other <strong>alignment systems</strong> as well.</p>
 <h3 id="understanding-syntax-through-diagrams"><strong>Understanding Syntax through Diagrams</strong></h3>
-<p>Traditional <strong>nominative-accusative languages</strong> follow an asymmetric structure.
+<p>Traditional <strong>nominative-accusative languages</strong> follow an asymmetric syntax.
 In <strong>active voice</strong>, the <strong>subject</strong> is the main actor, the <strong>verb</strong> conveys action, the <strong>direct object</strong> receives the action, and the <strong>indirect object</strong> is the recipient.</p>
 <pre class="mermaid"><code>graph LR
   A([**Subject**&lt;br/&gt;_John_]) --&gt; B@{ shape: circle, label: "**Action**&lt;br/&gt;_gives_" }
@@ -2856,27 +2856,23 @@ In <strong>active voice</strong>, the <strong>subject</strong> is the main actor
   end
   B --&gt; recipients</code></pre>
 <h3 id="arcadias-symmetric-syntax"><strong>Arcadia's Symmetric Syntax</strong></h3>
-<p>Arcadia's syntax is <strong>symmetric</strong>, inspired by the <strong>Austronesian alignment</strong>.</p>
-<pre class="mermaid"><code>graph LR
+<p>Arcadia's syntax is <strong>symmetric</strong>, inspired by the <strong>Austronesian alignment</strong>. The <strong>verb</strong> remains the central focus, viewing everything else as <strong>roles</strong> assigned by it.</p>
+<pre class="mermaid"><code>graph TB
   B@{ shape: circle, label: "**Action**&lt;br/&gt;_gives_" }
   subgraph participants
-    direction TB
-    A([**Actor**&lt;br/&gt;_John_])
-    C([**Patient**&lt;br/&gt;_the ball_])
+    direction LR
+    A([**Donor**&lt;br/&gt;_John_])
+    C([**Asset**&lt;br/&gt;_the ball_])
     D([**Recipient**&lt;br/&gt;_to Mary_])
   end
   B --&gt; A
   B --&gt; C
   B --&gt; D</code></pre>
-<p>The <strong>actor, patient, and recipient</strong> can <strong>all</strong> act as the focus.</p>
-<div class="admonition note">
-<p class="admonition-title">Recipient</p>
-<p>The recipient here refers to the <strong>receiver of the patient</strong>, <strong>not the action</strong> itself.</p>
-</div>
+<p>The <strong>donor, asset, and recipient</strong> can <strong>all</strong> act as the focus.</p>
 <p>To fully understand Arcadia's <strong>case system</strong>, refer to the <strong><a href="nouns/case/">Noun Cases Guide</a></strong>.
 For verb transformations, see the <strong><a href="generation/verbs/">Verb Generation Guide</a></strong>.</p>
 <h2 id="subclauses">Subclauses</h2>
-<p>Arcadia allows an <strong>infinite number of nested subclauses</strong>, enabling highly expressive ideas.</p>
+<p>Arcádia allows an <strong>infinite number of nested subclauses</strong>, enabling highly expressive ideas.</p>
 <ul>
 <li>Subclauses use the <strong>indicative mood</strong>, meaning they <strong>retain their own subjects</strong>.</li>
 <li><strong>Tense is always relative</strong> to the <strong>narrator's perspective</strong>, ensuring seamless narrative progression.</li>
@@ -2976,10 +2972,10 @@ For verb transformations, see the <strong><a href="generation/verbs/">Verb Gener
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["content.code.annotate", "content.code.copy", "navigation.indexes", "navigation.instant", "navigation.instant.progress", "navigation.top", "navigation.tracking", "search", "search.suggest", "search.share"], "search": "assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["content.code.annotate", "content.code.copy", "navigation.indexes", "navigation.instant", "navigation.instant.progress", "navigation.top", "navigation.tracking", "search", "search.suggest", "search.share"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="assets/javascripts/bundle.e71a0d61.min.js"></script>
+      <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
       
     
   </body>
