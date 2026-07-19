@@ -1,0 +1,153 @@
+site_name: Arcadia
+docs_dir: ../docs
+site_dir: ../site
+
+repo_name: arcadia-lang
+repo_url: https://github.com/arcadia-lang/arcadia-lang.github.io
+
+nav:
+  - Home: 00_index.md
+  - Phonology:
+      - 01-phonology/00-index.md
+      - Orthography: 01-phonology/01-orthography.md
+      - Letters: 01-phonology/02-letters.md
+      - Punctuation: 01-phonology/03-punctuation.md
+      - Phonology: 01-phonology/04-phonology.md
+  - Vocabulary:
+      - 02-vocabulary/00-index.md
+      - Dictionary:
+          - 02-vocabulary/01-dictionary/00-index.md
+          - Nouns: 02-vocabulary/01-dictionary/01-nouns.md
+          - Verbs: 02-vocabulary/01-dictionary/02-verbs.md
+          - Adjectives: 02-vocabulary/01-dictionary/03-adjectives.md
+          - Colours: 02-vocabulary/01-dictionary/04-colours.md
+          - Questions: 02-vocabulary/01-dictionary/05-questions.md
+          - Connections: 02-vocabulary/01-dictionary/06-connections.md
+      - Word Formation:
+          - 02-vocabulary/02-word-formation/00-index.md
+          - Verbs: 02-vocabulary/02-word-formation/01-verbs.md
+          - Nouns: 02-vocabulary/02-word-formation/02-nouns.md
+  - Syntax:
+      - 03-syntax/00-index.md
+      - Conditionals:
+          - 03-syntax/01-conditionals/00-index.md
+          - Antecedent: 03-syntax/01-conditionals/01-antecedent.md
+          - Consequent: 03-syntax/01-conditionals/02-consequent.md
+      - Verb Types: 03-syntax/02-verb-types.md
+      - Prepositions: 03-syntax/03-prepositions.md
+      - Phrase Structure: 03-syntax/04-phrase-structure.md
+  - Grammar:
+      - 04-grammar/00-index.md
+      - Verbs:
+          - 04-grammar/01-verbs/00-index.md
+          - Person: 04-grammar/01-verbs/01-person.md
+          - Tense: 04-grammar/01-verbs/02-tense.md
+          - Aspect: 04-grammar/01-verbs/03-aspect.md
+          - Mood: 04-grammar/01-verbs/04-mood.md
+          - Conjugation tables: 04-grammar/01-verbs/05-conjugation.md
+      - Nouns:
+          - 04-grammar/02-nouns/00-index.md
+          - Gender: 04-grammar/02-nouns/01-gender.md
+          - Case: 04-grammar/02-nouns/02-case.md
+          - Number: 04-grammar/02-nouns/03-number.md
+          - Class: 04-grammar/02-nouns/04-class.md
+          - Declension tables: 04-grammar/02-nouns/05-declension.md
+      - Determiners:
+          - 04-grammar/03-determiners/00-index.md
+          - Articles: 04-grammar/03-determiners/01-articles.md
+          - Demonstratives: 04-grammar/03-determiners/02-demonstratives.md
+          - Interrogatives: 04-grammar/03-determiners/03-interrogatives.md
+          - Possessives: 04-grammar/03-determiners/04-possessives.md
+          - Quantifiers: 04-grammar/03-determiners/05-quantifiers.md
+          - Numerals: 04-grammar/03-determiners/06-numerals.md
+      - Pronouns:
+          - 04-grammar/04-pronouns/00-index.md
+          - Personal pronouns: 04-grammar/04-pronouns/01-personal.md
+          - Impersonal pronouns: 04-grammar/04-pronouns/02-impersonal.md
+      - Adjectives:
+          - 04-grammar/05-adjectives/00-index.md
+          - Degrees: 04-grammar/05-adjectives/01-degrees.md
+          - Intensification: 04-grammar/05-adjectives/02-intensification.md
+      - Adverbs:
+          - 04-grammar/06-adverbs/00-index.md
+          - Derived adverbs: 04-grammar/06-adverbs/01-derived.md
+      - Negation: 04-grammar/07-negation.md
+      - Replies: 04-grammar/08-replies.md
+  - Pragmatics:
+      - 05-pragmatics/00-index.md
+      - Examples:
+          - 05-pragmatics/01-examples/00-index.md
+          - A1 level examples:
+              - 05-pragmatics/01-examples/01-a1/00-index.md
+              - A walk by the river: 05-pragmatics/01-examples/01-a1/01-river.md
+              - A good day: 05-pragmatics/01-examples/01-a1/02-good_day.md
+              - My friend Maria: 05-pragmatics/01-examples/01-a1/03-maria.md
+          - A2 level examples:
+              - 05-pragmatics/01-examples/02-a2/00-index.md
+              - A typical day: 05-pragmatics/01-examples/02-a2/01-typical_day.md
+          - B1 level examples:
+              - 05-pragmatics/01-examples/03-b1/00-index.md
+              - Mika and the Moon: 05-pragmatics/01-examples/03-b1/01-moon_travel.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.snippets
+
+theme:
+  name: material
+  custom_dir: "../../overrides/"
+  language: en
+  logo: assets/images/logo.jpg
+  favicon: assets/images/favicon.ico
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - search
+    - search.suggest
+    - search.share
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  alternate:
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en

@@ -1,0 +1,4 @@
+# build artifacts
+.yamk/
+site/
+uv.lock
